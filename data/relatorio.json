@@ -1,6 +1,6 @@
 {
   "dataDisplay": "11/05/2026",
-  "geradoEm": "2026-05-12T19:43:01.016Z",
+  "geradoEm": "2026-05-12T20:01:11.778Z",
   "pvTotal": 214789,
   "pctMeta": 116,
   "metaHoje": 185019,
@@ -301,28 +301,43 @@
     ]
   },
   "analises": {
-    "resumo": "O portal superou a meta de 185.019 PVs com 214.789 visualizações, representando 116% de cumprimento (+29.770 PVs). O desempenho foi equilibrado entre manhã (71.667) e tarde (71.106), com leve queda noturna (53.310). Todas as metas intermediárias foram batidas, incluindo a checkpoint das 21h. O resultado consolida a tendência positiva de crescimento mensal de 44% versus o mesmo período do ano anterior.",
-    "horarios": ">>> Manhã (6h-11h) registrou 71.667 PVs, com checkpoint de 90.373 até 11h superando meta de 60.000\n>>> Tarde (12h-17h) manteve ritmo similar com 71.106 PVs, checkpoint de 161.479 até 17h batendo meta de 130.000  \n>>> Noite (18h-23h) apresentou desaceleração natural com 53.310 PVs\n>>> Checkpoint final das 21h alcançou 201.527 PVs, superando meta de 185.019 com folga de 16.508 PVs",
-    "padrao": ">>> Conteúdo tributário domina com 3 matérias no top 5, lideradas por restituição do IR (20.736 PVs)\n>>> Entretenimento se destaca com show de banda histórica em segundo lugar (7.780 PVs)\n>>> Matérias de serviço sobre INSS e prazos fiscais mantêm audiência consistente\n>>> Todas as top 5 são matérias antigas, indicando força do conteúdo evergreen",
-    "editorias": ">>> Polícia lidera eficiência com 1.129 PVs por matéria (7 publicações gerando 7.904 PVs)\n>>> Social apresenta boa performance com 956 PVs por matéria em apenas 2 publicações\n>>> Tempo mantém consistência com 1.003 PVs por matéria\n>>> Cotidiano atinge 562 PVs por matéria com 7 publicações\n>>> Economia subutilizada com apenas 124 PVs por matéria apesar de liderar PVs totais do dia",
-    "trafego": ">>> Google Orgânico (47%) e Direto (46%) dividem quase totalmente o tráfego com equilíbrio saudável\n>>> Redes sociais contribuem modestamente com 4%, indicando potencial subutilizado\n>>> Links externos representam apenas 2%, sugerindo baixo compartilhamento\n>>> Tráfego de e-mail praticamente inexistente (0%) mostra oportunidade perdida",
-    "eficiencia": "A produção de 92 matérias gerou média real de 402 PVs por conteúdo, com 88 matérias recebendo tráfego. Apenas 4 matérias ficaram sem acesso, representando taxa de aproveitamento de 96%. O conteúdo antigo mantém relevância gerando 177.810 PVs, demonstrando valor do acervo.",
-    "erros": ">>> Economia publicou apenas 4 matérias gerando baixíssima média de 124 PVs, desperdiçando potencial da editoria\n>>> Tráfego social de apenas 4% indica falhas na estratégia de redes sociais\n>>> Newsletter praticamente inexistente com 0% do tráfego vindo de e-mail\n>>> Período noturno com queda acentuada sugere falta de conteúdo direcionado para esse horário",
-    "oportunidades": ">>> Intensificar cobertura econômica aproveitando interesse por IR e benefícios sociais\n>>> Desenvolver estratégia robusta para redes sociais visando ampliar os 4% atuais\n>>> Implementar newsletter ativa para gerar tráfego recorrente via e-mail\n>>> Criar conteúdo específico para período noturno, aproveitando audiência disponível\n>>> Explorar potencial de links externos através de parcerias e guest posts",
-    "acoes": ">>> Publicar ao menos 8 matérias de economia focadas em IR, INSS e benefícios para atingir meta de 183.531\n>>> Programar 3 posts por rede social para cada matéria principal do dia\n>>> Enviar newsletter matinal destacando principais conteúdos de serviço\n>>> Agendar publicação de 2 matérias entre 19h-21h para sustentar audiência noturna\n>>> Priorizar SEO em títulos focando termos de alta busca relacionados a impostos e benefícios",
-    "metaacumulada": "A meta diária é calculada dinamicamente: (meta mensal de 6.000.000 - acumulado de 2.329.390) dividido pelos 20 dias restantes. Faltam 3.670.610 PVs para a meta mensal. A meta de amanhã (183.531) representa 3,1% da meta mensal restante, exigindo manutenção do ritmo atual para o cumprimento do objetivo.",
-    "historicodia": ">>> Performance 10% superior à média de mesmo dia da semana (195.558), confirmando crescimento sólido\n>>> Resultado supera média dos últimos 30 dias (193.086) em 11%, mantendo tendência ascendente",
-    "historicomes": ">>> Acumulado mensal 44% superior ao mesmo período do mês anterior (2.329.390 vs 1.613.703)\n>>> Projeção mensal baseada no ritmo atual indica possível superação da meta de 6.000.000 PVs",
-    "tendencia": "Tendência de crescimento consolidada com 16% de alta na média 30 dias versus período anterior. Melhor mês histórico foi julho/25 (13.625.154 PVs) e pior foi fevereiro/25 (4.527.477 PVs). O padrão atual sugere encaminhamento para um dos melhores meses do ano.",
-    "alerta": "\"Economia com apenas 124 PVs por matéria desperdiça o momento de alta demanda por conteúdo tributário e previdenciário.\"",
-    "licao": "O equilíbrio entre Google Orgânico (47%) e tráfego direto (46%) demonstra audiência fidelizada combinada com boa estratégia SEO. Matérias evergreen continuam gerando 83% do tráfego total, provando que \"conteúdo de qualidade tem vida longa e rentabilidade sustentável.\"",
-    "tendencias": ">>> TÍTULO: Vale alimentação e refeição 2026: novas regras e valores no ES\n    Editoria: economia\n    Ângulo local: Impacto das mudanças nos trabalhadores capixabas e empresas do estado\n    Por que vai performar: Trending topic com 2000+ buscas sobre benefícios trabalhistas\n    Tipo de conteúdo: Explicativo\n\n>>> TÍTULO: GTA 6: requisitos mínimos e quando chega ao Brasil\n    Editoria: cultura  \n    Ângulo local: Lojas de games em Vitória se preparam para lançamento do ano\n    Por que vai performar: 5000+ buscas pelo jogo mais aguardado de 2026\n    Tipo de conteúdo: Notícia\n\n>>> TÍTULO: Atlético Madrid hoje: onde assistir jogo contra Osasuna no ES\n    Editoria: cultura\n    Ângulo local: Bares e restaurantes de Vitória que transmitem futebol europeu  \n    Por que vai performar: 20.000+ buscas pelo jogo, maior trending do dia\n    Tipo de conteúdo: Serviço\n\n>>> TÍTULO: Brandon Clarke: causa da morte do ator choca fãs no mundo todo\n    Editoria: cultura\n    Ângulo local: Repercussão entre cinéfilos capixabas nas redes sociais\n    Por que vai performar: 200+ buscas sobre morte repentina gerando curiosidade\n    Tipo de conteúdo: Notícia\n\n>>> TÍTULO: Motorola Edge 70 Pro chega ao Brasil: preço e onde comprar no ES\n    Editoria: economia\n    Ângulo local: Lojas de eletrônicos em Vitória já recebem pré-vendas\n    Por que vai performar: 200+ buscas por lançamento de smartphone premium\n    Tipo de conteúdo: Serviço\n\n>>> TÍTULO: Southampton rebaixado: como time inglês pode afetar futebol brasileiro\n    Editoria: cultura\n    Ângulo local: Torcedores capixabas do time inglês lamentam queda\n    Por que vai performar: 1000+ buscas sobre rebaixamento histórico\n    Tipo de conteúdo: Análise\n\n>>> TÍTULO: Dor de ouvido: quando procurar médico e tratamentos no SUS do ES\n    Editoria: cotidiano\n    Ângulo local: Hospitais e UPAs de Vitória especializadas em otorrinolaringologia\n    Por que vai performar: 500+ buscas por \"orelha\" indicam problemas auditivos\n    Tipo de conteúdo: Serviço\n\n>>> TÍTULO: Novas leis 2026: o que muda para o cidadão capixaba este ano\n    Editoria: politica\n    Ângulo local: Legislação estadual e municipal que entra em vigor no ES\n    Por que vai performar: 500+ buscas por \"lei\" mostram interesse em mudanças legais\n    Tipo de conteúdo: Explicativo\n\n>>> TÍTULO: Iñigo Martínez: defensor do Barcelona pode interessar ao futebol brasileiro\n    Editoria: cultura  \n    Ângulo local: Possível interesse de times capixabas em jogadores espanhóis\n    Por que vai performar: 200+ buscas pelo jogador do Barcelona\n    Tipo de conteúdo: Notícia\n\n>>> TÍTULO: Restituição IR 2026: cronograma completo e como consultar no ES\n    Editoria: economia\n    Ângulo local: Receita Federal no ES orienta contribuintes capixabas\n    Por que vai performar: Matéria sobre IR já lidera audiência, tema permanece em alta\n    Tipo de conteúdo: Serviço"
+    "resumo": "Sábado com performance excepcional: 214.789 page views contra meta de 185.019, superação de 16% (+29.770 PVs). Todos os checkpoints foram batidos com folga, destacando-se a manhã com 71.667 PVs. O acumulado mensal chegou a 2.329.390 PVs, representando 38,8% da meta de 6 milhões. Crescimento de 44% comparado ao mesmo período do mês anterior demonstra tendência consistente de alta. Meta de amanhã ajustada para 183.531 PVs considera o bom desempenho acumulado.",
+    "horarios": ">>> Manhã dominou com 71.667 PVs (33% do total), consolidando padrão de audiência matinal forte\n>>> Tarde manteve ritmo similar com 71.106 PVs, mostrando engajamento constante ao longo do dia\n>>> Noite com 53.310 PVs, típico de sábados quando audiência naturalmente diminui\n>>> Checkpoint 11h: 90.373 vs meta 60.000 (50% acima)\n>>> Checkpoint 17h: 161.479 vs meta 130.000 (24% acima)\n>>> Checkpoint 21h: 201.527 vs meta final já superada",
+    "padrao": ">>> Domínio absoluto de matérias sobre Imposto de Renda no top 5, tema evergreen que sustenta tráfego\n>>> Conteúdo de serviço público (INSS, IR, benefícios) representa 4 das 5 matérias mais lidas\n>>> Única matéria de entretenimento no top 5 é sobre show gratuito em Vitória, mostrando força do ângulo local\n>>> Todas as top matérias são conteúdos antigos, indicando que arquivo está bem otimizado para SEO",
+    "editorias": ">>> Polícia lidera eficiência com 1.129 PVs/matéria, confirmando que hard news local gera engajamento\n>>> Social apresenta boa média de 956 PVs/matéria com apenas 2 publicações\n>>> Tempo mantém performance sólida com 1.003 PVs/matéria\n>>> Cotidiano atinge 562 PVs/matéria, bom desempenho para editoria diversificada\n>>> Cultura com 414 PVs/matéria, média satisfatória para 11 matérias publicadas\n>>> Política com 376 PVs/matéria para 11 matérias, dentro do esperado\n>>> Economia surpreende negativamente com apenas 124 PVs/matéria apesar do alto volume total da editoria",
+    "trafego": ">>> Google Orgânico (47%) e Direto (46%) praticamente empatados, indicando audiência fiel e boa otimização SEO\n>>> Redes sociais com apenas 4% demonstram dependência baixa de algoritmos externos\n>>> Tráfego direto alto suggestiona marca consolidada no Espírito Santo\n>>> Links externos com 2% mostram potencial para parcerias e guest posts\n>>> YouTube quase inexistente (0%) indica oportunidade perdida em vídeo",
+    "eficiencia": "Produção de 92 matérias gerou 36.979 PVs diretos, média real de 402 PVs por conteúdo novo. Taxa de aproveitamento de 95,7% com apenas 4 matérias sem acesso no dia. Volume de produção equilibrado para sábado, com foco em qualidade evidenciado pela baixa taxa de matérias sem engajamento.",
+    "erros": ">>> Economia publicou apenas 4 matérias e teve média baixíssima de 124 PVs/matéria, desperdiçando potencial da editoria\n>>> Ausência total de matérias trending nos temas em alta nacional (GTA6, Southampton, reforma da previdência)\n>>> Tráfego de YouTube praticamente zero mostra desconexão entre portal e canal de vídeo\n>>> Redes sociais com apenas 4% indicam estratégia de distribuição subutilizada",
+    "oportunidades": ">>> Economia tem 38.410 PVs totais mas produção nova fraca, editoria com potencial inexplorado\n>>> Trending topics nacionais completamente ignorados, oportunidade de surfer ondas virais\n>>> Tráfego direto de 46% indica audiência fiel que pode ser monetizada com newsletters e produtos\n>>> Matérias antigas sustentam 82% do tráfego, mostrando que arquivo SEO funciona e pode ser replicado\n>>> Polícia tem melhor média por matéria, modelo pode ser aplicado em outras editorias",
+    "acoes": ">>> Economia deve publicar ao menos 8 matérias focadas em IR e benefícios para aproveitar momento\n>>> Produzir matéria sobre GTA6 com ângulo local (lojas, gamers capixabas, lançamento)\n>>> Criar conteúdo sobre reforma da previdência com impacto no funcionalismo estadual\n>>> Republishing de top matérias antigas com atualizações para manter tráfego\n>>> Meta de 183.531 PVs exige foco em manhã e conteúdo evergreen",
+    "metaacumulada": "A meta dinâmica de 185.019 PVs foi calculada dividindo-se o restante da meta mensal (3.700.380 na sexta) pelos dias restantes incluindo sábado (20 dias). Com a superação de 29.770 PVs, sobram agora 3.670.610 PVs para atingir os 6 milhões mensais. A nova meta de domingo (183.531) representa exatamente essa divisão: restante da meta mensal pelos 20 dias que faltam. Esse sistema garante que metas diárias se ajustem automaticamente ao desempenho, sendo mais desafiadoras após dias ruins e mais suaves após dias excelentes.",
+    "historicodia": ">>> Hoje superou em 10% a média dos últimos 8 sábados (195.558), confirmando crescimento consistente\n>>> Performance 11% acima da média dos últimos 30 dias (193.086), indicando momento positivo\n>>> Tendência de alta sustentada há um mês, com padrão de crescimento sólido",
+    "historicomes": ">>> Acumulado mensal 44% superior ao mesmo período do mês anterior (2.329.390 vs 1.613.703)\n>>> Ritmo atual projeta fechamento entre 6,2 e 6,5 milhões de PVs no mês\n>>> Maio pode se tornar segundo melhor mês da história se mantiver crescimento",
+    "tendencia": "Tendência dos últimos 30 dias extremamente positiva com +16% comparado ao período anterior (193.086 vs 165.858). O melhor mês da história foi julho/25 com 13.625.154 PVs, enquanto fevereiro/25 marcou o pior resultado com 4.527.477. Maio caminha para ficar entre os três melhores meses já registrados.",
+    "alerta": "\"Economia desperdiça liderança em PVs totais com produção insuficiente de conteúdo novo, deixando migalhas para concorrência em temas de alto interesse.\"",
+    "licao": "Sábado prova que conteúdo evergreen bem otimizado sustenta audiência mesmo com produção menor. Matérias antigas respondem por 82% do tráfego, demonstrando que investimento em SEO e atualização de arquivo gera dividendos duradouros. A lição é clara: \"Produção inteligente supera volume quando se tem estratégia de longo prazo.\"",
+    "tendencias": ">>> GTA6: Capixabas na expectativa pelo game mais esperado da década\n--- Editoria: cultura\n--- Ângulo local: lojas de games em Vitória, gamers capixabas, eventos de lançamento\n--- Por que vai performar: 5000+ buscas no Google Trends, maior hype do gaming\n--- Tipo: Notícia\n\n>>> Southampton rebaixado: o que muda para brasileiros no clube\n--- Editoria: esportes\n--- Ângulo local: torcedores capixabas, bares que exibem Premier League\n--- Por que vai performar: 1000+ buscas, impacto no futebol inglês\n--- Tipo: Explicativo\n\n>>> Irmãos Batista da JBS: entenda o escândalo que abala o agronegócio\n--- Editoria: economia\n--- Ângulo local: fornecedores capixabas da JBS, impacto no setor local\n--- Por que vai performar: 200+ buscas, interesse em corrupção empresarial\n--- Tipo: Explicativo\n\n>>> Reforma da Previdência: como ficam os servidores do ES\n--- Editoria: politica\n--- Ângulo local: funcionalismo estadual e municipal capixaba\n--- Por que vai performar: 200+ buscas, tema sempre relevante\n--- Tipo: Serviço\n\n>>> Problemas de orelha: quando procurar atendimento no ES\n--- Editoria: cotidiano\n--- Ângulo local: hospitais e clínicas especializadas no estado\n--- Por que vai performar: 1000+ buscas, saúde é tema evergreen\n--- Tipo: Serviço\n\n>>> Nova lei que afeta capixabas entra em vigor esta semana\n--- Editoria: cotidiano\n--- Ângulo local: impacto direto na população do Espírito Santo\n--- Por que vai performar: 500+ buscas por \"lei\", interesse em mudanças\n--- Tipo: Notícia\n\n>>> Brandon Clarke: morte súbita de jovens atletas preocupa médicos do ES\n--- Editoria: esportes\n--- Ângulo local: cardiologistas capixabas, atletas locais\n--- Por que vai performar: 200+ buscas, morte de celebridade gera interesse\n--- Tipo: Explicativo\n\n>>> Motorola Edge 70 Pro: onde comprar em Vitória e região\n--- Editoria: cultura\n--- Ângulo local: lojas e preços na Grande Vitória\n--- Por que vai performar: 200+ buscas, lançamento de smartphone\n--- Tipo: Serviço\n\n>>> Iñigo Martínez no Barcelona: a revolução na defesa catalã\n--- Editoria: esportes\n--- Ângulo local: torcedores do Barça no ES, bares temáticos\n--- Por que vai performar: 200+ buscas, interesse em futebol europeu\n--- Tipo: Notícia\n\n>>> Osasuna x Atlético Madrid: onde assistir ao jogo na Grande Vitória\n--- Editoria: esportes\n--- Ângulo local: bares e estabelecimentos que exibem La Liga\n--- Por que vai performar: 200+ buscas, futebol espanhol tem público fiel\n--- Tipo: Lista"
   },
   "tendencias": [
+    {
+      "titulo": "irmãos batista jbs",
+      "trafico": "200+",
+      "contexto": "Além da carne: irmãos Batista, da JBS, são donos da Minuano e marcas que poucos conhecem"
+    },
+    {
+      "titulo": "reforma da previdência",
+      "trafico": "200+",
+      "contexto": "Incapacidade anterior à reforma dá aposentadoria pela regra antiga"
+    },
     {
       "titulo": "southampton",
       "trafico": "1000+",
       "contexto": "Southampton vs Middlesbrough LIVE: Championship live text commentary, stats &amp; head-to-head"
+    },
+    {
+      "titulo": "gta6",
+      "trafico": "5000+",
+      "contexto": "Trailer 3 vindo aí? E-mail da Sony usa GTA 6 para acelerar migração para o PS5"
     },
     {
       "titulo": "brandon clarke causa da morte",
@@ -336,7 +351,7 @@
     },
     {
       "titulo": "orelha",
-      "trafico": "500+",
+      "trafico": "1000+",
       "contexto": "Cão Orelha não morreu por agressão de adolescentes, e MP pede arquivamento"
     },
     {
@@ -350,24 +365,9 @@
       "contexto": "🤕 Hasta ocho bajas. La lista de Simeone para esta noche ante Osasuna"
     },
     {
-      "titulo": "vale alimentação e vale refeição",
-      "trafico": "2000+",
-      "contexto": "Abertura dos arranjos do PAT entra em nova fase nesta segunda-feira (11) — Ministério do Trabalho e "
-    },
-    {
       "titulo": "motorola edge 70 pro",
       "trafico": "200+",
       "contexto": "Motorola Edge 70 Pro chega ao Brasil com chip MediaTek, tela de 144 Hz e bateria gigante"
-    },
-    {
-      "titulo": "gta vi",
-      "trafico": "5000+",
-      "contexto": "Trailer 3 vindo aí? E-mail da Sony usa GTA 6 para acelerar migração para o PS5"
-    },
-    {
-      "titulo": "osasuna x atlético madrid",
-      "trafico": "20000+",
-      "contexto": "Osasuna x Atlético de Madrid pela La Liga: onde assistir ao vivo, horário e escalação"
     }
   ]
 }
