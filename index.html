@@ -266,7 +266,8 @@ function render(d){
     ['resumo','Resumo'],['numeros','Números'],['horarios','Horários'],['materias','Matérias'],
     ['editorias','Editorias'],['trafego','Tráfego'],['eficiencia','Eficiência'],['erros','Erros'],
     ['oportunidades','Oportunidades'],['acoes','Ações'],['meta','Meta'],
-    ['historico','Histórico'],['mensal','Mensal'],['licao','Lição']
+    ['historico','Histórico'],['mensal','Mensal'],['licao','Lição'],
+    ['tendencias','Tendências']
   ];
 
   // Data atual para o label de navegação
@@ -372,7 +373,24 @@ function render(d){
     +'<p style="font-size:10px;color:#bbb;margin-top:8px;">Meta mensal: '+fmt(d.metaMensal||6000000)+' PVs</p>'
     +'</div></div></div>'
 
-    +'<div style="text-align:center;font-size:11px;color:#bbb;margin-top:32px;">'
+    // 17. TENDÊNCIAS
+    +'<div class="section" id="sec-tendencias">'+sh(17,'Pautas Recomendadas — Google Trends Brasil','var(--pri)')+'<div class="section-body">'
+    +'<div style="background:var(--pri-lt);border-radius:6px;padding:8px 12px;margin:0 0 12px;font-size:11px;color:var(--pri);border-left:3px solid var(--pri);">'
+    +'Sugestões geradas com base nos trending topics do Google Brasil. Foco em audiência via Google Search e Discover.'
+    +'</div>'
+    +(function(){
+        var t=d.tendencias||[];
+        if(!t.length) return '<p style="color:#bbb;font-size:12px;">Dados do Google Trends não disponíveis para este dia.</p>';
+        return '<div style="font-size:12px;color:var(--gray3);margin-bottom:10px;">'+t.length+' tópicos em alta coletados hoje:</div>'
+          +'<div style="display:flex;flex-wrap:wrap;gap:6px;margin-bottom:14px;">'
+          +t.map(function(tp){return'<span style="background:var(--pri-lt);color:var(--pri);border:1px solid var(--pri-border);border-radius:12px;padding:3px 10px;font-size:11px;font-weight:600;">'
+            +tp.titulo+(tp.trafico?' <span style="font-weight:400;opacity:.7;">('+tp.trafico+')</span>':'')+'</span>';}).join('')
+          +'</div>';
+      })()
+    +'<div class="analysis">'+ra((a.tendencias||''))+'</div>'
+    +'</div></div>'
+
+    +'<div style="text-align:center;font-size:11px;color:#bbb;margin-top:32px;">''
     +'Gerado automaticamente · Google Analytics + Claude AI · Rede Vitória de Comunicação'
     +(gerado?' · '+gerado:'')
     +'</div></div>'; // .page
