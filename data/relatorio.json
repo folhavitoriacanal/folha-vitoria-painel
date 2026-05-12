@@ -1,12 +1,12 @@
 {
   "dataDisplay": "11/05/2026",
-  "geradoEm": "2026-05-12T17:56:29.150Z",
+  "geradoEm": "2026-05-12T18:12:15.384Z",
   "pvTotal": 214789,
-  "pctMeta": 32,
-  "metaHoje": 664097,
-  "metaAmanha": 664097,
-  "novoDeficit": 464097,
-  "deficitAcum": 464097,
+  "pctMeta": 116,
+  "metaHoje": 185019,
+  "metaAmanha": 183531,
+  "saldoOntem": 29770,
+  "deficitOntem": 0,
   "metaDiaria": 200000,
   "metaMensal": 6000000,
   "usuarios": 88124,
@@ -32,8 +32,8 @@
     {
       "label": "Até 21h",
       "pv": 201527,
-      "meta": 664097,
-      "status": "MUITO ABAIXO"
+      "meta": 185019,
+      "status": "META BATIDA"
     }
   ],
   "producao": {
@@ -295,20 +295,20 @@
     ]
   },
   "analises": {
-    "resumo": "O Folha Vitória registrou 214.789 page views em 11/05/2026, ficando muito abaixo da meta diária de 664.097 PVs, alcançando apenas 32% do objetivo. O déficit acumulado permanece em 464.097 PVs, mantendo a pressão sobre os próximos dias. Os períodos da manhã e tarde apresentaram desempenho equilibrado com mais de 71 mil PVs cada, enquanto a noite teve queda para 53.310 PVs. Apesar do déficit na meta diária, o resultado superou em 10% a média histórica do mesmo dia da semana, indicando crescimento orgânico da audiência.",
-    "horarios": ">>> Manhã (6h-11h): 71.667 PVs representaram 33% da audiência diária\n>>> Tarde (12h-17h): 71.106 PVs mantiveram ritmo similar ao matutino\n>>> Noite (18h-23h): 53.310 PVs mostraram queda de 25% em relação aos outros períodos\n>>> Checkpoint 11h: META BATIDA com 90.373 PVs contra meta de 60.000\n>>> Checkpoint 17h: META BATIDA com 161.479 PVs contra meta de 130.000\n>>> Checkpoint 21h: MUITO ABAIXO com 201.527 PVs contra meta de 664.097",
-    "padrao": ">>> Matérias sobre Imposto de Renda dominaram o top 5, com 3 posições e mais de 31 mil PVs combinados\n>>> Conteúdos de serviço público (restituição IR, pagamento INSS) mantêm alta demanda\n>>> Entretenimento aparece com show gratuito em Vitória, gerando 7.780 PVs\n>>> Todas as top matérias são antigas, indicando força do SEO em temas perenes\n>>> Assuntos financeiros e tributários concentram 60% da audiência das principais matérias",
-    "editorias": ">>> Economia liderou com 38.410 PVs distribuídos em 28 URLs, média de 1.372 PVs por matéria\n>>> Cultura ficou em segundo com 15.889 PVs em 56 URLs, média de 284 PVs por matéria\n>>> Polícia registrou 12.742 PVs em 43 URLs, média de 296 PVs por matéria\n>>> Cotidiano, política e social tiveram desempenho similar entre 6-8 mil PVs cada\n>>> Tempo teve menor volume com 5.526 PVs em apenas 7 URLs, mas média alta de 789 PVs por matéria",
-    "trafego": ">>> Google Orgânico e tráfego direto equilibrados com 47% e 46% respectivamente\n>>> Redes sociais representaram apenas 4% do tráfego, indicando baixa viralização\n>>> Tráfego externo por links ficou em 2%, mostrando pouca repercussão\n>>> YouTube praticamente inexistente com apenas 45 PVs\n>>> E-mail marketing com performance crítica de apenas 9 PVs",
-    "eficiencia": "Dados de sitemap indisponíveis impedem análise precisa da eficiência por matéria publicada. Com base nos dados de cruzamento por editoria, identificamos variação significativa na média de PVs por URL, desde 284 na cultura até 1.372 na economia. A falta de dados detalhados sobre matérias do dia versus arquivo histórico limita insights sobre performance do conteúdo recente. Recomenda-se urgente correção do sistema de monitoramento para próximos relatórios.",
-    "erros": ">>> Quedas de tráfego no período noturno comprometeram 25% da audiência potencial\n>>> Redes sociais com apenas 4% indicam falha na estratégia de distribuição\n>>> E-mail marketing praticamente inexistente com apenas 9 PVs\n>>> Ausência de matérias do dia no top 5 revela problemas na produção atual",
-    "oportunidades": ">>> Imposto de Renda continua gerando alta demanda - intensificar cobertura\n>>> Eventos culturais locais (como show gratuito) têm potencial de viralização\n>>> Período noturno pode ser melhor explorado com conteúdo específico\n>>> Editoria de tempo com alta média por matéria merece mais investimento\n>>> Tráfego direto forte (46%) indica audiência fiel para fidelização",
-    "acoes": ">>> Produzir série especial sobre IR 2026 com foco em dúvidas frequentes\n>>> Intensificar distribuição em redes sociais com meta de 10% do tráfego\n>>> Implementar estratégia específica para horário noturno (18h-23h)\n>>> Criar newsletter semanal para reativar canal de e-mail marketing\n>>> Corrigir sistema de sitemap para monitoramento preciso da eficiência",
-    "metaacumulada": "O déficit acumulado de 464.097 PVs se mantém estável, mas representa pressão significativa sobre os próximos dias. Para o mês, faltam 3.670.610 PVs em 20 dias, exigindo média de 183.531 PVs diários. A meta de amanhã permanece em 664.097 PVs, exigindo performance 209% superior ao resultado de hoje. O cenário demanda estratégias emergenciais para recuperação do ritmo.",
-    "historicodia": ">>> Resultado 10% superior à média de 8 semanas para o mesmo dia\n>>> Performance 11% acima da média dos últimos 30 dias (193.086 PVs)\n>>> Crescimento consistente indica tendência positiva da base de audiência",
-    "historicomes": ">>> Acumulado mensal de 2.329.390 PVs supera em 44% o mesmo período do mês anterior\n>>> Ritmo atual projeta fechamento do mês em torno de 6 milhões de PVs\n>>> Meta mensal ainda distante, mas crescimento mês a mês é evidente",
-    "tendencia": "A tendência dos últimos 30 dias mostra crescimento de 16% comparado ao período anterior, sinalizando recuperação consistente da audiência. O melhor mês da história foi julho/2025 com 13.625.154 PVs, enquanto o pior foi fevereiro/2025 com 4.527.477 PVs. A performance atual sugere que estamos no caminho certo, mas ainda distantes do potencial máximo demonstrado no meio do ano passado.",
-    "alerta": "\"Meta diária representa 309% do resultado de hoje - situação crítica que demanda ações emergenciais imediatas\"",
-    "licao": "O dia evidencia que nossa audiência orgânica está crescendo e consolidada, mas não conseguimos ainda traduzir esse potencial em picos de performance que atendam às metas ambiciosas estabelecidas. O forte tráfego direto e o crescimento histórico mostram base sólida, porém a estratégia de conteúdo viral e distribuição social precisa de revolução completa. \"Temos a audiência, mas falta a faísca que transforma potencial em resultado extraordinário.\""
+    "resumo": "O portal superou significativamente as expectativas no dia 11/05/2026, registrando 214.789 pageviews contra uma meta de 185.019, resultado 16% superior. A distribuição ao longo do dia foi equilibrada, com manhã e tarde praticamente empatadas (71.667 e 71.106 respectivamente), seguidas pela noite com 53.310 visualizações. Todas as metas intermediárias foram batidas com folga, demonstrando consistência na performance. O resultado representa importante contribuição para o cumprimento da meta mensal de 6 milhões de pageviews.",
+    "horarios": ">>> Manhã (6h-11h): 71.667 PVs, período de maior concentração de audiência\n>>> Tarde (12h-17h): 71.106 PVs, mantendo o ritmo matinal com pequena queda\n>>> Noite (18h-23h): 53.310 PVs, queda esperada no período noturno\n>>> Checkpoint 11h: 90.373 PVs (meta 60.000) - superação de 51%\n>>> Checkpoint 17h: 161.479 PVs (meta 130.000) - superação de 24%\n>>> Checkpoint 21h: 201.527 PVs (meta 185.019) - superação de 9%",
+    "padrao": ">>> Conteúdo de Imposto de Renda domina o ranking com 3 das 5 matérias mais acessadas\n>>> Matérias de economia e serviços públicos concentram 31.948 PVs apenas no top 5\n>>> Conteúdo de entretenimento aparece isolado com show gratuito em Vitória\n>>> Todas as matérias top são antigas, indicando força do SEO e conteúdo perene",
+    "editorias": ">>> Economia lidera com 38.410 PVs em apenas 28 URLs (média de 1.372 PVs/matéria)\n>>> Cultura em segundo com 15.889 PVs em 56 URLs (média de 284 PVs/matéria)\n>>> Polícia registra 12.742 PVs em 43 URLs (média de 296 PVs/matéria)\n>>> Cotidiano atinge 8.445 PVs em 39 URLs (média de 217 PVs/matéria)\n>>> Política, social e tempo somam 18.496 PVs em 50 URLs (média de 370 PVs/matéria)",
+    "trafego": ">>> Google Orgânico mantém liderança com 47% do tráfego (100.964 PVs)\n>>> Tráfego direto representa 46% (99.531 PVs), indicando fidelização da audiência\n>>> Redes sociais contribuem com apenas 4% (9.548 PVs), abaixo do potencial\n>>> Links externos somam 2% (3.442 PVs), oportunidade para parcerias\n>>> YouTube e e-mail marketing praticamente inexistentes (54 PVs combinados)",
+    "eficiencia": "Sem acesso ao sitemap, não foi possível calcular a eficiência média por matéria. A análise de performance individual das publicações fica comprometida, impedindo identificação de conteúdos de baixo rendimento. Recomenda-se urgente correção do sitemap para retomada do monitoramento detalhado.",
+    "erros": ">>> Sitemap indisponível compromete análise detalhada de eficiência\n>>> Tráfego de redes sociais em apenas 4%, muito abaixo do potencial\n>>> YouTube e e-mail marketing praticamente abandonados (54 PVs total)\n>>> Concentração excessiva em matérias antigas no top 5",
+    "oportunidades": ">>> Explorar mais conteúdo relacionado ao Imposto de Renda 2026, tema em alta\n>>> Desenvolver estratégia para redes sociais, que representa apenas 4% do tráfego\n>>> Criar newsletter e campanhas de e-mail marketing para engajamento\n>>> Produzir mais conteúdo de entretenimento e cultura local\n>>> Estabelecer parcerias para aumentar links externos",
+    "acoes": ">>> Corrigir urgentemente o sitemap para retomar monitoramento de eficiência\n>>> Criar 3 matérias sobre Imposto de Renda para capitalizar o interesse do público\n>>> Desenvolver campanha nas redes sociais para aumentar participação no tráfego\n>>> Produzir conteúdo local de entretenimento para diversificar o top 5\n>>> Implementar estratégia de e-mail marketing para fidelizar audiência (meta: 183.531 PVs)",
+    "metaacumulada": "A meta de 185.019 PVs foi calculada dividindo-se o restante da meta mensal pelos dias restantes incluindo ontem. Com o acumulado de 2.329.390 PVs, faltam 3.670.610 para atingir os 6 milhões mensais. A meta de amanhã de 183.531 representa a divisão do valor restante por 20 dias, exigindo performance consistente para manter o ritmo necessário ao cumprimento da meta mensal.",
+    "historicodia": ">>> Desempenho 10% superior à média do mesmo dia da semana nas últimas 8 semanas (195.558)\n>>> Resultado 11% acima da média dos últimos 30 dias (193.086)\n>>> Performance demonstra crescimento consistente e sustentável",
+    "historicomes": ">>> Acumulado mensal 44% superior ao mesmo período do mês anterior (1.613.703)\n>>> Projeção mensal baseada no ritmo atual indica possível superação da meta\n>>> Crescimento robusto evidencia maturidade da estratégia editorial",
+    "tendencia": "A tendência dos últimos 30 dias é positiva com crescimento de 16% comparado ao período anterior. O melhor mês da história foi julho/25 com 13.625.154 PVs, enquanto o pior foi fevereiro/25 com 4.527.477 PVs, demonstrando grande variabilidade sazonal no portal.",
+    "alerta": "\"A dependência de matérias antigas no top 5 pode indicar falta de conteúdo novo relevante para o público capixaba.\"",
+    "licao": "O dia demonstrou que temas de utilidade pública como Imposto de Renda mantêm relevância prolongada e geram tráfego consistente. A combinação equilibrada entre SEO forte e conteúdo perene sustenta a performance mesmo sem novidades editoriais. O tráfego direto próximo ao orgânico evidencia fidelização da audiência capixaba. \"Conteúdo útil é conteúdo que vende.\""
   }
 }
