@@ -1,0 +1,312 @@
+{
+  "dataDisplay": "05/05/2026",
+  "geradoEm": "2026-05-12T18:46:02.073Z",
+  "geradoRetroativamente": true,
+  "pvTotal": 315774,
+  "pctMeta": 165,
+  "metaHoje": 191646,
+  "metaAmanha": 186871,
+  "saldoOntem": 124128,
+  "deficitOntem": 0,
+  "metaDiaria": 200000,
+  "metaMensal": 6000000,
+  "usuarios": 174817,
+  "sessions": 221072,
+  "pgsPorSessao": "1.43",
+  "tempoMedio": "1min33s",
+  "pvManha": 96394,
+  "pvTarde": 102329,
+  "pvNoite": 89473,
+  "checkpoints": [
+    {
+      "label": "Até 11h",
+      "pv": 123972,
+      "meta": 60000,
+      "status": "META BATIDA"
+    },
+    {
+      "label": "Até 17h",
+      "pv": 226301,
+      "meta": 130000,
+      "status": "META BATIDA"
+    },
+    {
+      "label": "Até 21h",
+      "pv": 294364,
+      "meta": 191646,
+      "status": "META BATIDA"
+    }
+  ],
+  "producao": {
+    "disponivel": false
+  },
+  "topMaterias": [
+    {
+      "pos": 1,
+      "titulo": "Porte de arma pode ser ampliado para mais profissões; veja quais",
+      "pv": 84481,
+      "publicadaHoje": false
+    },
+    {
+      "pos": 2,
+      "titulo": "Porte de arma para novas profissões: veja quem pode ser afetado",
+      "pv": 28094,
+      "publicadaHoje": false
+    },
+    {
+      "pos": 3,
+      "titulo": "Prazo para entrega do Imposto de Renda 2026 mudou? Veja data",
+      "pv": 13822,
+      "publicadaHoje": false
+    },
+    {
+      "pos": 4,
+      "titulo": "Carteira de identidade Nacional é de graça e pode ser feito em casa no ES",
+      "pv": 12659,
+      "publicadaHoje": false
+    },
+    {
+      "pos": 5,
+      "titulo": "Vale abre cursos gratuitos com bolsa de até R$ 2,2 mil",
+      "pv": 5940,
+      "publicadaHoje": false
+    }
+  ],
+  "editorias": [
+    {
+      "nome": "politica",
+      "pvTotal": 115828,
+      "pvPublicadas": 0,
+      "publicadas": null,
+      "urlsAcessadas": 14,
+      "mediaCorreta": null
+    },
+    {
+      "nome": "cotidiano",
+      "pvTotal": 23228,
+      "pvPublicadas": 0,
+      "publicadas": null,
+      "urlsAcessadas": 16,
+      "mediaCorreta": null
+    },
+    {
+      "nome": "economia",
+      "pvTotal": 20174,
+      "pvPublicadas": 0,
+      "publicadas": null,
+      "urlsAcessadas": 16,
+      "mediaCorreta": null
+    },
+    {
+      "nome": "transito",
+      "pvTotal": 10547,
+      "pvPublicadas": 0,
+      "publicadas": null,
+      "urlsAcessadas": 17,
+      "mediaCorreta": null
+    },
+    {
+      "nome": "policia",
+      "pvTotal": 9255,
+      "pvPublicadas": 0,
+      "publicadas": null,
+      "urlsAcessadas": 21,
+      "mediaCorreta": null
+    },
+    {
+      "nome": "trabalho",
+      "pvTotal": 8856,
+      "pvPublicadas": 0,
+      "publicadas": null,
+      "urlsAcessadas": 8,
+      "mediaCorreta": null
+    },
+    {
+      "nome": "social",
+      "pvTotal": 6809,
+      "pvPublicadas": 0,
+      "publicadas": null,
+      "urlsAcessadas": 5,
+      "mediaCorreta": null
+    }
+  ],
+  "origens": [
+    {
+      "canal": "Direto",
+      "pv": 173384,
+      "pct": 55
+    },
+    {
+      "canal": "Google Orgânico",
+      "pv": 126445,
+      "pct": 40
+    },
+    {
+      "canal": "Social",
+      "pv": 11683,
+      "pct": 4
+    },
+    {
+      "canal": "Links externos",
+      "pv": 3493,
+      "pct": 1
+    },
+    {
+      "canal": "Não identificado",
+      "pv": 707,
+      "pct": 0
+    },
+    {
+      "canal": "YouTube",
+      "pv": 47,
+      "pct": 0
+    },
+    {
+      "canal": "E-mail",
+      "pv": 14,
+      "pct": 0
+    },
+    {
+      "canal": "Mobile Push Notifications",
+      "pv": 1,
+      "pct": 0
+    }
+  ],
+  "historico": {
+    "mediaMesmoDia": 0,
+    "varMesmoDia": 0,
+    "media30": 0,
+    "media30a": 0,
+    "var30": 0,
+    "pvMesAtualAcum": 1141358,
+    "pvMesAntMesmoPer": 0,
+    "varMesAnt": 0,
+    "diasRestantes": 26,
+    "pvFaltaMes": 4858642,
+    "mediaNecessaria": 186871,
+    "mediaMensal": 0,
+    "melhorMes": null,
+    "piorMes": null,
+    "mensal": [
+      {
+        "mes": "202501",
+        "pv": 7245874,
+        "label": "Jan/25",
+        "atual": false
+      },
+      {
+        "mes": "202502",
+        "pv": 4527477,
+        "label": "Fev/25",
+        "atual": false
+      },
+      {
+        "mes": "202503",
+        "pv": 5367201,
+        "label": "Mar/25",
+        "atual": false
+      },
+      {
+        "mes": "202504",
+        "pv": 6945113,
+        "label": "Abr/25",
+        "atual": false
+      },
+      {
+        "mes": "202505",
+        "pv": 6591733,
+        "label": "Mai/25",
+        "atual": false
+      },
+      {
+        "mes": "202506",
+        "pv": 11659575,
+        "label": "Jun/25",
+        "atual": false
+      },
+      {
+        "mes": "202507",
+        "pv": 13625154,
+        "label": "Jul/25",
+        "atual": false
+      },
+      {
+        "mes": "202508",
+        "pv": 10001619,
+        "label": "Ago/25",
+        "atual": false
+      },
+      {
+        "mes": "202509",
+        "pv": 6679985,
+        "label": "Set/25",
+        "atual": false
+      },
+      {
+        "mes": "202510",
+        "pv": 5336318,
+        "label": "Out/25",
+        "atual": false
+      },
+      {
+        "mes": "202511",
+        "pv": 4564202,
+        "label": "Nov/25",
+        "atual": false
+      },
+      {
+        "mes": "202512",
+        "pv": 5524739,
+        "label": "Dez/25",
+        "atual": false
+      },
+      {
+        "mes": "202601",
+        "pv": 4978658,
+        "label": "Jan/26",
+        "atual": false
+      },
+      {
+        "mes": "202602",
+        "pv": 6402972,
+        "label": "Fev/26",
+        "atual": false
+      },
+      {
+        "mes": "202603",
+        "pv": 5172054,
+        "label": "Mar/26",
+        "atual": false
+      },
+      {
+        "mes": "202604",
+        "pv": 5076878,
+        "label": "Abr/26",
+        "atual": false
+      },
+      {
+        "mes": "202605",
+        "pv": 1141358,
+        "label": "Mai/26",
+        "atual": true
+      }
+    ]
+  },
+  "analises": {
+    "resumo": "O Folha Vitória registrou um dia excepcional em 05/05/2026, alcançando 315.774 page views e superando em 65% a meta diária de 191.646 PVs. O portal atraiu 174.817 usuários únicos, demonstrando forte engajamento do público. A cobertura sobre porte de armas dominou completamente a audiência, com as duas principais matérias sobre o tema somando mais de 112 mil visualizações. Os checkpoints de 11h e 17h foram ultrapassados com folga, consolidando um domingo de alta performance.",
+    "horarios": "A distribuição de audiência apresentou equilíbrio saudável ao longo do dia, com ligeira concentração no período vespertino. O checkpoint das 11h atingiu 123.972 PVs contra meta de 60.000, representando 206% de cumprimento. O horário das 17h alcançou 226.301 PVs frente à meta de 130.000, totalizando 174% de performance.\n\n>>> Manhã: 96.394 PVs - início consistente\n>>> Tarde: 102.329 PVs - período mais forte\n>>> Noite: 89.473 PVs - manutenção da audiência",
+    "padrao": "As matérias de maior sucesso seguiram padrão claro de interesse público em temas práticos e normativos. O assunto porte de armas gerou engajamento massivo, ocupando as duas primeiras posições com abordagens complementares.\n\n>>> Temas práticos dominaram: porte de armas, imposto de renda, documentos\n>>> Assuntos de impacto direto na vida do leitor performaram melhor\n>>> Matérias sobre oportunidades profissionais geraram interesse moderado",
+    "editorias": "A editoria de política liderou com supremacia absoluta, concentrando 36% de toda a audiência do portal. As demais editorias mantiveram performance equilibrada dentro do esperado.\n\n>>> Política: 115.828 PVs - dominância absoluta com tema porte de armas\n>>> Cotidiano: 23.228 PVs - segunda colocação com temas práticos\n>>> Economia: 20.174 PVs - performance sólida com IR 2026",
+    "trafego": "O tráfego direto manteve liderança com 55%, evidenciando forte fidelização da audiência. O Google Orgânico contribuiu significativamente com 40%, demonstrando boa otimização SEO das matérias principais.\n\n>>> Tráfego direto: 55% - audiência fidelizada e marca consolidada\n>>> Google Orgânico: 40% - excelente performance em buscas\n>>> Redes sociais: 4% - oportunidade de crescimento identificada",
+    "eficiencia": "A eficiência editorial foi comprometida pela indisponibilidade do sitemap, impossibilitando análise precisa da relação produção versus audiência. Os dados disponíveis indicam alta concentração de tráfego em poucas matérias, sugerindo produção focada em temas de alto impacto.",
+    "erros": ">>> Sitemap indisponível impediu monitoramento completo da produção\n>>> Baixa performance das redes sociais com apenas 4% do tráfego\n>>> Concentração excessiva em uma única editoria pode gerar dependência temática",
+    "oportunidades": ">>> Ampliar cobertura sobre porte de armas com desdobramentos e análises especializadas\n>>> Investir em estratégias para redes sociais visando aumentar engajamento\n>>> Diversificar pautas de alto impacto em outras editorias além de política",
+    "acoes": ">>> Produzir matéria de acompanhamento sobre porte de armas explorando novos ângulos\n>>> Implementar plano de distribuição mais agressivo nas redes sociais\n>>> Verificar e corrigir problema técnico do sitemap para monitoramento adequado",
+    "metaacumulada": "",
+    "historicodia": "",
+    "historicomes": "",
+    "tendencia": "",
+    "alerta": "\"A dependência extrema de um único tema para atingir as metas pode representar risco de instabilidade editorial nos próximos dias.\"",
+    "licao": "O dia demonstrou que temas relacionados a direitos e mudanças legislativas geram interesse massivo do público capixaba. A abordagem prática e direta sobre assuntos que impactam a vida cotidiana dos leitores se mostrou altamente eficaz. A combinação entre relevância local e aplicabilidade imediata das informações criou o ambiente perfeito para engajamento. \"Conteúdo útil é conteúdo que viraliza naturalmente.\""
+  }
+}
