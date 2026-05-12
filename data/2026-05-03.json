@@ -1,0 +1,307 @@
+{
+  "dataDisplay": "03/05/2026",
+  "geradoEm": "2026-05-12T18:44:57.893Z",
+  "geradoRetroativamente": true,
+  "pvTotal": 218415,
+  "pctMeta": 111,
+  "metaHoje": 196226,
+  "metaAmanha": 195433,
+  "saldoOntem": 22189,
+  "deficitOntem": 0,
+  "metaDiaria": 200000,
+  "metaMensal": 6000000,
+  "usuarios": 108294,
+  "sessions": 142342,
+  "pgsPorSessao": "1.53",
+  "tempoMedio": "1min23s",
+  "pvManha": 44877,
+  "pvTarde": 56464,
+  "pvNoite": 99586,
+  "checkpoints": [
+    {
+      "label": "Até 11h",
+      "pv": 62365,
+      "meta": 60000,
+      "status": "META BATIDA"
+    },
+    {
+      "label": "Até 17h",
+      "pv": 118829,
+      "meta": 130000,
+      "status": "PERTO DA META"
+    },
+    {
+      "label": "Até 21h",
+      "pv": 190177,
+      "meta": 196226,
+      "status": "PERTO DA META"
+    }
+  ],
+  "producao": {
+    "disponivel": false
+  },
+  "topMaterias": [
+    {
+      "pos": 1,
+      "titulo": "Porte de arma pode ser ampliado para mais profissões; veja quais",
+      "pv": 53265,
+      "publicadaHoje": false
+    },
+    {
+      "pos": 2,
+      "titulo": "Motoristas são flagrados dirigindo a mais de 130 km/h na BR-101",
+      "pv": 13179,
+      "publicadaHoje": false
+    },
+    {
+      "pos": 3,
+      "titulo": "Pix limitado a R$ 200: nova regra trava pagamentos no celular",
+      "pv": 9019,
+      "publicadaHoje": false
+    },
+    {
+      "pos": 4,
+      "titulo": "Sergio Sarkis comemora 90 anos em alto estilo, à beira-mar",
+      "pv": 5630,
+      "publicadaHoje": false
+    },
+    {
+      "pos": 5,
+      "titulo": "Melhores bicicletas elétricas 2026: 5 modelos em alta",
+      "pv": 3370,
+      "publicadaHoje": false
+    }
+  ],
+  "editorias": [
+    {
+      "nome": "politica",
+      "pvTotal": 57904,
+      "pvPublicadas": 0,
+      "publicadas": null,
+      "urlsAcessadas": 15,
+      "mediaCorreta": null
+    },
+    {
+      "nome": "transito",
+      "pvTotal": 20538,
+      "pvPublicadas": 0,
+      "publicadas": null,
+      "urlsAcessadas": 19,
+      "mediaCorreta": null
+    },
+    {
+      "nome": "economia",
+      "pvTotal": 12194,
+      "pvPublicadas": 0,
+      "publicadas": null,
+      "urlsAcessadas": 11,
+      "mediaCorreta": null
+    },
+    {
+      "nome": "policia",
+      "pvTotal": 9807,
+      "pvPublicadas": 0,
+      "publicadas": null,
+      "urlsAcessadas": 27,
+      "mediaCorreta": null
+    },
+    {
+      "nome": "beleza",
+      "pvTotal": 9487,
+      "pvPublicadas": 0,
+      "publicadas": null,
+      "urlsAcessadas": 15,
+      "mediaCorreta": null
+    },
+    {
+      "nome": "social",
+      "pvTotal": 7534,
+      "pvPublicadas": 0,
+      "publicadas": null,
+      "urlsAcessadas": 8,
+      "mediaCorreta": null
+    },
+    {
+      "nome": "cotidiano",
+      "pvTotal": 7241,
+      "pvPublicadas": 0,
+      "publicadas": null,
+      "urlsAcessadas": 10,
+      "mediaCorreta": null
+    }
+  ],
+  "origens": [
+    {
+      "canal": "Direto",
+      "pv": 123642,
+      "pct": 57
+    },
+    {
+      "canal": "Google Orgânico",
+      "pv": 81677,
+      "pct": 37
+    },
+    {
+      "canal": "Social",
+      "pv": 9722,
+      "pct": 4
+    },
+    {
+      "canal": "Links externos",
+      "pv": 2829,
+      "pct": 1
+    },
+    {
+      "canal": "Não identificado",
+      "pv": 480,
+      "pct": 0
+    },
+    {
+      "canal": "YouTube",
+      "pv": 58,
+      "pct": 0
+    },
+    {
+      "canal": "E-mail",
+      "pv": 7,
+      "pct": 0
+    }
+  ],
+  "historico": {
+    "mediaMesmoDia": 0,
+    "varMesmoDia": 0,
+    "media30": 0,
+    "media30a": 0,
+    "var30": 0,
+    "pvMesAtualAcum": 527877,
+    "pvMesAntMesmoPer": 0,
+    "varMesAnt": 0,
+    "diasRestantes": 28,
+    "pvFaltaMes": 5472123,
+    "mediaNecessaria": 195433,
+    "mediaMensal": 0,
+    "melhorMes": null,
+    "piorMes": null,
+    "mensal": [
+      {
+        "mes": "202501",
+        "pv": 7245874,
+        "label": "Jan/25",
+        "atual": false
+      },
+      {
+        "mes": "202502",
+        "pv": 4527477,
+        "label": "Fev/25",
+        "atual": false
+      },
+      {
+        "mes": "202503",
+        "pv": 5367201,
+        "label": "Mar/25",
+        "atual": false
+      },
+      {
+        "mes": "202504",
+        "pv": 6945113,
+        "label": "Abr/25",
+        "atual": false
+      },
+      {
+        "mes": "202505",
+        "pv": 6591733,
+        "label": "Mai/25",
+        "atual": false
+      },
+      {
+        "mes": "202506",
+        "pv": 11659575,
+        "label": "Jun/25",
+        "atual": false
+      },
+      {
+        "mes": "202507",
+        "pv": 13625154,
+        "label": "Jul/25",
+        "atual": false
+      },
+      {
+        "mes": "202508",
+        "pv": 10001619,
+        "label": "Ago/25",
+        "atual": false
+      },
+      {
+        "mes": "202509",
+        "pv": 6679985,
+        "label": "Set/25",
+        "atual": false
+      },
+      {
+        "mes": "202510",
+        "pv": 5336318,
+        "label": "Out/25",
+        "atual": false
+      },
+      {
+        "mes": "202511",
+        "pv": 4564202,
+        "label": "Nov/25",
+        "atual": false
+      },
+      {
+        "mes": "202512",
+        "pv": 5524739,
+        "label": "Dez/25",
+        "atual": false
+      },
+      {
+        "mes": "202601",
+        "pv": 4978658,
+        "label": "Jan/26",
+        "atual": false
+      },
+      {
+        "mes": "202602",
+        "pv": 6402972,
+        "label": "Fev/26",
+        "atual": false
+      },
+      {
+        "mes": "202603",
+        "pv": 5172054,
+        "label": "Mar/26",
+        "atual": false
+      },
+      {
+        "mes": "202604",
+        "pv": 5076878,
+        "label": "Abr/26",
+        "atual": false
+      },
+      {
+        "mes": "202605",
+        "pv": 527877,
+        "label": "Mai/26",
+        "atual": true
+      }
+    ]
+  },
+  "analises": {
+    "resumo": "O Folha Vitória registrou excelente performance no dia 03/05/2026, superando a meta em 11% com 218.415 page views contra 196.226 projetados. O período noturno concentrou 45,5% do tráfego total, demonstrando forte engajamento vespertino. A editoria de política dominou a audiência com 26,5% dos acessos, liderada pela matéria sobre porte de armas que sozinha representou 24,4% do tráfego diário. O tráfego direto manteve-se robusto em 57%, indicando fidelização consolidada da audiência.",
+    "horarios": "O período noturno foi o grande destaque com 99.586 PVs, representando quase metade da audiência diária e confirmando o hábito de consumo vespertino dos leitores capixabas. A tarde registrou 56.464 PVs com performance sólida, enquanto a manhã alcançou 44.877 PVs em ritmo esperado para o período.\n\n>>> Checkpoint das 11h atingiu 62.365 PVs, superando a meta de 60.000 em 4%\n>>> Checkpoint das 17h registrou 118.829 PVs, ficando 8,6% abaixo da meta de 130.000\n>>> Período noturno compensou déficit vespertino com crescimento exponencial",
+    "padrao": "As matérias de maior sucesso demonstram clara preferência por temas de impacto direto na vida dos leitores, especialmente questões de segurança pública e regulamentações governamentais.\n\n>>> Matéria líder sobre porte de armas capturou 53.265 PVs, evidenciando interesse em políticas de segurança\n>>> Trânsito na BR-101 gerou 13.179 PVs, confirmando apelo de conteúdo de mobilidade urbana\n>>> Regulamentação do Pix alcançou 9.019 PVs, mostrando demanda por orientação financeira",
+    "editorias": "A editoria de política demonstrou supremacia absoluta, concentrando mais de um quarto de toda a audiência diária com eficiência exemplar.\n\n>>> Política liderou com 57.904 PVs (26,5% do total), impulsionada por temas regulatórios\n>>> Trânsito obteve 20.538 PVs (9,4%), mantendo relevância constante\n>>> Economia registrou 12.194 PVs (5,6%), performance adequada para o segmento\n>>> Demais editorias (polícia, beleza, social, cotidiano) somaram 33.769 PVs",
+    "trafego": "O tráfego direto mantém posição dominante, sinalizando base sólida de leitores habituais, enquanto o Google Orgânico sustenta participação robusta na aquisição de novos usuários.\n\n>>> Tráfego direto consolidado em 57%, indicando marca forte e hábito de acesso\n>>> Google Orgânico contribuiu com 37%, demonstrando boa otimização SEO\n>>> Redes sociais representaram apenas 4%, sinalizando potencial subutilizado\n>>> Outras fontes somaram 2%, dentro da normalidade esperada",
+    "eficiencia": "A ausência do sitemap comprometeu o monitoramento detalhado da produção, impossibilitando análise precisa da relação entre volume de conteúdo publicado e performance de audiência. Esta lacuna técnica representa vulnerabilidade operacional significativa para otimização editorial.",
+    "erros": ">>> Checkpoint das 17h perdeu 11.171 PVs da meta, indicando necessidade de reforço no período vespertino\n>>> Sitemap indisponível compromete análise de produtividade e planejamento editorial estratégico\n>>> Tráfego de redes sociais em apenas 4% revela subaproveitamento de canais de distribuição importantes",
+    "oportunidades": ">>> Expandir cobertura política aproveitando alta demanda demonstrada pela editoria líder\n>>> Intensificar estratégia de redes sociais para capturar audiência além do tráfego orgânico tradicional\n>>> Desenvolver mais conteúdos sobre regulamentações governamentais que impactam o cidadão comum",
+    "acoes": ">>> Programar matérias de alta relevância para publicação entre 15h-17h visando atingir meta do checkpoint vespertino\n>>> Solicitar correção urgente do sitemap para restabelecer monitoramento de produção editorial\n>>> Implementar campanha de impulsionamento em redes sociais para matérias de maior potencial viral",
+    "metaacumulada": "",
+    "historicodia": "",
+    "historicomes": "",
+    "tendencia": "",
+    "alerta": "\"A dependência excessiva de uma única matéria para sustentar a performance diária representa risco de volatilidade na audiência.\"",
+    "licao": "O sucesso do dia confirma que conteúdos sobre regulamentações e políticas públicas que afetam diretamente o cotidiano dos capixabas geram engajamento excepcional. A matéria sobre porte de armas demonstrou como temas de segurança pública mobilizam a audiência de forma contundente. \"Política pública bem explicada é audiência garantida.\""
+  }
+}
