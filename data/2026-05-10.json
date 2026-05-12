@@ -1,0 +1,313 @@
+{
+  "dataDisplay": "10/05/2026",
+  "geradoEm": "2026-05-12T18:50:23.554Z",
+  "geradoRetroativamente": true,
+  "pvTotal": 161928,
+  "pctMeta": 88,
+  "metaHoje": 183970,
+  "metaAmanha": 185019,
+  "saldoOntem": -22042,
+  "deficitOntem": 22042,
+  "metaDiaria": 200000,
+  "metaMensal": 6000000,
+  "usuarios": 68226,
+  "sessions": 93775,
+  "pgsPorSessao": "1.73",
+  "tempoMedio": "1min45s",
+  "pvManha": 40825,
+  "pvTarde": 51280,
+  "pvNoite": 51251,
+  "checkpoints": [
+    {
+      "label": "Até 11h",
+      "pv": 59397,
+      "meta": 60000,
+      "status": "PERTO DA META"
+    },
+    {
+      "label": "Até 17h",
+      "pv": 110677,
+      "meta": 130000,
+      "status": "PERTO DA META"
+    },
+    {
+      "label": "Até 21h",
+      "pv": 148027,
+      "meta": 183970,
+      "status": "ABAIXO"
+    }
+  ],
+  "producao": {
+    "disponivel": true,
+    "totalPublicadas": 15,
+    "pvPublicadas": 7714,
+    "mediaRealPorMateria": 514,
+    "materiasComAcesso": 14,
+    "materiasSemAcesso": 1,
+    "pvAntigos": 154214
+  },
+  "topMaterias": [
+    {
+      "pos": 1,
+      "titulo": "Onda de frio derruba temperatura no ES; instituto alerta para chuva",
+      "pv": 8983,
+      "publicadaHoje": false
+    },
+    {
+      "pos": 2,
+      "titulo": "INSS: veja quando será o pagamento da segunda parcela do 13º",
+      "pv": 8146,
+      "publicadaHoje": false
+    },
+    {
+      "pos": 3,
+      "titulo": "Imposto de Renda: até que idade os idosos precisam declarar?",
+      "pv": 4877,
+      "publicadaHoje": false
+    },
+    {
+      "pos": 4,
+      "titulo": "Libertadores de Beach Soccer: Vasco x Sampaio Corrêa na final",
+      "pv": 4848,
+      "publicadaHoje": false
+    },
+    {
+      "pos": 5,
+      "titulo": "Porte de arma pode ser ampliado para mais profissões; veja quais",
+      "pv": 3861,
+      "publicadaHoje": false
+    }
+  ],
+  "editorias": [
+    {
+      "nome": "economia",
+      "pvTotal": 17035,
+      "pvPublicadas": 1064,
+      "publicadas": 2,
+      "urlsAcessadas": 14,
+      "mediaCorreta": 532
+    },
+    {
+      "nome": "cultura",
+      "pvTotal": 14100,
+      "pvPublicadas": 3126,
+      "publicadas": 1,
+      "urlsAcessadas": 21,
+      "mediaCorreta": 3126
+    },
+    {
+      "nome": "esportes",
+      "pvTotal": 9699,
+      "pvPublicadas": 961,
+      "publicadas": 2,
+      "urlsAcessadas": 18,
+      "mediaCorreta": 481
+    },
+    {
+      "nome": "tempo",
+      "pvTotal": 9320,
+      "pvPublicadas": 0,
+      "publicadas": null,
+      "urlsAcessadas": 2,
+      "mediaCorreta": null
+    },
+    {
+      "nome": "cotidiano",
+      "pvTotal": 8672,
+      "pvPublicadas": 615,
+      "publicadas": 3,
+      "urlsAcessadas": 21,
+      "mediaCorreta": 205
+    },
+    {
+      "nome": "policia",
+      "pvTotal": 6359,
+      "pvPublicadas": 1413,
+      "publicadas": 2,
+      "urlsAcessadas": 22,
+      "mediaCorreta": 707
+    },
+    {
+      "nome": "social",
+      "pvTotal": 6219,
+      "pvPublicadas": 0,
+      "publicadas": null,
+      "urlsAcessadas": 8,
+      "mediaCorreta": null
+    }
+  ],
+  "origens": [
+    {
+      "canal": "Direto",
+      "pv": 87964,
+      "pct": 54
+    },
+    {
+      "canal": "Google Orgânico",
+      "pv": 65436,
+      "pct": 40
+    },
+    {
+      "canal": "Social",
+      "pv": 6338,
+      "pct": 4
+    },
+    {
+      "canal": "Links externos",
+      "pv": 1910,
+      "pct": 1
+    },
+    {
+      "canal": "Não identificado",
+      "pv": 255,
+      "pct": 0
+    },
+    {
+      "canal": "YouTube",
+      "pv": 23,
+      "pct": 0
+    },
+    {
+      "canal": "E-mail",
+      "pv": 2,
+      "pct": 0
+    }
+  ],
+  "historico": {
+    "mediaMesmoDia": 0,
+    "varMesmoDia": 0,
+    "media30": 0,
+    "media30a": 0,
+    "var30": 0,
+    "pvMesAtualAcum": 2114601,
+    "pvMesAntMesmoPer": 0,
+    "varMesAnt": 0,
+    "diasRestantes": 21,
+    "pvFaltaMes": 3885399,
+    "mediaNecessaria": 185019,
+    "mediaMensal": 0,
+    "melhorMes": null,
+    "piorMes": null,
+    "mensal": [
+      {
+        "mes": "202501",
+        "pv": 7245874,
+        "label": "Jan/25",
+        "atual": false
+      },
+      {
+        "mes": "202502",
+        "pv": 4527477,
+        "label": "Fev/25",
+        "atual": false
+      },
+      {
+        "mes": "202503",
+        "pv": 5367201,
+        "label": "Mar/25",
+        "atual": false
+      },
+      {
+        "mes": "202504",
+        "pv": 6945113,
+        "label": "Abr/25",
+        "atual": false
+      },
+      {
+        "mes": "202505",
+        "pv": 6591733,
+        "label": "Mai/25",
+        "atual": false
+      },
+      {
+        "mes": "202506",
+        "pv": 11659575,
+        "label": "Jun/25",
+        "atual": false
+      },
+      {
+        "mes": "202507",
+        "pv": 13625154,
+        "label": "Jul/25",
+        "atual": false
+      },
+      {
+        "mes": "202508",
+        "pv": 10001619,
+        "label": "Ago/25",
+        "atual": false
+      },
+      {
+        "mes": "202509",
+        "pv": 6679985,
+        "label": "Set/25",
+        "atual": false
+      },
+      {
+        "mes": "202510",
+        "pv": 5336318,
+        "label": "Out/25",
+        "atual": false
+      },
+      {
+        "mes": "202511",
+        "pv": 4564202,
+        "label": "Nov/25",
+        "atual": false
+      },
+      {
+        "mes": "202512",
+        "pv": 5524739,
+        "label": "Dez/25",
+        "atual": false
+      },
+      {
+        "mes": "202601",
+        "pv": 4978658,
+        "label": "Jan/26",
+        "atual": false
+      },
+      {
+        "mes": "202602",
+        "pv": 6402972,
+        "label": "Fev/26",
+        "atual": false
+      },
+      {
+        "mes": "202603",
+        "pv": 5172054,
+        "label": "Mar/26",
+        "atual": false
+      },
+      {
+        "mes": "202604",
+        "pv": 5076878,
+        "label": "Abr/26",
+        "atual": false
+      },
+      {
+        "mes": "202605",
+        "pv": 2114601,
+        "label": "Mai/26",
+        "atual": true
+      }
+    ]
+  },
+  "analises": {
+    "resumo": "O Folha Vitória registrou 161.928 page views em 10/05/2026, alcançando 88% da meta diária de 183.970. Com 68.226 usuários únicos e 15 matérias publicadas, o portal manteve performance sólida mesmo ficando abaixo do objetivo. A onda de frio no Espírito Santo dominou a audiência, seguida por temas previdenciários e tributários. O período da tarde e noite apresentaram equilíbrio no engajamento, enquanto a manhã ficou mais baixa.",
+    "horarios": "A manhã registrou 40.825 PVs, representando o período de menor audiência do dia, sugerindo necessidade de conteúdo mais atrativo no período matinal. A tarde alcançou 51.280 PVs e a noite 51.251 PVs, demonstrando equilíbrio entre os turnos vespertino e noturno. \n\n>>> O checkpoint das 11h atingiu 59.397 PVs de uma meta de 60.000, ficando apenas 1% abaixo do esperado\n>>> O checkpoint das 17h registrou 110.677 PVs contra meta de 130.000, apresentando déficit de 15%\n>>> A distribuição horária indica que o público mantém engajamento constante entre tarde e noite",
+    "padrao": "As matérias de maior audiência seguem padrão claro de interesse público e utilidade prática para o leitor capixaba.\n\n>>> Meteorologia e alertas climáticos lideram com forte apelo local (8.983 PVs)\n>>> Temas previdenciários e tributários garantem audiência sólida e duradoura\n>>> Esportes regionais e competições específicas geram engajamento considerável\n>>> Conteúdo de serviço público sobre direitos e benefícios mantém performance estável",
+    "editorias": "A editoria de Economia liderou em audiência total com 17.035 PVs em apenas 2 publicações, resultando em média excepcional de 532 PVs por matéria.\n\n>>> Cultura surpreendeu com 14.100 PVs em 1 única publicação, atingindo média impressionante de 3.126 PVs\n>>> Esportes produziu 9.699 PVs com 2 matérias, mantendo média de 481 PVs por conteúdo\n>>> Cotidiano apresentou baixa eficiência com 3 publicações gerando apenas 205 PVs de média cada\n>>> Polícia demonstrou boa conversão com 2 matérias alcançando média de 707 PVs cada",
+    "trafego": "O tráfego direto dominou com 54% das visitas, indicando forte fidelização da audiência e reconhecimento da marca.\n\n>>> Google Orgânico contribuiu com 40%, demonstrando boa otimização SEO e relevância das pautas\n>>> Redes sociais representaram apenas 4%, sinalizando potencial subaproveitado dessas plataformas\n>>> Links externos, YouTube e e-mail marketing apresentaram participação marginal no tráfego total",
+    "eficiencia": "Com 15 matérias publicadas gerando 161.928 PVs, o portal alcançou média de 10.795 PVs por conteúdo, performance superior à média individual de 514 PVs. A diferença indica que algumas matérias tiveram performance muito acima da média, compensando conteúdos de menor audiência. A eficiência produtiva se mostrou satisfatória considerando a diversidade editorial.",
+    "erros": ">>> Baixa performance das redes sociais indica falha na estratégia de distribuição social\n>>> Checkpoint das 17h ficou 15% abaixo da meta, sugerindo problemas no planejamento vespertino\n>>> Editoria de Cotidiano apresentou eficiência muito baixa com média de apenas 205 PVs por matéria",
+    "oportunidades": ">>> Potencializar conteúdo meteorológico e de alertas climáticos que demonstrou forte apelo\n>>> Intensificar estratégia de redes sociais para ampliar os atuais 4% de participação no tráfego\n>>> Replicar o modelo de sucesso da editoria de Cultura em outras áreas editoriais",
+    "acoes": ">>> Programar mais conteúdo de serviço público no período matinal para elevar a audiência\n>>> Desenvolver estratégia específica para redes sociais com foco em engajamento\n>>> Revisar pauta de Cotidiano priorizando temas de maior interesse público",
+    "metaacumulada": "",
+    "historicodia": "",
+    "historicomes": "",
+    "tendencia": "",
+    "alerta": "\"Meta diária não atingida pelo terceiro dia consecutivo - necessário ajuste imediato na estratégia editorial\"",
+    "licao": "Conteúdo climático e de utilidade pública continuam sendo os pilares da audiência do Folha Vitória. A matéria sobre onda de frio comprova que temas locais com impacto direto no cotidiano dos capixabas garantem alta performance. A lição reforça que \"informação útil e proximidade regional são a fórmula certeira para audiência\"."
+  }
+}
