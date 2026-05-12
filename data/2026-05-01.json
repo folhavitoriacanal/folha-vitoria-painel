@@ -1,0 +1,307 @@
+{
+  "dataDisplay": "01/05/2026",
+  "geradoEm": "2026-05-12T18:43:42.844Z",
+  "geradoRetroativamente": true,
+  "pvTotal": 161658,
+  "pctMeta": 84,
+  "metaHoje": 193549,
+  "metaAmanha": 194612,
+  "saldoOntem": -31891,
+  "deficitOntem": 31891,
+  "metaDiaria": 200000,
+  "metaMensal": 6000000,
+  "usuarios": 65840,
+  "sessions": 92700,
+  "pgsPorSessao": "1.74",
+  "tempoMedio": "1min58s",
+  "pvManha": 44512,
+  "pvTarde": 51099,
+  "pvNoite": 47171,
+  "checkpoints": [
+    {
+      "label": "Até 11h",
+      "pv": 63388,
+      "meta": 60000,
+      "status": "META BATIDA"
+    },
+    {
+      "label": "Até 17h",
+      "pv": 114487,
+      "meta": 130000,
+      "status": "PERTO DA META"
+    },
+    {
+      "label": "Até 21h",
+      "pv": 149461,
+      "meta": 193549,
+      "status": "ABAIXO"
+    }
+  ],
+  "producao": {
+    "disponivel": false
+  },
+  "topMaterias": [
+    {
+      "pos": 1,
+      "titulo": "Até quando vai o calor no ES? Frente fria já tem data para chegar",
+      "pv": 6813,
+      "publicadaHoje": false
+    },
+    {
+      "pos": 2,
+      "titulo": "Em alta! 10 inspirações de unhas para o Dia das Mães 2026",
+      "pv": 5041,
+      "publicadaHoje": false
+    },
+    {
+      "pos": 3,
+      "titulo": "Nivea da lata azul: 3 formas de usar o creme na rotina",
+      "pv": 4990,
+      "publicadaHoje": false
+    },
+    {
+      "pos": 4,
+      "titulo": "Trânsito em Cariacica muda neste sábado; veja vias interditadas",
+      "pv": 4605,
+      "publicadaHoje": false
+    },
+    {
+      "pos": 5,
+      "titulo": "Melhores bicicletas elétricas 2026: 5 modelos em alta",
+      "pv": 3270,
+      "publicadaHoje": false
+    }
+  ],
+  "editorias": [
+    {
+      "nome": "policia",
+      "pvTotal": 16786,
+      "pvPublicadas": 0,
+      "publicadas": null,
+      "urlsAcessadas": 38,
+      "mediaCorreta": null
+    },
+    {
+      "nome": "beleza",
+      "pvTotal": 15828,
+      "pvPublicadas": 0,
+      "publicadas": null,
+      "urlsAcessadas": 16,
+      "mediaCorreta": null
+    },
+    {
+      "nome": "cotidiano",
+      "pvTotal": 12020,
+      "pvPublicadas": 0,
+      "publicadas": null,
+      "urlsAcessadas": 13,
+      "mediaCorreta": null
+    },
+    {
+      "nome": "transito",
+      "pvTotal": 10450,
+      "pvPublicadas": 0,
+      "publicadas": null,
+      "urlsAcessadas": 11,
+      "mediaCorreta": null
+    },
+    {
+      "nome": "tempo",
+      "pvTotal": 6995,
+      "pvPublicadas": 0,
+      "publicadas": null,
+      "urlsAcessadas": 4,
+      "mediaCorreta": null
+    },
+    {
+      "nome": "trabalho",
+      "pvTotal": 4650,
+      "pvPublicadas": 0,
+      "publicadas": null,
+      "urlsAcessadas": 8,
+      "mediaCorreta": null
+    },
+    {
+      "nome": "economia",
+      "pvTotal": 3699,
+      "pvPublicadas": 0,
+      "publicadas": null,
+      "urlsAcessadas": 14,
+      "mediaCorreta": null
+    }
+  ],
+  "origens": [
+    {
+      "canal": "Direto",
+      "pv": 84444,
+      "pct": 52
+    },
+    {
+      "canal": "Google Orgânico",
+      "pv": 66179,
+      "pct": 41
+    },
+    {
+      "canal": "Social",
+      "pv": 8414,
+      "pct": 5
+    },
+    {
+      "canal": "Links externos",
+      "pv": 2173,
+      "pct": 1
+    },
+    {
+      "canal": "Não identificado",
+      "pv": 383,
+      "pct": 0
+    },
+    {
+      "canal": "YouTube",
+      "pv": 50,
+      "pct": 0
+    },
+    {
+      "canal": "E-mail",
+      "pv": 15,
+      "pct": 0
+    }
+  ],
+  "historico": {
+    "mediaMesmoDia": 0,
+    "varMesmoDia": 0,
+    "media30": 0,
+    "media30a": 0,
+    "var30": 0,
+    "pvMesAtualAcum": 161658,
+    "pvMesAntMesmoPer": 0,
+    "varMesAnt": 0,
+    "diasRestantes": 30,
+    "pvFaltaMes": 5838342,
+    "mediaNecessaria": 194612,
+    "mediaMensal": 0,
+    "melhorMes": null,
+    "piorMes": null,
+    "mensal": [
+      {
+        "mes": "202501",
+        "pv": 7245874,
+        "label": "Jan/25",
+        "atual": false
+      },
+      {
+        "mes": "202502",
+        "pv": 4527477,
+        "label": "Fev/25",
+        "atual": false
+      },
+      {
+        "mes": "202503",
+        "pv": 5367201,
+        "label": "Mar/25",
+        "atual": false
+      },
+      {
+        "mes": "202504",
+        "pv": 6945113,
+        "label": "Abr/25",
+        "atual": false
+      },
+      {
+        "mes": "202505",
+        "pv": 6591733,
+        "label": "Mai/25",
+        "atual": false
+      },
+      {
+        "mes": "202506",
+        "pv": 11659575,
+        "label": "Jun/25",
+        "atual": false
+      },
+      {
+        "mes": "202507",
+        "pv": 13625154,
+        "label": "Jul/25",
+        "atual": false
+      },
+      {
+        "mes": "202508",
+        "pv": 10001619,
+        "label": "Ago/25",
+        "atual": false
+      },
+      {
+        "mes": "202509",
+        "pv": 6679985,
+        "label": "Set/25",
+        "atual": false
+      },
+      {
+        "mes": "202510",
+        "pv": 5336318,
+        "label": "Out/25",
+        "atual": false
+      },
+      {
+        "mes": "202511",
+        "pv": 4564202,
+        "label": "Nov/25",
+        "atual": false
+      },
+      {
+        "mes": "202512",
+        "pv": 5524739,
+        "label": "Dez/25",
+        "atual": false
+      },
+      {
+        "mes": "202601",
+        "pv": 4978658,
+        "label": "Jan/26",
+        "atual": false
+      },
+      {
+        "mes": "202602",
+        "pv": 6402972,
+        "label": "Fev/26",
+        "atual": false
+      },
+      {
+        "mes": "202603",
+        "pv": 5172054,
+        "label": "Mar/26",
+        "atual": false
+      },
+      {
+        "mes": "202604",
+        "pv": 5076878,
+        "label": "Abr/26",
+        "atual": false
+      },
+      {
+        "mes": "202605",
+        "pv": 161658,
+        "label": "Mai/26",
+        "atual": true
+      }
+    ]
+  },
+  "analises": {
+    "resumo": "O Folha Vitória registrou 161.658 page views em 01/05/2026, alcançando 84% da meta diária estabelecida em 193.549 PVs. O desempenho ficou aquém do esperado com déficit de 31.891 visualizações. O site atraiu 65.840 usuários únicos ao longo do dia. A distribuição de tráfego mostrou equilíbrio entre os três turnos, com ligeira vantagem para o período vespertino.",
+    "horarios": "A manhã iniciou com 44.512 PVs, representando o menor volume do dia mas dentro do esperado para o período matutino. O período da tarde liderou com 51.099 PVs, concentrando o maior engajamento dos leitores. A noite fechou com 47.171 PVs, mantendo um ritmo consistente de audiência.\n\n>>> Checkpoint das 11h atingiu 63.388 PVs contra meta de 60.000, superando em 5,6%\n>>> Checkpoint das 17h registrou 114.487 PVs contra meta de 130.000, déficit de 11,9%\n>>> Perda significativa de ritmo no segundo checkpoint comprometeu o resultado final",
+    "padrao": "As matérias de maior sucesso revelam um padrão claro de interesse do público capixaba por conteúdos práticos e de utilidade pública.\n\n>>> Previsão do tempo dominou com 6.813 PVs, confirmando alta demanda por informações meteorológicas\n>>> Conteúdos de beleza e lifestyle ocuparam posições estratégicas no ranking\n>>> Matérias de trânsito e mobilidade urbana mantiveram relevância significativa\n>>> Formato de listas numeradas (\"10 inspirações\", \"3 formas\", \"5 modelos\") demonstrou alta conversão",
+    "editorias": "A editoria de polícia liderou o desempenho com 16.786 PVs, consolidando-se como principal driver de audiência. Beleza surpreendeu positivamente com 15.828 PVs, impulsionada pelo Dia das Mães.\n\n>>> Polícia: 16.786 PVs - 10,4% do total, confirmando apelo noticioso\n>>> Beleza: 15.828 PVs - 9,8% do total, beneficiada pela data comemorativa  \n>>> Cotidiano: 12.020 PVs - 7,4% do total, base sólida de interesse\n>>> Trânsito: 10.450 PVs - 6,5% do total, demanda constante por informação útil\n>>> Tempo: 6.995 PVs - 4,3% do total, concentrada em uma matéria principal",
+    "trafego": "O tráfego direto manteve domínio absoluto com 52% das visitas, demonstrando fidelização da audiência. O Google Orgânico contribuiu significativamente com 41% do volume total.\n\n>>> Tráfego direto (52%) indica marca consolidada e hábito de consumo estabelecido\n>>> Google Orgânico (41%) mostra boa performance em SEO e descoberta de conteúdo\n>>> Redes sociais (5%) apresentam potencial subaproveitado para amplificação\n>>> Outras fontes somam apenas 2%, indicando necessidade de diversificação",
+    "eficiencia": "A produção enfrentou limitações técnicas críticas com a indisponibilidade do sitemap, comprometendo a indexação e descoberta de conteúdos. Apesar das dificuldades operacionais, o site conseguiu manter cinco matérias no top de audiência com performance acima de 3.000 PVs cada. A relação produção versus audiência sugere necessidade de otimização na estratégia de conteúdo.",
+    "erros": ">>> Sitemap indisponível prejudicou indexação e potencial orgânico das matérias\n>>> Meta das 17h não atingida por margem significativa de 15.513 PVs\n>>> Baixa participação das redes sociais (5%) indica falha na estratégia de distribuição",
+    "oportunidades": ">>> Explorar melhor o Dia das Mães com mais conteúdos de beleza e lifestyle\n>>> Amplificar matérias de alta performance nas redes sociais para maximizar alcance\n>>> Investir em conteúdos de previsão do tempo como diferencial competitivo",
+    "acoes": ">>> Priorizar correção técnica do sitemap para recuperar indexação completa\n>>> Intensificar produção de conteúdos segmentados para Dia das Mães\n>>> Implementar estratégia de impulsionamento social para matérias de alto potencial",
+    "metaacumulada": "",
+    "historicodia": "",
+    "historicomes": "",
+    "tendencia": "",
+    "alerta": "\"Meta diária comprometida por falhas técnicas e baixo aproveitamento das redes sociais exige ação imediata.\"",
+    "licao": "O Dia das Mães revelou-se uma oportunidade valiosa para conteúdos de beleza e lifestyle, enquanto temas de utilidade pública como tempo e trânsito mantiveram sua força tradicional. A lição principal é que datas comemorativas amplificam editorias específicas e devem ser exploradas estrategicamente. \"Conteúdo útil combinado com timing sazonal gera audiência exponencial.\""
+  }
+}
