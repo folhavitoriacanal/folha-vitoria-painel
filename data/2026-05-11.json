@@ -1,6 +1,6 @@
 {
   "dataDisplay": "11/05/2026",
-  "geradoEm": "2026-05-12T18:52:05.209Z",
+  "geradoEm": "2026-05-12T19:01:40.473Z",
   "pvTotal": 214789,
   "pctMeta": 116,
   "metaHoje": 185019,
@@ -301,20 +301,72 @@
     ]
   },
   "analises": {
-    "resumo": "O dia 11 de maio foi excepcional, com 214.789 page views superando em 16% a meta de 185.019, resultado que nos coloca +29.770 acima do esperado. A distribuição foi equilibrada entre manhã (71.667) e tarde (71.106), com a noite mais moderada (53.310). Todas as metas intermediárias foram batidas, demonstrando consistência ao longo do dia. O desempenho representa 44% acima do mesmo período do mês anterior, indicando forte crescimento na audiência.",
-    "horarios": ">>> Manhã dominou com 71.667 PVs, período que historicamente funciona melhor para nosso público\n>>> Tarde manteve o ritmo com 71.106 PVs, mostrando engajamento sustentado durante o horário comercial\n>>> Noite apresentou 53.310 PVs, queda natural mas ainda dentro do esperado para o período\n>>> Checkpoint das 11h: 90.373 PVs bateram os 60.000 da meta com folga de 50%\n>>> Checkpoint das 17h: 161.479 PVs superaram os 130.000 necessários\n>>> Checkpoint das 21h: 201.527 PVs garantiram a meta diária antes mesmo do fechamento",
-    "padrao": ">>> Imposto de Renda domina completamente o ranking com 3 das 5 primeiras posições\n>>> Matérias de serviço público (IR, INSS) representam 4 das 5 tops, somando 36.948 PVs\n>>> Conteúdo evergreen demonstra força: todas as tops são matérias antigas ainda gerando tráfego\n>>> Show gratuito em Vitória aparece como única exceção cultural entre as mais acessadas\n>>> Padrão confirma que público busca informações práticas sobre tributos e benefícios",
-    "editorias": ">>> Polícia lidera em eficiência com média de 1.129 PVs por matéria publicada ontem\n>>> Social impressiona com 956 PVs de média, apesar de apenas 2 matérias publicadas\n>>> Tempo mantém boa performance com 1.003 PVs por matéria, confirmando interesse em previsão\n>>> Cotidiano atinge 562 PVs de média, mostrando engajamento com temas do dia a dia\n>>> Cultura alcança 414 PVs de média com 11 matérias, volume equilibrado\n>>> Política registra 376 PVs de média, performance regular para a editoria\n>>> Economia decepciona com apenas 124 PVs de média, apesar do tema IR estar em alta",
-    "trafego": ">>> Google Orgânico e Direto praticamente empatados (47% vs 46%), indicando audiência fiel e boa otimização\n>>> Social representa apenas 4% do tráfego, sinalizando oportunidade perdida de engajamento\n>>> Links externos com 2% mostram pouca repercussão de nosso conteúdo em outros sites\n>>> YouTube praticamente inexistente com 45 PVs, canal subutilizado para direcionamento\n>>> E-mail marketing com apenas 9 PVs evidencia total abandono desta ferramenta",
-    "eficiencia": "A produção de 92 matérias ontem gerou 36.979 PVs, resultando em média real de 402 PVs por conteúdo. Apenas 4 matérias ficaram sem nenhum acesso, representando taxa de sucesso de 96%. O restante do tráfego (177.810 PVs) veio de matérias antigas, demonstrando que nosso arquivo continua trabalhando e gerando audiência consistente.",
-    "erros": ">>> Economia com média de apenas 124 PVs desperdiça o momento favorável do Imposto de Renda\n>>> Social media subutilizada, gerando apenas 4% do tráfego total do dia\n>>> E-mail marketing completamente abandonado com apenas 9 PVs em todo o dia\n>>> YouTube ignorado como fonte de tráfego, perdendo oportunidade de diversificação",
-    "oportunidades": ">>> Explorar mais conteúdo sobre Imposto de Renda, já que domina o ranking de acessos\n>>> Investir em matérias de polícia, que apresentam a melhor média de performance\n>>> Desenvolver estratégia para redes sociais, aumentando os atuais 4% de participação\n>>> Reativar campanhas de e-mail marketing para recuperar esta fonte de tráfego\n>>> Criar mais conteúdo evergreen que continue gerando audiência ao longo do tempo",
-    "acoes": ">>> Publicar pelo menos 3 matérias sobre IR para aproveitar o interesse do público (meta: 183.531)\n>>> Priorizar conteúdo policial na pauta, já que apresenta melhor conversão de audiência\n>>> Intensificar posts nas redes sociais para aumentar a participação além dos 4% atuais\n>>> Focar na manhã e tarde, períodos que juntos somaram 142.773 PVs ontem\n>>> Monitorar de perto os checkpoints, especialmente o das 11h que tem potencial de 90.000+ PVs",
-    "metaacumulada": "A meta dinâmica funciona dividindo o que falta para atingir os 6 milhões mensais pelos dias restantes. Ontem precisávamos de 185.019 PVs calculados como: (6.000.000 - 2.299.620 acumulado até anteontem) ÷ 20 dias restantes incluindo ontem. Agora faltam 3.670.610 PVs para a meta mensal, divididos por 20 dias restantes, resultando em meta de 183.531 para amanhã. Cada dia que superamos a meta reduz a pressão dos dias seguintes.",
-    "historicodia": ">>> Hoje superou em 10% a média do mesmo dia da semana das últimas 8 semanas (214.789 vs 195.558)\n>>> Performance 11% acima da média dos últimos 30 dias, confirmando tendência de crescimento\n>>> Resultado consistente com o padrão recente de audiência elevada do portal",
-    "historicomes": ">>> Acumulado mensal de 2.329.390 representa crescimento de 44% sobre mesmo período do mês anterior\n>>> Projeção indica que podemos atingir cerca de 6.450.000 PVs no mês se mantivermos o ritmo atual\n>>> Caminhamos para superar a meta mensal de 6 milhões, precisando manter média de 183.531 por dia",
-    "tendencia": "A tendência dos últimos 30 dias mostra crescimento de 16% comparado ao período anterior (193.086 vs 165.858), indicando recuperação consistente da audiência. Nosso melhor mês foi julho de 2025 com 13.625.154 PVs, enquanto o pior foi fevereiro de 2025 com 4.527.477 PVs, demonstrando nossa capacidade de atingir patamares elevados quando tudo funciona bem.",
-    "alerta": "\"A economia está desperdiçando o momento do Imposto de Renda, com média de apenas 124 PVs por matéria enquanto o tema domina o ranking geral de acessos.\"",
-    "licao": "O dia confirma que conteúdo de serviço público, especialmente sobre Imposto de Renda, é o que mais engaja nosso público neste momento. A força das matérias antigas no ranking demonstra a importância de produzir conteúdo evergreen que continue trabalhando por meses. A distribuição equilibrada entre manhã e tarde, com todas as metas intermediárias batidas, mostra que quando acertamos na pauta, a audiência responde consistentemente ao longo do dia. \"Content is king, mas timing é everything na geração de audiência.\""
-  }
+    "resumo": "Domingo dia 11/05/2026 foi um dia excepcional para o Folha Vitória, com 214.789 page views contra uma meta de 185.019, superando em 16% e marcando 29.770 PVs acima do esperado. A distribuição de tráfego foi equilibrada entre manhã e tarde (71.667 e 71.106 respectivamente), com queda natural à noite (53.310). Todas as metas de checkpoint foram batidas com folga, sendo a meta das 11h superada em 51% e das 17h em 24%. O resultado representa 44% a mais que o mesmo período do mês anterior e 10% superior ao mesmo dia da semana na média das últimas 8 semanas, consolidando a tendência positiva de crescimento.",
+    "horarios": ">>> Manhã (6h-11h): 71.667 PVs em período de alta demanda por conteúdo informativo\n>>> Checkpoint 11h: 90.373 contra meta de 60.000 - superação de 51% indica forte engajamento matinal\n>>> Tarde (12h-17h): 71.106 PVs mantendo o ritmo elevado do período vespertino\n>>> Checkpoint 17h: 161.479 contra meta de 130.000 - 24% acima mostra consistência de tráfego\n>>> Noite (18h-23h): 53.310 PVs com queda natural mas ainda sólida para domingo\n>>> Checkpoint 21h: 201.527 contra meta de 185.019 - fechamento seguro do dia",
+    "padrao": ">>> Imposto de Renda domina o topo com 3 matérias entre as 5 primeiras (31.658 PVs somados)\n>>> Conteúdo de serviço público gera tráfego sustentado com matérias evergreen\n>>> Entretenimento local aparece com força através da pauta de show gratuito (7.780 PVs)\n>>> INSS e benefícios sociais mantêm relevância constante no interesse do público\n>>> Matérias antigas respondem por 83% do tráfego total, evidenciando força do SEO",
+    "editorias": ">>> Polícia lidera em eficiência com 1.129 PVs por matéria publicada ontem\n>>> Tempo surpreende com média de 1.003 PVs por matéria em apenas 2 publicações\n>>> Social mantém boa performance com 956 PVs por matéria\n>>> Cotidiano alcança 562 PVs por matéria com conteúdo diversificado\n>>> Cultura atinge 414 PVs por matéria apesar do volume de 11 publicações\n>>> Política fica na média com 376 PVs por matéria\n>>> Economia decepciona com apenas 124 PVs por matéria, abaixo do potencial da editoria",
+    "trafego": ">>> Google Orgânico e tráfego direto praticamente empatados (47% vs 46%) indicam equilíbrio saudável\n>>> Tráfego social representa apenas 4% do total, sinalizando necessidade de maior investimento em redes\n>>> Links externos com 2% mostram potencial de parcerias e menções em outros veículos\n>>> YouTube quase inexistente (45 PVs) revela oportunidade perdida de integração multimídia\n>>> Baixo percentual não identificado (1%) demonstra boa qualidade do tracking",
+    "eficiencia": "Das 92 matérias publicadas ontem, 88 geraram tráfego com média real de 402 PVs cada. Apenas 4 matérias ficaram sem acesso, representando taxa de efetividade de 96%. O volume de 36.979 PVs das matérias novas representa 17% do tráfego total do dia, enquanto matérias antigas sustentaram 83% da audiência com 177.810 PVs.",
+    "erros": ">>> Economia publicou apenas 4 matérias com baixíssima média de 124 PVs em dia de alta demanda por IR\n>>> Falta de aproveitamento dos trending topics nacionais para gerar tráfego local\n>>> Ausência de conteúdo no YouTube deixou praticamente zero PVs dessa fonte\n>>> Baixo engajamento social (4%) indica falha na estratégia de distribuição em redes",
+    "oportunidades": ">>> Trending topics como \"pré venda GTA VI\" e \"brandon clarke\" podem gerar matérias de entretenimento\n>>> Acidentes em rodovias estaduais conectam com \"acidente anel rodoviário\" em alta\n>>> Futebol capixaba pode se beneficiar do interesse por \"osasuna x atlético madrid\"\n>>> Profissões em foco aproveitando busca por \"maquinista\" para conteúdo de carreira local\n>>> Celebridades em alta como \"mel maia\" permitem pautas de entretenimento com ângulo ES",
+    "acoes": ">>> Economia deve publicar ao menos 8 matérias sobre IR e INSS para surfar na demanda\n>>> Produzir conteúdo conectado aos 10 trending topics identificados no Google Trends\n>>> Republishing de matérias de IR com novos títulos para capturar mais tráfego orgânico\n>>> Agendar posts extras nas redes sociais para elevar os 4% de tráfego social\n>>> Estabelecer meta de 95 matérias para superar os 183.531 PVs necessários amanhã",
+    "metaacumulada": "A meta diária de 185.019 foi calculada dividindo-se o que faltava para atingir os 6 milhões mensais pelos dias restantes incluindo ontem. Com o acumulado atual de 2.329.390, ainda precisamos de 3.670.610 PVs nos próximos 20 dias. A meta de amanhã diminui para 183.531 porque batemos a de hoje com folga, redistribuindo a carga pelos dias restantes. Cada dia que superamos a meta alivia a pressão dos dias seguintes e nos aproxima do objetivo mensal.",
+    "historicodia": ">>> Domingo superou em 10% a média dos últimos 8 domingos (195.558 PVs)\n>>> Performance 11% acima da média dos últimos 30 dias (193.086 PVs)\n>>> Resultado consolida tendência positiva de crescimento consistente",
+    "historicomes": ">>> Acumulado mensal 44% superior ao mesmo período do mês anterior (2.329.390 vs 1.613.703)\n>>> Ritmo atual projeta cerca de 4.658.780 PVs no mês, ainda aquém dos 6 milhões\n>>> Necessário acelerar 29% o ritmo médio para atingir a meta estabelecida",
+    "tendencia": "A média dos últimos 30 dias (193.086) supera em 16% os 30 dias anteriores (165.858), confirmando trajetória ascendente sólida. O melhor mês da história foi julho/2025 com 13.625.154 PVs, enquanto o pior foi fevereiro/2025 com 4.527.477 PVs, mostrando a amplitude de variação sazonal do portal.",
+    "alerta": "\"Apesar do excelente resultado de domingo, o ritmo atual de 2,3 milhões em 11 dias ainda exige aceleração de 29% para atingir os 6 milhões mensais.\"",
+    "licao": "Domingo provou que matérias evergreen de serviço público, especialmente sobre Imposto de Renda e INSS, continuam sendo o motor de tráfego sustentado do Folha Vitória. A força do SEO orgânico, com 83% dos PVs vindos de conteúdo antigo, demonstra que investir em matérias perenes é mais eficaz que apostar apenas no factual. \"Conteúdo de serviço bem otimizado é o verdadeiro patrimônio digital de um portal.\""
+  },
+  "tendencias": [
+    {
+      "titulo": "osasuna x atlético madrid",
+      "trafico": "2000+",
+      "contexto": "Osasuna x Atlético de Madrid pela La Liga: onde assistir ao vivo, horário e escalação"
+    },
+    {
+      "titulo": "acidente anel rodoviário",
+      "trafico": "1000+",
+      "contexto": "VÍDEO: caminhão causa acidente com vários veículos e interdita Anel Rodoviário de BH"
+    },
+    {
+      "titulo": "al nassar",
+      "trafico": "200+",
+      "contexto": "2nd round of Libyan Premier League&apos;s final stage: Al-Sweihli and Al-Nasr lead groups"
+    },
+    {
+      "titulo": "maquinista",
+      "trafico": "1000+",
+      "contexto": "Maquinista salta para ajudar ocupantes de carro atingido por trem, mas é recebido por quatro jacarés"
+    },
+    {
+      "titulo": "mel maia",
+      "trafico": "200+",
+      "contexto": "Mel Maia avalia amadurecimento: &apos;Cada papel foi um degrau necessário para eu chegar onde estou "
+    },
+    {
+      "titulo": "episódio",
+      "trafico": "200+",
+      "contexto": "The Boys: Que horas estreia o 7º episódio da 5ª temporada?"
+    },
+    {
+      "titulo": "betis",
+      "trafico": "2000+",
+      "contexto": "Estos son los últimos resultados entre Real Betis y Elche CF"
+    },
+    {
+      "titulo": "southampton x middlesbrough",
+      "trafico": "1000+",
+      "contexto": "Southampton x Middlesbrough Palpite - Onde Assistir ao Jogo, Horário e Escalações 12/05"
+    },
+    {
+      "titulo": "pré venda gta vi",
+      "trafico": "5000+",
+      "contexto": "Trailer 3 vindo aí? E-mail da Sony usa GTA 6 para acelerar migração para o PS5"
+    },
+    {
+      "titulo": "brandon clarke",
+      "trafico": "10000+",
+      "contexto": "Grizzlies forward Brandon Clarke dies at age 29"
+    }
+  ]
 }
