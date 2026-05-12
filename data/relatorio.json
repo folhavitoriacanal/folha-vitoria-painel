@@ -1,6 +1,6 @@
 {
   "dataDisplay": "11/05/2026",
-  "geradoEm": "2026-05-12T20:07:28.934Z",
+  "geradoEm": "2026-05-12T20:19:10.063Z",
   "pvTotal": 214789,
   "pctMeta": 116,
   "metaHoje": 185019,
@@ -301,24 +301,49 @@
     ]
   },
   "analises": {
-    "resumo": "O dia 11/05/2026 registrou 214.789 page views, superando a meta de 185.019 em 29.770 PVs (116%). A distribuição por períodos mostrou equilíbrio entre manhã (71.667 PVs) e tarde (71.106 PVs), com noite registrando 53.310 PVs. Todas as metas de checkpoint foram batidas ao longo do dia. O resultado contribui positivamente para a meta mensal de 6 milhões, com o acumulado chegando a 2.329.390 PVs.",
-    "horarios": ">>> Manhã (6h-11h): 71.667 PVs com checkpoint de 90.373 até 11h, superando a meta de 60.000\n>>> Tarde (12h-17h): 71.106 PVs com checkpoint de 161.479 até 17h, batendo a meta de 130.000  \n>>> Noite (18h-23h): 53.310 PVs com checkpoint final de 201.527 até 21h, superando os 185.019 necessários\n>>> Performance consistente nos três períodos, com ligeira vantagem para manhã e tarde",
-    "padrao": ">>> Matérias de Imposto de Renda dominaram o top 5, com 3 posições entre as mais acessadas\n>>> Conteúdo sobre benefícios do INSS manteve relevância com posição no ranking\n>>> Única matéria de entretenimento no top 5 foi sobre show de rock em Vitória\n>>> Todas as matérias do ranking são antigas, demonstrando força do conteúdo evergreen",
-    "editorias": ">>> Polícia liderou em eficiência com 1.129 PVs por matéria publicada ontem (7 matérias)\n>>> Tempo obteve 1.003 PVs por matéria com apenas 2 publicações\n>>> Social alcançou 956 PVs por matéria com 2 conteúdos publicados\n>>> Cotidiano registrou 562 PVs por matéria com 7 publicações\n>>> Cultura teve 414 PVs por matéria com 11 conteúdos\n>>> Política obteve 376 PVs por matéria com 11 publicações\n>>> Economia registrou apenas 124 PVs por matéria com 4 conteúdos",
-    "trafego": ">>> Google Orgânico (47%) e tráfego direto (46%) mantêm equilíbrio saudável nas origens\n>>> Redes sociais representam apenas 4% do tráfego, indicando potencial de crescimento\n>>> Links externos contribuem com 2%, sugerindo baixa repercussão externa\n>>> YouTube e e-mail marketing têm participação residual no tráfego total",
-    "eficiencia": "A produção de 92 matérias gerou média de 402 PVs por conteúdo publicado ontem, com 88 matérias recebendo acessos e apenas 4 sem visualizações. O conteúdo antigo foi responsável por 177.810 PVs dos 214.789 totais do dia.",
-    "erros": ">>> Baixa performance da editoria de Economia com apenas 124 PVs por matéria publicada\n>>> Quatro matérias publicadas ontem não receberam nenhum acesso\n>>> Tráfego de redes sociais permanece em patamar muito baixo (4%)\n>>> E-mail marketing praticamente inexistente com apenas 9 PVs",
-    "oportunidades": ">>> Ampliar cobertura de temas relacionados ao Imposto de Renda, que dominam o ranking\n>>> Investir em conteúdo evergreen sobre benefícios previdenciários e INSS\n>>> Melhorar estratégia de redes sociais para aumentar os 4% atuais de participação\n>>> Desenvolver mais matérias de Polícia, que apresentam melhor performance (1.129 PVs/matéria)\n>>> Otimizar SEO das matérias de Economia para melhorar a baixa média atual",
-    "acoes": ">>> Produzir pelo menos 3 matérias sobre IR e benefícios do INSS para aproveitar a demanda\n>>> Focar 30% da produção em editorias de alta performance: Polícia, Tempo e Social\n>>> Implementar estratégia de posts nas redes sociais para cada matéria publicada\n>>> Revisar e otimizar SEO de matérias que não receberam acessos\n>>> Estabelecer meta de 185.000 PVs considerando a nova meta dinâmica de 183.531",
-    "metaacumulada": "A meta de 185.019 para ontem foi calculada dividindo o restante da meta mensal pelos dias restantes incluindo ontem. Com 3.670.610 PVs ainda necessários para completar os 6 milhões mensais, a meta de amanhã será 183.531 PVs. Este sistema dinâmico ajusta diariamente a meta conforme o desempenho, mantendo o objetivo mensal viável. O resultado de ontem contribuiu com 29.770 PVs acima do necessário, aliviando a pressão sobre os próximos 20 dias.",
-    "historicodia": ">>> Performance 10% superior à média do mesmo dia da semana nas últimas 8 semanas (195.558 PVs)\n>>> Resultado 11% acima da média dos últimos 30 dias (193.086 PVs)\n>>> Tendência consistente de crescimento em relação ao padrão histórico do dia",
-    "historicomes": ">>> Acumulado mensal 44% superior ao mesmo período do mês anterior (1.613.703 vs 2.329.390)\n>>> Projeção atual indica possibilidade de superar a meta de 6 milhões se mantido o ritmo\n>>> Crescimento acelerado em relação aos meses anteriores",
-    "tendencia": "A média dos últimos 30 dias (193.086) supera em 16% a média dos 30 dias anteriores (165.858), confirmando tendência de crescimento sustentado. O melhor mês da história foi julho/25 com 13.625.154 PVs, enquanto o pior foi fevereiro/25 com 4.527.477 PVs.",
-    "alerta": "\"Economia teve performance muito abaixo da média com apenas 124 PVs por matéria, necessitando revisão urgente de estratégia editorial.\"",
-    "licao": "O dia demonstrou que matérias evergreen sobre Imposto de Renda e INSS continuam gerando tráfego massivo mesmo sendo conteúdo antigo, representando 4 das 5 matérias mais acessadas. A lição é clara sobre a importância de produzir conteúdo que permaneça relevante ao longo do tempo. \"O conteúdo evergreen é o verdadeiro motor de audiência sustentável.\"",
-    "tendencias": ">>> GTA 6 pode ganhar trailer 3 em breve: Sony usa jogo para acelerar migração para PlayStation 5\n--- Editoria: Tecnologia\n--- Ângulo ES: Consultar lojas de games da Grande Vitória sobre pré-vendas e expectativa dos capixabas para o lançamento, incluir depoimento de gamers locais\n--- Por que performa: GTA 6 está entre os trending topics com mais de 5000 buscas, público gamer tem alta engajamento\n--- Tipo: Notícia\n\n>>> Jogos da Copa do Brasil hoje: horários e onde assistir às partidas desta quarta-feira\n--- Editoria: Esportes\n--- Ângulo ES: Incluir locais em Vitória e Vila Velha onde torcedores podem assistir aos jogos, mencionar torcidas organizadas capixabas de times nacionais\n--- Por que performa: \"Jogos de hoje da copa do brasil\" tem mais de 200 buscas e é consulta diária recorrente\n--- Tipo: Serviço\n\n>>> Cruzeiro x Goiás hoje: horário, escalações e onde assistir ao vivo\n--- Editoria: Esportes\n--- Ângulo ES: Destacar conexões de jogadores ou técnicos com o Espírito Santo, mencionar bares esportivos da Grande Vitória que transmitem o jogo\n--- Por que performa: Busca específica com mais de 200 pesquisas, torcedores buscam informações práticas antes dos jogos\n--- Tipo: Serviço\n\n>>> Irmãos Batista da JBS: conheça outros negócios bilionários além da carne que poucos conhecem\n--- Editoria: Economia\n--- Ângulo ES: Investigar se as marcas controladas pelos irmãos Batista têm presença no mercado capixaba, impacto no varejo local\n--- Por que performa: Curiosidade sobre impérios empresariais gera alto engajamento, mais de 200 buscas registradas\n--- Tipo: Explicativo\n\n>>> Reforma da Previdência: quem tinha incapacidade antes de 2019 pode se aposentar pela regra antiga\n--- Editoria: Economia\n--- Ângulo ES: Consultar INSS no ES sobre quantos capixabas podem se beneficiar, incluir orientação de advogados previdenciários locais\n--- Por que performa: Assunto que impacta diretamente a vida financeira dos leitores, mais de 200 buscas\n--- Tipo: Serviço\n\n>>> Caso Cão Orelha: MP pede arquivamento após perícia descartar agressão de adolescentes\n--- Editoria: Brasil\n--- Ângulo ES: Relembrar casos similares de maus-tratos a animais no ES, mencionar trabalho de ONGs locais de proteção animal\n--- Por que performa: Caso repercute nacionalmente com mais de 1000 buscas, envolve proteção animal que sensibiliza público\n--- Tipo: Notícia\n\n>>> Morre Brandon Clarke, jogador do Memphis Grizzlies, aos 29 anos\n--- Editoria: Esportes\n--- Ângulo ES: Destacar crescimento do basquete no ES, mencionar atletas capixabas que jogam a modalidade profissionalmente\n--- Por que performa: Morte prematura de atleta gera comoção e buscas, mais de 200 pesquisas registradas\n--- Tipo: Notícia\n\n>>> Southampton enfrenta Middlesbrough hoje pela Championship: onde assistir\n--- Editoria: Esportes\n--- Ângulo ES: Mencionar torcedores capixabas do futebol inglês, destacar pubs e bares em Vitória que transmitem jogos da liga inglesa\n--- Por que performa: Futebol inglês tem torcida fiel no Brasil, mais de 1000 buscas para Southampton\n--- Tipo: Serviço\n\n>>> Como saber se você tem direito à aposentadoria pelas regras anteriores à Reforma da Previdência\n--- Editoria: Economia\n--- Ângulo ES: Criar guia prático com passo a passo para capixabas verificarem direitos, incluir contatos de órgãos locais do INSS\n--- Por que performa: Dúvidas previdenciárias geram buscas constantes, tema impacta milhares de trabalhadores\n--- Tipo: Explicativo\n\n>>> Londrina x São Bernardo hoje: horário e onde assistir à Série C do Campeonato Brasileiro\n--- Editoria: Esportes\n--- Ângulo ES: Aproveitar para falar sobre times capixabas nas divisões inferiores, expectativas para próxima temporada do futebol estadual\n--- Por que performa: Série C tem torcida fiel, busca por \"Londrina FC\" registra mais de 200 pesquisas\n--- Tipo: Serviço"
+    "resumo": "Superamos a meta diária de 185.019 PVs, alcançando 214.789 visualizações (+29.770, 116%). A distribuição por períodos foi equilibrada entre manhã e tarde, com 71.667 e 71.106 PVs respectivamente, enquanto a noite registrou 53.310 PVs. Todas as metas intermediárias foram batidas com folga, demonstrando consistência ao longo do dia. O resultado nos aproxima da meta mensal de 6 milhões, já com 2,3 milhões acumulados e crescimento de 44% em relação ao mesmo período do mês anterior.",
+    "horarios": ">>> Manhã dominou com 71.667 PVs, indicando forte engajamento matinal dos leitores\n>>> Tarde manteve o ritmo com 71.106 PVs, confirmando padrão de leitura durante expediente\n>>> Noite teve queda natural para 53.310 PVs, dentro do esperado para o período\n>>> Checkpoint das 11h: 90.373 PVs vs meta de 60.000 (150%)\n>>> Checkpoint das 17h: 161.479 PVs vs meta de 130.000 (124%)\n>>> Checkpoint das 21h: 201.527 PVs vs meta de 185.019 (109%)",
+    "padrao": ">>> Imposto de Renda continua como tema campeão, ocupando 3 das 5 primeiras posições\n>>> Matérias de serviço público (INSS, restituição) mantêm alta relevância\n>>> Conteúdo cultural aparece forte com show gratuito em Vitória\n>>> Todas as top 5 são matérias antigas, evidenciando valor do SEO de longo prazo",
+    "editorias": ">>> Polícia teve melhor desempenho com média de 1.129 PVs por matéria publicada\n>>> Tempo alcançou 1.003 PVs por matéria, aproveitando interesse sazonal\n>>> Social obteve 956 PVs por matéria com apenas 2 publicações\n>>> Cotidiano registrou 562 PVs por matéria, performance sólida\n>>> Cultura atingiu 414 PVs por matéria apesar de 11 publicações\n>>> Política teve 376 PVs por matéria, resultado mediano para 11 matérias\n>>> Economia decepcionou com apenas 124 PVs por matéria",
+    "trafego": ">>> Google Orgânico (47%) e tráfego direto (46%) dominam com equilíbrio saudável\n>>> Redes sociais representam apenas 4%, indicando potencial de crescimento\n>>> Tráfego direto alto sugere forte fidelização da audiência\n>>> Links externos (2%) mostram oportunidade para parcerias estratégicas",
+    "eficiencia": "Das 92 matérias publicadas ontem, 88 geraram tráfego com média real de 402 PVs por matéria. Apenas 4 matérias ficaram sem acesso, representando taxa de aproveitamento de 95,7%.",
+    "erros": ">>> Economia publicou 4 matérias mas gerou apenas 496 PVs, média crítica de 124 PVs\n>>> Redes sociais subutilizadas com apenas 4% do tráfego total\n>>> Política com 11 matérias mas média baixa de 376 PVs por conteúdo\n>>> Período noturno perdeu 18 mil PVs comparado à manhã",
+    "oportunidades": ">>> Replicar estratégia de Polícia (1.129 PVs/matéria) em outras editorias\n>>> Intensificar produção de conteúdo sobre Imposto de Renda, tema em alta\n>>> Expandir cobertura cultural aproveitando interesse por eventos em Vitória\n>>> Desenvolver estratégia para redes sociais visando aumentar os 4% atuais\n>>> Criar mais matérias de serviço público seguindo padrão INSS",
+    "acoes": ">>> Economia deve focar em matérias de maior apelo popular para superar média baixa\n>>> Intensificar posts em redes sociais para capturar mais que 4% do tráfego\n>>> Produzir follow-ups das matérias de IR que estão performando bem\n>>> Reforçar cobertura policial mantendo média acima de 1.000 PVs\n>>> Planejar conteúdo noturno mais atrativo para reduzir queda após 18h",
+    "metaacumulada": "A meta diária de 185.019 foi calculada dividindo-se o restante da meta mensal pelos dias restantes incluindo ontem. Com 3.670.610 PVs faltando para os 6 milhões mensais e 20 dias restantes, a meta de amanhã será 183.531 PVs. Este sistema de meta dinâmica ajusta automaticamente as necessidades diárias conforme o desempenho acumulado, mantendo a meta mensal alcançável.",
+    "historicodia": ">>> Superamos em 10% a média do mesmo dia da semana (195.558 vs 214.789 PVs)\n>>> Resultado 11% acima da média dos últimos 30 dias (193.086 PVs)\n>>> Performance consistente confirma tendência positiva da última semana",
+    "historicomes": ">>> Acumulado mensal 44% superior ao mesmo período do mês anterior (2.329.390 vs 1.613.703)\n>>> Projeção mensal aponta para cerca de 6,98 milhões de PVs se mantido o ritmo\n>>> Caminhamos para superar a meta de 6 milhões com 16% de folga",
+    "tendencia": "A tendência dos últimos 30 dias mostra crescimento de 16% comparado aos 30 dias anteriores. Nosso melhor mês foi julho/25 com 13,6 milhões de PVs, enquanto o pior foi fevereiro/25 com 4,5 milhões, demonstrando grande amplitude sazonal.",
+    "alerta": "\"Economia está 69% abaixo da média geral do site e precisa de intervenção imediata na estratégia de conteúdo\"",
+    "licao": "O dia provou que matérias evergreen sobre Imposto de Renda continuam gerando tráfego consistente meses após a publicação, enquanto conteúdo policial bem trabalhado pode superar 1.000 PVs por matéria. A lição é clara: \"Conteúdo de serviço público de qualidade é investimento de longo prazo em audiência.\"",
+    "tendencias": ">>> Entenda o julgamento de Bolsonaro no STF: o que muda com o novo relator Kassio Nunes\n--- Editoria: Política\n--- Ângulo ES: Impacto das decisões do STF na política local e como os deputados federais capixabas se posicionam sobre o caso\n--- Por que performa: Alta busca por \"julgamento de bolsonaro\" com interesse nacional sobre desdobramentos legais\n--- Tipo: Explicativo\n\n>>> Reforma da Previdência: capixabas com incapacidade anterior podem se aposentar pela regra antiga\n--- Editoria: Economia\n--- Ângulo ES: Orientação específica para trabalhadores do ES sobre como comprovar incapacidade e solicitar aposentadoria\n--- Por que performa: Busca alta por \"reforma da previdência\" com interesse em direitos previdenciários\n--- Tipo: Serviço\n\n>>> Copa do Brasil hoje: onde assistir aos jogos e horários para não perder nada\n--- Editoria: Esportes\n--- Ângulo ES: Cobertura especial para torcedores capixabas com horários e canais disponíveis na região\n--- Por que performa: Interesse por \"jogos de hoje da copa do brasil\" gera tráfego em tempo real\n--- Tipo: Serviço\n\n>>> JBS dos irmãos Batista: conheça todas as marcas que você consome sem saber\n--- Editoria: Economia\n--- Ângulo ES: Impacto da JBS na economia capixaba e presença de produtos da empresa no mercado local\n--- Por que performa: Curiosidade sobre \"irmãos batista jbs\" com 500+ buscas sobre império empresarial\n--- Tipo: Lista\n\n>>> Cruzeiro x Goiás: horário, onde assistir e escalações do jogo de hoje\n--- Editoria: Esportes\n--- Ângulo ES: Transmissão para torcedores capixabas e análise de desempenho dos times que já enfrentaram clubes locais\n--- Por que performa: Busca direta por \"cruzeiro x goiás\" com interesse em informações do jogo\n--- Tipo: Serviço\n\n>>> Caso Trump: americano se declara inocente de tentativa de assassinato na Casa Branca\n--- Editoria: Internacional\n--- Ângulo ES: Repercussão entre a comunidade americana no ES e impactos nas relações comerciais Brasil-EUA\n--- Por que performa: Interesse por \"casa branca\" relacionado ao caso de segurança presidencial\n--- Tipo: Notícia\n\n>>> Seleção da Espanha convoca Yamal para Copa: jovens talentos que inspiram o futebol capixaba\n--- Editoria: Esportes\n--- Ângulo ES: Paralelo com jovens revelações do futebol capixaba e oportunidades no exterior\n--- Por que performa: Busca por \"seleção espanhola de futebol\" com interesse em convocações\n--- Tipo: Análise\n\n>>> Londrina x São Bernardo: onde assistir ao jogo da Série C ao vivo hoje\n--- Editoria: Esportes\n--- Ângulo ES: Cobertura da Série C com foco no interesse de torcedores capixabas que acompanham divisões inferiores\n--- Por que performa: Interesse específico por \"londrina fc\" para informações sobre transmissão\n--- Tipo: Serviço\n\n>>> Southampton disputa vaga na Championship: entenda o sistema de ligas inglesas\n--- Editoria: Esportes\n--- Ângulo ES: Educativo para torcedores capixabas que acompanham futebol inglês e sonham com oportunidades no exterior\n--- Por que performa: Alta busca por \"southampton\" com 1000+ pesquisas sobre o jogo\n--- Tipo: Explicativo\n\n>>> Thiago Agustín Tirante enfrenta Medvedev: como assistir ao tênis ao vivo\n--- Editoria: Esportes\n--- Ângulo ES: Crescimento do tênis no ES e onde os capixabas podem acompanhar torneios internacionais\n--- Por que performa: Interesse por \"thiago agustín tirante\" focado em transmissões de tênis\n--- Tipo: Serviço"
   },
   "tendencias": [
+    {
+      "titulo": "casa branca",
+      "trafico": "200+",
+      "contexto": "Acusado de tentar assassinar Trump em jantar na Casa Branca se declara inocente"
+    },
+    {
+      "titulo": "julgamento de bolsonaro",
+      "trafico": "200+",
+      "contexto": "Kassio será relator de revisão pedida por Bolsonaro para anular condenação no STF"
+    },
+    {
+      "titulo": "seleção espanhola de futebol",
+      "trafico": "200+",
+      "contexto": "Pré-lista da Espanha para Copa tem Yamal e trio do Real; Carvajal está fora"
+    },
+    {
+      "titulo": "thiago agustín tirante",
+      "trafico": "200+",
+      "contexto": "𝗧𝗩 𝗦𝘁𝗿𝗲𝗮𝗺s Thiago Agustín Tirante vs Daniil Medvedev 𝗟𝗶𝘃𝗲 𝗦𝘁𝗿𝗲𝗮𝗺 𝗙𝗿𝗲𝗲: Italian"
+    },
+    {
+      "titulo": "londrina fc",
+      "trafico": "200+",
+      "contexto": "Londrina x São Bernardo: onde assistir ao vivo, horário e escalações"
+    },
     {
       "titulo": "jogos de hoje da copa do brasil",
       "trafico": "200+",
@@ -330,13 +355,8 @@
       "contexto": "Cruzeiro x Goiás: onde assistir ao vivo, horário e escalações"
     },
     {
-      "titulo": "londrina fc",
-      "trafico": "200+",
-      "contexto": "Londrina x São Bernardo: onde assistir ao vivo, horário e escalações"
-    },
-    {
       "titulo": "irmãos batista jbs",
-      "trafico": "200+",
+      "trafico": "500+",
       "contexto": "Além da carne: irmãos Batista, da JBS, são donos da Minuano e marcas que poucos conhecem"
     },
     {
@@ -348,26 +368,6 @@
       "titulo": "southampton",
       "trafico": "1000+",
       "contexto": "Southampton vs Middlesbrough LIVE: Championship live text commentary, stats &amp; head-to-head"
-    },
-    {
-      "titulo": "gta6",
-      "trafico": "5000+",
-      "contexto": "Trailer 3 vindo aí? E-mail da Sony usa GTA 6 para acelerar migração para o PS5"
-    },
-    {
-      "titulo": "brandon clarke causa da morte",
-      "trafico": "200+",
-      "contexto": "Morre Brandon Clarke, do Memphis Grizzlies, aos 29 anos"
-    },
-    {
-      "titulo": "iñigo martínez",
-      "trafico": "200+",
-      "contexto": "Lamine Yamal ondea la bandera palestina en la rúa del Barça"
-    },
-    {
-      "titulo": "orelha",
-      "trafico": "1000+",
-      "contexto": "Cão Orelha não morreu por agressão de adolescentes, e MP pede arquivamento"
     }
   ]
 }
