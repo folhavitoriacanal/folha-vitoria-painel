@@ -1,0 +1,307 @@
+{
+  "dataDisplay": "09/05/2026",
+  "geradoEm": "2026-05-12T18:49:47.246Z",
+  "geradoRetroativamente": true,
+  "pvTotal": 183293,
+  "pctMeta": 100,
+  "metaHoje": 183940,
+  "metaAmanha": 183970,
+  "saldoOntem": -647,
+  "deficitOntem": 647,
+  "metaDiaria": 200000,
+  "metaMensal": 6000000,
+  "usuarios": 80055,
+  "sessions": 108563,
+  "pgsPorSessao": "1.69",
+  "tempoMedio": "1min51s",
+  "pvManha": 52272,
+  "pvTarde": 57683,
+  "pvNoite": 53177,
+  "checkpoints": [
+    {
+      "label": "Até 11h",
+      "pv": 72433,
+      "meta": 60000,
+      "status": "META BATIDA"
+    },
+    {
+      "label": "Até 17h",
+      "pv": 130116,
+      "meta": 130000,
+      "status": "META BATIDA"
+    },
+    {
+      "label": "Até 21h",
+      "pv": 168883,
+      "meta": 183940,
+      "status": "PERTO DA META"
+    }
+  ],
+  "producao": {
+    "disponivel": false
+  },
+  "topMaterias": [
+    {
+      "pos": 1,
+      "titulo": "Detergente contaminado; veja lista dos produtos da YPÊ proibidos",
+      "pv": 10924,
+      "publicadaHoje": false
+    },
+    {
+      "pos": 2,
+      "titulo": "INSS: veja quando será o pagamento da segunda parcela do 13º",
+      "pv": 8192,
+      "publicadaHoje": false
+    },
+    {
+      "pos": 3,
+      "titulo": "Parque aquático abre gratuitamente em Aracruz; veja programação",
+      "pv": 7781,
+      "publicadaHoje": false
+    },
+    {
+      "pos": 4,
+      "titulo": "Prazo para entrega do Imposto de Renda 2026 mudou? Veja data",
+      "pv": 6387,
+      "publicadaHoje": false
+    },
+    {
+      "pos": 5,
+      "titulo": "Porte de arma pode ser ampliado para mais profissões; veja quais",
+      "pv": 5148,
+      "publicadaHoje": false
+    }
+  ],
+  "editorias": [
+    {
+      "nome": "economia",
+      "pvTotal": 20733,
+      "pvPublicadas": 0,
+      "publicadas": null,
+      "urlsAcessadas": 13,
+      "mediaCorreta": null
+    },
+    {
+      "nome": "cultura",
+      "pvTotal": 17449,
+      "pvPublicadas": 0,
+      "publicadas": null,
+      "urlsAcessadas": 18,
+      "mediaCorreta": null
+    },
+    {
+      "nome": "cotidiano",
+      "pvTotal": 14225,
+      "pvPublicadas": 0,
+      "publicadas": null,
+      "urlsAcessadas": 15,
+      "mediaCorreta": null
+    },
+    {
+      "nome": "policia",
+      "pvTotal": 10360,
+      "pvPublicadas": 0,
+      "publicadas": null,
+      "urlsAcessadas": 24,
+      "mediaCorreta": null
+    },
+    {
+      "nome": "social",
+      "pvTotal": 9539,
+      "pvPublicadas": 0,
+      "publicadas": null,
+      "urlsAcessadas": 9,
+      "mediaCorreta": null
+    },
+    {
+      "nome": "transito",
+      "pvTotal": 9470,
+      "pvPublicadas": 0,
+      "publicadas": null,
+      "urlsAcessadas": 13,
+      "mediaCorreta": null
+    },
+    {
+      "nome": "esportes",
+      "pvTotal": 8735,
+      "pvPublicadas": 0,
+      "publicadas": null,
+      "urlsAcessadas": 16,
+      "mediaCorreta": null
+    }
+  ],
+  "origens": [
+    {
+      "canal": "Direto",
+      "pv": 93550,
+      "pct": 51
+    },
+    {
+      "canal": "Google Orgânico",
+      "pv": 79038,
+      "pct": 43
+    },
+    {
+      "canal": "Social",
+      "pv": 6922,
+      "pct": 4
+    },
+    {
+      "canal": "Links externos",
+      "pv": 3338,
+      "pct": 2
+    },
+    {
+      "canal": "Não identificado",
+      "pv": 420,
+      "pct": 0
+    },
+    {
+      "canal": "YouTube",
+      "pv": 18,
+      "pct": 0
+    },
+    {
+      "canal": "E-mail",
+      "pv": 7,
+      "pct": 0
+    }
+  ],
+  "historico": {
+    "mediaMesmoDia": 0,
+    "varMesmoDia": 0,
+    "media30": 0,
+    "media30a": 0,
+    "var30": 0,
+    "pvMesAtualAcum": 1952673,
+    "pvMesAntMesmoPer": 0,
+    "varMesAnt": 0,
+    "diasRestantes": 22,
+    "pvFaltaMes": 4047327,
+    "mediaNecessaria": 183970,
+    "mediaMensal": 0,
+    "melhorMes": null,
+    "piorMes": null,
+    "mensal": [
+      {
+        "mes": "202501",
+        "pv": 7245874,
+        "label": "Jan/25",
+        "atual": false
+      },
+      {
+        "mes": "202502",
+        "pv": 4527477,
+        "label": "Fev/25",
+        "atual": false
+      },
+      {
+        "mes": "202503",
+        "pv": 5367201,
+        "label": "Mar/25",
+        "atual": false
+      },
+      {
+        "mes": "202504",
+        "pv": 6945113,
+        "label": "Abr/25",
+        "atual": false
+      },
+      {
+        "mes": "202505",
+        "pv": 6591733,
+        "label": "Mai/25",
+        "atual": false
+      },
+      {
+        "mes": "202506",
+        "pv": 11659575,
+        "label": "Jun/25",
+        "atual": false
+      },
+      {
+        "mes": "202507",
+        "pv": 13625154,
+        "label": "Jul/25",
+        "atual": false
+      },
+      {
+        "mes": "202508",
+        "pv": 10001619,
+        "label": "Ago/25",
+        "atual": false
+      },
+      {
+        "mes": "202509",
+        "pv": 6679985,
+        "label": "Set/25",
+        "atual": false
+      },
+      {
+        "mes": "202510",
+        "pv": 5336318,
+        "label": "Out/25",
+        "atual": false
+      },
+      {
+        "mes": "202511",
+        "pv": 4564202,
+        "label": "Nov/25",
+        "atual": false
+      },
+      {
+        "mes": "202512",
+        "pv": 5524739,
+        "label": "Dez/25",
+        "atual": false
+      },
+      {
+        "mes": "202601",
+        "pv": 4978658,
+        "label": "Jan/26",
+        "atual": false
+      },
+      {
+        "mes": "202602",
+        "pv": 6402972,
+        "label": "Fev/26",
+        "atual": false
+      },
+      {
+        "mes": "202603",
+        "pv": 5172054,
+        "label": "Mar/26",
+        "atual": false
+      },
+      {
+        "mes": "202604",
+        "pv": 5076878,
+        "label": "Abr/26",
+        "atual": false
+      },
+      {
+        "mes": "202605",
+        "pv": 1952673,
+        "label": "Mai/26",
+        "atual": true
+      }
+    ]
+  },
+  "analises": {
+    "resumo": "O Folha Vitória registrou 183.293 page views no dia 09/05/2026, ficando apenas 647 visualizações abaixo da meta estabelecida de 183.940, representando 99,6% do objetivo. O desempenho foi impulsionado por matérias de utilidade pública, especialmente sobre produtos contaminados e benefícios do INSS. A audiência manteve distribuição equilibrada ao longo do dia, com 80.055 usuários únicos. Os checkpoints das 11h e 17h foram atingidos com sucesso, demonstrando boa estratégia de publicação.",
+    "horarios": "A distribuição horária apresentou equilíbrio entre os três turnos, com ligeira vantagem para o período da tarde (57.683 PVs), seguido pela noite (53.177 PVs) e manhã (52.272 PVs). \n>>> Checkpoint das 11h superou a meta em 20,7%, alcançando 72.433 PVs contra 60.000 esperados\n>>> Checkpoint das 17h foi cumprido com precisão, registrando 130.116 PVs contra meta de 130.000\n>>> Período noturno manteve performance sólida, evitando queda acentuada típica do horário",
+    "padrao": "As matérias de maior audiência seguiram padrão claro de conteúdo utilitário e de impacto direto na vida do leitor.\n>>> Alertas de saúde e segurança dominaram o topo, como o caso do detergente contaminado da Ypê\n>>> Informações sobre benefícios governamentais geraram alto engajamento, especialmente INSS\n>>> Conteúdo local gratuito atraiu audiência significativa, como o parque aquático em Aracruz\n>>> Orientações sobre obrigações fiscais mantiveram relevância com prazo do Imposto de Renda",
+    "editorias": "A editoria de Economia liderou com folga, concentrando 20.733 PVs, seguida por Cultura com 17.449 PVs.\n>>> Economia se beneficiou de matérias sobre INSS e Imposto de Renda, temas de alta demanda\n>>> Cultura surpreendeu positivamente com segunda colocação, possivelmente pelo evento em Aracruz\n>>> Cotidiano, Polícia e Social mantiveram performance intermediária entre 9.000-14.000 PVs\n>>> Trânsito e Esportes apresentaram números mais modestos, mas dentro do esperado para o período",
+    "trafego": "O tráfego direto dominou com 51% das origens, seguido pelo Google Orgânico com 43%.\n>>> Tráfego direto forte indica boa fidelização da audiência e reconhecimento da marca\n>>> Google Orgânico com 43% demonstra excelente SEO e relevância dos conteúdos publicados\n>>> Redes sociais com apenas 4% sugerem oportunidade de melhoria na estratégia digital\n>>> Links externos representaram 2%, indicando baixa viralização ou compartilhamento externo",
+    "eficiencia": "A eficiência produtiva foi comprometida pela indisponibilidade do sitemap, impedindo análise precisa da relação entre volume de publicações e audiência gerada. Esta falha técnica limita a capacidade de otimização editorial e identificação de conteúdos de melhor performance por investimento de tempo da redação.",
+    "erros": ">>> Sitemap indisponível impediu monitoramento adequado da produção e análise de eficiência editorial\n>>> Baixo desempenho em redes sociais indica falha na estratégia de distribuição de conteúdo\n>>> Meta diária perdida por margem mínima sugere falta de conteúdo de reserva para ajustes finais",
+    "oportunidades": ">>> Explorar mais conteúdos de utilidade pública similar ao detergente contaminado da Ypê\n>>> Intensificar estratégia de redes sociais para aumentar os 4% atuais de tráfego social\n>>> Desenvolver mais pautas locais gratuitas seguindo o sucesso do parque aquático de Aracruz",
+    "acoes": ">>> Resolver problema técnico do sitemap para retomar monitoramento de produção adequado\n>>> Implementar cronograma de postagens em redes sociais para impulsionar tráfego social\n>>> Criar banco de matérias de utilidade pública para publicação estratégica em horários de baixa audiência",
+    "metaacumulada": "",
+    "historicodia": "",
+    "historicomes": "",
+    "tendencia": "",
+    "alerta": "\"Sitemap indisponível compromete análise editorial e pode impactar negativamente a estratégia de conteúdo dos próximos dias.\"",
+    "licao": "O sucesso das matérias de utilidade pública reforça que o leitor capixaba valoriza informações práticas que impactam diretamente seu cotidiano, desde alertas de saúde até orientações sobre benefícios e eventos gratuitos. A proximidade com a meta diária demonstra potencial para crescimento com ajustes pontuais na estratégia. \"Conteúdo útil gera audiência fiel e engajada.\""
+  }
+}
