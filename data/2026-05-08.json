@@ -1,0 +1,312 @@
+{
+  "dataDisplay": "08/05/2026",
+  "geradoEm": "2026-05-12T18:49:10.367Z",
+  "geradoRetroativamente": true,
+  "pvTotal": 205184,
+  "pctMeta": 111,
+  "metaHoje": 184826,
+  "metaAmanha": 183940,
+  "saldoOntem": 20358,
+  "deficitOntem": 0,
+  "metaDiaria": 200000,
+  "metaMensal": 6000000,
+  "usuarios": 87827,
+  "sessions": 119644,
+  "pgsPorSessao": "1.71",
+  "tempoMedio": "2min19s",
+  "pvManha": 64530,
+  "pvTarde": 68808,
+  "pvNoite": 56627,
+  "checkpoints": [
+    {
+      "label": "Até 11h",
+      "pv": 79749,
+      "meta": 60000,
+      "status": "META BATIDA"
+    },
+    {
+      "label": "Até 17h",
+      "pv": 148557,
+      "meta": 130000,
+      "status": "META BATIDA"
+    },
+    {
+      "label": "Até 21h",
+      "pv": 190235,
+      "meta": 184826,
+      "status": "META BATIDA"
+    }
+  ],
+  "producao": {
+    "disponivel": false
+  },
+  "topMaterias": [
+    {
+      "pos": 1,
+      "titulo": "Detergente contaminado; veja lista dos produtos da YPÊ proibidos",
+      "pv": 15232,
+      "publicadaHoje": false
+    },
+    {
+      "pos": 2,
+      "titulo": "Imposto de Renda: até que idade os idosos precisam declarar?",
+      "pv": 14667,
+      "publicadaHoje": false
+    },
+    {
+      "pos": 3,
+      "titulo": "Porte de arma pode ser ampliado para mais profissões; veja quais",
+      "pv": 6821,
+      "publicadaHoje": false
+    },
+    {
+      "pos": 4,
+      "titulo": "Prazo para entrega do Imposto de Renda 2026 mudou? Veja data",
+      "pv": 5856,
+      "publicadaHoje": false
+    },
+    {
+      "pos": 5,
+      "titulo": "Mãe e filho desaparecidos após rodeio em Alegre são encontrados",
+      "pv": 5140,
+      "publicadaHoje": false
+    }
+  ],
+  "editorias": [
+    {
+      "nome": "economia",
+      "pvTotal": 24314,
+      "pvPublicadas": 0,
+      "publicadas": null,
+      "urlsAcessadas": 14,
+      "mediaCorreta": null
+    },
+    {
+      "nome": "cotidiano",
+      "pvTotal": 19456,
+      "pvPublicadas": 0,
+      "publicadas": null,
+      "urlsAcessadas": 14,
+      "mediaCorreta": null
+    },
+    {
+      "nome": "policia",
+      "pvTotal": 15939,
+      "pvPublicadas": 0,
+      "publicadas": null,
+      "urlsAcessadas": 25,
+      "mediaCorreta": null
+    },
+    {
+      "nome": "politica",
+      "pvTotal": 10055,
+      "pvPublicadas": 0,
+      "publicadas": null,
+      "urlsAcessadas": 13,
+      "mediaCorreta": null
+    },
+    {
+      "nome": "cultura",
+      "pvTotal": 9739,
+      "pvPublicadas": 0,
+      "publicadas": null,
+      "urlsAcessadas": 16,
+      "mediaCorreta": null
+    },
+    {
+      "nome": "folha-business",
+      "pvTotal": 7145,
+      "pvPublicadas": 0,
+      "publicadas": null,
+      "urlsAcessadas": 7,
+      "mediaCorreta": null
+    },
+    {
+      "nome": "transito",
+      "pvTotal": 6653,
+      "pvPublicadas": 0,
+      "publicadas": null,
+      "urlsAcessadas": 11,
+      "mediaCorreta": null
+    }
+  ],
+  "origens": [
+    {
+      "canal": "Direto",
+      "pv": 95829,
+      "pct": 47
+    },
+    {
+      "canal": "Google Orgânico",
+      "pv": 94937,
+      "pct": 46
+    },
+    {
+      "canal": "Social",
+      "pv": 10110,
+      "pct": 5
+    },
+    {
+      "canal": "Links externos",
+      "pv": 3519,
+      "pct": 2
+    },
+    {
+      "canal": "Não identificado",
+      "pv": 732,
+      "pct": 0
+    },
+    {
+      "canal": "YouTube",
+      "pv": 48,
+      "pct": 0
+    },
+    {
+      "canal": "E-mail",
+      "pv": 7,
+      "pct": 0
+    },
+    {
+      "canal": "Mobile Push Notifications",
+      "pv": 2,
+      "pct": 0
+    }
+  ],
+  "historico": {
+    "mediaMesmoDia": 0,
+    "varMesmoDia": 0,
+    "media30": 0,
+    "media30a": 0,
+    "var30": 0,
+    "pvMesAtualAcum": 1769380,
+    "pvMesAntMesmoPer": 0,
+    "varMesAnt": 0,
+    "diasRestantes": 23,
+    "pvFaltaMes": 4230620,
+    "mediaNecessaria": 183940,
+    "mediaMensal": 0,
+    "melhorMes": null,
+    "piorMes": null,
+    "mensal": [
+      {
+        "mes": "202501",
+        "pv": 7245874,
+        "label": "Jan/25",
+        "atual": false
+      },
+      {
+        "mes": "202502",
+        "pv": 4527477,
+        "label": "Fev/25",
+        "atual": false
+      },
+      {
+        "mes": "202503",
+        "pv": 5367201,
+        "label": "Mar/25",
+        "atual": false
+      },
+      {
+        "mes": "202504",
+        "pv": 6945113,
+        "label": "Abr/25",
+        "atual": false
+      },
+      {
+        "mes": "202505",
+        "pv": 6591733,
+        "label": "Mai/25",
+        "atual": false
+      },
+      {
+        "mes": "202506",
+        "pv": 11659575,
+        "label": "Jun/25",
+        "atual": false
+      },
+      {
+        "mes": "202507",
+        "pv": 13625154,
+        "label": "Jul/25",
+        "atual": false
+      },
+      {
+        "mes": "202508",
+        "pv": 10001619,
+        "label": "Ago/25",
+        "atual": false
+      },
+      {
+        "mes": "202509",
+        "pv": 6679985,
+        "label": "Set/25",
+        "atual": false
+      },
+      {
+        "mes": "202510",
+        "pv": 5336318,
+        "label": "Out/25",
+        "atual": false
+      },
+      {
+        "mes": "202511",
+        "pv": 4564202,
+        "label": "Nov/25",
+        "atual": false
+      },
+      {
+        "mes": "202512",
+        "pv": 5524739,
+        "label": "Dez/25",
+        "atual": false
+      },
+      {
+        "mes": "202601",
+        "pv": 4978658,
+        "label": "Jan/26",
+        "atual": false
+      },
+      {
+        "mes": "202602",
+        "pv": 6402972,
+        "label": "Fev/26",
+        "atual": false
+      },
+      {
+        "mes": "202603",
+        "pv": 5172054,
+        "label": "Mar/26",
+        "atual": false
+      },
+      {
+        "mes": "202604",
+        "pv": 5076878,
+        "label": "Abr/26",
+        "atual": false
+      },
+      {
+        "mes": "202605",
+        "pv": 1769380,
+        "label": "Mai/26",
+        "atual": true
+      }
+    ]
+  },
+  "analises": {
+    "resumo": "O Folha Vitória registrou excelente performance no dia 08/05/2026, alcançando 205.184 pageviews e superando em 11% a meta estabelecida de 184.826. A audiência de 87.827 usuários únicos demonstra forte engajamento com o conteúdo produzido. Matérias de utilidade pública dominaram o ranking, especialmente sobre saúde e questões tributárias. O período da tarde se destacou como o mais produtivo em termos de audiência.",
+    "horarios": "A distribuição de audiência apresentou equilíbrio sólido ao longo do dia, com picos estratégicos bem aproveitados. O período da tarde liderou com 68.808 pageviews, seguido pela manhã com 64.530 e noite com 56.627. \n\n>>> O checkpoint das 11h atingiu 79.749 pageviews, superando em 32% a meta de 60.000\n>>> O horário das 17h registrou 148.557 pageviews, excedendo em 14% a expectativa de 130.000\n>>> A performance noturna, embora menor, manteve consistência no engajamento",
+    "padrao": "O comportamento das matérias mais acessadas revela clara preferência por conteúdo de utilidade pública e serviço ao leitor.\n\n>>> Questões de saúde pública lideram com a matéria sobre detergente contaminado gerando 15.232 PVs\n>>> Conteúdo tributário mantém relevância com duas matérias sobre Imposto de Renda no top 5\n>>> Temas de segurança pública e casos locais completam o interesse dos leitores\n>>> Matérias de serviço com linguagem direta demonstram maior apelo junto ao público",
+    "editorias": "A distribuição por editorias mostra economia dominando o interesse dos leitores, seguida por cotidiano e polícia.\n\n>>> Economia lidera com 24.314 PVs, refletindo preocupações com questões financeiras e tributárias\n>>> Cotidiano alcança 19.456 PVs, consolidando-se como editoria de conexão direta com o público\n>>> Polícia registra 15.939 PVs, mantendo relevância em temas de segurança\n>>> Política obtém 10.055 PVs, performance moderada para o período\n>>> Cultura surpreende positivamente com 9.739 PVs",
+    "trafego": "O tráfego apresenta distribuição equilibrada entre canais orgânicos, com domínio do acesso direto e busca.\n\n>>> Tráfego direto representa 47%, indicando forte fidelização da audiência\n>>> Google Orgânico contribui com 46%, demonstrando excelente otimização SEO\n>>> Redes sociais alcançam 5%, percentual que pode ser expandido\n>>> Links externos respondem por 2%, mostrando potencial de parcerias\n>>> Canais como YouTube e push notifications apresentam oportunidades de crescimento",
+    "eficiencia": "A produção do dia enfrentou desafio técnico significativo com a indisponibilidade do sitemap, impactando potencialmente a indexação de conteúdo. Apesar desta limitação técnica, a audiência superou as expectativas, sugerindo que o conteúdo disponível teve alta qualidade e relevância. A relação entre pageviews e usuários únicos indica boa profundidade de navegação.",
+    "erros": ">>> Sitemap indisponível comprometeu a indexação adequada do conteúdo produzido\n>>> Baixo aproveitamento das redes sociais com apenas 5% do tráfego total\n>>> Ausência total de tráfego via push notifications desperdiça canal direto com usuários",
+    "oportunidades": ">>> Expandir cobertura de temas de utilidade pública, replicando sucesso da matéria sobre detergente\n>>> Intensificar estratégia de redes sociais para aumentar participação além dos atuais 5%\n>>> Desenvolver conteúdo tributário sazonal, aproveitando interesse demonstrado nas matérias de IR",
+    "acoes": ">>> Priorizar resolução imediata do problema técnico do sitemap para o próximo dia\n>>> Implementar campanha específica nas redes sociais para amplificar matérias de maior potencial\n>>> Produzir série de conteúdos sobre questões de consumo e saúde, seguindo padrão da matéria líder",
+    "metaacumulada": "",
+    "historicodia": "",
+    "historicomes": "",
+    "tendencia": "",
+    "alerta": "\"Problema técnico no sitemap pode estar limitando o alcance orgânico do site e precisa ser resolvido com urgência para manter o crescimento sustentável da audiência.\"",
+    "licao": "O dia demonstra que matérias de utilidade pública com impacto direto na vida do leitor geram maior engajamento que conteúdo genérico. A combinação entre temas de saúde, economia doméstica e questões tributárias cria um portfólio editorial sólido. O equilíbrio entre tráfego direto e orgânico indica audiência fiel e boa otimização, mas há espaço para crescimento em canais alternativos. \"Conteúdo de serviço bem executado transforma leitores ocasionais em audiência fidelizada.\""
+  }
+}
