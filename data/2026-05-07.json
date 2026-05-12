@@ -1,0 +1,312 @@
+{
+  "dataDisplay": "07/05/2026",
+  "geradoEm": "2026-05-12T18:47:13.889Z",
+  "geradoRetroativamente": true,
+  "pvTotal": 182519,
+  "pctMeta": 99,
+  "metaHoje": 184733,
+  "metaAmanha": 184826,
+  "saldoOntem": -2214,
+  "deficitOntem": 2214,
+  "metaDiaria": 200000,
+  "metaMensal": 6000000,
+  "usuarios": 93037,
+  "sessions": 131119,
+  "pgsPorSessao": "1.39",
+  "tempoMedio": "2min15s",
+  "pvManha": 56831,
+  "pvTarde": 61014,
+  "pvNoite": 51039,
+  "checkpoints": [
+    {
+      "label": "Até 11h",
+      "pv": 70466,
+      "meta": 60000,
+      "status": "META BATIDA"
+    },
+    {
+      "label": "Até 17h",
+      "pv": 131480,
+      "meta": 130000,
+      "status": "META BATIDA"
+    },
+    {
+      "label": "Até 21h",
+      "pv": 169671,
+      "meta": 184733,
+      "status": "PERTO DA META"
+    }
+  ],
+  "producao": {
+    "disponivel": false
+  },
+  "topMaterias": [
+    {
+      "pos": 1,
+      "titulo": "Imposto de Renda: até que idade os idosos precisam declarar?",
+      "pv": 15900,
+      "publicadaHoje": false
+    },
+    {
+      "pos": 2,
+      "titulo": "Porte de arma pode ser ampliado para mais profissões; veja quais",
+      "pv": 11944,
+      "publicadaHoje": false
+    },
+    {
+      "pos": 3,
+      "titulo": "Prazo para entrega do Imposto de Renda 2026 mudou? Veja data",
+      "pv": 11809,
+      "publicadaHoje": false
+    },
+    {
+      "pos": 4,
+      "titulo": "Aeroporto de Vitória realiza seu primeiro voo internacional de passageiros",
+      "pv": 11369,
+      "publicadaHoje": false
+    },
+    {
+      "pos": 5,
+      "titulo": "Preço do cacau dispara e produtores brasileiros podem ganhar espaço",
+      "pv": 3570,
+      "publicadaHoje": false
+    }
+  ],
+  "editorias": [
+    {
+      "nome": "economia",
+      "pvTotal": 31574,
+      "pvPublicadas": 0,
+      "publicadas": null,
+      "urlsAcessadas": 14,
+      "mediaCorreta": null
+    },
+    {
+      "nome": "politica",
+      "pvTotal": 17209,
+      "pvPublicadas": 0,
+      "publicadas": null,
+      "urlsAcessadas": 21,
+      "mediaCorreta": null
+    },
+    {
+      "nome": "folha-business",
+      "pvTotal": 16496,
+      "pvPublicadas": 0,
+      "publicadas": null,
+      "urlsAcessadas": 11,
+      "mediaCorreta": null
+    },
+    {
+      "nome": "cotidiano",
+      "pvTotal": 8826,
+      "pvPublicadas": 0,
+      "publicadas": null,
+      "urlsAcessadas": 15,
+      "mediaCorreta": null
+    },
+    {
+      "nome": "policia",
+      "pvTotal": 7415,
+      "pvPublicadas": 0,
+      "publicadas": null,
+      "urlsAcessadas": 19,
+      "mediaCorreta": null
+    },
+    {
+      "nome": "trabalho",
+      "pvTotal": 7089,
+      "pvPublicadas": 0,
+      "publicadas": null,
+      "urlsAcessadas": 11,
+      "mediaCorreta": null
+    },
+    {
+      "nome": "esportes",
+      "pvTotal": 6990,
+      "pvPublicadas": 0,
+      "publicadas": null,
+      "urlsAcessadas": 15,
+      "mediaCorreta": null
+    }
+  ],
+  "origens": [
+    {
+      "canal": "Google Orgânico",
+      "pv": 95353,
+      "pct": 52
+    },
+    {
+      "canal": "Direto",
+      "pv": 73983,
+      "pct": 41
+    },
+    {
+      "canal": "Social",
+      "pv": 8616,
+      "pct": 5
+    },
+    {
+      "canal": "Links externos",
+      "pv": 3841,
+      "pct": 2
+    },
+    {
+      "canal": "Não identificado",
+      "pv": 653,
+      "pct": 0
+    },
+    {
+      "canal": "YouTube",
+      "pv": 40,
+      "pct": 0
+    },
+    {
+      "canal": "E-mail",
+      "pv": 28,
+      "pct": 0
+    },
+    {
+      "canal": "Organic Shopping",
+      "pv": 5,
+      "pct": 0
+    }
+  ],
+  "historico": {
+    "mediaMesmoDia": 0,
+    "varMesmoDia": 0,
+    "media30": 0,
+    "media30a": 0,
+    "var30": 0,
+    "pvMesAtualAcum": 1564196,
+    "pvMesAntMesmoPer": 0,
+    "varMesAnt": 0,
+    "diasRestantes": 24,
+    "pvFaltaMes": 4435804,
+    "mediaNecessaria": 184826,
+    "mediaMensal": 0,
+    "melhorMes": null,
+    "piorMes": null,
+    "mensal": [
+      {
+        "mes": "202501",
+        "pv": 7245874,
+        "label": "Jan/25",
+        "atual": false
+      },
+      {
+        "mes": "202502",
+        "pv": 4527477,
+        "label": "Fev/25",
+        "atual": false
+      },
+      {
+        "mes": "202503",
+        "pv": 5367201,
+        "label": "Mar/25",
+        "atual": false
+      },
+      {
+        "mes": "202504",
+        "pv": 6945113,
+        "label": "Abr/25",
+        "atual": false
+      },
+      {
+        "mes": "202505",
+        "pv": 6591733,
+        "label": "Mai/25",
+        "atual": false
+      },
+      {
+        "mes": "202506",
+        "pv": 11659575,
+        "label": "Jun/25",
+        "atual": false
+      },
+      {
+        "mes": "202507",
+        "pv": 13625154,
+        "label": "Jul/25",
+        "atual": false
+      },
+      {
+        "mes": "202508",
+        "pv": 10001619,
+        "label": "Ago/25",
+        "atual": false
+      },
+      {
+        "mes": "202509",
+        "pv": 6679985,
+        "label": "Set/25",
+        "atual": false
+      },
+      {
+        "mes": "202510",
+        "pv": 5336318,
+        "label": "Out/25",
+        "atual": false
+      },
+      {
+        "mes": "202511",
+        "pv": 4564202,
+        "label": "Nov/25",
+        "atual": false
+      },
+      {
+        "mes": "202512",
+        "pv": 5524739,
+        "label": "Dez/25",
+        "atual": false
+      },
+      {
+        "mes": "202601",
+        "pv": 4978658,
+        "label": "Jan/26",
+        "atual": false
+      },
+      {
+        "mes": "202602",
+        "pv": 6402972,
+        "label": "Fev/26",
+        "atual": false
+      },
+      {
+        "mes": "202603",
+        "pv": 5172054,
+        "label": "Mar/26",
+        "atual": false
+      },
+      {
+        "mes": "202604",
+        "pv": 5076878,
+        "label": "Abr/26",
+        "atual": false
+      },
+      {
+        "mes": "202605",
+        "pv": 1564196,
+        "label": "Mai/26",
+        "atual": true
+      }
+    ]
+  },
+  "analises": {
+    "resumo": "Dia com performance ligeiramente abaixo da meta, atingindo 99% do objetivo com 182.519 page views contra 184.733 esperados. As matérias sobre Imposto de Renda dominaram o topo do ranking, demonstrando forte interesse do público em conteúdo de utilidade pública. O aeroporto de Vitória com seu primeiro voo internacional também gerou engajamento significativo. A editoria de economia liderou com folga, representando mais de 17% de todo o tráfego do dia.",
+    "horarios": ">>> Manhã registrou 56.831 PVs, representando 31% do tráfego diário\n>>> Tarde foi o período mais forte com 61.014 PVs (33% do total)\n>>> Noite apresentou queda para 51.039 PVs (28% do tráfego)\n>>> Checkpoint das 11h superou a meta em 17%, alcançando 70.466 PVs\n>>> Checkpoint das 17h bateu ligeiramente a meta com 131.480 PVs contra 130.000",
+    "padrao": ">>> Imposto de Renda aparece em 2 das 5 matérias mais lidas, evidenciando apetite por conteúdo fiscal\n>>> Matérias de utilidade pública e serviço dominam o ranking\n>>> Única matéria local entre as tops foi sobre o aeroporto de Vitória\n>>> Temas nacionais como porte de armas e preço do cacau completam o top 5\n>>> Grande disparidade entre a primeira colocada (15.900 PVs) e a quinta (3.570 PVs)",
+    "editorias": ">>> Economia lidera com 31.574 PVs, demonstrando forte demanda por conteúdo financeiro\n>>> Política em segundo lugar com 17.209 PVs, mantendo relevância constante\n>>> Folha Business surpreende com 16.496 PVs, mostrando interesse empresarial\n>>> Cotidiano, Polícia e Trabalho equilibrados na faixa dos 7-8 mil PVs\n>>> Esportes fecha com 6.990 PVs, performance regular para a editoria",
+    "trafego": ">>> Google Orgânico mantém posição dominante com 52% do tráfego total\n>>> Tráfego direto representa 41%, indicando forte fidelização da audiência\n>>> Redes sociais contribuem com apenas 5%, sugerindo necessidade de maior investimento\n>>> Links externos respondem por 2% do tráfego\n>>> Canais como YouTube e e-mail apresentam performance nula",
+    "eficiencia": "Sem dados do sitemap disponíveis, não foi possível calcular a eficiência produtiva do dia. Esta ausência de informação compromete a análise de performance das matérias publicadas versus engajamento gerado. A concentração de audiência em poucas matérias sugere que a produção pode estar dispersa demais, com muitas matérias gerando baixo engajamento individual.",
+    "erros": ">>> Sitemap indisponível impediu análise completa da produção diária\n>>> Dependência excessiva de tráfego orgânico e direto, com redes sociais subutilizadas\n>>> Grande disparidade entre performance das matérias indica possível falta de curadoria",
+    "oportunidades": ">>> Ampliar cobertura de temas fiscais e tributários, que demonstraram alto engajamento\n>>> Investir mais em conteúdo sobre desenvolvimento regional, como o caso do aeroporto\n>>> Desenvolver estratégia para redes sociais, que representam apenas 5% do tráfego",
+    "acoes": ">>> Produzir mais conteúdo sobre prazo do Imposto de Renda e orientações fiscais\n>>> Acompanhar desdobramentos do primeiro voo internacional do aeroporto de Vitória\n>>> Revisar estratégia de redes sociais para aumentar participação no tráfego total",
+    "metaacumulada": "",
+    "historicodia": "",
+    "historicomes": "",
+    "tendencia": "",
+    "alerta": "\"Meta não atingida por margem estreita, com sitemap indisponível comprometendo análise produtiva.\"",
+    "licao": "O dia evidenciou que conteúdo de utilidade pública, especialmente relacionado a questões fiscais e tributárias, gera forte engajamento da audiência. A concentração de duas matérias sobre Imposto de Renda no top 3 confirma que o público busca orientação prática em períodos de obrigações fiscais. \"Servir ao leitor com informação útil é o caminho mais direto para o sucesso editorial.\""
+  }
+}
