@@ -1,0 +1,317 @@
+{
+  "dataDisplay": "04/05/2026",
+  "geradoEm": "2026-05-12T18:45:28.761Z",
+  "geradoRetroativamente": true,
+  "pvTotal": 297707,
+  "pctMeta": 152,
+  "metaHoje": 195433,
+  "metaAmanha": 191646,
+  "saldoOntem": 102274,
+  "deficitOntem": 0,
+  "metaDiaria": 200000,
+  "metaMensal": 6000000,
+  "usuarios": 149419,
+  "sessions": 199395,
+  "pgsPorSessao": "1.49",
+  "tempoMedio": "1min41s",
+  "pvManha": 85377,
+  "pvTarde": 94096,
+  "pvNoite": 90928,
+  "checkpoints": [
+    {
+      "label": "Até 11h",
+      "pv": 112683,
+      "meta": 60000,
+      "status": "META BATIDA"
+    },
+    {
+      "label": "Até 17h",
+      "pv": 206779,
+      "meta": 130000,
+      "status": "META BATIDA"
+    },
+    {
+      "label": "Até 21h",
+      "pv": 271873,
+      "meta": 195433,
+      "status": "META BATIDA"
+    }
+  ],
+  "producao": {
+    "disponivel": false
+  },
+  "topMaterias": [
+    {
+      "pos": 1,
+      "titulo": "Porte de arma pode ser ampliado para mais profissões; veja quais",
+      "pv": 86653,
+      "publicadaHoje": false
+    },
+    {
+      "pos": 2,
+      "titulo": "Porte de arma para novas profissões: veja quem pode ser afetado",
+      "pv": 11938,
+      "publicadaHoje": false
+    },
+    {
+      "pos": 3,
+      "titulo": "Sergio Sarkis comemora 90 anos em alto estilo, à beira-mar",
+      "pv": 8846,
+      "publicadaHoje": false
+    },
+    {
+      "pos": 4,
+      "titulo": "Morre mulher que se queimou após filho atear fogo em moto no ES",
+      "pv": 4925,
+      "publicadaHoje": false
+    },
+    {
+      "pos": 5,
+      "titulo": "Motoristas são flagrados dirigindo a mais de 130 km/h na BR-101",
+      "pv": 4137,
+      "publicadaHoje": false
+    }
+  ],
+  "editorias": [
+    {
+      "nome": "politica",
+      "pvTotal": 102537,
+      "pvPublicadas": 0,
+      "publicadas": null,
+      "urlsAcessadas": 15,
+      "mediaCorreta": null
+    },
+    {
+      "nome": "policia",
+      "pvTotal": 20858,
+      "pvPublicadas": 0,
+      "publicadas": null,
+      "urlsAcessadas": 27,
+      "mediaCorreta": null
+    },
+    {
+      "nome": "social",
+      "pvTotal": 14046,
+      "pvPublicadas": 0,
+      "publicadas": null,
+      "urlsAcessadas": 9,
+      "mediaCorreta": null
+    },
+    {
+      "nome": "transito",
+      "pvTotal": 9214,
+      "pvPublicadas": 0,
+      "publicadas": null,
+      "urlsAcessadas": 15,
+      "mediaCorreta": null
+    },
+    {
+      "nome": "cotidiano",
+      "pvTotal": 9086,
+      "pvPublicadas": 0,
+      "publicadas": null,
+      "urlsAcessadas": 12,
+      "mediaCorreta": null
+    },
+    {
+      "nome": "beleza",
+      "pvTotal": 7276,
+      "pvPublicadas": 0,
+      "publicadas": null,
+      "urlsAcessadas": 9,
+      "mediaCorreta": null
+    },
+    {
+      "nome": "economia",
+      "pvTotal": 6867,
+      "pvPublicadas": 0,
+      "publicadas": null,
+      "urlsAcessadas": 12,
+      "mediaCorreta": null
+    }
+  ],
+  "origens": [
+    {
+      "canal": "Direto",
+      "pv": 161937,
+      "pct": 54
+    },
+    {
+      "canal": "Google Orgânico",
+      "pv": 117891,
+      "pct": 40
+    },
+    {
+      "canal": "Social",
+      "pv": 12971,
+      "pct": 4
+    },
+    {
+      "canal": "Links externos",
+      "pv": 4229,
+      "pct": 1
+    },
+    {
+      "canal": "Não identificado",
+      "pv": 582,
+      "pct": 0
+    },
+    {
+      "canal": "YouTube",
+      "pv": 79,
+      "pct": 0
+    },
+    {
+      "canal": "E-mail",
+      "pv": 13,
+      "pct": 0
+    },
+    {
+      "canal": "Organic Shopping",
+      "pv": 3,
+      "pct": 0
+    },
+    {
+      "canal": "Mobile Push Notifications",
+      "pv": 2,
+      "pct": 0
+    }
+  ],
+  "historico": {
+    "mediaMesmoDia": 0,
+    "varMesmoDia": 0,
+    "media30": 0,
+    "media30a": 0,
+    "var30": 0,
+    "pvMesAtualAcum": 825584,
+    "pvMesAntMesmoPer": 0,
+    "varMesAnt": 0,
+    "diasRestantes": 27,
+    "pvFaltaMes": 5174416,
+    "mediaNecessaria": 191646,
+    "mediaMensal": 0,
+    "melhorMes": null,
+    "piorMes": null,
+    "mensal": [
+      {
+        "mes": "202501",
+        "pv": 7245874,
+        "label": "Jan/25",
+        "atual": false
+      },
+      {
+        "mes": "202502",
+        "pv": 4527477,
+        "label": "Fev/25",
+        "atual": false
+      },
+      {
+        "mes": "202503",
+        "pv": 5367201,
+        "label": "Mar/25",
+        "atual": false
+      },
+      {
+        "mes": "202504",
+        "pv": 6945113,
+        "label": "Abr/25",
+        "atual": false
+      },
+      {
+        "mes": "202505",
+        "pv": 6591733,
+        "label": "Mai/25",
+        "atual": false
+      },
+      {
+        "mes": "202506",
+        "pv": 11659575,
+        "label": "Jun/25",
+        "atual": false
+      },
+      {
+        "mes": "202507",
+        "pv": 13625154,
+        "label": "Jul/25",
+        "atual": false
+      },
+      {
+        "mes": "202508",
+        "pv": 10001619,
+        "label": "Ago/25",
+        "atual": false
+      },
+      {
+        "mes": "202509",
+        "pv": 6679985,
+        "label": "Set/25",
+        "atual": false
+      },
+      {
+        "mes": "202510",
+        "pv": 5336318,
+        "label": "Out/25",
+        "atual": false
+      },
+      {
+        "mes": "202511",
+        "pv": 4564202,
+        "label": "Nov/25",
+        "atual": false
+      },
+      {
+        "mes": "202512",
+        "pv": 5524739,
+        "label": "Dez/25",
+        "atual": false
+      },
+      {
+        "mes": "202601",
+        "pv": 4978658,
+        "label": "Jan/26",
+        "atual": false
+      },
+      {
+        "mes": "202602",
+        "pv": 6402972,
+        "label": "Fev/26",
+        "atual": false
+      },
+      {
+        "mes": "202603",
+        "pv": 5172054,
+        "label": "Mar/26",
+        "atual": false
+      },
+      {
+        "mes": "202604",
+        "pv": 5076878,
+        "label": "Abr/26",
+        "atual": false
+      },
+      {
+        "mes": "202605",
+        "pv": 825584,
+        "label": "Mai/26",
+        "atual": true
+      }
+    ]
+  },
+  "analises": {
+    "resumo": "O Folha Vitória registrou performance excepcional neste sábado, alcançando 297.707 page views e superando em 52% a meta estabelecida de 195.433. A audiência foi impulsionada principalmente por matérias sobre ampliação do porte de armas, tema que dominou o ranking com duas posições no top 5. O tráfego manteve-se equilibrado ao longo do dia, com ligeira vantagem no período da tarde. A editoria de política liderou com mais de 100 mil visualizações, demonstrando o interesse do público por temas de segurança pública.",
+    "horarios": ">>> Manhã (85.377 PVs): Início sólido representando 28,7% do tráfego total\n>>> Tarde (94.096 PVs): Melhor performance com 31,6% das visualizações\n>>> Noite (90.928 PVs): Sustentação forte com 30,5% do volume\n>>> Checkpoint 11h: Superou meta em 87,8% (112.683/60.000)\n>>> Checkpoint 17h: Atingiu 159% da meta (206.779/130.000)",
+    "padrao": ">>> Temas de segurança pública dominaram com 98.591 PVs nas duas primeiras posições\n>>> Conteúdo político-legislativo sobre armas gerou alta engajamento\n>>> Matérias locais (Sergio Sarkis) mantiveram relevância com quase 9 mil PVs\n>>> Tragédias regionais (morte no ES) garantiram interesse do público\n>>> Tráfico e infrações de trânsito completaram o interesse por segurança",
+    "editorias": ">>> Política: Liderança absoluta com 102.537 PVs (34% do total)\n>>> Polícia: Segunda colocação com 20.858 PVs, complementando segurança\n>>> Social: 14.046 PVs mantendo conexão local\n>>> Trânsito: 9.214 PVs com matérias de infrações\n>>> Cotidiano: 9.086 PVs em quinto lugar\n>>> Demais editorias (beleza, economia) com performance modesta",
+    "trafego": ">>> Tráfego direto predominante com 54% das visitas\n>>> Google Orgânico forte com 40% de participação\n>>> Redes sociais contribuíram com 4% do volume\n>>> Links externos representaram apenas 1%\n>>> Demais canais com participação residual\n>>> Dependência equilibrada entre direto e orgânico",
+    "eficiencia": "Performance produtiva comprometida pela indisponibilidade do sitemap, impedindo análise completa da relação produção versus audiência. A concentração de visualizações nas matérias sobre porte de armas sugere que temas de interesse nacional com impacto local geram maior engajamento que volume de publicações.",
+    "erros": ">>> Sitemap indisponível prejudicou monitoramento da produção editorial\n>>> Baixa diversificação temática nas top matérias\n>>> Participação limitada das redes sociais (apenas 4%)",
+    "oportunidades": ">>> Explorar desdobramentos do tema porte de armas em diferentes ângulos\n>>> Ampliar presença em redes sociais para reduzir dependência do tráfego direto\n>>> Desenvolver mais conteúdos sobre segurança pública regional",
+    "acoes": ">>> Investigar causa da indisponibilidade do sitemap e corrigir\n>>> Planejar série de matérias sobre impactos da legislação de armas no ES\n>>> Intensificar estratégia de distribuição em redes sociais",
+    "metaacumulada": "",
+    "historicodia": "",
+    "historicomes": "",
+    "tendencia": "",
+    "alerta": "\"Dependência excessiva de temas específicos pode gerar instabilidade na audiência se o interesse público diminuir\"",
+    "licao": "O sucesso deste sábado confirma que temas de segurança pública, especialmente quando envolvem mudanças legislativas com impacto direto na vida do cidadão, geram alto engajamento. A combinação de relevância nacional com enfoque local maximiza o interesse do público capixaba. \"Audiência excepcional nasce da escolha certeira de temas que mexem com o cotidiano do leitor\""
+  }
+}
