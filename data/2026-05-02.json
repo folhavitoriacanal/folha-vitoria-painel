@@ -1,0 +1,307 @@
+{
+  "dataDisplay": "02/05/2026",
+  "geradoEm": "2026-05-12T18:44:20.540Z",
+  "geradoRetroativamente": true,
+  "pvTotal": 147804,
+  "pctMeta": 76,
+  "metaHoje": 194612,
+  "metaAmanha": 196226,
+  "saldoOntem": -46808,
+  "deficitOntem": 46808,
+  "metaDiaria": 200000,
+  "metaMensal": 6000000,
+  "usuarios": 55807,
+  "sessions": 81878,
+  "pgsPorSessao": "1.81",
+  "tempoMedio": "1min50s",
+  "pvManha": 38741,
+  "pvTarde": 42412,
+  "pvNoite": 49921,
+  "checkpoints": [
+    {
+      "label": "Até 11h",
+      "pv": 55471,
+      "meta": 60000,
+      "status": "PERTO DA META"
+    },
+    {
+      "label": "Até 17h",
+      "pv": 97883,
+      "meta": 130000,
+      "status": "ABAIXO"
+    },
+    {
+      "label": "Até 21h",
+      "pv": 134725,
+      "meta": 194612,
+      "status": "MUITO ABAIXO"
+    }
+  ],
+  "producao": {
+    "disponivel": false
+  },
+  "topMaterias": [
+    {
+      "pos": 1,
+      "titulo": "Nivea da lata azul: 3 formas de usar o creme na rotina",
+      "pv": 6468,
+      "publicadaHoje": false
+    },
+    {
+      "pos": 2,
+      "titulo": "Motoristas são flagrados dirigindo a mais de 130 km/h na BR-101",
+      "pv": 6355,
+      "publicadaHoje": false
+    },
+    {
+      "pos": 3,
+      "titulo": "Trânsito em Cariacica muda neste sábado; veja vias interditadas",
+      "pv": 4437,
+      "publicadaHoje": false
+    },
+    {
+      "pos": 4,
+      "titulo": "Canetas emagrecedoras: veja preços atualizados",
+      "pv": 4170,
+      "publicadaHoje": false
+    },
+    {
+      "pos": 5,
+      "titulo": "Em alta! 10 inspirações de unhas para o Dia das Mães 2026",
+      "pv": 2987,
+      "publicadaHoje": false
+    }
+  ],
+  "editorias": [
+    {
+      "nome": "transito",
+      "pvTotal": 14998,
+      "pvPublicadas": 0,
+      "publicadas": null,
+      "urlsAcessadas": 15,
+      "mediaCorreta": null
+    },
+    {
+      "nome": "beleza",
+      "pvTotal": 14671,
+      "pvPublicadas": 0,
+      "publicadas": null,
+      "urlsAcessadas": 16,
+      "mediaCorreta": null
+    },
+    {
+      "nome": "policia",
+      "pvTotal": 11826,
+      "pvPublicadas": 0,
+      "publicadas": null,
+      "urlsAcessadas": 35,
+      "mediaCorreta": null
+    },
+    {
+      "nome": "cotidiano",
+      "pvTotal": 7238,
+      "pvPublicadas": 0,
+      "publicadas": null,
+      "urlsAcessadas": 15,
+      "mediaCorreta": null
+    },
+    {
+      "nome": "saude",
+      "pvTotal": 4344,
+      "pvPublicadas": 0,
+      "publicadas": null,
+      "urlsAcessadas": 4,
+      "mediaCorreta": null
+    },
+    {
+      "nome": "economia",
+      "pvTotal": 3867,
+      "pvPublicadas": 0,
+      "publicadas": null,
+      "urlsAcessadas": 12,
+      "mediaCorreta": null
+    },
+    {
+      "nome": "cultura",
+      "pvTotal": 3399,
+      "pvPublicadas": 0,
+      "publicadas": null,
+      "urlsAcessadas": 15,
+      "mediaCorreta": null
+    }
+  ],
+  "origens": [
+    {
+      "canal": "Direto",
+      "pv": 80406,
+      "pct": 54
+    },
+    {
+      "canal": "Google Orgânico",
+      "pv": 57200,
+      "pct": 39
+    },
+    {
+      "canal": "Social",
+      "pv": 7464,
+      "pct": 5
+    },
+    {
+      "canal": "Links externos",
+      "pv": 2258,
+      "pct": 2
+    },
+    {
+      "canal": "Não identificado",
+      "pv": 405,
+      "pct": 0
+    },
+    {
+      "canal": "YouTube",
+      "pv": 46,
+      "pct": 0
+    },
+    {
+      "canal": "E-mail",
+      "pv": 25,
+      "pct": 0
+    }
+  ],
+  "historico": {
+    "mediaMesmoDia": 0,
+    "varMesmoDia": 0,
+    "media30": 0,
+    "media30a": 0,
+    "var30": 0,
+    "pvMesAtualAcum": 309462,
+    "pvMesAntMesmoPer": 0,
+    "varMesAnt": 0,
+    "diasRestantes": 29,
+    "pvFaltaMes": 5690538,
+    "mediaNecessaria": 196226,
+    "mediaMensal": 0,
+    "melhorMes": null,
+    "piorMes": null,
+    "mensal": [
+      {
+        "mes": "202501",
+        "pv": 7245874,
+        "label": "Jan/25",
+        "atual": false
+      },
+      {
+        "mes": "202502",
+        "pv": 4527477,
+        "label": "Fev/25",
+        "atual": false
+      },
+      {
+        "mes": "202503",
+        "pv": 5367201,
+        "label": "Mar/25",
+        "atual": false
+      },
+      {
+        "mes": "202504",
+        "pv": 6945113,
+        "label": "Abr/25",
+        "atual": false
+      },
+      {
+        "mes": "202505",
+        "pv": 6591733,
+        "label": "Mai/25",
+        "atual": false
+      },
+      {
+        "mes": "202506",
+        "pv": 11659575,
+        "label": "Jun/25",
+        "atual": false
+      },
+      {
+        "mes": "202507",
+        "pv": 13625154,
+        "label": "Jul/25",
+        "atual": false
+      },
+      {
+        "mes": "202508",
+        "pv": 10001619,
+        "label": "Ago/25",
+        "atual": false
+      },
+      {
+        "mes": "202509",
+        "pv": 6679985,
+        "label": "Set/25",
+        "atual": false
+      },
+      {
+        "mes": "202510",
+        "pv": 5336318,
+        "label": "Out/25",
+        "atual": false
+      },
+      {
+        "mes": "202511",
+        "pv": 4564202,
+        "label": "Nov/25",
+        "atual": false
+      },
+      {
+        "mes": "202512",
+        "pv": 5524739,
+        "label": "Dez/25",
+        "atual": false
+      },
+      {
+        "mes": "202601",
+        "pv": 4978658,
+        "label": "Jan/26",
+        "atual": false
+      },
+      {
+        "mes": "202602",
+        "pv": 6402972,
+        "label": "Fev/26",
+        "atual": false
+      },
+      {
+        "mes": "202603",
+        "pv": 5172054,
+        "label": "Mar/26",
+        "atual": false
+      },
+      {
+        "mes": "202604",
+        "pv": 5076878,
+        "label": "Abr/26",
+        "atual": false
+      },
+      {
+        "mes": "202605",
+        "pv": 309462,
+        "label": "Mai/26",
+        "atual": true
+      }
+    ]
+  },
+  "analises": {
+    "resumo": "O dia 02/05/2026 registrou 147.804 page views com 55.807 usuários únicos, alcançando 76% da meta diária estabelecida em 194.612 PVs. A noite foi o período de maior movimento com 49.921 acessos, seguida pela tarde com 42.412 e manhã com 38.741. O conteúdo de utilidade pública dominou o ranking, com matérias sobre beleza, trânsito e produtos em destaque. As editorias de trânsito e beleza lideraram em performance, consolidando o interesse por conteúdos práticos e de serviço.",
+    "horarios": "A distribuição de tráfego seguiu padrão saudável com crescimento ao longo do dia, concentrando maior audiência no período noturno quando usuários buscam informações após expediente de trabalho. \n\n>>> Manhã apresentou movimento moderado com 38.741 PVs, indicando engajamento regular do público matutino\n>>> Tarde registrou crescimento para 42.412 PVs, período tradicionalmente forte para conteúdos de trânsito e utilidades\n>>> Noite liderou com 49.921 PVs, confirmando hábito de consumo de notícias no período de maior disponibilidade dos usuários\n>>> Checkpoint 11h atingiu 55.471 de 60.000 (92,5%), performance próxima ao ideal\n>>> Checkpoint 17h alcançou 97.883 de 130.000 (75,3%), indicando necessidade de intensificar publicações vespertinas",
+    "padrao": "As matérias de maior sucesso revelam preferência clara por conteúdos de utilidade prática, com foco em beleza, trânsito e produtos de consumo cotidiano.\n\n>>> Conteúdos de beleza e cuidados pessoais dominam com \"Nivea da lata azul\" liderando com 6.468 PVs\n>>> Informações de trânsito e mobilidade urbana mantêm relevância com duas matérias no top 5\n>>> Produtos para emagrecimento e saúde despertam interesse consistente da audiência\n>>> Conteúdos sazonais como \"unhas para Dia das Mães\" geram engajamento específico\n>>> Matérias de serviço público superam em performance conteúdos noticiosos tradicionais",
+    "editorias": "A performance por editorias evidencia domínio dos temas de utilidade pública e serviços, com trânsito e beleza liderando significativamente.\n\n>>> Trânsito lidera com 14.998 PVs, confirmando demanda por informações de mobilidade urbana\n>>> Beleza alcança 14.671 PVs, demonstrando forte interesse por conteúdos de cuidados pessoais\n>>> Polícia registra 11.826 PVs, mantendo relevância como editoria tradicional de hard news\n>>> Cotidiano soma 7.238 PVs, performance moderada para temas gerais do dia a dia\n>>> Saúde, economia e cultura apresentam números menores, indicando necessidade de estratégias específicas",
+    "trafego": "O tráfego orgânico mantém predominância saudável, com Google e acesso direto respondendo por 93% da audiência total.\n\n>>> Tráfego direto representa 54%, indicando fidelização forte da audiência e reconhecimento da marca\n>>> Google Orgânico contribui com 39%, demonstrando boa otimização SEO e descoberta de conteúdo\n>>> Redes sociais respondem por apenas 5%, sinalizando oportunidade de crescimento na distribuição social\n>>> Links externos somam 2%, participação baixa que pode ser ampliada com parcerias estratégicas\n>>> Canais como YouTube e e-mail marketing apresentam participação zero, indicando potencial inexplorado",
+    "eficiencia": "A produção enfrentou limitações técnicas com sitemap indisponível, impactando potencialmente a indexação e descoberta de conteúdos pelos mecanismos de busca.",
+    "erros": ">>> Sitemap indisponível compromete indexação automática de novos conteúdos pelos buscadores\n>>> Meta diária não atingida com déficit de 46.808 page views (24% abaixo do objetivo)\n>>> Baixo desempenho das redes sociais indica falha na estratégia de distribuição multiplataforma",
+    "oportunidades": ">>> Intensificar produção de conteúdos de beleza e cuidados pessoais, aproveitando alta demanda demonstrada\n>>> Expandir cobertura de trânsito para outros municípios da Grande Vitória, replicando sucesso atual\n>>> Desenvolver estratégia robusta para redes sociais, explorando potencial de crescimento da audiência social",
+    "acoes": ">>> Resolver problema técnico do sitemap prioritariamente para restaurar indexação completa\n>>> Programar série especial sobre Dia das Mães com foco em beleza, presentes e celebração familiar\n>>> Implementar cronograma intensificado de publicações vespertinas para melhorar performance do checkpoint 17h",
+    "metaacumulada": "",
+    "historicodia": "",
+    "historicomes": "",
+    "tendencia": "",
+    "alerta": "\"Sitemap indisponível há mais de 24 horas pode impactar severamente o tráfego orgânico nos próximos dias.\"",
+    "licao": "O dia demonstrou que conteúdos de utilidade prática superam hard news em engajamento, especialmente quando abordam necessidades cotidianas como beleza, trânsito e produtos de consumo. A audiência busca informações que agreguem valor prático ao dia a dia, priorizando matérias que ofereçam soluções e orientações aplicáveis. \"Servir antes de informar é a chave para conquistar audiência fiel.\""
+  }
+}
