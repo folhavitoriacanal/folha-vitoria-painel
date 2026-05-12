@@ -1,0 +1,320 @@
+{
+  "dataDisplay": "11/05/2026",
+  "geradoEm": "2026-05-12T18:35:41.872Z",
+  "pvTotal": 214789,
+  "pctMeta": 116,
+  "metaHoje": 185019,
+  "metaAmanha": 183531,
+  "saldoOntem": 29770,
+  "deficitOntem": 0,
+  "metaDiaria": 200000,
+  "metaMensal": 6000000,
+  "usuarios": 88124,
+  "sessions": 120711,
+  "pgsPorSessao": "1.78",
+  "tempoMedio": "2min25s",
+  "pvManha": 71667,
+  "pvTarde": 71106,
+  "pvNoite": 53310,
+  "checkpoints": [
+    {
+      "label": "Até 11h",
+      "pv": 90373,
+      "meta": 60000,
+      "status": "META BATIDA"
+    },
+    {
+      "label": "Até 17h",
+      "pv": 161479,
+      "meta": 130000,
+      "status": "META BATIDA"
+    },
+    {
+      "label": "Até 21h",
+      "pv": 201527,
+      "meta": 185019,
+      "status": "META BATIDA"
+    }
+  ],
+  "producao": {
+    "disponivel": true,
+    "totalPublicadas": 92,
+    "pvPublicadas": 36979,
+    "mediaRealPorMateria": 402,
+    "materiasComAcesso": 88,
+    "materiasSemAcesso": 4,
+    "pvAntigos": 177810
+  },
+  "topMaterias": [
+    {
+      "pos": 1,
+      "titulo": "Restituição do IR 2026: quando será pago o 1º lote",
+      "pv": 20736,
+      "publicadaHoje": false
+    },
+    {
+      "pos": 2,
+      "titulo": "Banda histórica do rock fará show gratuito em Vitória em julho",
+      "pv": 7780,
+      "publicadaHoje": false
+    },
+    {
+      "pos": 3,
+      "titulo": "Imposto de Renda: até que idade os idosos precisam declarar?",
+      "pv": 6772,
+      "publicadaHoje": false
+    },
+    {
+      "pos": 4,
+      "titulo": "INSS: veja quando será o pagamento da segunda parcela do 13º",
+      "pv": 5290,
+      "publicadaHoje": false
+    },
+    {
+      "pos": 5,
+      "titulo": "Prazo para entrega do Imposto de Renda 2026 mudou? Veja data",
+      "pv": 4150,
+      "publicadaHoje": false
+    }
+  ],
+  "editorias": [
+    {
+      "nome": "economia",
+      "pvTotal": 38410,
+      "pvPublicadas": 496,
+      "publicadas": 4,
+      "urlsAcessadas": 28,
+      "mediaCorreta": 124
+    },
+    {
+      "nome": "cultura",
+      "pvTotal": 15889,
+      "pvPublicadas": 4553,
+      "publicadas": 11,
+      "urlsAcessadas": 56,
+      "mediaCorreta": 414
+    },
+    {
+      "nome": "policia",
+      "pvTotal": 12742,
+      "pvPublicadas": 7904,
+      "publicadas": 7,
+      "urlsAcessadas": 43,
+      "mediaCorreta": 1129
+    },
+    {
+      "nome": "cotidiano",
+      "pvTotal": 8445,
+      "pvPublicadas": 3932,
+      "publicadas": 7,
+      "urlsAcessadas": 39,
+      "mediaCorreta": 562
+    },
+    {
+      "nome": "politica",
+      "pvTotal": 6566,
+      "pvPublicadas": 4135,
+      "publicadas": 11,
+      "urlsAcessadas": 26,
+      "mediaCorreta": 376
+    },
+    {
+      "nome": "social",
+      "pvTotal": 6404,
+      "pvPublicadas": 1912,
+      "publicadas": 2,
+      "urlsAcessadas": 17,
+      "mediaCorreta": 956
+    },
+    {
+      "nome": "tempo",
+      "pvTotal": 5526,
+      "pvPublicadas": 2006,
+      "publicadas": 2,
+      "urlsAcessadas": 7,
+      "mediaCorreta": 1003
+    }
+  ],
+  "origens": [
+    {
+      "canal": "Google Orgânico",
+      "pv": 100964,
+      "pct": 47
+    },
+    {
+      "canal": "Direto",
+      "pv": 99531,
+      "pct": 46
+    },
+    {
+      "canal": "Social",
+      "pv": 9548,
+      "pct": 4
+    },
+    {
+      "canal": "Links externos",
+      "pv": 3442,
+      "pct": 2
+    },
+    {
+      "canal": "Não identificado",
+      "pv": 1250,
+      "pct": 1
+    },
+    {
+      "canal": "YouTube",
+      "pv": 45,
+      "pct": 0
+    },
+    {
+      "canal": "E-mail",
+      "pv": 9,
+      "pct": 0
+    }
+  ],
+  "historico": {
+    "mediaMesmoDia": 195558,
+    "varMesmoDia": 10,
+    "media30": 193086,
+    "media30a": 165858,
+    "var30": 16,
+    "pvMesAtualAcum": 2329390,
+    "pvMesAntMesmoPer": 1613703,
+    "varMesAnt": 44,
+    "diasRestantes": 20,
+    "pvFaltaMes": 3670610,
+    "mediaNecessaria": 183531,
+    "mediaMensal": 6856222,
+    "melhorMes": {
+      "mes": "202507",
+      "pv": 13625154,
+      "label": "Jul/25"
+    },
+    "piorMes": {
+      "mes": "202502",
+      "pv": 4527477,
+      "label": "Fev/25"
+    },
+    "mensal": [
+      {
+        "mes": "202501",
+        "pv": 7245874,
+        "label": "Jan/25",
+        "atual": false
+      },
+      {
+        "mes": "202502",
+        "pv": 4527477,
+        "label": "Fev/25",
+        "atual": false
+      },
+      {
+        "mes": "202503",
+        "pv": 5367201,
+        "label": "Mar/25",
+        "atual": false
+      },
+      {
+        "mes": "202504",
+        "pv": 6945113,
+        "label": "Abr/25",
+        "atual": false
+      },
+      {
+        "mes": "202505",
+        "pv": 6591733,
+        "label": "Mai/25",
+        "atual": false
+      },
+      {
+        "mes": "202506",
+        "pv": 11659575,
+        "label": "Jun/25",
+        "atual": false
+      },
+      {
+        "mes": "202507",
+        "pv": 13625154,
+        "label": "Jul/25",
+        "atual": false
+      },
+      {
+        "mes": "202508",
+        "pv": 10001619,
+        "label": "Ago/25",
+        "atual": false
+      },
+      {
+        "mes": "202509",
+        "pv": 6679985,
+        "label": "Set/25",
+        "atual": false
+      },
+      {
+        "mes": "202510",
+        "pv": 5336318,
+        "label": "Out/25",
+        "atual": false
+      },
+      {
+        "mes": "202511",
+        "pv": 4564202,
+        "label": "Nov/25",
+        "atual": false
+      },
+      {
+        "mes": "202512",
+        "pv": 5524739,
+        "label": "Dez/25",
+        "atual": false
+      },
+      {
+        "mes": "202601",
+        "pv": 4978658,
+        "label": "Jan/26",
+        "atual": false
+      },
+      {
+        "mes": "202602",
+        "pv": 6402972,
+        "label": "Fev/26",
+        "atual": false
+      },
+      {
+        "mes": "202603",
+        "pv": 5172054,
+        "label": "Mar/26",
+        "atual": false
+      },
+      {
+        "mes": "202604",
+        "pv": 5076878,
+        "label": "Abr/26",
+        "atual": false
+      },
+      {
+        "mes": "202605",
+        "pv": 2329390,
+        "label": "Mai/26",
+        "atual": true
+      }
+    ]
+  },
+  "analises": {
+    "resumo": "O dia 11/05/2026 registrou 214.789 page views, superando em 116% a meta diária de 185.019 visualizações, com um excedente de 29.770 PVs. A distribuição por períodos mostrou equilíbrio entre manhã (71.667 PVs) e tarde (71.106 PVs), com queda natural no período noturno (53.310 PVs). O desempenho mantém o portal no caminho para atingir a meta mensal de 6 milhões, com 38,8% já acumulados. A audiência foi impulsionada principalmente por matérias antigas sobre Imposto de Renda e benefícios sociais.",
+    "horarios": ">>> Manhã (6h-11h): 71.667 PVs com checkpoint às 11h atingindo 90.373 contra meta de 60.000 (150% da meta)\n>>> Tarde (12h-17h): 71.106 PVs com checkpoint às 17h totalizando 161.479 contra meta de 130.000 (124% da meta)\n>>> Noite (18h-23h): 53.310 PVs com checkpoint às 21h chegando a 201.527 contra meta final de 185.019 (109% da meta)\n>>> Todos os checkpoints intermediários foram superados, demonstrando consistência ao longo do dia",
+    "padrao": ">>> Domínio absoluto de matérias sobre Imposto de Renda: 3 das 5 top matérias tratam do tema\n>>> Conteúdo evergreen prevalece: todas as top 5 matérias são antigas, não do dia\n>>> Matérias de serviço lideram: restituição IR (20.736 PVs), INSS (5.290 PVs) e prazos fiscais (4.150 PVs)\n>>> Único conteúdo cultural no top 5: show gratuito em Vitória com 7.780 PVs",
+    "editorias": ">>> Polícia teve melhor média real: 1.129 PVs por matéria com 7 publicações\n>>> Tempo registrou boa média: 1.003 PVs por matéria com apenas 2 publicações\n>>> Social mostrou eficiência: 956 PVs por matéria com 2 publicações\n>>> Economia decepcionou: apenas 124 PVs por matéria apesar de 4 publicações\n>>> Cultura manteve média sólida: 414 PVs por matéria com 11 publicações",
+    "trafego": ">>> Google orgânico e tráfego direto praticamente empatados: 47% vs 46%\n>>> Redes sociais com participação baixa: apenas 4% do tráfego total\n>>> Tráfego de referência externo mínimo: 2% indica pouca viralização\n>>> YouTube e e-mail marketing negligíveis: juntos não chegam a 1%\n>>> Equilíbrio entre buscas e audiência fidelizada demonstra saúde da marca",
+    "eficiencia": "A produção de 92 matérias gerou média real de 402 PVs por matéria, com 88 conteúdos registrando acessos. Quatro matérias ficaram sem visualizações, representando 4,3% de conteúdo sem retorno. O volume de matérias antigas (177.810 PVs) superou em quase 5 vezes o desempenho do conteúdo novo (36.979 PVs).",
+    "erros": ">>> Alto volume de produção com baixo retorno: 92 matérias para apenas 36.979 PVs do dia\n>>> Economia publicou 4 matérias mas teve média de apenas 124 PVs cada\n>>> Quatro matérias sem nenhum acesso representam desperdício de recursos\n>>> Dependência excessiva de matérias antigas pode indicar falta de conteúdo viral novo",
+    "oportunidades": ">>> Explorar mais conteúdo sobre Imposto de Renda, que domina o ranking de acessos\n>>> Investir em matérias de serviço público, especialmente previdência e benefícios\n>>> Replicar estratégia da editoria de Polícia nas demais editorias\n>>> Potencializar redes sociais, que representam apenas 4% do tráfego\n>>> Criar mais conteúdo evergreen para sustentar audiência futura",
+    "acoes": ">>> Publicar pelo menos 2 matérias sobre IR ou INSS para surfar na onda do interesse\n>>> Reduzir volume de matérias de Economia e focar em qualidade\n>>> Investigar e republicar as 4 matérias que ficaram sem acesso\n>>> Intensificar promoção nas redes sociais com conteúdo mais visual\n>>> Estabelecer meta de 183.531 PVs com checkpoint de 61.177 às 11h",
+    "metaacumulada": "A meta dinâmica de 185.019 PVs foi calculada dividindo o saldo restante da meta mensal (3.700.380 PVs na época) pelos dias restantes incluindo ontem (20 dias). Com o resultado de hoje, restam 3.670.610 PVs para atingir os 6 milhões mensais. A meta de amanhã diminui para 183.531 PVs, calculada dividindo o novo saldo restante por 20 dias. Este sistema de meta dinâmica garante que qualquer dia acima da meta facilite os dias seguintes.",
+    "historicodia": ">>> Desempenho 10% superior à média das últimas 8 semanas no mesmo dia (195.558 PVs)\n>>> Superou a média dos últimos 30 dias (193.086 PVs) em 21.703 visualizações\n>>> Resultado consistente com a tendência de crescimento observada no período",
+    "historicomes": ">>> Acumulado mensal de 2.329.390 PVs representa crescimento de 44% vs mesmo período do mês anterior\n>>> Com 20 dias restantes, precisa manter média de 183.531 PVs/dia para bater meta\n>>> Ritmo atual sugere meta mensal alcançável se mantida consistência",
+    "tendencia": "A média dos últimos 30 dias (193.086) supera em 16% a média dos 30 dias anteriores (165.858), confirmando tendência de crescimento sustentado. O melhor mês da história foi julho/2025 com 13.625.154 PVs, enquanto o pior foi fevereiro/2025 com 4.527.477 PVs, demonstrando a capacidade de oscilação sazonal do portal.",
+    "alerta": "\"A dependência de matérias antigas para sustentar a audiência pode indicar problema na produção de conteúdo viral atual.\"",
+    "licao": "O sucesso do dia reforça que matérias de serviço público, especialmente sobre impostos e benefícios, garantem audiência sustentada mesmo após semanas de publicação. A editoria de Polícia demonstrou que qualidade supera quantidade, atingindo a melhor média de PVs por matéria. O equilíbrio entre tráfego orgânico e direto evidencia saúde da marca, mas as redes sociais carecem de atenção estratégica. \"Conteúdo evergreen é investimento de longo prazo na audiência.\""
+  }
+}
