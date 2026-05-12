@@ -5,50 +5,78 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Painel de Audiência — Folha Vitória</title>
 <style>
-:root{--red:#B71C1C;--red-dk:#7F0000;--red-lt:#fff5f5;--green:#2E7D32;--green-lt:#E8F5E9;--orange:#E65100;--orange-lt:#FFF3E0;--blue:#1565C0;--blue-lt:#E3F2FD;--purple:#4A148C;--teal:#00695C;--gray1:#1a1a1a;--gray2:#555;--gray3:#888;--gray4:#bbb;--border:#e8e8e8;--bg:#f4f4f6;--white:#fff}
+:root{
+  --pri:#2409b1;--pri-dk:#1b058e;--pri-lt:#f0f4ff;--pri-tint:#c5bff5;--pri-border:#b8b0f0;
+  --green:#2E7D32;--green-lt:#E8F5E9;
+  --orange:#E65100;--orange-lt:#FFF3E0;
+  --blue2:#1565C0;--blue2-lt:#E3F2FD;
+  --purple:#4A148C;--teal:#00695C;
+  --gray1:#1a1a1a;--gray2:#555;--gray3:#888;--gray4:#bbb;
+  --border:#e8e8e8;--bg:#f4f4f6;--white:#fff;
+  --header-h:62px;--nav-h:42px;
+}
 *{box-sizing:border-box;margin:0;padding:0}
 body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif;background:var(--bg);color:var(--gray1);font-size:14px}
-.header{background:var(--red);color:white;position:sticky;top:0;z-index:100;box-shadow:0 2px 12px rgba(0,0,0,.25)}
-.header-inner{max-width:1200px;margin:0 auto;padding:14px 24px;display:flex;align-items:center;gap:16px;flex-wrap:wrap}
-.logo{background:white;color:var(--red);font-weight:800;font-size:13px;padding:5px 10px;border-radius:4px;letter-spacing:1px;flex-shrink:0}
-.header-title{flex:1}
-.header-title h1{font-size:16px;font-weight:600}
-.header-title p{font-size:12px;opacity:.75;margin-top:2px}
-.meta-badge{border:1px solid rgba(255,255,255,.3);border-radius:20px;padding:6px 14px;font-size:13px;font-weight:700;white-space:nowrap}
-.meta-badge.ok{background:rgba(46,125,50,.85)}
-.meta-badge.warn{background:rgba(230,81,0,.85)}
-.meta-badge.fail{background:rgba(183,28,28,.5)}
-.update-time{font-size:11px;opacity:.6;white-space:nowrap}
-.nav{background:var(--red-dk);overflow-x:auto;scrollbar-width:none}
+
+/* HEADER */
+.header{background:var(--pri);color:white;position:sticky;top:0;z-index:200;box-shadow:0 2px 12px rgba(0,0,0,.3);height:var(--header-h)}
+.header-inner{max-width:1200px;margin:0 auto;padding:0 20px;height:100%;display:flex;align-items:center;gap:16px;flex-wrap:nowrap}
+.logo-img{height:34px;object-fit:contain;flex-shrink:0;filter:brightness(0) invert(1)}
+.header-sep{width:1px;height:28px;background:rgba(255,255,255,.3);flex-shrink:0}
+.header-title{flex:1;min-width:0}
+.header-title h1{font-size:14px;font-weight:600;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.header-title p{font-size:11px;opacity:.7;margin-top:2px}
+.date-nav{display:flex;align-items:center;gap:6px;flex-shrink:0}
+.date-nav button{background:rgba(255,255,255,.15);border:1px solid rgba(255,255,255,.3);color:white;width:28px;height:28px;border-radius:50%;cursor:pointer;font-size:14px;line-height:1;transition:.2s}
+.date-nav button:hover{background:rgba(255,255,255,.3)}
+.date-nav button:disabled{opacity:.3;cursor:default}
+.date-nav-label{font-size:12px;font-weight:600;white-space:nowrap;min-width:90px;text-align:center}
+.meta-badge{border:1px solid rgba(255,255,255,.3);border-radius:20px;padding:5px 12px;font-size:12px;font-weight:700;white-space:nowrap;flex-shrink:0}
+.meta-badge.ok{background:rgba(46,125,50,.85)}.meta-badge.warn{background:rgba(230,81,0,.85)}.meta-badge.fail{background:rgba(27,5,142,.5)}
+
+/* NAV — sticky abaixo do header */
+.nav{background:var(--pri-dk);overflow-x:auto;scrollbar-width:none;position:sticky;top:var(--header-h);z-index:190;height:var(--nav-h)}
 .nav::-webkit-scrollbar{display:none}
-.nav-inner{max-width:1200px;margin:0 auto;display:flex;padding:0 16px}
-.nav a{color:rgba(255,255,255,.6);text-decoration:none;font-size:12px;font-weight:500;padding:10px 14px;white-space:nowrap;border-bottom:2px solid transparent;transition:all .2s}
+.nav-inner{max-width:1200px;margin:0 auto;display:flex;padding:0 12px;height:100%;align-items:stretch}
+.nav a{color:rgba(255,255,255,.6);text-decoration:none;font-size:12px;font-weight:500;padding:0 14px;white-space:nowrap;border-bottom:2px solid transparent;display:flex;align-items:center;transition:.2s}
 .nav a:hover,.nav a.active{color:white;border-bottom-color:white}
-.page{max-width:1200px;margin:0 auto;padding:24px 16px 60px}
-.section{margin-bottom:28px;scroll-margin-top:90px}
-.section-head{display:flex;align-items:center;gap:10px;margin-bottom:14px}
+
+/* LAYOUT */
+.page{max-width:1200px;margin:0 auto;padding:20px 16px 60px}
+
+/* SECTIONS */
+.section{margin-bottom:26px;scroll-margin-top:calc(var(--header-h) + var(--nav-h) + 12px)}
+.section-head{display:flex;align-items:center;gap:10px;margin-bottom:12px}
 .section-num{width:26px;height:26px;border-radius:50%;display:flex;align-items:center;justify-content:center;color:white;font-size:11px;font-weight:700;flex-shrink:0}
 .section-title{font-size:13px;font-weight:700;text-transform:uppercase;letter-spacing:.5px}
 .section-body{border-left:3px solid var(--border);padding-left:14px}
-.divider{border:none;border-top:2px solid var(--border);margin:32px 0 24px}
-.divider-label{font-size:11px;font-weight:700;color:var(--blue);text-transform:uppercase;letter-spacing:2px;margin-bottom:20px;padding-bottom:6px;border-bottom:2px solid var(--blue);display:inline-block}
+
+/* DIVIDER */
+.divider{border:none;border-top:2px solid var(--border);margin:28px 0 20px}
+.divider-label{font-size:11px;font-weight:700;color:var(--blue2);text-transform:uppercase;letter-spacing:2px;margin-bottom:18px;padding-bottom:6px;border-bottom:2px solid var(--blue2);display:inline-block}
+
+/* CARDS */
 .cards{display:grid;gap:10px;margin-bottom:12px}
 .cards-3{grid-template-columns:repeat(3,1fr)}
-.cards-6{grid-template-columns:repeat(6,1fr)}
-@media(max-width:700px){.cards-3,.cards-6{grid-template-columns:repeat(2,1fr)}}
-@media(max-width:400px){.cards-3,.cards-6{grid-template-columns:1fr 1fr}}
+@media(max-width:700px){.cards-3{grid-template-columns:repeat(2,1fr)}}
 .card{background:var(--white);border-radius:8px;padding:12px 14px;text-align:center;border:1px solid var(--border)}
-.card.red{background:#fff5f5;border-color:#ffcdd2}.card.green{background:#f1f8f1;border-color:#c8e6c9}.card.orange{background:#fff8f0;border-color:#ffe0b2}.card.blue{background:#f0f6ff;border-color:#bbdefb}
-.card-label{font-size:10px;color:var(--gray3);text-transform:uppercase;letter-spacing:.5px;margin-bottom:6px}
-.card-value{font-size:21px;font-weight:800;color:var(--gray1);line-height:1}
-.card.red .card-value{color:var(--red)}.card.green .card-value{color:var(--green)}.card.orange .card-value{color:var(--orange)}
-.card-sub{font-size:11px;color:var(--gray3);margin-top:4px}
-.prod-block{background:#f0f4ff;border-radius:8px;padding:14px 16px;margin:10px 0;border-left:4px solid var(--blue)}
-.prod-block-title{font-size:11px;font-weight:700;color:var(--blue);text-transform:uppercase;letter-spacing:.5px;margin-bottom:10px}
+.card.pri{background:var(--pri-lt);border-color:var(--pri-tint)}
+.card.green{background:#f1f8f1;border-color:#c8e6c9}
+.card.orange{background:#fff8f0;border-color:#ffe0b2}
+.card.blue2{background:#f0f6ff;border-color:#bbdefb}
+.card-label{font-size:10px;color:var(--gray3);text-transform:uppercase;letter-spacing:.5px;margin-bottom:5px}
+.card-value{font-size:20px;font-weight:800;color:var(--gray1);line-height:1}
+.card.pri .card-value{color:var(--pri)}
+.card.green .card-value{color:var(--green)}
+.card.orange .card-value{color:var(--orange)}
+
+/* BADGES */
 .badge{display:inline-block;font-size:11px;font-weight:700;padding:2px 10px;border-radius:10px}
 .badge.ok{background:var(--green-lt);color:var(--green)}.badge.warn{background:var(--orange-lt);color:var(--orange)}.badge.fail{background:#ffebee;color:#c62828}
 .var{display:inline-block;font-size:13px;font-weight:700;padding:2px 8px;border-radius:10px}
 .var.up{background:var(--green-lt);color:var(--green)}.var.down{background:#ffebee;color:#c62828}
+
+/* TABLE */
 .table-wrap{overflow-x:auto;border-radius:8px;border:1px solid var(--border);margin-bottom:12px}
 table{width:100%;border-collapse:collapse;background:white;font-size:13px}
 th{background:#f7f7f7;font-size:10px;font-weight:600;color:var(--gray3);text-transform:uppercase;letter-spacing:.5px;padding:8px 12px;text-align:left}
@@ -56,13 +84,17 @@ th.r,td.r{text-align:right}th.c,td.c{text-align:center}
 td{padding:10px 12px;border-bottom:1px solid var(--border);color:var(--gray1)}
 tr:last-child td{border-bottom:none}tr:nth-child(even) td{background:#fafafa}
 .top-b{font-size:10px;background:var(--green-lt);color:var(--green);padding:1px 7px;border-radius:8px;margin-left:6px;font-weight:700}
-.new-b{font-size:10px;background:var(--blue-lt);color:var(--blue);padding:1px 7px;border-radius:8px;margin-left:4px}
+.new-b{font-size:10px;background:var(--pri-lt);color:var(--pri);padding:1px 7px;border-radius:8px;margin-left:4px}
 .old-b{font-size:10px;background:#f5f5f5;color:var(--gray3);padding:1px 7px;border-radius:8px;margin-left:4px}
+
+/* BARS */
 .bar-wrap{background:#f0f0f0;border-radius:4px;height:6px;margin-top:5px;overflow:hidden}
 .bar{height:6px;border-radius:4px}
 .origem-row{margin-bottom:10px}
 .origem-label{display:flex;justify-content:space-between;font-size:12px;color:var(--gray2);margin-bottom:4px}
 .origem-pct{font-weight:700;color:var(--gray1)}
+
+/* CHART */
 .chart-wrap{background:white;border-radius:8px;padding:16px;border:1px solid var(--border);overflow-x:auto}
 .chart-title{font-size:11px;color:var(--gray3);text-transform:uppercase;letter-spacing:.5px;margin-bottom:12px}
 .chart-bars{display:flex;align-items:flex-end;gap:6px;height:100px;min-width:400px}
@@ -70,27 +102,48 @@ tr:last-child td{border-bottom:none}tr:nth-child(even) td{background:#fafafa}
 .chart-pv{font-size:9px;color:var(--gray3);white-space:nowrap}
 .chart-bar{width:100%;border-radius:3px 3px 0 0;min-height:4px}
 .chart-label{font-size:9px;color:var(--gray3);white-space:nowrap}
-.chart-label.cur{color:var(--blue);font-weight:700}
-.chart-note{font-size:10px;color:var(--gray4);margin-top:8px}
+.chart-label.cur{color:var(--pri);font-weight:700}
+
+/* ANALYSIS */
 .analysis{font-size:13px;color:var(--gray2);line-height:1.75}
 .analysis p{margin:4px 0}
 .bullet{display:flex;gap:8px;margin:5px 0}
-.bullet-icon{color:var(--red);font-weight:700;flex-shrink:0;margin-top:2px}
+.bullet-icon{color:var(--pri);font-weight:700;flex-shrink:0;margin-top:2px}
 .bullet-text{font-size:13px;color:#333;line-height:1.6}
 .insight-line{font-size:13px;color:var(--gray2);padding:2px 0 2px 12px;border-left:2px solid var(--border);margin:3px 0}
-.alert-quote{font-size:14px;font-style:italic;color:var(--red);padding:10px 14px;border-left:3px solid var(--red);margin:8px 0;background:var(--red-lt);border-radius:0 6px 6px 0}
+.alert-quote{font-size:14px;font-style:italic;color:var(--pri);padding:10px 14px;border-left:3px solid var(--pri);margin:8px 0;background:var(--pri-lt);border-radius:0 6px 6px 0}
+
+/* PROD BLOCK */
+.prod-block{background:var(--pri-lt);border-radius:8px;padding:14px 16px;margin:10px 0;border-left:4px solid var(--pri)}
+.prod-block-title{font-size:11px;font-weight:700;color:var(--pri);text-transform:uppercase;letter-spacing:.5px;margin-bottom:10px}
+
+/* META BLOCK */
+.meta-block{background:var(--pri-lt);border-radius:8px;padding:12px 14px;margin:8px 0;border-left:4px solid var(--pri)}
+.meta-block-title{font-size:11px;font-weight:700;color:var(--pri);text-transform:uppercase;letter-spacing:.5px;margin-bottom:6px}
+
+/* LOADING */
 .loading{text-align:center;padding:80px 20px}
-.spinner{width:36px;height:36px;border:3px solid var(--border);border-top-color:var(--red);border-radius:50%;animation:spin 1s linear infinite;margin:0 auto 16px}
+.spinner{width:36px;height:36px;border:3px solid var(--border);border-top-color:var(--pri);border-radius:50%;animation:spin 1s linear infinite;margin:0 auto 16px}
 @keyframes spin{to{transform:rotate(360deg)}}
 .loading p{color:var(--gray3)}
-.err-box{background:#fff5f5;border:1px solid #ffcdd2;border-radius:8px;padding:20px;text-align:center;color:var(--red);margin:40px auto;max-width:500px}
-@media(max-width:600px){.header-inner{padding:12px 16px}.page{padding:16px 12px 60px}}
+.err-box{background:#fff5f5;border:1px solid #ffcdd2;border-radius:8px;padding:20px;text-align:center;color:#c62828;margin:40px auto;max-width:500px}
+
+@media(max-width:600px){.header-inner{padding:0 12px;gap:10px}.page{padding:14px 12px 60px}.date-nav-label{min-width:70px;font-size:11px}}
 </style>
 </head>
 <body>
 <div id="app"><div class="loading"><div class="spinner"></div><p>Carregando dados...</p></div></div>
+
 <script>
-var DATA_URL='data/relatorio.json';
+// ================================================================
+// Estado global
+// ================================================================
+var DATES    = [];   // lista de datas disponíveis (desc)
+var CUR_IDX  = 0;   // índice atual em DATES
+
+// ================================================================
+// Utilitários
+// ================================================================
 function fmt(n){return Number(n||0).toLocaleString('pt-BR')}
 function vb(p){return'<span class="var '+(p>=0?'up':'down')+'">'+(p>=0?'+':'')+p+'%</span>'}
 function sb(s){var ok=s==='META BATIDA',pr=s==='PERTO DA META';return'<span class="badge '+(ok?'ok':pr?'warn':'fail')+'">'+(ok?'✓ ':'! ')+s+'</span>'}
@@ -107,166 +160,238 @@ function ra(text){
     return'<p>'+l+'</p>';
   }).filter(Boolean).join('');
 }
+
+// ================================================================
+// Navegação de datas
+// ================================================================
+function carregarIndex(){
+  fetch('data/index.json?t='+Date.now())
+    .then(function(r){return r.ok?r.json():[];})
+    .then(function(dates){
+      DATES=Array.isArray(dates)&&dates.length?dates:[];
+      CUR_IDX=0;
+      if(DATES.length>0){
+        carregarData(DATES[0]);
+      } else {
+        carregarData(null); // fallback para relatorio.json
+      }
+    })
+    .catch(function(){carregarData(null);});
+}
+
+function carregarData(dataStr){
+  var url = dataStr ? ('data/'+dataStr+'.json?t='+Date.now()) : ('data/relatorio.json?t='+Date.now());
+  document.getElementById('app').innerHTML='<div class="loading"><div class="spinner"></div><p>Carregando '+( dataStr||'último relatório')+'...</p></div>';
+  fetch(url)
+    .then(function(r){if(!r.ok)throw new Error('HTTP '+r.status);return r.json();})
+    .then(render)
+    .catch(function(e){showErr(e.message)});
+}
+
+function navPrev(){
+  if(CUR_IDX<DATES.length-1){CUR_IDX++;carregarData(DATES[CUR_IDX]);atualizarBotoes();}
+}
+function navNext(){
+  if(CUR_IDX>0){CUR_IDX--;carregarData(DATES[CUR_IDX]);atualizarBotoes();}
+}
+function atualizarBotoes(){
+  var btnPrev=document.getElementById('btn-prev');
+  var btnNext=document.getElementById('btn-next');
+  var lbl    =document.getElementById('nav-label');
+  if(btnPrev) btnPrev.disabled=(CUR_IDX>=DATES.length-1);
+  if(btnNext) btnNext.disabled=(CUR_IDX<=0);
+  if(lbl && DATES[CUR_IDX]){
+    var p=DATES[CUR_IDX].split('-');
+    lbl.textContent=p[2]+'/'+p[1]+'/'+p[0];
+  }
+}
+
+// ================================================================
+// Render principal
+// ================================================================
 function render(d){
   var h=d.historico||{},p=d.producao||{},a=d.analises||{};
   var mc=d.pctMeta>=100?'ok':d.pctMeta>=85?'warn':'fail';
   var gerado=d.geradoEm?new Date(d.geradoEm).toLocaleString('pt-BR'):'';
   var mensal=h.mensal||[];
   var maxPv=mensal.length?Math.max.apply(null,mensal.map(function(m){return m.pv;})):1;
+
   var chartBars=mensal.map(function(m){
     var pct=Math.round((m.pv/maxPv)*100);
-    var clr=m.atual?'#1565C0':'#B71C1C';
-    var op=m.atual?'opacity:.65;':'';
+    var clr=m.atual?'var(--pri)':'#aaa';
+    var op=m.atual?'opacity:.7;':'';
     var lbl=m.pv>=1000000?(m.pv/1000000).toFixed(1)+'M':(m.pv/1000).toFixed(0)+'k';
     return'<div class="chart-col"><span class="chart-pv">'+lbl+'</span><div class="chart-bar" style="height:'+pct+'px;background:'+clr+';'+op+'"></div><span class="chart-label'+(m.atual?' cur':'')+'" >'+m.label+'</span></div>';
   }).join('');
+
   var topRows=(d.topMaterias||[]).map(function(m){
     var pb=d.pvTotal>0?Math.round((m.pv/d.pvTotal)*100):0;
     var badge=m.publicadaHoje?'<span class="new-b">ontem</span>':'<span class="old-b">antiga</span>';
-    var bc=m.publicadaHoje?'#B71C1C':'#bbb';
-    return'<tr><td style="width:22px;font-weight:700;color:#B71C1C;">'+m.pos+'</td><td>'+m.titulo+badge+'<div class="bar-wrap"><div class="bar" style="width:'+pb+'%;background:'+bc+';"></div></div></td><td class="r" style="font-weight:700;white-space:nowrap;">'+fmt(m.pv)+'<div style="font-size:10px;color:#bbb;">PVs</div></td></tr>';
+    var bc=m.publicadaHoje?'var(--pri)':'#bbb';
+    return'<tr><td style="width:22px;font-weight:700;color:var(--pri);">'+m.pos+'</td><td>'+m.titulo+badge+'<div class="bar-wrap"><div class="bar" style="width:'+pb+'%;background:'+bc+';"></div></div></td><td class="r" style="font-weight:700;white-space:nowrap;">'+fmt(m.pv)+'<div style="font-size:10px;color:#bbb;">PVs</div></td></tr>';
   }).join('');
+
   var edRows=(d.editorias||[]).map(function(e,i){
     var tb=i===0?'<span class="top-b">TOP</span>':'';
-    var cor=i===0?'color:#2E7D32;font-weight:700;':'';
-    var qtd=e.publicadas!=null?e.publicadas:'—';
-    var med=e.mediaCorreta!=null?fmt(e.mediaCorreta):'—';
-    return'<tr><td style="'+cor+'">'+e.nome+tb+'</td><td class="r">'+fmt(e.pvTotal)+'</td><td class="r">'+qtd+'</td><td class="r" style="font-weight:700;">'+med+'</td></tr>';
+    var cor=i===0?'color:var(--green);font-weight:700;':'';
+    return'<tr><td style="'+cor+'">'+e.nome+tb+'</td><td class="r">'+fmt(e.pvTotal)+'</td><td class="r">'+(e.publicadas!=null?e.publicadas:'—')+'</td><td class="r" style="font-weight:700;">'+(e.mediaCorreta!=null?fmt(e.mediaCorreta):'—')+'</td></tr>';
   }).join('');
+
   var orBars=(d.origens||[]).map(function(o){
-    return'<div class="origem-row"><div class="origem-label"><span>'+o.canal+'</span><span class="origem-pct">'+o.pct+'%</span></div><div class="bar-wrap"><div class="bar" style="width:'+o.pct+'%;background:#1565C0;height:8px;"></div></div><div style="font-size:11px;color:#bbb;margin-top:3px;">'+fmt(o.pv)+' PVs</div></div>';
+    return'<div class="origem-row"><div class="origem-label"><span>'+o.canal+'</span><span class="origem-pct">'+o.pct+'%</span></div><div class="bar-wrap"><div class="bar" style="width:'+o.pct+'%;background:var(--blue2);height:8px;"></div></div><div style="font-size:11px;color:#bbb;margin-top:3px;">'+fmt(o.pv)+' PVs</div></div>';
   }).join('');
+
   var ckRows=(d.checkpoints||[]).map(function(c){
     return'<tr><td style="font-weight:700;">'+c.label+'</td><td class="r">'+fmt(c.pv)+'</td><td class="r" style="color:#888;">'+fmt(c.meta)+'</td><td class="c">'+sb(c.status)+'</td></tr>';
   }).join('');
+
   var prodB=p.disponivel
-    ?'<div class="prod-block"><div class="prod-block-title">Matérias publicadas ontem × audiência — cruzamento real</div>'
-      +'<div class="cards cards-3">'+cd('Publicadas ontem',p.totalPublicadas)+cd('PVs dessas matérias',fmt(p.pvPublicadas),'blue')+cd('Média real PV/matéria',fmt(p.mediaRealPorMateria))+'</div>'
-      +'<div class="cards cards-3" style="margin-top:8px;">'+cd('Com acesso',p.materiasComAcesso,'green')+cd('Sem nenhum acesso',p.materiasSemAcesso,p.materiasSemAcesso>0?'red':'')+cd('PVs de matérias antigas',fmt(p.pvAntigos))+'</div>'
-      +'<p style="font-size:11px;color:#888;margin-top:10px;padding-top:8px;border-top:1px solid #d0d8f0;">Os '+fmt(d.pvTotal)+' PVs totais incluem matérias de outros dias. A eficiência é calculada só sobre as publicadas ontem.</p></div>'
-    :'<div style="background:#fff3e0;border-radius:6px;padding:10px 12px;font-size:12px;color:#e65100;">Sitemap indisponível — eficiência por matéria não calculada.</div>';
-  var defN=d.deficitAcum>0
-    ?'<div style="background:#fff3e0;border-radius:6px;padding:8px 12px;margin:8px 0;font-size:12px;color:#e65100;">Meta base: '+fmt(d.metaDiaria)+' + Déficit: '+fmt(d.deficitAcum)+' = <strong>Meta do dia: '+fmt(d.metaHoje)+'</strong></div>':'' ;
+    ?'<div class="prod-block"><div class="prod-block-title">Matérias publicadas × audiência — cruzamento real</div>'
+      +'<div class="cards cards-3">'+cd('Publicadas ontem',p.totalPublicadas)+cd('PVs dessas matérias',fmt(p.pvPublicadas),'pri')+cd('Média real PV/matéria',fmt(p.mediaRealPorMateria))+'</div>'
+      +'<div class="cards cards-3" style="margin-top:8px;">'+cd('Com acesso',p.materiasComAcesso,'green')+cd('Sem nenhum acesso',p.materiasSemAcesso,p.materiasSemAcesso>0?'orange':'')+cd('PVs de matérias antigas',fmt(p.pvAntigos))+'</div>'
+      +'<p style="font-size:11px;color:#888;margin-top:10px;padding-top:8px;border-top:1px solid var(--pri-border);">Os '+fmt(d.pvTotal)+' PVs totais incluem matérias de outros dias. A eficiência é calculada só sobre as publicadas ontem.</p></div>'
+    :'<div style="background:var(--orange-lt);border-radius:6px;padding:10px 12px;font-size:12px;color:var(--orange);">Sitemap indisponível — eficiência por matéria não calculada.</div>';
+
+  var pvFaltaMes=Math.max(0,(d.metaMensal||6000000)-(h.pvMesAtualAcum||0));
+  var blocoMeta='<div class="meta-block"><div class="meta-block-title">Como a meta é calculada</div>'
+    +'<div style="font-size:12px;color:var(--gray2);line-height:1.9;">'
+    +'Meta mensal: <strong>'+fmt(d.metaMensal||6000000)+'</strong> &nbsp;|&nbsp; '
+    +'Acumulado: <strong>'+fmt(h.pvMesAtualAcum||0)+'</strong> &nbsp;|&nbsp; '
+    +'Falta: <strong>'+fmt(pvFaltaMes)+'</strong><br>'
+    +'Dias restantes: <strong>'+h.diasRestantes+'</strong> &nbsp;→&nbsp; '
+    +'Meta de amanhã: <strong>'+fmt(d.metaAmanha)+'</strong>'
+    +'</div></div>';
+
   var navItems=[
     ['resumo','Resumo'],['numeros','Números'],['horarios','Horários'],['materias','Matérias'],
     ['editorias','Editorias'],['trafego','Tráfego'],['eficiencia','Eficiência'],['erros','Erros'],
-    ['oportunidades','Oportunidades'],['acoes','Ações'],['meta','Meta/Déficit'],
+    ['oportunidades','Oportunidades'],['acoes','Ações'],['meta','Meta'],
     ['historico','Histórico'],['mensal','Mensal'],['licao','Lição']
   ];
+
+  // Data atual para o label de navegação
+  var dataLabel=d.dataDisplay||'';
+  if(DATES.length>0&&DATES[CUR_IDX]){var p2=DATES[CUR_IDX].split('-');dataLabel=p2[2]+'/'+p2[1]+'/'+p2[0];}
+
   var html=''
+    // HEADER
     +'<div class="header"><div class="header-inner">'
-    +'<div class="logo">FV</div>'
-    +'<div class="header-title"><h1>Relatório Diário de Audiência</h1><p>Folha Vitória · Rede Vitória</p></div>'
-    +'<span class="update-time">'+d.dataDisplay+'</span>'
-    +'<span class="meta-badge '+mc+'">'+(d.pctMeta>=100?'✓':'!')+' '+d.pctMeta+'% da meta</span>'
+    +'<img class="logo-img" src="https://www.folhavitoria.com.br/wp-content/uploads/2024/09/logo-header-1.svg" alt="Folha Vitória" onerror="this.style.display=\'none\';document.getElementById(\'logo-fb\').style.display=\'block\'">'
+    +'<span id="logo-fb" style="display:none;background:white;color:var(--pri);font-weight:800;font-size:13px;padding:5px 10px;border-radius:4px;letter-spacing:1px;">FV</span>'
+    +'<div class="header-sep"></div>'
+    +'<div class="header-title"><h1>Painel de Audiência</h1><p>Rede Vitória · '+gerado+'</p></div>'
+    +'<div class="date-nav">'
+    +'<button id="btn-prev" onclick="navPrev()" title="Dia anterior" '+(CUR_IDX>=DATES.length-1?'disabled':'')+'">◀</button>'
+    +'<span id="nav-label" class="date-nav-label">'+dataLabel+'</span>'
+    +'<button id="btn-next" onclick="navNext()" title="Próximo dia" '+(CUR_IDX<=0?'disabled':'')+'">▶</button>'
+    +'</div>'
+    +'<span class="meta-badge '+mc+'">'+(d.pctMeta>=100?'✓':'!')+' '+d.pctMeta+'% meta</span>'
     +'</div></div>'
+
+    // NAV
     +'<div class="nav"><div class="nav-inner">'
     +navItems.map(function(x){return'<a href="#sec-'+x[0]+'" onclick="sa(this)">'+x[1]+'</a>';}).join('')
     +'</div></div>'
+
+    // CONTENT
     +'<div class="page">'
-    +'<div style="font-size:11px;font-weight:700;color:#B71C1C;text-transform:uppercase;letter-spacing:2px;padding-bottom:6px;border-bottom:2px solid #B71C1C;margin-bottom:20px;">Relatório do Dia — '+d.dataDisplay+'</div>'
+    +'<div style="font-size:11px;font-weight:700;color:var(--pri);text-transform:uppercase;letter-spacing:2px;padding-bottom:6px;border-bottom:2px solid var(--pri);margin-bottom:20px;">Relatório do Dia — '+d.dataDisplay+'</div>'
 
     // 1
-    +'<div class="section" id="sec-resumo">'+sh(1,'Resumo Executivo','#B71C1C')+'<div class="section-body analysis">'+ra(a.resumo)+'</div></div>'
+    +'<div class="section" id="sec-resumo">'+sh(1,'Resumo Executivo','var(--pri)')+'<div class="section-body analysis">'+ra(a.resumo)+'</div></div>'
 
     // 2
-    +'<div class="section" id="sec-numeros">'+sh(2,'Números do Dia','#1565C0')+'<div class="section-body">'
-    +'<div class="cards cards-3">'+cd('Pageviews totais',fmt(d.pvTotal),'red')+cd('Meta do dia',fmt(d.metaHoje))+cd('% atingido',d.pctMeta+'%',d.pctMeta<100?'orange':'green')+'</div>'
+    +'<div class="section" id="sec-numeros">'+sh(2,'Números do Dia','var(--blue2)')+'<div class="section-body">'
+    +'<div class="cards cards-3">'+cd('Pageviews totais',fmt(d.pvTotal),'pri')+cd('Meta do dia',fmt(d.metaHoje))+cd('% atingido',d.pctMeta+'%',d.pctMeta<100?'orange':'green')+'</div>'
     +'<div class="cards cards-3" style="margin-top:8px;">'+cd('Usuários',fmt(d.usuarios))+cd('Pág/Sessão',d.pgsPorSessao)+cd('Tempo médio',d.tempoMedio)+'</div>'
-    +defN+prodB+'</div></div>'
+    +prodB+'</div></div>'
 
     // 3
-    +'<div class="section" id="sec-horarios">'+sh(3,'Performance por Período e Horário','#00695C')+'<div class="section-body">'
+    +'<div class="section" id="sec-horarios">'+sh(3,'Performance por Período e Horário','var(--teal)')+'<div class="section-body">'
     +'<div class="cards cards-3" style="margin-bottom:12px;">'+cd('Manhã (6h–11h)',fmt(d.pvManha))+cd('Tarde (12h–17h)',fmt(d.pvTarde))+cd('Noite (18h–23h)',fmt(d.pvNoite))+'</div>'
     +'<div class="table-wrap"><table><thead><tr><th>Checkpoint</th><th class="r">Acumulado</th><th class="r">Meta</th><th class="c">Status</th></tr></thead><tbody>'+ckRows+'</tbody></table></div>'
     +'<div class="analysis">'+ra(a.horarios)+'</div></div></div>'
 
     // 4
-    +'<div class="section" id="sec-materias">'+sh(4,'Top Matérias','#6A1B9A')+'<div class="section-body">'
+    +'<div class="section" id="sec-materias">'+sh(4,'Top Matérias','var(--purple)')+'<div class="section-body">'
     +'<div class="table-wrap"><table><thead><tr><th>#</th><th>Título</th><th class="r">PVs</th></tr></thead><tbody>'+topRows+'</tbody></table></div>'
     +'<div class="analysis">'+ra(a.padrao)+'</div></div></div>'
 
     // 5
-    +'<div class="section" id="sec-editorias">'+sh(5,'Performance por Editoria','#E65100')+'<div class="section-body">'
+    +'<div class="section" id="sec-editorias">'+sh(5,'Performance por Editoria','var(--orange)')+'<div class="section-body">'
     +'<div class="table-wrap"><table><thead><tr><th>Editoria</th><th class="r">PVs totais</th><th class="r">Publicadas</th><th class="r">Média real</th></tr></thead><tbody>'+edRows+'</tbody></table></div>'
     +'<p style="font-size:11px;color:#bbb;padding:4px 0 10px;">Média real = PVs das publicadas ontem ÷ matérias publicadas (cruzamento sitemap × GA4)</p>'
     +'<div class="analysis">'+ra(a.editorias)+'</div></div></div>'
 
     // 6
-    +'<div class="section" id="sec-trafego">'+sh(6,'Origem de Tráfego','#1565C0')+'<div class="section-body">'
+    +'<div class="section" id="sec-trafego">'+sh(6,'Origem de Tráfego','var(--blue2)')+'<div class="section-body">'
     +'<div style="background:white;border-radius:8px;padding:14px 16px;border:1px solid var(--border);margin-bottom:12px;">'+orBars+'</div>'
     +'<div class="analysis">'+ra(a.trafego)+'</div></div></div>'
 
-    // 7-10
-    +'<div class="section" id="sec-eficiencia">'+sh(7,'Eficiência da Produção','#4A148C')+'<div class="section-body analysis">'+ra(a.eficiencia)+'</div></div>'
+    +'<div class="section" id="sec-eficiencia">'+sh(7,'Eficiência da Produção','var(--purple)')+'<div class="section-body analysis">'+ra(a.eficiencia)+'</div></div>'
     +'<div class="section" id="sec-erros">'+sh(8,'Erros do Dia','#C62828')+'<div class="section-body analysis">'+ra(a.erros)+'</div></div>'
-    +'<div class="section" id="sec-oportunidades">'+sh(9,'Oportunidades','#2E7D32')+'<div class="section-body analysis">'+ra(a.oportunidades)+'</div></div>'
-    +'<div class="section" id="sec-acoes">'+sh(10,'Ações para Amanhã','#00695C')+'<div class="section-body analysis">'+ra(a.acoes)+'</div></div>'
+    +'<div class="section" id="sec-oportunidades">'+sh(9,'Oportunidades','var(--green)')+'<div class="section-body analysis">'+ra(a.oportunidades)+'</div></div>'
+    +'<div class="section" id="sec-acoes">'+sh(10,'Ações para Amanhã','var(--teal)')+'<div class="section-body analysis">'+ra(a.acoes)+'</div></div>'
 
     // ALERTA
-    +'<div style="background:#fff5f5;border-radius:8px;padding:14px 16px;margin-bottom:28px;border-left:4px solid #B71C1C;">'
-    +'<div style="font-size:11px;font-weight:700;color:#B71C1C;margin-bottom:6px;text-transform:uppercase;letter-spacing:.5px;">Alerta do Editor</div>'
+    +'<div style="background:var(--pri-lt);border-radius:8px;padding:14px 16px;margin-bottom:26px;border-left:4px solid var(--pri);">'
+    +'<div style="font-size:11px;font-weight:700;color:var(--pri);margin-bottom:6px;text-transform:uppercase;letter-spacing:.5px;">Alerta do Editor</div>'
     +'<div class="analysis">'+ra(a.alerta)+'</div></div>'
 
-    // 12
-    +'<div class="section" id="sec-meta">'+sh(12,'Meta e Déficit Acumulado','#E65100')+'<div class="section-body">'
-    +'<div class="cards cards-3">'+cd('Meta amanhã',fmt(d.metaAmanha),d.novoDeficit>0?'orange':'')+cd('Déficit novo',fmt(d.novoDeficit),d.novoDeficit>0?'red':'green')+cd('Meta base',fmt(d.metaDiaria))+'</div>'
+    // META
+    +'<div class="section" id="sec-meta">'+sh(12,'Meta e Acumulado do Mês','var(--orange)')+'<div class="section-body">'
+    +'<div class="cards cards-3">'+cd('Acum. do mês',fmt(h.pvMesAtualAcum))+cd('Falta para meta mensal',fmt(pvFaltaMes),pvFaltaMes>0?'orange':'green')+cd('Dias restantes',h.diasRestantes||0)+'</div>'
+    +'<div class="cards cards-3" style="margin-top:8px;">'+cd('Meta amanhã',fmt(d.metaAmanha),d.metaAmanha>(d.metaDiaria||200000)?'orange':'')+cd('Meta base',fmt(d.metaDiaria||200000))+cd('Meta mensal',fmt(d.metaMensal||6000000))+'</div>'
+    +blocoMeta
     +'<div class="analysis">'+ra(a.metaacumulada||a['meta_acumulada'])+'</div></div></div>'
 
-    // 13
-    +'<div class="section" id="sec-licao">'+sh(13,'Lição de Audiência do Dia','#B71C1C')+'<div class="section-body analysis">'+ra(a.licao)+'</div></div>'
+    // LIÇÃO
+    +'<div class="section" id="sec-licao">'+sh(13,'Lição de Audiência do Dia','var(--pri)')+'<div class="section-body analysis">'+ra(a.licao)+'</div></div>'
 
-    // HISTORICO
+    // HISTÓRICO
     +'<hr class="divider"><div class="divider-label">Comparativo Histórico</div>'
 
-    // 14
-    +'<div class="section" id="sec-historico">'+sh(14,'Hoje vs Histórico','#1565C0')+'<div class="section-body">'
+    +'<div class="section" id="sec-historico">'+sh(14,'Hoje vs Histórico','var(--blue2)')+'<div class="section-body">'
     +'<div class="cards cards-3">'+cd('Hoje',fmt(d.pvTotal))+cd('Média mesmo dia (8 sem.)',fmt(h.mediaMesmoDia))
-    +'<div class="card"><div class="card-label">vs mesmo dia</div><div class="card-value">'+vb(h.varMesmoDia)+'</div></div>'
-    +'</div>'
-    +'<div class="cards cards-3" style="margin-top:8px;">'+cd('Média 30 dias',fmt(h.media30))+cd('Média 30d anteriores',fmt(h.media30a))
-    +'<div class="card"><div class="card-label">Tendência 30d</div><div class="card-value">'+vb(h.var30)+'</div></div>'
-    +'</div>'
-    +'<div class="analysis">'+ra(a.historicodia||a['historico_dia'])+'</div></div></div>'
+    +'<div class="card"><div class="card-label">vs mesmo dia</div><div class="card-value">'+vb(h.varMesmoDia||0)+'</div></div>'
+    +'</div><div class="cards cards-3" style="margin-top:8px;">'+cd('Média 30 dias',fmt(h.media30))+cd('Média 30d anteriores',fmt(h.media30a))
+    +'<div class="card"><div class="card-label">Tendência 30d</div><div class="card-value">'+vb(h.var30||0)+'</div></div>'
+    +'</div><div class="analysis">'+ra(a.historicodia||a['historico_dia'])+'</div></div></div>'
 
-    // 15
-    +'<div class="section">'+sh(15,'Acumulado do Mês','#00695C')+'<div class="section-body">'
+    +'<div class="section">'+sh(15,'Acumulado do Mês vs Anterior','var(--teal)')+'<div class="section-body">'
     +'<div class="cards cards-3">'+cd('Acum. mês atual',fmt(h.pvMesAtualAcum))+cd('Mês anterior (mesmo per.)',fmt(h.pvMesAntMesmoPer))
-    +'<div class="card"><div class="card-label">vs mês anterior</div><div class="card-value">'+vb(h.varMesAnt)+'</div></div>'
-    +'</div>'
-    +'<div class="cards cards-3" style="margin-top:8px;">'
-    +cd('Falta para meta mensal',fmt(h.pvFaltaMes),h.pvFaltaMes>0?'red':'green')
-    +cd('Dias restantes',h.diasRestantes)
-    +cd('Média nec./dia',fmt(h.mediaNecessaria),h.mediaNecessaria>d.metaDiaria?'orange':'')
-    +'</div>'
-    +'<div class="analysis">'+ra(a.historiomes||a.historicoMes||a['historico_mes'])+'</div></div></div>'
+    +'<div class="card"><div class="card-label">vs mês anterior</div><div class="card-value">'+vb(h.varMesAnt||0)+'</div></div>'
+    +'</div><div class="analysis">'+ra(a.historiomes||a['historico_mes'])+'</div></div></div>'
 
-    // 16
-    +'<div class="section" id="sec-mensal">'+sh(16,'Tendência Histórica (desde Jan/2025)','#4A148C')+'<div class="section-body">'
-    +'<div class="cards cards-3" style="margin-bottom:12px;">'
-    +cd('Média mensal hist.',fmt(h.mediaMensal))
-    +cd('Melhor mês',h.melhorMes?h.melhorMes.label:'—')
-    +cd('Pior mês',h.piorMes?h.piorMes.label:'—')
-    +'</div>'
+    +'<div class="section" id="sec-mensal">'+sh(16,'Tendência Histórica (desde Jan/2025)','var(--purple)')+'<div class="section-body">'
+    +'<div class="cards cards-3" style="margin-bottom:12px;">'+cd('Média mensal hist.',fmt(h.mediaMensal))+cd('Melhor mês',h.melhorMes?h.melhorMes.label:'—')+cd('Pior mês',h.piorMes?h.piorMes.label:'—')+'</div>'
     +'<div class="analysis">'+ra(a.tendencia)+'</div>'
     +'<div class="chart-wrap" style="margin-top:14px;">'
-    +'<div class="chart-title">Pageviews por mês — azul = mês atual (parcial)</div>'
+    +'<div class="chart-title">Pageviews por mês — roxo = mês atual (parcial)</div>'
     +'<div class="chart-bars">'+chartBars+'</div>'
-    +'<p class="chart-note">Meta mensal: '+fmt(d.metaMensal||6000000)+' PVs</p>'
+    +'<p style="font-size:10px;color:#bbb;margin-top:8px;">Meta mensal: '+fmt(d.metaMensal||6000000)+' PVs</p>'
     +'</div></div></div>'
 
     +'<div style="text-align:center;font-size:11px;color:#bbb;margin-top:32px;">'
     +'Gerado automaticamente · Google Analytics + Claude AI · Rede Vitória de Comunicação'
-    +(gerado?' · Atualizado em '+gerado:'')
-    +'</div></div>';
+    +(gerado?' · '+gerado:'')
+    +'</div></div>'; // .page
 
   document.getElementById('app').innerHTML=html;
+
+  // Ativa primeiro link da nav e atualiza botões
   var links=document.querySelectorAll('.nav a');
   if(links.length)links[0].classList.add('active');
+  atualizarBotoes();
 }
+
 function sa(el){document.querySelectorAll('.nav a').forEach(function(a){a.classList.remove('active')});el.classList.add('active')}
-function showErr(msg){document.getElementById('app').innerHTML='<div class="err-box"><strong>Erro ao carregar o relatório</strong><br><br>'+msg+'<br><br><small>Verifique se data/relatorio.json existe no repositório GitHub.</small></div>'}
-fetch(DATA_URL+'?t='+Date.now()).then(function(r){if(!r.ok)throw new Error('HTTP '+r.status);return r.json();}).then(render).catch(function(e){showErr(e.message)});
+function showErr(msg){document.getElementById('app').innerHTML='<div style="max-width:1200px;margin:0 auto;padding:24px"><div class="err-box"><strong>Erro ao carregar</strong><br><br>'+msg+'<br><br><small>Verifique se data/relatorio.json existe no repositório GitHub.</small></div></div>'}
+
+// ================================================================
+// Inicia: tenta carregar o index de datas, depois o relatório
+// ================================================================
+carregarIndex();
 </script>
 </body>
 </html>
