@@ -1,21 +1,21 @@
 {
   "dataDisplay": "12/05/2026",
-  "geradoEm": "2026-05-13T09:19:32.827Z",
-  "pvTotal": 237265,
+  "geradoEm": "2026-05-13T12:51:41.608Z",
+  "pvTotal": 237275,
   "pctMeta": 129,
   "metaHoje": 183531,
-  "metaAmanha": 180703,
-  "saldoOntem": 53734,
+  "metaAmanha": 180702,
+  "saldoOntem": 53744,
   "deficitOntem": 0,
   "metaDiaria": 200000,
   "metaMensal": 6000000,
-  "usuarios": 106899,
+  "usuarios": 106934,
   "sessions": 143659,
   "pgsPorSessao": "1.65",
   "tempoMedio": "2min08s",
   "pvManha": 68016,
   "pvTarde": 78359,
-  "pvNoite": 71387,
+  "pvNoite": 71397,
   "checkpoints": [
     {
       "label": "Até 11h",
@@ -39,17 +39,17 @@
   "producao": {
     "disponivel": true,
     "totalPublicadas": 91,
-    "pvPublicadas": 76822,
+    "pvPublicadas": 76797,
     "mediaRealPorMateria": 844,
-    "materiasComAcesso": 83,
-    "materiasSemAcesso": 8,
-    "pvAntigos": 160443
+    "materiasComAcesso": 82,
+    "materiasSemAcesso": 9,
+    "pvAntigos": 160478
   },
   "topMaterias": [
     {
       "pos": 1,
       "titulo": "Entenda quem precisa trocar o RG antigo até 2027",
-      "pv": 43494,
+      "pv": 43497,
       "publicadaHoje": true
     },
     {
@@ -80,11 +80,11 @@
   "editorias": [
     {
       "nome": "economia",
-      "pvTotal": 67593,
-      "pvPublicadas": 47154,
+      "pvTotal": 67596,
+      "pvPublicadas": 47157,
       "publicadas": 8,
       "urlsAcessadas": 33,
-      "mediaCorreta": 5894
+      "mediaCorreta": 5895
     },
     {
       "nome": "policia",
@@ -104,7 +104,7 @@
     },
     {
       "nome": "gastronomia",
-      "pvTotal": 8369,
+      "pvTotal": 8370,
       "pvPublicadas": 0,
       "publicadas": 2,
       "urlsAcessadas": 8,
@@ -120,7 +120,7 @@
     },
     {
       "nome": "transito",
-      "pvTotal": 7344,
+      "pvTotal": 7345,
       "pvPublicadas": 2703,
       "publicadas": 3,
       "urlsAcessadas": 17,
@@ -128,7 +128,7 @@
     },
     {
       "nome": "politica",
-      "pvTotal": 6695,
+      "pvTotal": 6696,
       "pvPublicadas": 1297,
       "publicadas": 5,
       "urlsAcessadas": 26,
@@ -138,12 +138,12 @@
   "origens": [
     {
       "canal": "Direto",
-      "pv": 125123,
+      "pv": 125125,
       "pct": 53
     },
     {
       "canal": "Google Orgânico",
-      "pv": 97129,
+      "pv": 97135,
       "pct": 41
     },
     {
@@ -183,12 +183,12 @@
     "media30": 193086,
     "media30a": 165858,
     "var30": 16,
-    "pvMesAtualAcum": 2566655,
+    "pvMesAtualAcum": 2566665,
     "pvMesAntMesmoPer": 1781747,
     "varMesAnt": 44,
     "diasRestantes": 19,
-    "pvFaltaMes": 3433345,
-    "mediaNecessaria": 180703,
+    "pvFaltaMes": 3433335,
+    "mediaNecessaria": 180702,
     "mediaMensal": 6856222,
     "melhorMes": {
       "mes": "202507",
@@ -299,80 +299,80 @@
       },
       {
         "mes": "202605",
-        "pv": 2566657,
+        "pv": 2566665,
         "label": "Mai/26",
         "atual": true
       }
     ]
   },
   "analises": {
-    "resumo": "O Folha Vitória registrou 237.265 page views em 12/05/2026, superando em 129% a meta dinâmica de 183.531 PVs, com excedente de 53.734 visualizações. O período da tarde foi o mais forte com 78.359 PVs, seguido pela noite (71.387) e manhã (68.016). Todas as metas de checkpoint foram batidas, demonstrando consistência ao longo do dia. O desempenho coloca o portal em posição favorável para alcançar a meta mensal de 6 milhões de PVs.",
-    "horarios": ">>> Manhã (6h-11h): 68.016 PVs com checkpoint às 11h batendo meta (87.519 vs 60.000)\n>>> Tarde (12h-17h): 78.359 PVs, período mais forte do dia, checkpoint às 17h superou expectativa (165.878 vs 130.000)\n>>> Noite (18h-23h): 71.387 PVs mantendo ritmo consistente, checkpoint às 21h garantiu meta diária (220.550 vs 183.531)",
-    "padrao": ">>> Matérias de serviço público dominaram: RG, Imposto de Renda e INSS ocuparam posições de destaque\n>>> Conteúdo evergreen se mostrou eficaz, com 4 das 5 top matérias sendo antigas\n>>> Temas econômicos e tributários geraram maior engajamento do público\n>>> Apenas uma matéria do dia conseguiu penetrar no top 5, indicando força do catálogo histórico",
-    "editorias": ">>> Economia liderou com média real de 5.894 PVs/matéria (8 publicações), puxada por temas tributários\n>>> Trânsito mostrou eficiência com 901 PVs/matéria em apenas 3 publicações\n>>> Polícia teve desempenho mediano com 809 PVs/matéria em 11 publicações\n>>> Cotidiano alcançou 522 PVs/matéria com 9 publicações\n>>> Cultura e Política ficaram abaixo da média geral, com 298 e 259 PVs/matéria respectivamente\n>>> Gastronomia preocupa com 0 PVs nas 2 matérias publicadas ontem",
-    "trafego": ">>> Tráfego direto dominante (53%) indica forte fidelização da audiência\n>>> Google Orgânico saudável (41%) demonstra boa performance em SEO\n>>> Redes sociais com participação baixa (4%) revelam potencial não explorado\n>>> Links externos mínimos (2%) sugerem necessidade de parcerias estratégicas",
-    "eficiencia": "A produção de 91 matérias gerou média real de 844 PVs por conteúdo publicado ontem, com 83 matérias recebendo acessos. Apenas 8 matérias ficaram sem visualizações, representando taxa de aproveitamento de 91%. O desempenho individual foi impulsionado pela matéria sobre RG que sozinha conquistou 43.494 PVs.",
-    "erros": ">>> Gastronomia zerou audiência apesar de 2 publicações, indicando desconexão com interesse público\n>>> Baixo engajamento em redes sociais (4%) desperdiça potencial de viralização\n>>> Política com média de apenas 259 PVs/matéria em período pré-eleitoral\n>>> Falta de diversificação nas fontes de tráfego, dependência excessiva do direto",
-    "oportunidades": ">>> Replicar estratégia de conteúdo de serviço público que gerou 43.494 PVs\n>>> Investir em distribuição social para reduzir dependência do tráfego direto\n>>> Explorar temas econômicos que mostraram alta performance (editoria líder)\n>>> Desenvolver parcerias para aumentar tráfego de referência\n>>> Revisar estratégia de gastronomia que não gerou audiência",
-    "acoes": ">>> Produzir mais conteúdo de serviço público inspirado no sucesso da matéria sobre RG\n>>> Intensificar posts em redes sociais para elevar participação além dos 4% atuais\n>>> Priorizar economia e trânsito que demonstraram melhores médias de PVs/matéria\n>>> Revisar completamente abordagem de gastronomia antes de novas publicações\n>>> Manter ritmo de 90+ matérias para sustentar meta de amanhã de 180.703 PVs",
-    "metaacumulada": "A meta dinâmica de 183.531 PVs foi calculada dividindo o restante da meta mensal (3.433.345) pelos dias disponíveis ontem. Com o acumulado atual de 2.566.655 de 6 milhões, restam 3.433.345 PVs para conquistar em 19 dias. A meta de amanhã diminui para 180.703 PVs, reflexo do excedente gerado hoje que alivia a pressão diária. Este sistema dinâmico permite compensar dias fracos com performances excepcionais como a de hoje.",
-    "historicodia": ">>> Performance 16% superior à média do mesmo dia da semana nas últimas 8 semanas (204.221 vs 237.265)\n>>> Superou em 23% a média dos últimos 30 dias (193.086), confirmando tendência de crescimento\n>>> Resultado individual consolida padrão de alta que vem se sustentando no período",
-    "historicomes": ">>> Acumulado mensal 44% superior ao mesmo período do mês anterior (2.566.655 vs 1.781.747)\n>>> Projeção mensal indica possibilidade real de alcançar meta de 6 milhões\n>>> Ritmo atual permite folga para dias de menor performance sem comprometer objetivo final",
-    "tendencia": "A tendência de 30 dias mostra crescimento consistente de 16% comparado ao período anterior. O melhor mês da história foi julho/25 com 13.625.154 PVs, enquanto o pior foi fevereiro/25 com 4.527.477 PVs. O momento atual indica recuperação sólida e potencial para estabelecer novo recorde mensal se o ritmo for mantido.",
-    "alerta": "\"Gastronomia com zero page views em 2 publicações exige intervenção imediata na estratégia editorial\"",
-    "licao": "O sucesso de hoje comprova que conteúdo de serviço público, especialmente sobre documentação e tributos, gera audiência massiva e engajamento duradouro. A matéria sobre RG sozinha representou 18% do total de PVs, demonstrando como um único conteúdo relevante pode transformar o desempenho diário. \"Servir ao leitor com informação útil é servir ao próprio negócio.\"",
-    "tendencias": ">>> Climatempo ES: previsão da semana mostra chegada de frente fria no Espírito Santo\n--- Editoria: Cotidiano\n--- Ângulo ES: Focar na previsão específica para as cidades capixabas, impactos nas praias da Grande Vitória e interior montanhoso\n--- Por que performa: Alto volume de buscas por previsão do tempo (2000+) com interesse nacional sobre mudanças climáticas\n--- Tipo: Serviço\n\n>>> Como descobrir qual foi a primeira música que você ouviu no Spotify: passo a passo completo\n--- Editoria: Tecnologia\n--- Ângulo ES: Incluir dados sobre hábitos musicais dos capixabas e artistas locais mais ouvidos na plataforma\n--- Por que performa: Trending topic com maior volume de buscas (10000+), curiosidade viral sobre nostalgia digital\n--- Tipo: Explicativo\n\n>>> Convocação da Seleção Brasileira: veja lista completa e quando o Brasil joga\n--- Editoria: Esportes\n--- Ângulo ES: Destacar possível convocação de jogadores com passagem por clubes capixabas e onde assistir no ES\n--- Por que performa: Alto interesse em convocações da seleção (2000+ buscas) com Copa 2026 se aproximando\n--- Tipo: Notícia\n\n>>> Feriado de 13 de maio: veja o que abre e fecha em Vitória e Vila Velha\n--- Editoria: Serviços\n--- Ângulo ES: Guia completo sobre funcionamento de shoppings, bancos, repartições e transporte público na Grande Vitória\n--- Por que performa: Busca direta sobre feriado nacional com necessidade de informação local e prática\n--- Tipo: Serviço\n\n>>> Ingressos Santos x Coritiba: como comprar e valores para jogo decisivo do Brasileirão\n--- Editoria: Esportes\n--- Ângulo ES: Conectar com torcida santista no ES e comparar com preços de ingressos dos jogos no estádio Kleber Andrade\n--- Por que performa: Interesse em compra de ingressos (500+ buscas) para jogo importante do campeonato\n--- Tipo: Serviço\n\n>>> Temperatura em alta: Vitória pode chegar aos 28°C nesta quarta-feira\n--- Editoria: Cotidiano\n--- Ângulo ES: Previsão específica para Grande Vitória, comparação com outras capitais e dicas para o calor capixaba\n--- Por que performa: Interesse nacional em mudanças de temperatura (1000+ buscas em SP) aplicado ao contexto local\n--- Tipo: Notícia\n\n>>> Pearl jam confirma festival em 2026: capixabas já planejam viagem para show histórico\n--- Editoria: Cultura\n--- Ângulo ES: Repercussão entre fãs capixabas da banda, agências de turismo do ES organizando excursões\n--- Por que performa: Interesse de fãs da banda (200+ buscas) em evento internacional confirmado\n--- Tipo: Notícia\n\n>>> Horóscopo desta segunda: previsões completas para os 12 signos\n--- Editoria: Comportamento\n--- Ângulo ES: Incluir dicas específicas para o dia no ES, eventos locais favoráveis para cada signo\n--- Por que performa: Busca constante por conteúdo de horóscopo com potencial viral no Google Discover\n--- Tipo: Serviço\n\n>>> Leonardo Jardim no radar: técnico português pode ser opção para clubes brasileiros\n--- Editoria: Esportes\n--- Ângulo ES: Histórico de técnicos estrangeiros no futebol capixaba e possível interesse de clubes locais\n--- Por que performa: Movimentação no mercado da bola (100+ buscas) gera interesse em transferências\n--- Tipo: Análise\n\n>>> Damac x Al Fayha: onde assistir e palpites para jogo do Campeonato Saudita\n--- Editoria: Esportes\n--- Ângulo ES: Crescimento do interesse por futebol internacional no ES e onde acompanhar na TV local\n--- Por que performa: Interesse crescente em campeonatos internacionais (100+ buscas) por apostadores e curiosos\n--- Tipo: Serviço"
+    "resumo": "Domingo excepcional no Folha Vitória com 237.275 page views, superando em 29% a meta dinâmica de 183.531. O desempenho ao longo do dia foi consistente, com todos os checkpoints batidos e distribuição equilibrada entre os períodos. A matéria sobre troca do RG antigo foi um fenômeno absoluto com 43.497 PVs, representando 18% de toda audiência do dia. O resultado coloca o portal em posição confortável para atingir a meta mensal de 6 milhões.",
+    "horarios": ">>> Manhã (6h-11h): 68.016 PVs com checkpoint às 11h batendo 87.519 contra meta de 60.000\n>>> Tarde (12h-17h): 78.359 PVs, melhor período do dia, com checkpoint às 17h atingindo 165.878 contra meta de 130.000\n>>> Noite (18h-23h): 71.397 PVs mantendo ritmo forte até o final\n>>> Checkpoint das 21h: 220.550 PVs já havia superado a meta total do dia de 183.531",
+    "padrao": ">>> Matérias de utilidade pública dominaram: RG, Imposto de Renda e INSS ocuparam 4 das 5 primeiras posições\n>>> Conteúdo evergreen mostrou força com matérias antigas gerando 160.478 PVs (68% do total)\n>>> Temas econômicos e tributários continuam sendo ouro para audiência\n>>> Cachaça capixaba foi a única matéria regional no top 5, mostrando potencial do conteúdo local",
+    "editorias": ">>> Economia liderou com média real de 5.895 PVs por matéria, puxada pela matéria do RG\n>>> Trânsito teve boa performance com 901 PVs de média, editoria eficiente\n>>> Polícia manteve padrão com 809 PVs por matéria publicada\n>>> Cotidiano com 522 PVs de média, espaço para crescimento\n>>> Cultura e Política com médias baixas (298 e 259 respectivamente) precisam de revisão estratégica",
+    "trafego": ">>> Tráfego direto forte com 53% mostra fidelização da audiência\n>>> Google Orgânico com 41% confirma boa otimização SEO das matérias\n>>> Redes sociais com apenas 4% indicam potencial inexplorado\n>>> Fontes pagas praticamente inexistentes, oportunidade para campanhas pontuais",
+    "eficiencia": "A produção atingiu média real de 844 PVs por matéria das 91 publicadas ontem, com 82 gerando tráfego. Apenas 9 matérias ficaram sem acesso, taxa de aproveitamento de 90%. Das 76.797 PVs gerados pelas matérias novas, a concentração foi alta na matéria do RG.",
+    "erros": ">>> 9 matérias sem nenhum page view indicam problemas de distribuição ou relevância do tema\n>>> Gastronomia publicou 2 matérias que não geraram tráfego, desperdício de recurso editorial\n>>> Dependência excessiva de uma única matéria (RG com 57% dos PVs das matérias novas)\n>>> Redes sociais subutilizadas com apenas 4% do tráfego total",
+    "oportunidades": ">>> Replicar estratégia de utilidade pública que funcionou na matéria do RG\n>>> Explorar mais conteúdo sobre mudanças em documentos e processos governamentais\n>>> Investir em impulsionamento das matérias de Cultura e Política para melhorar performance\n>>> Criar séries sobre temas econômicos que têm apelo comprovado\n>>> Desenvolver estratégia para redes sociais aproveitando o potencial inexplorado",
+    "acoes": ">>> Produzir desdobramentos da matéria do RG (como fazer, onde fazer, documentos necessários)\n>>> Intensificar distribuição nas redes sociais das principais matérias do dia\n>>> Revisar matérias que ficaram sem acesso e redistribuir com novos títulos\n>>> Focar produção em temas de utilidade pública e economia para segunda-feira\n>>> Monitorar trending topics para aproveitar assuntos em alta na meta de 180.702 PVs",
+    "metaacumulada": "A meta dinâmica de 183.531 foi calculada dividindo-se o restante da meta mensal (3.487.079) pelos 19 dias que restavam no mês. Com o resultado de hoje, faltam 3.433.335 PVs para atingir os 6 milhões mensais. A nova meta de amanhã será 180.702, ligeiramente menor devido ao excelente resultado de hoje. Estamos 44% acima do mesmo período do mês anterior.",
+    "historicodia": ">>> Performance 16% superior à média do mesmo dia da semana nas últimas 8 semanas\n>>> Resultado 23% acima da média dos últimos 30 dias (193.086)\n>>> Confirma tendência de crescimento sustentado no portal",
+    "historicomes": ">>> Acumulado mensal de 2.566.665 representa 44% de crescimento sobre mesmo período do mês anterior\n>>> No ritmo atual, projeção indica superação da meta de 6 milhões\n>>> Maio pode se tornar o segundo melhor mês da história do portal",
+    "tendencia": "A média de 30 dias subiu 16% comparada aos 30 dias anteriores, confirmando trajetória ascendente. O melhor mês da história continua sendo julho/25 com 13.625.154 PVs. O pior foi fevereiro/25 com 4.527.477, mostrando a evolução do portal ao longo do tempo.",
+    "alerta": "\"A dependência excessiva de uma única matéria para o sucesso do dia representa risco para sustentabilidade da audiência.\"",
+    "licao": "O domingo provou que conteúdo de utilidade pública continua sendo a chave do sucesso no Folha Vitória. A matéria sobre RG demonstrou como temas que impactam diretamente a vida do cidadão capixaba geram engajamento massivo. A combinação de assunto relevante, título claro e distribuição eficiente resultou em fenômeno de audiência. \"Utilidade pública é o caminho mais direto para o coração do leitor.\"",
+    "tendencias": ">>> Pesquisa Quaest aponta empate técnico entre Lula e Flávio Bolsonaro para 2026; veja como ES pode influenciar resultado\n--- Editoria: Política\n--- Ângulo ES: Analisar histórico eleitoral capixaba nas últimas eleições presidenciais e como o estado pode ser decisivo em 2026, incluindo declarações de políticos locais sobre cenário nacional\n--- Por que performa: Trending topic com 1000+ buscas sobre pesquisa eleitoral para 2026 gera grande interesse político\n--- Tipo: Análise\n\n>>> Brasil x Panamá: pré-venda de ingressos começa dia 13; capixabas podem garantir lugar na arquibancada\n--- Editoria: Esportes\n--- Ângulo ES: Informar sobre processo de compra para torcedores do ES, histórico de capixabas que viajam para jogos da Seleção e pontos de venda no estado\n--- Por que performa: 500+ buscas sobre ingressos da Seleção Brasileira movimentam busca por informações práticas\n--- Tipo: Serviço\n\n>>> Desenrola Fies oferece desconto de até 99% para renegociar dívida; veja como aderir no ES\n--- Editoria: Economia\n--- Ângulo ES: Mapear instituições de ensino superior capixabas que participam do Fies, número de beneficiários no estado e onde buscar orientação para renegociação\n--- Por que performa: 500+ buscas sobre programa de renegociação estudantil atendem demanda por informação de serviço público\n--- Tipo: Serviço\n\n>>> Leilane Neubarth se assume LGBT aos 61 anos: \"Não tinha por que me esconder\"\n--- Editoria: Celebridades\n--- Ângulo ES: Conectar com movimento LGBTQIA+ no ES, eventos do orgulho capixaba e repercussão da declaração entre personalidades locais\n--- Por que performa: 200+ buscas sobre coming out da apresentadora geram interesse em conteúdo de celebridades\n--- Tipo: Notícia\n\n>>> Unicamp aprova novo curso de Inteligência Artificial para 2027; universidades capixabas estudam tendência\n--- Editoria: Educação\n--- Ângulo ES: Verificar se Ufes, UVV e outras instituições locais planejam cursos similares, demanda do mercado capixaba por profissionais de IA\n--- Por que performa: 100+ buscas sobre nova graduação em IA despertam interesse em inovação educacional\n--- Tipo: Notícia\n\n>>> Rádio Mix sorteia cupons de R$ 250: promoção inclui ouvintes do Espírito Santo\n--- Editoria: Entretenimento\n--- Ângulo ES: Verificar se rádios locais fazem promoções similares, impacto de aplicativos de delivery no estado e hábitos de consumo capixaba\n--- Por que performa: 200+ buscas sobre promoção da rádio atraem interesse em sorteios e benefícios\n--- Tipo: Notícia\n\n>>> Lindbergh Farias responde acusação de calúnia na CPMI do INSS; políticos do ES comentam caso\n--- Editoria: Política\n--- Ângulo ES: Buscar posicionamento da bancada capixaba sobre investigações do INSS e impacto das mudanças previdenciárias para aposentados do ES\n--- Por que performa: 200+ buscas sobre polêmica envolvendo deputado federal geram interesse político\n--- Tipo: Notícia\n\n>>> Iga Swiatek e Jessica Pegula disputam semifinal em Roma: onde assistir no ES\n--- Editoria: Esportes\n--- Ângulo ES: Mapear bares e locais em Vitória que exibem tênis, crescimento do esporte no estado e academias que oferecem modalidade\n--- Por que performa: 700+ buscas combinadas sobre as tenistas indicam interesse em tênis feminino\n--- Tipo: Serviço\n\n>>> Machida Zelvia x Tokyo Verdy: onde assistir J-League no Brasil e palpites para o jogo\n--- Editoria: Esportes\n--- Ângulo ES: Abordar crescimento do interesse por futebol japonês entre capixabas, streamings disponíveis e comunidade japonesa no ES\n--- Por que performa: 100+ buscas sobre futebol japonês mostram nicho de interesse em modalidades alternativas\n--- Tipo: Serviço\n\n>>> 5 tendências nacionais que chegaram ao Espírito Santo em 2024: da política aos esportes\n--- Editoria: Geral\n--- Ângulo ES: Compilar como os trending topics nacionais (política, esportes, entretenimento) repercutem no cotidiano capixaba ao longo do ano\n--- Por que performa: Aproveita múltiplos trending topics em formato que educa sobre conexões entre nacional e local\n--- Tipo: Lista"
   },
   "tendencias": [
     {
-      "titulo": "santos ingressos",
-      "trafico": "500+",
-      "contexto": "Venda de ingressos para Santos FC X Coritiba, pelo Campeonato Brasileiro, na Neo Química Arena"
-    },
-    {
-      "titulo": "damac",
-      "trafico": "100+",
-      "contexto": "Damac vs Al Fayha Team News, Match Preview, Forecast and Best Bets – 15/5/2026"
-    },
-    {
-      "titulo": "climatempo",
-      "trafico": "2000+",
-      "contexto": "Até quando vai a onda de frio? Veja previsão do tempo"
-    },
-    {
-      "titulo": "pearl jam",
+      "titulo": "lindbergh farias",
       "trafico": "200+",
-      "contexto": "Tyler Childers headlines Ohana Festival 2026 alongside Pearl Jam and Eddie Vedder"
+      "contexto": "A resposta de Lindbergh à acusação de calúnia contra relator da CPMI do INSS"
     },
     {
-      "titulo": "correio da bahia",
-      "trafico": "200+",
-      "contexto": "Horóscopo do dia: previsão para os 12 signos em 12/05/2026"
-    },
-    {
-      "titulo": "leonardo jardim",
-      "trafico": "100+",
-      "contexto": "Rodrigo Mattos: Flamengo prioriza evitar perdas no elenco e arrecadar com vendas paralelas"
-    },
-    {
-      "titulo": "13 de maio é feriado de quê",
-      "trafico": "100+",
-      "contexto": "Transporte coletivo está garantido para todos festejarem Sorr..."
-    },
-    {
-      "titulo": "jogadores convocados seleção brasileira",
-      "trafico": "2000+",
-      "contexto": "Brasil joga em fim de semana? Veja calendário da seleção na Copa de 2026"
-    },
-    {
-      "titulo": "temperatura são paulo",
+      "titulo": "pesquisa quaest",
       "trafico": "1000+",
-      "contexto": "Temperatura volta a subir em São Paulo e máxima pode chegar a 26°C nesta quarta (13)"
+      "contexto": "Quaest 2º turno: Lula tem 42%, e Flávio Bolsonaro, 41%"
     },
     {
-      "titulo": "primeira música spotify",
-      "trafico": "10000+",
-      "contexto": "Como ver a primeira música que eu escutei no Spotify? Veja passo a passo"
+      "titulo": "ingresso brasil x panama",
+      "trafico": "500+",
+      "contexto": "Pré-venda de ingressos para Brasil x Panamá começa dia 13"
+    },
+    {
+      "titulo": "jessica pegula",
+      "trafico": "200+",
+      "contexto": "Rome Previews: Can Iga Swiatek find her footing in Jessica Pegula rematch?"
+    },
+    {
+      "titulo": "iga świątek",
+      "trafico": "500+",
+      "contexto": "Iga Świątek gra o półfinał w Rzymie. Hit z gwiazdą [RELACJA NA ŻYWO]"
+    },
+    {
+      "titulo": "machida zelvia",
+      "trafico": "100+",
+      "contexto": "Machida Zelvia x Tokyo Verdy: Palpite, Onde Assistir, Prognóstico - J1 League (13/05)"
+    },
+    {
+      "titulo": "radio mix",
+      "trafico": "200+",
+      "contexto": "A Mix te dá cupons de R$ 250 da Keeta"
+    },
+    {
+      "titulo": "universidade estadual de campinas",
+      "trafico": "100+",
+      "contexto": "Inteligência Artificial na Unicamp Limeira: entenda como será a nova graduação aprovada para 2027"
+    },
+    {
+      "titulo": "leilane neubarth",
+      "trafico": "200+",
+      "contexto": "&quot;Não tinha por que me esconder&quot;, diz apresentadora que se assumiu LGBT"
+    },
+    {
+      "titulo": "desenrola fies",
+      "trafico": "500+",
+      "contexto": "Desenrola Fies possibilita descontos de até 99% da dívida — Ministério da Educação"
     }
   ]
 }
