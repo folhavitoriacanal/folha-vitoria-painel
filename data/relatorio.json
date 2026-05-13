@@ -1,165 +1,165 @@
 {
-  "dataDisplay": "11/05/2026",
-  "geradoEm": "2026-05-12T20:19:10.063Z",
-  "pvTotal": 214789,
-  "pctMeta": 116,
-  "metaHoje": 185019,
-  "metaAmanha": 183531,
-  "saldoOntem": 29770,
+  "dataDisplay": "12/05/2026",
+  "geradoEm": "2026-05-13T09:19:32.827Z",
+  "pvTotal": 237265,
+  "pctMeta": 129,
+  "metaHoje": 183531,
+  "metaAmanha": 180703,
+  "saldoOntem": 53734,
   "deficitOntem": 0,
   "metaDiaria": 200000,
   "metaMensal": 6000000,
-  "usuarios": 88124,
-  "sessions": 120711,
-  "pgsPorSessao": "1.78",
-  "tempoMedio": "2min25s",
-  "pvManha": 71667,
-  "pvTarde": 71106,
-  "pvNoite": 53310,
+  "usuarios": 106899,
+  "sessions": 143659,
+  "pgsPorSessao": "1.65",
+  "tempoMedio": "2min08s",
+  "pvManha": 68016,
+  "pvTarde": 78359,
+  "pvNoite": 71387,
   "checkpoints": [
     {
       "label": "Até 11h",
-      "pv": 90373,
+      "pv": 87519,
       "meta": 60000,
       "status": "META BATIDA"
     },
     {
       "label": "Até 17h",
-      "pv": 161479,
+      "pv": 165878,
       "meta": 130000,
       "status": "META BATIDA"
     },
     {
       "label": "Até 21h",
-      "pv": 201527,
-      "meta": 185019,
+      "pv": 220550,
+      "meta": 183531,
       "status": "META BATIDA"
     }
   ],
   "producao": {
     "disponivel": true,
-    "totalPublicadas": 92,
-    "pvPublicadas": 36979,
-    "mediaRealPorMateria": 402,
-    "materiasComAcesso": 88,
-    "materiasSemAcesso": 4,
-    "pvAntigos": 177810
+    "totalPublicadas": 91,
+    "pvPublicadas": 76822,
+    "mediaRealPorMateria": 844,
+    "materiasComAcesso": 83,
+    "materiasSemAcesso": 8,
+    "pvAntigos": 160443
   },
   "topMaterias": [
     {
       "pos": 1,
-      "titulo": "Restituição do IR 2026: quando será pago o 1º lote",
-      "pv": 20736,
-      "publicadaHoje": false
+      "titulo": "Entenda quem precisa trocar o RG antigo até 2027",
+      "pv": 43494,
+      "publicadaHoje": true
     },
     {
       "pos": 2,
-      "titulo": "Banda histórica do rock fará show gratuito em Vitória em julho",
-      "pv": 7780,
+      "titulo": "Imposto de Renda: até que idade os idosos precisam declarar?",
+      "pv": 7185,
       "publicadaHoje": false
     },
     {
       "pos": 3,
-      "titulo": "Imposto de Renda: até que idade os idosos precisam declarar?",
-      "pv": 6772,
+      "titulo": "Cachaça capixaba conquista Duplo Ouro e entra na elite nacional",
+      "pv": 6600,
       "publicadaHoje": false
     },
     {
       "pos": 4,
       "titulo": "INSS: veja quando será o pagamento da segunda parcela do 13º",
-      "pv": 5290,
+      "pv": 4759,
       "publicadaHoje": false
     },
     {
       "pos": 5,
       "titulo": "Prazo para entrega do Imposto de Renda 2026 mudou? Veja data",
-      "pv": 4150,
+      "pv": 4606,
       "publicadaHoje": false
     }
   ],
   "editorias": [
     {
       "nome": "economia",
-      "pvTotal": 38410,
-      "pvPublicadas": 496,
-      "publicadas": 4,
-      "urlsAcessadas": 28,
-      "mediaCorreta": 124
-    },
-    {
-      "nome": "cultura",
-      "pvTotal": 15889,
-      "pvPublicadas": 4553,
-      "publicadas": 11,
-      "urlsAcessadas": 56,
-      "mediaCorreta": 414
+      "pvTotal": 67593,
+      "pvPublicadas": 47154,
+      "publicadas": 8,
+      "urlsAcessadas": 33,
+      "mediaCorreta": 5894
     },
     {
       "nome": "policia",
-      "pvTotal": 12742,
-      "pvPublicadas": 7904,
-      "publicadas": 7,
-      "urlsAcessadas": 43,
-      "mediaCorreta": 1129
+      "pvTotal": 12314,
+      "pvPublicadas": 8902,
+      "publicadas": 11,
+      "urlsAcessadas": 42,
+      "mediaCorreta": 809
+    },
+    {
+      "nome": "cultura",
+      "pvTotal": 11815,
+      "pvPublicadas": 2686,
+      "publicadas": 9,
+      "urlsAcessadas": 52,
+      "mediaCorreta": 298
+    },
+    {
+      "nome": "gastronomia",
+      "pvTotal": 8369,
+      "pvPublicadas": 0,
+      "publicadas": 2,
+      "urlsAcessadas": 8,
+      "mediaCorreta": 0
     },
     {
       "nome": "cotidiano",
-      "pvTotal": 8445,
-      "pvPublicadas": 3932,
-      "publicadas": 7,
-      "urlsAcessadas": 39,
-      "mediaCorreta": 562
+      "pvTotal": 8300,
+      "pvPublicadas": 4696,
+      "publicadas": 9,
+      "urlsAcessadas": 44,
+      "mediaCorreta": 522
+    },
+    {
+      "nome": "transito",
+      "pvTotal": 7344,
+      "pvPublicadas": 2703,
+      "publicadas": 3,
+      "urlsAcessadas": 17,
+      "mediaCorreta": 901
     },
     {
       "nome": "politica",
-      "pvTotal": 6566,
-      "pvPublicadas": 4135,
-      "publicadas": 11,
+      "pvTotal": 6695,
+      "pvPublicadas": 1297,
+      "publicadas": 5,
       "urlsAcessadas": 26,
-      "mediaCorreta": 376
-    },
-    {
-      "nome": "social",
-      "pvTotal": 6404,
-      "pvPublicadas": 1912,
-      "publicadas": 2,
-      "urlsAcessadas": 17,
-      "mediaCorreta": 956
-    },
-    {
-      "nome": "tempo",
-      "pvTotal": 5526,
-      "pvPublicadas": 2006,
-      "publicadas": 2,
-      "urlsAcessadas": 7,
-      "mediaCorreta": 1003
+      "mediaCorreta": 259
     }
   ],
   "origens": [
     {
-      "canal": "Google Orgânico",
-      "pv": 100964,
-      "pct": 47
+      "canal": "Direto",
+      "pv": 125123,
+      "pct": 53
     },
     {
-      "canal": "Direto",
-      "pv": 99531,
-      "pct": 46
+      "canal": "Google Orgânico",
+      "pv": 97129,
+      "pct": 41
     },
     {
       "canal": "Social",
-      "pv": 9548,
+      "pv": 9813,
       "pct": 4
     },
     {
       "canal": "Links externos",
-      "pv": 3442,
+      "pv": 4238,
       "pct": 2
     },
     {
       "canal": "Não identificado",
-      "pv": 1250,
-      "pct": 1
+      "pv": 903,
+      "pct": 0
     },
     {
       "canal": "YouTube",
@@ -168,22 +168,27 @@
     },
     {
       "canal": "E-mail",
-      "pv": 9,
+      "pv": 15,
+      "pct": 0
+    },
+    {
+      "canal": "Paid Social",
+      "pv": 1,
       "pct": 0
     }
   ],
   "historico": {
-    "mediaMesmoDia": 195558,
-    "varMesmoDia": 10,
+    "mediaMesmoDia": 204221,
+    "varMesmoDia": 16,
     "media30": 193086,
     "media30a": 165858,
     "var30": 16,
-    "pvMesAtualAcum": 2329390,
-    "pvMesAntMesmoPer": 1613703,
+    "pvMesAtualAcum": 2566655,
+    "pvMesAntMesmoPer": 1781747,
     "varMesAnt": 44,
-    "diasRestantes": 20,
-    "pvFaltaMes": 3670610,
-    "mediaNecessaria": 183531,
+    "diasRestantes": 19,
+    "pvFaltaMes": 3433345,
+    "mediaNecessaria": 180703,
     "mediaMensal": 6856222,
     "melhorMes": {
       "mes": "202507",
@@ -294,80 +299,80 @@
       },
       {
         "mes": "202605",
-        "pv": 2329390,
+        "pv": 2566657,
         "label": "Mai/26",
         "atual": true
       }
     ]
   },
   "analises": {
-    "resumo": "Superamos a meta diária de 185.019 PVs, alcançando 214.789 visualizações (+29.770, 116%). A distribuição por períodos foi equilibrada entre manhã e tarde, com 71.667 e 71.106 PVs respectivamente, enquanto a noite registrou 53.310 PVs. Todas as metas intermediárias foram batidas com folga, demonstrando consistência ao longo do dia. O resultado nos aproxima da meta mensal de 6 milhões, já com 2,3 milhões acumulados e crescimento de 44% em relação ao mesmo período do mês anterior.",
-    "horarios": ">>> Manhã dominou com 71.667 PVs, indicando forte engajamento matinal dos leitores\n>>> Tarde manteve o ritmo com 71.106 PVs, confirmando padrão de leitura durante expediente\n>>> Noite teve queda natural para 53.310 PVs, dentro do esperado para o período\n>>> Checkpoint das 11h: 90.373 PVs vs meta de 60.000 (150%)\n>>> Checkpoint das 17h: 161.479 PVs vs meta de 130.000 (124%)\n>>> Checkpoint das 21h: 201.527 PVs vs meta de 185.019 (109%)",
-    "padrao": ">>> Imposto de Renda continua como tema campeão, ocupando 3 das 5 primeiras posições\n>>> Matérias de serviço público (INSS, restituição) mantêm alta relevância\n>>> Conteúdo cultural aparece forte com show gratuito em Vitória\n>>> Todas as top 5 são matérias antigas, evidenciando valor do SEO de longo prazo",
-    "editorias": ">>> Polícia teve melhor desempenho com média de 1.129 PVs por matéria publicada\n>>> Tempo alcançou 1.003 PVs por matéria, aproveitando interesse sazonal\n>>> Social obteve 956 PVs por matéria com apenas 2 publicações\n>>> Cotidiano registrou 562 PVs por matéria, performance sólida\n>>> Cultura atingiu 414 PVs por matéria apesar de 11 publicações\n>>> Política teve 376 PVs por matéria, resultado mediano para 11 matérias\n>>> Economia decepcionou com apenas 124 PVs por matéria",
-    "trafego": ">>> Google Orgânico (47%) e tráfego direto (46%) dominam com equilíbrio saudável\n>>> Redes sociais representam apenas 4%, indicando potencial de crescimento\n>>> Tráfego direto alto sugere forte fidelização da audiência\n>>> Links externos (2%) mostram oportunidade para parcerias estratégicas",
-    "eficiencia": "Das 92 matérias publicadas ontem, 88 geraram tráfego com média real de 402 PVs por matéria. Apenas 4 matérias ficaram sem acesso, representando taxa de aproveitamento de 95,7%.",
-    "erros": ">>> Economia publicou 4 matérias mas gerou apenas 496 PVs, média crítica de 124 PVs\n>>> Redes sociais subutilizadas com apenas 4% do tráfego total\n>>> Política com 11 matérias mas média baixa de 376 PVs por conteúdo\n>>> Período noturno perdeu 18 mil PVs comparado à manhã",
-    "oportunidades": ">>> Replicar estratégia de Polícia (1.129 PVs/matéria) em outras editorias\n>>> Intensificar produção de conteúdo sobre Imposto de Renda, tema em alta\n>>> Expandir cobertura cultural aproveitando interesse por eventos em Vitória\n>>> Desenvolver estratégia para redes sociais visando aumentar os 4% atuais\n>>> Criar mais matérias de serviço público seguindo padrão INSS",
-    "acoes": ">>> Economia deve focar em matérias de maior apelo popular para superar média baixa\n>>> Intensificar posts em redes sociais para capturar mais que 4% do tráfego\n>>> Produzir follow-ups das matérias de IR que estão performando bem\n>>> Reforçar cobertura policial mantendo média acima de 1.000 PVs\n>>> Planejar conteúdo noturno mais atrativo para reduzir queda após 18h",
-    "metaacumulada": "A meta diária de 185.019 foi calculada dividindo-se o restante da meta mensal pelos dias restantes incluindo ontem. Com 3.670.610 PVs faltando para os 6 milhões mensais e 20 dias restantes, a meta de amanhã será 183.531 PVs. Este sistema de meta dinâmica ajusta automaticamente as necessidades diárias conforme o desempenho acumulado, mantendo a meta mensal alcançável.",
-    "historicodia": ">>> Superamos em 10% a média do mesmo dia da semana (195.558 vs 214.789 PVs)\n>>> Resultado 11% acima da média dos últimos 30 dias (193.086 PVs)\n>>> Performance consistente confirma tendência positiva da última semana",
-    "historicomes": ">>> Acumulado mensal 44% superior ao mesmo período do mês anterior (2.329.390 vs 1.613.703)\n>>> Projeção mensal aponta para cerca de 6,98 milhões de PVs se mantido o ritmo\n>>> Caminhamos para superar a meta de 6 milhões com 16% de folga",
-    "tendencia": "A tendência dos últimos 30 dias mostra crescimento de 16% comparado aos 30 dias anteriores. Nosso melhor mês foi julho/25 com 13,6 milhões de PVs, enquanto o pior foi fevereiro/25 com 4,5 milhões, demonstrando grande amplitude sazonal.",
-    "alerta": "\"Economia está 69% abaixo da média geral do site e precisa de intervenção imediata na estratégia de conteúdo\"",
-    "licao": "O dia provou que matérias evergreen sobre Imposto de Renda continuam gerando tráfego consistente meses após a publicação, enquanto conteúdo policial bem trabalhado pode superar 1.000 PVs por matéria. A lição é clara: \"Conteúdo de serviço público de qualidade é investimento de longo prazo em audiência.\"",
-    "tendencias": ">>> Entenda o julgamento de Bolsonaro no STF: o que muda com o novo relator Kassio Nunes\n--- Editoria: Política\n--- Ângulo ES: Impacto das decisões do STF na política local e como os deputados federais capixabas se posicionam sobre o caso\n--- Por que performa: Alta busca por \"julgamento de bolsonaro\" com interesse nacional sobre desdobramentos legais\n--- Tipo: Explicativo\n\n>>> Reforma da Previdência: capixabas com incapacidade anterior podem se aposentar pela regra antiga\n--- Editoria: Economia\n--- Ângulo ES: Orientação específica para trabalhadores do ES sobre como comprovar incapacidade e solicitar aposentadoria\n--- Por que performa: Busca alta por \"reforma da previdência\" com interesse em direitos previdenciários\n--- Tipo: Serviço\n\n>>> Copa do Brasil hoje: onde assistir aos jogos e horários para não perder nada\n--- Editoria: Esportes\n--- Ângulo ES: Cobertura especial para torcedores capixabas com horários e canais disponíveis na região\n--- Por que performa: Interesse por \"jogos de hoje da copa do brasil\" gera tráfego em tempo real\n--- Tipo: Serviço\n\n>>> JBS dos irmãos Batista: conheça todas as marcas que você consome sem saber\n--- Editoria: Economia\n--- Ângulo ES: Impacto da JBS na economia capixaba e presença de produtos da empresa no mercado local\n--- Por que performa: Curiosidade sobre \"irmãos batista jbs\" com 500+ buscas sobre império empresarial\n--- Tipo: Lista\n\n>>> Cruzeiro x Goiás: horário, onde assistir e escalações do jogo de hoje\n--- Editoria: Esportes\n--- Ângulo ES: Transmissão para torcedores capixabas e análise de desempenho dos times que já enfrentaram clubes locais\n--- Por que performa: Busca direta por \"cruzeiro x goiás\" com interesse em informações do jogo\n--- Tipo: Serviço\n\n>>> Caso Trump: americano se declara inocente de tentativa de assassinato na Casa Branca\n--- Editoria: Internacional\n--- Ângulo ES: Repercussão entre a comunidade americana no ES e impactos nas relações comerciais Brasil-EUA\n--- Por que performa: Interesse por \"casa branca\" relacionado ao caso de segurança presidencial\n--- Tipo: Notícia\n\n>>> Seleção da Espanha convoca Yamal para Copa: jovens talentos que inspiram o futebol capixaba\n--- Editoria: Esportes\n--- Ângulo ES: Paralelo com jovens revelações do futebol capixaba e oportunidades no exterior\n--- Por que performa: Busca por \"seleção espanhola de futebol\" com interesse em convocações\n--- Tipo: Análise\n\n>>> Londrina x São Bernardo: onde assistir ao jogo da Série C ao vivo hoje\n--- Editoria: Esportes\n--- Ângulo ES: Cobertura da Série C com foco no interesse de torcedores capixabas que acompanham divisões inferiores\n--- Por que performa: Interesse específico por \"londrina fc\" para informações sobre transmissão\n--- Tipo: Serviço\n\n>>> Southampton disputa vaga na Championship: entenda o sistema de ligas inglesas\n--- Editoria: Esportes\n--- Ângulo ES: Educativo para torcedores capixabas que acompanham futebol inglês e sonham com oportunidades no exterior\n--- Por que performa: Alta busca por \"southampton\" com 1000+ pesquisas sobre o jogo\n--- Tipo: Explicativo\n\n>>> Thiago Agustín Tirante enfrenta Medvedev: como assistir ao tênis ao vivo\n--- Editoria: Esportes\n--- Ângulo ES: Crescimento do tênis no ES e onde os capixabas podem acompanhar torneios internacionais\n--- Por que performa: Interesse por \"thiago agustín tirante\" focado em transmissões de tênis\n--- Tipo: Serviço"
+    "resumo": "O Folha Vitória registrou 237.265 page views em 12/05/2026, superando em 129% a meta dinâmica de 183.531 PVs, com excedente de 53.734 visualizações. O período da tarde foi o mais forte com 78.359 PVs, seguido pela noite (71.387) e manhã (68.016). Todas as metas de checkpoint foram batidas, demonstrando consistência ao longo do dia. O desempenho coloca o portal em posição favorável para alcançar a meta mensal de 6 milhões de PVs.",
+    "horarios": ">>> Manhã (6h-11h): 68.016 PVs com checkpoint às 11h batendo meta (87.519 vs 60.000)\n>>> Tarde (12h-17h): 78.359 PVs, período mais forte do dia, checkpoint às 17h superou expectativa (165.878 vs 130.000)\n>>> Noite (18h-23h): 71.387 PVs mantendo ritmo consistente, checkpoint às 21h garantiu meta diária (220.550 vs 183.531)",
+    "padrao": ">>> Matérias de serviço público dominaram: RG, Imposto de Renda e INSS ocuparam posições de destaque\n>>> Conteúdo evergreen se mostrou eficaz, com 4 das 5 top matérias sendo antigas\n>>> Temas econômicos e tributários geraram maior engajamento do público\n>>> Apenas uma matéria do dia conseguiu penetrar no top 5, indicando força do catálogo histórico",
+    "editorias": ">>> Economia liderou com média real de 5.894 PVs/matéria (8 publicações), puxada por temas tributários\n>>> Trânsito mostrou eficiência com 901 PVs/matéria em apenas 3 publicações\n>>> Polícia teve desempenho mediano com 809 PVs/matéria em 11 publicações\n>>> Cotidiano alcançou 522 PVs/matéria com 9 publicações\n>>> Cultura e Política ficaram abaixo da média geral, com 298 e 259 PVs/matéria respectivamente\n>>> Gastronomia preocupa com 0 PVs nas 2 matérias publicadas ontem",
+    "trafego": ">>> Tráfego direto dominante (53%) indica forte fidelização da audiência\n>>> Google Orgânico saudável (41%) demonstra boa performance em SEO\n>>> Redes sociais com participação baixa (4%) revelam potencial não explorado\n>>> Links externos mínimos (2%) sugerem necessidade de parcerias estratégicas",
+    "eficiencia": "A produção de 91 matérias gerou média real de 844 PVs por conteúdo publicado ontem, com 83 matérias recebendo acessos. Apenas 8 matérias ficaram sem visualizações, representando taxa de aproveitamento de 91%. O desempenho individual foi impulsionado pela matéria sobre RG que sozinha conquistou 43.494 PVs.",
+    "erros": ">>> Gastronomia zerou audiência apesar de 2 publicações, indicando desconexão com interesse público\n>>> Baixo engajamento em redes sociais (4%) desperdiça potencial de viralização\n>>> Política com média de apenas 259 PVs/matéria em período pré-eleitoral\n>>> Falta de diversificação nas fontes de tráfego, dependência excessiva do direto",
+    "oportunidades": ">>> Replicar estratégia de conteúdo de serviço público que gerou 43.494 PVs\n>>> Investir em distribuição social para reduzir dependência do tráfego direto\n>>> Explorar temas econômicos que mostraram alta performance (editoria líder)\n>>> Desenvolver parcerias para aumentar tráfego de referência\n>>> Revisar estratégia de gastronomia que não gerou audiência",
+    "acoes": ">>> Produzir mais conteúdo de serviço público inspirado no sucesso da matéria sobre RG\n>>> Intensificar posts em redes sociais para elevar participação além dos 4% atuais\n>>> Priorizar economia e trânsito que demonstraram melhores médias de PVs/matéria\n>>> Revisar completamente abordagem de gastronomia antes de novas publicações\n>>> Manter ritmo de 90+ matérias para sustentar meta de amanhã de 180.703 PVs",
+    "metaacumulada": "A meta dinâmica de 183.531 PVs foi calculada dividindo o restante da meta mensal (3.433.345) pelos dias disponíveis ontem. Com o acumulado atual de 2.566.655 de 6 milhões, restam 3.433.345 PVs para conquistar em 19 dias. A meta de amanhã diminui para 180.703 PVs, reflexo do excedente gerado hoje que alivia a pressão diária. Este sistema dinâmico permite compensar dias fracos com performances excepcionais como a de hoje.",
+    "historicodia": ">>> Performance 16% superior à média do mesmo dia da semana nas últimas 8 semanas (204.221 vs 237.265)\n>>> Superou em 23% a média dos últimos 30 dias (193.086), confirmando tendência de crescimento\n>>> Resultado individual consolida padrão de alta que vem se sustentando no período",
+    "historicomes": ">>> Acumulado mensal 44% superior ao mesmo período do mês anterior (2.566.655 vs 1.781.747)\n>>> Projeção mensal indica possibilidade real de alcançar meta de 6 milhões\n>>> Ritmo atual permite folga para dias de menor performance sem comprometer objetivo final",
+    "tendencia": "A tendência de 30 dias mostra crescimento consistente de 16% comparado ao período anterior. O melhor mês da história foi julho/25 com 13.625.154 PVs, enquanto o pior foi fevereiro/25 com 4.527.477 PVs. O momento atual indica recuperação sólida e potencial para estabelecer novo recorde mensal se o ritmo for mantido.",
+    "alerta": "\"Gastronomia com zero page views em 2 publicações exige intervenção imediata na estratégia editorial\"",
+    "licao": "O sucesso de hoje comprova que conteúdo de serviço público, especialmente sobre documentação e tributos, gera audiência massiva e engajamento duradouro. A matéria sobre RG sozinha representou 18% do total de PVs, demonstrando como um único conteúdo relevante pode transformar o desempenho diário. \"Servir ao leitor com informação útil é servir ao próprio negócio.\"",
+    "tendencias": ">>> Climatempo ES: previsão da semana mostra chegada de frente fria no Espírito Santo\n--- Editoria: Cotidiano\n--- Ângulo ES: Focar na previsão específica para as cidades capixabas, impactos nas praias da Grande Vitória e interior montanhoso\n--- Por que performa: Alto volume de buscas por previsão do tempo (2000+) com interesse nacional sobre mudanças climáticas\n--- Tipo: Serviço\n\n>>> Como descobrir qual foi a primeira música que você ouviu no Spotify: passo a passo completo\n--- Editoria: Tecnologia\n--- Ângulo ES: Incluir dados sobre hábitos musicais dos capixabas e artistas locais mais ouvidos na plataforma\n--- Por que performa: Trending topic com maior volume de buscas (10000+), curiosidade viral sobre nostalgia digital\n--- Tipo: Explicativo\n\n>>> Convocação da Seleção Brasileira: veja lista completa e quando o Brasil joga\n--- Editoria: Esportes\n--- Ângulo ES: Destacar possível convocação de jogadores com passagem por clubes capixabas e onde assistir no ES\n--- Por que performa: Alto interesse em convocações da seleção (2000+ buscas) com Copa 2026 se aproximando\n--- Tipo: Notícia\n\n>>> Feriado de 13 de maio: veja o que abre e fecha em Vitória e Vila Velha\n--- Editoria: Serviços\n--- Ângulo ES: Guia completo sobre funcionamento de shoppings, bancos, repartições e transporte público na Grande Vitória\n--- Por que performa: Busca direta sobre feriado nacional com necessidade de informação local e prática\n--- Tipo: Serviço\n\n>>> Ingressos Santos x Coritiba: como comprar e valores para jogo decisivo do Brasileirão\n--- Editoria: Esportes\n--- Ângulo ES: Conectar com torcida santista no ES e comparar com preços de ingressos dos jogos no estádio Kleber Andrade\n--- Por que performa: Interesse em compra de ingressos (500+ buscas) para jogo importante do campeonato\n--- Tipo: Serviço\n\n>>> Temperatura em alta: Vitória pode chegar aos 28°C nesta quarta-feira\n--- Editoria: Cotidiano\n--- Ângulo ES: Previsão específica para Grande Vitória, comparação com outras capitais e dicas para o calor capixaba\n--- Por que performa: Interesse nacional em mudanças de temperatura (1000+ buscas em SP) aplicado ao contexto local\n--- Tipo: Notícia\n\n>>> Pearl jam confirma festival em 2026: capixabas já planejam viagem para show histórico\n--- Editoria: Cultura\n--- Ângulo ES: Repercussão entre fãs capixabas da banda, agências de turismo do ES organizando excursões\n--- Por que performa: Interesse de fãs da banda (200+ buscas) em evento internacional confirmado\n--- Tipo: Notícia\n\n>>> Horóscopo desta segunda: previsões completas para os 12 signos\n--- Editoria: Comportamento\n--- Ângulo ES: Incluir dicas específicas para o dia no ES, eventos locais favoráveis para cada signo\n--- Por que performa: Busca constante por conteúdo de horóscopo com potencial viral no Google Discover\n--- Tipo: Serviço\n\n>>> Leonardo Jardim no radar: técnico português pode ser opção para clubes brasileiros\n--- Editoria: Esportes\n--- Ângulo ES: Histórico de técnicos estrangeiros no futebol capixaba e possível interesse de clubes locais\n--- Por que performa: Movimentação no mercado da bola (100+ buscas) gera interesse em transferências\n--- Tipo: Análise\n\n>>> Damac x Al Fayha: onde assistir e palpites para jogo do Campeonato Saudita\n--- Editoria: Esportes\n--- Ângulo ES: Crescimento do interesse por futebol internacional no ES e onde acompanhar na TV local\n--- Por que performa: Interesse crescente em campeonatos internacionais (100+ buscas) por apostadores e curiosos\n--- Tipo: Serviço"
   },
   "tendencias": [
     {
-      "titulo": "casa branca",
-      "trafico": "200+",
-      "contexto": "Acusado de tentar assassinar Trump em jantar na Casa Branca se declara inocente"
-    },
-    {
-      "titulo": "julgamento de bolsonaro",
-      "trafico": "200+",
-      "contexto": "Kassio será relator de revisão pedida por Bolsonaro para anular condenação no STF"
-    },
-    {
-      "titulo": "seleção espanhola de futebol",
-      "trafico": "200+",
-      "contexto": "Pré-lista da Espanha para Copa tem Yamal e trio do Real; Carvajal está fora"
-    },
-    {
-      "titulo": "thiago agustín tirante",
-      "trafico": "200+",
-      "contexto": "𝗧𝗩 𝗦𝘁𝗿𝗲𝗮𝗺s Thiago Agustín Tirante vs Daniil Medvedev 𝗟𝗶𝘃𝗲 𝗦𝘁𝗿𝗲𝗮𝗺 𝗙𝗿𝗲𝗲: Italian"
-    },
-    {
-      "titulo": "londrina fc",
-      "trafico": "200+",
-      "contexto": "Londrina x São Bernardo: onde assistir ao vivo, horário e escalações"
-    },
-    {
-      "titulo": "jogos de hoje da copa do brasil",
-      "trafico": "200+",
-      "contexto": "Adversário do Fluminense, Operário-PR tem camisa 10 campeão com Mbappé: &quot;Muito potencial&quot;"
-    },
-    {
-      "titulo": "cruzeiro x goiás",
-      "trafico": "200+",
-      "contexto": "Cruzeiro x Goiás: onde assistir ao vivo, horário e escalações"
-    },
-    {
-      "titulo": "irmãos batista jbs",
+      "titulo": "santos ingressos",
       "trafico": "500+",
-      "contexto": "Além da carne: irmãos Batista, da JBS, são donos da Minuano e marcas que poucos conhecem"
+      "contexto": "Venda de ingressos para Santos FC X Coritiba, pelo Campeonato Brasileiro, na Neo Química Arena"
     },
     {
-      "titulo": "reforma da previdência",
+      "titulo": "damac",
+      "trafico": "100+",
+      "contexto": "Damac vs Al Fayha Team News, Match Preview, Forecast and Best Bets – 15/5/2026"
+    },
+    {
+      "titulo": "climatempo",
+      "trafico": "2000+",
+      "contexto": "Até quando vai a onda de frio? Veja previsão do tempo"
+    },
+    {
+      "titulo": "pearl jam",
       "trafico": "200+",
-      "contexto": "Incapacidade anterior à reforma dá aposentadoria pela regra antiga"
+      "contexto": "Tyler Childers headlines Ohana Festival 2026 alongside Pearl Jam and Eddie Vedder"
     },
     {
-      "titulo": "southampton",
+      "titulo": "correio da bahia",
+      "trafico": "200+",
+      "contexto": "Horóscopo do dia: previsão para os 12 signos em 12/05/2026"
+    },
+    {
+      "titulo": "leonardo jardim",
+      "trafico": "100+",
+      "contexto": "Rodrigo Mattos: Flamengo prioriza evitar perdas no elenco e arrecadar com vendas paralelas"
+    },
+    {
+      "titulo": "13 de maio é feriado de quê",
+      "trafico": "100+",
+      "contexto": "Transporte coletivo está garantido para todos festejarem Sorr..."
+    },
+    {
+      "titulo": "jogadores convocados seleção brasileira",
+      "trafico": "2000+",
+      "contexto": "Brasil joga em fim de semana? Veja calendário da seleção na Copa de 2026"
+    },
+    {
+      "titulo": "temperatura são paulo",
       "trafico": "1000+",
-      "contexto": "Southampton vs Middlesbrough LIVE: Championship live text commentary, stats &amp; head-to-head"
+      "contexto": "Temperatura volta a subir em São Paulo e máxima pode chegar a 26°C nesta quarta (13)"
+    },
+    {
+      "titulo": "primeira música spotify",
+      "trafico": "10000+",
+      "contexto": "Como ver a primeira música que eu escutei no Spotify? Veja passo a passo"
     }
   ]
 }
