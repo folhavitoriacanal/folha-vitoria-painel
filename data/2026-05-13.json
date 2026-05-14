@@ -1,0 +1,373 @@
+{
+  "dataDisplay": "13/05/2026",
+  "geradoEm": "2026-05-14T09:19:17.165Z",
+  "pvTotal": 236479,
+  "pctMeta": 131,
+  "metaHoje": 180702,
+  "metaAmanha": 177604,
+  "saldoOntem": 55777,
+  "deficitOntem": 0,
+  "metaDiaria": 200000,
+  "metaMensal": 6000000,
+  "usuarios": 110297,
+  "sessions": 149635,
+  "pgsPorSessao": "1.58",
+  "tempoMedio": "2min12s",
+  "pvManha": 73490,
+  "pvTarde": 79510,
+  "pvNoite": 61942,
+  "checkpoints": [
+    {
+      "label": "Até 11h",
+      "pv": 95027,
+      "meta": 60000,
+      "status": "META BATIDA"
+    },
+    {
+      "label": "Até 17h",
+      "pv": 174537,
+      "meta": 130000,
+      "status": "META BATIDA"
+    },
+    {
+      "label": "Até 21h",
+      "pv": 221327,
+      "meta": 180702,
+      "status": "META BATIDA"
+    }
+  ],
+  "producao": {
+    "disponivel": true,
+    "totalPublicadas": 99,
+    "pvPublicadas": 70346,
+    "mediaRealPorMateria": 711,
+    "materiasComAcesso": 92,
+    "materiasSemAcesso": 7,
+    "pvAntigos": 166133
+  },
+  "topMaterias": [
+    {
+      "pos": 1,
+      "titulo": "Quais são as regras para ter porte de arma? Saiba as exigências",
+      "pv": 27967,
+      "publicadaHoje": true
+    },
+    {
+      "pos": 2,
+      "titulo": "Entenda quem precisa trocar o RG antigo até 2027",
+      "pv": 12110,
+      "publicadaHoje": false
+    },
+    {
+      "pos": 3,
+      "titulo": "Maior motoclube do Brasil faz entrega de coletes na Serra",
+      "pv": 10799,
+      "publicadaHoje": false
+    },
+    {
+      "pos": 4,
+      "titulo": "CNH DE GRAÇA; Idosos já podem renovar sem custo; veja COMO",
+      "pv": 7396,
+      "publicadaHoje": true
+    },
+    {
+      "pos": 5,
+      "titulo": "Imposto de Renda: até que idade os idosos precisam declarar?",
+      "pv": 6118,
+      "publicadaHoje": false
+    }
+  ],
+  "editorias": [
+    {
+      "nome": "politica",
+      "pvTotal": 33048,
+      "pvPublicadas": 31215,
+      "publicadas": 13,
+      "urlsAcessadas": 30,
+      "mediaCorreta": 2401
+    },
+    {
+      "nome": "economia",
+      "pvTotal": 30954,
+      "pvPublicadas": 4844,
+      "publicadas": 7,
+      "urlsAcessadas": 34,
+      "mediaCorreta": 692
+    },
+    {
+      "nome": "transito",
+      "pvTotal": 16994,
+      "pvPublicadas": 11353,
+      "publicadas": 5,
+      "urlsAcessadas": 20,
+      "mediaCorreta": 2271
+    },
+    {
+      "nome": "cultura",
+      "pvTotal": 15842,
+      "pvPublicadas": 1232,
+      "publicadas": 7,
+      "urlsAcessadas": 48,
+      "mediaCorreta": 176
+    },
+    {
+      "nome": "cotidiano",
+      "pvTotal": 10210,
+      "pvPublicadas": 7813,
+      "publicadas": 12,
+      "urlsAcessadas": 42,
+      "mediaCorreta": 651
+    },
+    {
+      "nome": "policia",
+      "pvTotal": 7143,
+      "pvPublicadas": 2117,
+      "publicadas": 6,
+      "urlsAcessadas": 43,
+      "mediaCorreta": 353
+    },
+    {
+      "nome": "trabalho",
+      "pvTotal": 5586,
+      "pvPublicadas": 728,
+      "publicadas": 3,
+      "urlsAcessadas": 23,
+      "mediaCorreta": 243
+    }
+  ],
+  "origens": [
+    {
+      "canal": "Direto",
+      "pv": 124992,
+      "pct": 53
+    },
+    {
+      "canal": "Google Orgânico",
+      "pv": 96895,
+      "pct": 41
+    },
+    {
+      "canal": "Social",
+      "pv": 8531,
+      "pct": 4
+    },
+    {
+      "canal": "Links externos",
+      "pv": 3799,
+      "pct": 2
+    },
+    {
+      "canal": "Não identificado",
+      "pv": 2218,
+      "pct": 1
+    },
+    {
+      "canal": "YouTube",
+      "pv": 32,
+      "pct": 0
+    },
+    {
+      "canal": "E-mail",
+      "pv": 12,
+      "pct": 0
+    }
+  ],
+  "historico": {
+    "mediaMesmoDia": 191686,
+    "varMesmoDia": 23,
+    "media30": 195393,
+    "media30a": 166045,
+    "var30": 18,
+    "pvMesAtualAcum": 2803142,
+    "pvMesAntMesmoPer": 1950439,
+    "varMesAnt": 44,
+    "diasRestantes": 18,
+    "pvFaltaMes": 3196858,
+    "mediaNecessaria": 177604,
+    "mediaMensal": 6856222,
+    "melhorMes": {
+      "mes": "202507",
+      "pv": 13625154,
+      "label": "Jul/25"
+    },
+    "piorMes": {
+      "mes": "202502",
+      "pv": 4527477,
+      "label": "Fev/25"
+    },
+    "mensal": [
+      {
+        "mes": "202501",
+        "pv": 7245874,
+        "label": "Jan/25",
+        "atual": false
+      },
+      {
+        "mes": "202502",
+        "pv": 4527477,
+        "label": "Fev/25",
+        "atual": false
+      },
+      {
+        "mes": "202503",
+        "pv": 5367201,
+        "label": "Mar/25",
+        "atual": false
+      },
+      {
+        "mes": "202504",
+        "pv": 6945113,
+        "label": "Abr/25",
+        "atual": false
+      },
+      {
+        "mes": "202505",
+        "pv": 6591733,
+        "label": "Mai/25",
+        "atual": false
+      },
+      {
+        "mes": "202506",
+        "pv": 11659575,
+        "label": "Jun/25",
+        "atual": false
+      },
+      {
+        "mes": "202507",
+        "pv": 13625154,
+        "label": "Jul/25",
+        "atual": false
+      },
+      {
+        "mes": "202508",
+        "pv": 10001619,
+        "label": "Ago/25",
+        "atual": false
+      },
+      {
+        "mes": "202509",
+        "pv": 6679985,
+        "label": "Set/25",
+        "atual": false
+      },
+      {
+        "mes": "202510",
+        "pv": 5336318,
+        "label": "Out/25",
+        "atual": false
+      },
+      {
+        "mes": "202511",
+        "pv": 4564202,
+        "label": "Nov/25",
+        "atual": false
+      },
+      {
+        "mes": "202512",
+        "pv": 5524739,
+        "label": "Dez/25",
+        "atual": false
+      },
+      {
+        "mes": "202601",
+        "pv": 4978658,
+        "label": "Jan/26",
+        "atual": false
+      },
+      {
+        "mes": "202602",
+        "pv": 6402972,
+        "label": "Fev/26",
+        "atual": false
+      },
+      {
+        "mes": "202603",
+        "pv": 5172054,
+        "label": "Mar/26",
+        "atual": false
+      },
+      {
+        "mes": "202604",
+        "pv": 5076878,
+        "label": "Abr/26",
+        "atual": false
+      },
+      {
+        "mes": "202605",
+        "pv": 2803142,
+        "label": "Mai/26",
+        "atual": true
+      }
+    ]
+  },
+  "analises": {
+    "resumo": "O Folha Vitória registrou 236.479 page views no dia 13/05/2026, superando em 131% a meta diária de 180.702 visualizações. O desempenho foi consistente ao longo do dia, com destaque para o período da tarde que concentrou 79.510 PVs. A distribuição temporal mostrou equilíbrio, com manhã registrando 73.490 PVs e noite fechando com 61.942 PVs. O resultado representa um avanço significativo em direção à meta mensal de 6 milhões de page views, já acumulando 46,7% do objetivo no mês.",
+    "horarios": ">>> Manhã (6h-11h) trouxe forte início com 73.490 PVs, superando checkpoint de 60.000 em 58%\n>>> Tarde (12h-17h) manteve ritmo acelerado com 79.510 PVs, batendo meta de 130.000 até 17h\n>>> Noite (18h-23h) fechou com 61.942 PVs, garantindo superação da meta diária às 21h\n>>> Todos os checkpoints foram batidos com folga, demonstrando consistência na geração de tráfego",
+    "padrao": ">>> Conteúdos de utilidade pública dominaram com matéria sobre porte de arma liderando com 27.967 PVs\n>>> Assuntos de documentação civil mantêm alta relevância, com RG ocupando segundo lugar\n>>> Pautas de serviço para idosos mostram forte engajamento, especialmente CNH gratuita\n>>> Mix equilibrado entre matérias novas (39% dos PVs) e conteúdo evergreen (61% dos PVs)",
+    "editorias": ">>> Política lidera com média real de 2.401 PVs por matéria, demonstrando alto engajamento\n>>> Trânsito apresenta segunda melhor performance com 2.271 PVs por conteúdo publicado\n>>> Economia registra 692 PVs por matéria, performance mediana mas com volume significativo\n>>> Cultura preocupa com apenas 176 PVs por matéria, necessitando revisão de estratégia",
+    "trafego": ">>> Tráfego direto representa 53% da audiência, indicando forte fidelização da marca\n>>> Google Orgânico contribui com 41%, mostrando boa otimização SEO dos conteúdos\n>>> Redes sociais respondem por apenas 4%, sinalizando oportunidade de crescimento\n>>> Dependência excessiva de tráfego direto pode ser vulnerabilidade em médio prazo",
+    "eficiencia": "A produção de 99 matérias gerou média real de 711 page views por conteúdo, considerando apenas as publicações do dia. Das matérias publicadas, 92 tiveram acesso registrado enquanto 7 ficaram sem visualizações, representando taxa de aproveitamento de 93%. O índice demonstra boa eficiência editorial, mas as 7 matérias sem acesso merecem análise para identificar problemas de distribuição ou relevância do tema.",
+    "erros": ">>> Editoria de cultura com performance crítica de 176 PVs por matéria publicada\n>>> Baixo aproveitamento das redes sociais com apenas 4% do tráfego total\n>>> Sete matérias ficaram sem nenhum acesso, indicando falhas na estratégia de headline ou distribuição\n>>> Editoria de trabalho com média de apenas 243 PVs por conteúdo, abaixo do potencial",
+    "oportunidades": ">>> Ampliar produção de conteúdos de utilidade pública que demonstram alto engajamento\n>>> Investir em estratégia de redes sociais para reduzir dependência do tráfego direto\n>>> Replicar modelo de sucesso da editoria de política nas demais áreas\n>>> Desenvolver mais pautas evergreen que sustentam audiência ao longo do tempo\n>>> Criar série sobre direitos dos idosos, aproveitando performance da pauta CNH gratuita",
+    "acoes": ">>> Produzir pelo menos 3 matérias de utilidade pública para alavancar audiência\n>>> Intensificar distribuição nas redes sociais com foco em conteúdos de serviço\n>>> Revisar estratégia da editoria de cultura, priorizando pautas com maior apelo popular\n>>> Monitorar performance das primeiras matérias para ajustes ao longo do dia\n>>> Manter ritmo de 95-100 publicações para sustentar média de 711 PVs por matéria",
+    "metaacumulada": "A meta dinâmica de 180.702 foi calculada dividindo o restante da meta mensal pelos dias restantes, incluindo ontem. Com 3.196.858 PVs ainda necessários para atingir os 6 milhões mensais, a nova meta para amanhã é de 177.604 page views. Este sistema de meta dinâmica garante distribuição equilibrada do objetivo ao longo do mês, ajustando-se automaticamente conforme a performance diária. O cumprimento de 131% da meta de ontem reduz a pressão sobre os próximos dias, tornando as metas seguintes mais alcançáveis.",
+    "historicodia": ">>> Performance 23% superior à média do mesmo dia da semana nas últimas 8 semanas\n>>> Resultado supera em 21% a média dos últimos 30 dias de 195.393 PVs\n>>> Crescimento sustentado evidencia melhoria consistente na estratégia editorial",
+    "historicomes": ">>> Acumulado mensal de 2.803.142 representa crescimento de 44% sobre mesmo período do mês anterior\n>>> Projeção indica possibilidade real de atingir meta mensal de 6 milhões de PVs\n>>> Ritmo atual sugere fechamento do mês entre 5,8 e 6,2 milhões de page views",
+    "tendencia": "A tendência dos últimos 30 dias mostra crescimento de 18% na média diária comparada aos 30 dias anteriores. O melhor mês da história foi julho/25 com 13.625.154 PVs, enquanto o pior foi fevereiro/25 com 4.527.477 PVs. A performance atual indica recuperação consistente e aproximação dos melhores resultados históricos do portal.",
+    "alerta": "\"Meta de amanhã de 177.604 PVs exige manutenção do padrão de qualidade editorial e distribuição eficiente dos conteúdos.\"",
+    "licao": "O sucesso do dia reforça que conteúdos de utilidade pública e serviço ao cidadão são pilares fundamentais para alta performance de audiência. A matéria sobre porte de arma demonstra como temas de interesse geral, tratados com clareza e objetividade, geram engajamento massivo. A lição é clara: \"Informação útil é informação consumida.\"",
+    "tendencias": ">>> Onda de frio pode chegar ao ES ainda esta semana: veja quando e onde fará mais frio\n--- Editoria: Clima e Tempo\n--- Ângulo ES: Focar nas temperaturas esperadas para Grande Vitória, região serrana e interior, com orientações sobre que roupas usar e cuidados com idosos e crianças\n--- Por que performa: \"Onda de frio\" está em alta com 2000+ buscas, capixabas sempre buscam informações sobre mudanças climáticas\n--- Tipo: Serviço\n\n>>> Previsão do tempo para esta quinta-feira no Espírito Santo: chuva ou sol?\n--- Editoria: Clima e Tempo\n--- Ângulo ES: Previsão detalhada para todas as regiões do ES, incluindo condições para praias e atividades ao ar livre\n--- Por que performa: \"Previsão do tempo hoje\" tem 100+ buscas diárias constantes, busca local é sempre forte\n--- Tipo: Serviço\n\n>>> Onde comprar laptop com desconto no ES: guia completo das melhores lojas em Vitória\n--- Editoria: Tecnologia\n--- Ângulo ES: Mapear lojas físicas e online que atendem capixabas, comparar preços e condições de parcelamento no mercado local\n--- Por que performa: \"Laptop\" está em alta com 2000+ buscas, período de volta às aulas aumenta procura\n--- Tipo: Lista\n\n>>> Cursos de prosperidade financeira fazem sucesso entre capixabas: vale a pena investir?\n--- Editoria: Economia\n--- Ângulo ES: Investigar coaches locais que vendem cursos similares, ouvir especialistas em educação financeira do ES\n--- Por que performa: \"Prosperidade\" explodiu com 5000+ buscas após polêmica de Mariana Rios\n--- Tipo: Análise\n\n>>> Renato Ceni pode ser demitido do São Paulo: relembre a passagem do técnico pelo futebol capixaba\n--- Editoria: Esportes\n--- Ângulo ES: Resgatar quando Ceni jogou contra times capixabas ou sua relação com o futebol local\n--- Por que performa: \"Ceni\" está em alta com 2000+ buscas, capixabas acompanham futebol nacional\n--- Tipo: Notícia\n\n>>> Como o relacionamento comercial entre China e Brasil afeta a economia do ES\n--- Editoria: Economia\n--- Ângulo ES: Mostrar como as decisões de Xi Jinping impactam o Porto de Vitória e as exportações capixabas\n--- Por que performa: \"Xi Jinping\" tem 500+ buscas, ES tem forte ligação comercial com a China\n--- Tipo: Explicativo\n\n>>> Apostas esportivas online: como funcionam as casas de apostas que operam no ES\n--- Editoria: Esportes\n--- Ângulo ES: Explicar a regulamentação no Brasil, alertar sobre vício em jogos e mostrar dados de usuários capixabas\n--- Por que performa: \"BetMGM\" está em alta, apostas esportivas são tema recorrente de busca\n--- Tipo: Explicativo\n\n>>> Estruturas do litoral capixaba resistem melhor às ondas fortes que o píer do Leblon?\n--- Editoria: Cidade\n--- Ângulo ES: Comparar a engenharia dos píeres e mirantes do ES com o caso do Rio, ouvir engenheiros locais\n--- Por que performa: \"Clima hoje\" em alta por causa dos danos no RJ, capixabas se preocupam com infraestrutura local\n--- Tipo: Análise\n\n>>> Surto em navio na França: como estão os protocolos sanitários nos portos do ES\n--- Editoria: Saúde\n--- Ângulo ES: Verificar procedimentos de segurança sanitária no Porto de Vitória e terminais de cruzeiros\n--- Por que performa: \"Navio\" tem 200+ buscas pelo caso na França, ES recebe navios constantemente\n--- Tipo: Serviço\n\n>>> Produtos com defeito: como capixabas podem pedir reembolso após recall\n--- Editoria: Consumidor\n--- Ângulo ES: Orientar sobre direitos do consumidor no ES, citar Procon local e casos similares na região\n--- Por que performa: Caso dos detergentes Ypê trouxe \"Janja\" para trending com 1000+ buscas, consumidor sempre busca orientação\n--- Tipo: Serviço"
+  },
+  "tendencias": [
+    {
+      "titulo": "navio",
+      "trafico": "200+",
+      "contexto": "Mais de 1.700 pessoas são confinadas em navio na França após morte de passageiro e possível surto"
+    },
+    {
+      "titulo": "clima hoje",
+      "trafico": "200+",
+      "contexto": "Ondas danificam estrutura do píer do Mirante do Leblon; área foi interditada para reparo"
+    },
+    {
+      "titulo": "janja",
+      "trafico": "1000+",
+      "contexto": "Detergentes da Ypê foram recolhidos em 2024 após mau cheiro; relembre"
+    },
+    {
+      "titulo": "previsao do tempo hoje",
+      "trafico": "100+",
+      "contexto": ""
+    },
+    {
+      "titulo": "onda de frio",
+      "trafico": "2000+",
+      "contexto": "Novas frentes frias trazem chuva ao Brasil a partir de sexta; veja onde"
+    },
+    {
+      "titulo": "laptop",
+      "trafico": "2000+",
+      "contexto": "Introducing Googlebook, designed for Gemini Intelligence"
+    },
+    {
+      "titulo": "xi jinping",
+      "trafico": "500+",
+      "contexto": "A China &quot;abrirá ainda mais suas portas&quot; para o mundo, diz Xi a líderes empresariais dos EU"
+    },
+    {
+      "titulo": "prosperidade",
+      "trafico": "5000+",
+      "contexto": "Casada com milionário, Mariana Rios vende curso de R$ 300 para atrair prosperidade"
+    },
+    {
+      "titulo": "ceni",
+      "trafico": "2000+",
+      "contexto": "Ceni precisa ser demitido... e antes pedir desculpas a Juba e torcedores"
+    },
+    {
+      "titulo": "betmgm",
+      "trafico": "100+",
+      "contexto": "BetMGM Bonus Code TOP1500 Claims $1,500 Cavs-Pistons Game 5 Safety Offer - WTOP News"
+    }
+  ]
+}
