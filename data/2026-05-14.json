@@ -1,0 +1,373 @@
+{
+  "dataDisplay": "14/05/2026",
+  "geradoEm": "2026-05-15T09:19:01.859Z",
+  "pvTotal": 243777,
+  "pctMeta": 137,
+  "metaHoje": 177604,
+  "metaAmanha": 173711,
+  "saldoOntem": 66173,
+  "deficitOntem": 0,
+  "metaDiaria": 200000,
+  "metaMensal": 6000000,
+  "usuarios": 96035,
+  "sessions": 129523,
+  "pgsPorSessao": "1.88",
+  "tempoMedio": "2min18s",
+  "pvManha": 71027,
+  "pvTarde": 79853,
+  "pvNoite": 69130,
+  "checkpoints": [
+    {
+      "label": "Até 11h",
+      "pv": 94794,
+      "meta": 60000,
+      "status": "META BATIDA"
+    },
+    {
+      "label": "Até 17h",
+      "pv": 174647,
+      "meta": 130000,
+      "status": "META BATIDA"
+    },
+    {
+      "label": "Até 21h",
+      "pv": 224306,
+      "meta": 177604,
+      "status": "META BATIDA"
+    }
+  ],
+  "producao": {
+    "disponivel": true,
+    "totalPublicadas": 114,
+    "pvPublicadas": 49144,
+    "mediaRealPorMateria": 431,
+    "materiasComAcesso": 108,
+    "materiasSemAcesso": 6,
+    "pvAntigos": 194633
+  },
+  "topMaterias": [
+    {
+      "pos": 1,
+      "titulo": "Alô alô Bahia! Aniversário em alto estilo, 100 amigas e trio elétrico",
+      "pv": 15070,
+      "publicadaHoje": true
+    },
+    {
+      "pos": 2,
+      "titulo": "CNH DE GRAÇA; Idosos já podem renovar sem custo; veja COMO",
+      "pv": 9579,
+      "publicadaHoje": false
+    },
+    {
+      "pos": 3,
+      "titulo": "Fim de semana deve ter mudança no tempo e chuva no ES",
+      "pv": 4256,
+      "publicadaHoje": true
+    },
+    {
+      "pos": 4,
+      "titulo": "Alô alô Bahia! Aniversário em alto estilo, 60 amigas e trio elétrico",
+      "pv": 4237,
+      "publicadaHoje": true
+    },
+    {
+      "pos": 5,
+      "titulo": "INSS: veja quando será o pagamento da segunda parcela do 13º",
+      "pv": 4218,
+      "publicadaHoje": false
+    }
+  ],
+  "editorias": [
+    {
+      "nome": "social",
+      "pvTotal": 22342,
+      "pvPublicadas": 5608,
+      "publicadas": 2,
+      "urlsAcessadas": 18,
+      "mediaCorreta": 2804
+    },
+    {
+      "nome": "economia",
+      "pvTotal": 20114,
+      "pvPublicadas": 5104,
+      "publicadas": 9,
+      "urlsAcessadas": 32,
+      "mediaCorreta": 567
+    },
+    {
+      "nome": "transito",
+      "pvTotal": 16909,
+      "pvPublicadas": 3255,
+      "publicadas": 4,
+      "urlsAcessadas": 17,
+      "mediaCorreta": 814
+    },
+    {
+      "nome": "cultura",
+      "pvTotal": 13798,
+      "pvPublicadas": 6968,
+      "publicadas": 8,
+      "urlsAcessadas": 44,
+      "mediaCorreta": 871
+    },
+    {
+      "nome": "cotidiano",
+      "pvTotal": 13458,
+      "pvPublicadas": 6895,
+      "publicadas": 13,
+      "urlsAcessadas": 43,
+      "mediaCorreta": 530
+    },
+    {
+      "nome": "policia",
+      "pvTotal": 8667,
+      "pvPublicadas": 6922,
+      "publicadas": 11,
+      "urlsAcessadas": 37,
+      "mediaCorreta": 629
+    },
+    {
+      "nome": "politica",
+      "pvTotal": 6708,
+      "pvPublicadas": 2118,
+      "publicadas": 11,
+      "urlsAcessadas": 32,
+      "mediaCorreta": 193
+    }
+  ],
+  "origens": [
+    {
+      "canal": "Direto",
+      "pv": 136455,
+      "pct": 56
+    },
+    {
+      "canal": "Google Orgânico",
+      "pv": 95171,
+      "pct": 39
+    },
+    {
+      "canal": "Social",
+      "pv": 7869,
+      "pct": 3
+    },
+    {
+      "canal": "Links externos",
+      "pv": 3163,
+      "pct": 1
+    },
+    {
+      "canal": "Não identificado",
+      "pv": 1052,
+      "pct": 0
+    },
+    {
+      "canal": "YouTube",
+      "pv": 54,
+      "pct": 0
+    },
+    {
+      "canal": "E-mail",
+      "pv": 13,
+      "pct": 0
+    }
+  ],
+  "historico": {
+    "mediaMesmoDia": 197669,
+    "varMesmoDia": 23,
+    "media30": 197653,
+    "media30a": 168097,
+    "var30": 18,
+    "pvMesAtualAcum": 3046915,
+    "pvMesAntMesmoPer": 2112012,
+    "varMesAnt": 44,
+    "diasRestantes": 17,
+    "pvFaltaMes": 2953085,
+    "mediaNecessaria": 173711,
+    "mediaMensal": 6856222,
+    "melhorMes": {
+      "mes": "202507",
+      "pv": 13625154,
+      "label": "Jul/25"
+    },
+    "piorMes": {
+      "mes": "202502",
+      "pv": 4527477,
+      "label": "Fev/25"
+    },
+    "mensal": [
+      {
+        "mes": "202501",
+        "pv": 7245874,
+        "label": "Jan/25",
+        "atual": false
+      },
+      {
+        "mes": "202502",
+        "pv": 4527477,
+        "label": "Fev/25",
+        "atual": false
+      },
+      {
+        "mes": "202503",
+        "pv": 5367201,
+        "label": "Mar/25",
+        "atual": false
+      },
+      {
+        "mes": "202504",
+        "pv": 6945113,
+        "label": "Abr/25",
+        "atual": false
+      },
+      {
+        "mes": "202505",
+        "pv": 6591733,
+        "label": "Mai/25",
+        "atual": false
+      },
+      {
+        "mes": "202506",
+        "pv": 11659575,
+        "label": "Jun/25",
+        "atual": false
+      },
+      {
+        "mes": "202507",
+        "pv": 13625154,
+        "label": "Jul/25",
+        "atual": false
+      },
+      {
+        "mes": "202508",
+        "pv": 10001619,
+        "label": "Ago/25",
+        "atual": false
+      },
+      {
+        "mes": "202509",
+        "pv": 6679985,
+        "label": "Set/25",
+        "atual": false
+      },
+      {
+        "mes": "202510",
+        "pv": 5336318,
+        "label": "Out/25",
+        "atual": false
+      },
+      {
+        "mes": "202511",
+        "pv": 4564202,
+        "label": "Nov/25",
+        "atual": false
+      },
+      {
+        "mes": "202512",
+        "pv": 5524739,
+        "label": "Dez/25",
+        "atual": false
+      },
+      {
+        "mes": "202601",
+        "pv": 4978658,
+        "label": "Jan/26",
+        "atual": false
+      },
+      {
+        "mes": "202602",
+        "pv": 6402972,
+        "label": "Fev/26",
+        "atual": false
+      },
+      {
+        "mes": "202603",
+        "pv": 5172054,
+        "label": "Mar/26",
+        "atual": false
+      },
+      {
+        "mes": "202604",
+        "pv": 5076878,
+        "label": "Abr/26",
+        "atual": false
+      },
+      {
+        "mes": "202605",
+        "pv": 3046915,
+        "label": "Mai/26",
+        "atual": true
+      }
+    ]
+  },
+  "analises": {
+    "resumo": "Resultado extraordinário no dia 14/05/2026 com 243.777 pageviews, superando a meta diária de 177.604 em 37% (+66.173). A manhã registrou 71.027 PVs, a tarde liderou com 79.853 e a noite manteve 69.130. Todas as metas de checkpoint foram batidas antecipadamente, demonstrando consistência ao longo do dia. O desempenho representa crescimento de 23% comparado à média do mesmo dia da semana.",
+    "horarios": ">>> Manhã (6h-11h): 71.027 PVs com checkpoint às 11h atingindo 94.794, superando meta de 60.000 em 58%\n>>> Tarde (12h-17h): 79.853 PVs, período mais forte, com checkpoint às 17h alcançando 174.647 contra meta de 130.000\n>>> Noite (18h-23h): 69.130 PVs, mantendo ritmo sólido até o checkpoint das 21h com 224.306 PVs\n>>> Todas as metas horárias foram batidas com folga, indicando distribuição equilibrada de audiência",
+    "padrao": ">>> Conteúdo de entretenimento social dominou com matéria sobre aniversário baiano gerando 15.070 PVs\n>>> Conteúdo de utilidade pública mantém relevância com CNH gratuita para idosos (9.579 PVs de matéria antiga)\n>>> Meteorologia confirma interesse constante com previsão do fim de semana (4.256 PVs)\n>>> Serviços do INSS continuam atraindo audiência mesmo em conteúdo antigo (4.218 PVs)",
+    "editorias": ">>> Social lidera eficiência com 2.804 PVs por matéria (2 publicações, 5.608 PVs)\n>>> Cultura mantém boa performance com 871 PVs por matéria (8 publicações)\n>>> Trânsito mostra 814 PVs por matéria, indicando interesse em mobilidade urbana\n>>> Economia atinge 567 PVs por matéria com 9 publicações\n>>> Política apresenta baixo rendimento com apenas 193 PVs por matéria",
+    "trafego": ">>> Audiência direta domina com 56% (136.455 PVs), demonstrando fidelização do público\n>>> Google Orgânico contribui com 39% (95.171 PVs), indicando boa otimização SEO\n>>> Redes sociais representam apenas 3% (7.869 PVs), mostrando potencial de crescimento\n>>> Canais alternativos (links externos, e-mail, YouTube) somam menos de 2%, sinalizando dependência de tráfego direto",
+    "eficiencia": "A produção de 114 matérias gerou 49.144 pageviews, resultando em média real de 431 PVs por matéria. Das publicações, 108 receberam acesso e apenas 6 ficaram sem visualizações. O conteúdo antigo contribuiu com 194.633 PVs, representando 80% da audiência total do dia.",
+    "erros": ">>> Política com baixíssimo rendimento de 193 PVs por matéria em 11 publicações\n>>> Apenas 3% de tráfego social indica subaproveitamento de redes sociais\n>>> 6 matérias publicadas sem nenhum acesso representam esforço desperdiçado\n>>> Concentração excessiva em tráfego direto (56%) cria vulnerabilidade na diversificação de fontes",
+    "oportunidades": ">>> Expandir cobertura de conteúdo social e entretenimento, seguindo sucesso da matéria sobre aniversário baiano\n>>> Intensificar estratégia de redes sociais para reduzir dependência de tráfego direto\n>>> Desenvolver mais conteúdo de utilidade pública similar ao sucesso da CNH gratuita\n>>> Otimizar produção política com foco em assuntos de maior interesse popular\n>>> Replicar formato de meteorologia que mantém audiência consistente",
+    "acoes": ">>> Produzir pelo menos 3 matérias de entretenimento/social para replicar sucesso do dia\n>>> Aumentar frequência de posts em redes sociais para elevar tráfego social acima de 5%\n>>> Revisar pauta política priorizando assuntos de impacto direto na vida do cidadão\n>>> Desenvolver 2 conteúdos de utilidade pública com potencial viral\n>>> Manter produção entre 110-120 matérias visando média de 400+ PVs por conteúdo para atingir meta de 173.711",
+    "metaacumulada": "A meta dinâmica de 177.604 foi calculada dividindo-se o restante da meta mensal pelos dias disponíveis, incluindo ontem. Com o acumulado atual de 3.046.915 de uma meta de 6.000.000, ainda faltam 2.953.085 pageviews. A meta de amanhã de 173.711 representa a divisão deste saldo pelos 17 dias restantes do mês, exigindo performance consistente para atingir o objetivo mensal.",
+    "historicodia": ">>> Performance 23% superior à média do mesmo dia da semana (197.669 PVs), confirmando crescimento sólido\n>>> Resultado supera média dos últimos 30 dias (197.653 PVs) em 23%, mantendo tendência positiva\n>>> Crescimento sustentado indica melhoria na qualidade editorial e engajamento do público",
+    "historicomes": ">>> Acumulado mensal de 3.046.915 representa crescimento de 44% versus mesmo período do mês anterior (2.112.012)\n>>> Ritmo atual projeta fechamento próximo aos 5.800.000 PVs, ligeiramente abaixo da meta de 6 milhões\n>>> Performance consistente indica potencial de atingir meta mensal com esforço concentrado nos próximos 17 dias",
+    "tendencia": "A tendência de 30 dias mostra crescimento de 18% comparado ao período anterior, confirmando trajetória ascendente. O melhor mês histórico foi julho/25 com 13.625.154 PVs, enquanto o pior foi fevereiro/25 com 4.527.477 PVs, demonstrando potencial de crescimento significativo ainda não explorado.",
+    "alerta": "\"Dependência excessiva de tráfego direto em 56% representa risco de vulnerabilidade na diversificação de audiência, exigindo urgente fortalecimento das redes sociais.\"",
+    "licao": "O dia demonstra que conteúdo de entretenimento social e utilidade pública formam a combinação ideal para audiência massiva. A matéria sobre o aniversário baiano prova que histórias humanas interessantes superam expectativas, enquanto serviços como CNH gratuita mantêm relevância duradoura. A lição fundamental é equilibrar produção entre entretenimento que viraliza e serviços que fidelizam. \"Audiência se constrói com histórias que emocionam e informações que transformam.\"",
+    "tendencias": ">>> Previsão do tempo para o Espírito Santo: chuva forte pode atingir o estado neste fim de semana\n--- Editoria: Cotidiano\n--- Ângulo ES: Análise das condições meteorológicas específicas para as regiões capixabas, incluindo Grande Vitória, norte e sul do estado\n--- Por que performa: Trending topic sobre previsão do tempo com alta demanda de busca, aplicado ao contexto local\n--- Tipo: Serviço\n\n>>> FGTS libera R$ 8,4 bilhões: como trabalhadores do ES podem sacar o benefício\n--- Editoria: Economia\n--- Ângulo ES: Orientações específicas para trabalhadores capixabas sobre documentação, agências da Caixa no ES e prazos para saque\n--- Por que performa: Trending topic sobre FGTS com impacto direto na vida financeira dos leitores\n--- Tipo: Serviço\n\n>>> Receita Federal monitora Pix: o que muda para quem usa a ferramenta no Espírito Santo\n--- Editoria: Economia\n--- Ângulo ES: Explicação sobre como o monitoramento afeta usuários capixabas e orientações para declaração no IR\n--- Por que performa: Trending topic sobre Pix gera alta demanda por esclarecimentos sobre privacidade e fiscalização\n--- Tipo: Explicativo\n\n>>> Detergente causa infecção em criança: como prevenir acidentes domésticos no ES\n--- Editoria: Saúde\n--- Ângulo ES: Orientações de pediatras capixabas sobre prevenção e dados de acidentes domésticos atendidos em hospitais do ES\n--- Por que performa: Caso repercute nacionalmente e gera busca por informações de segurança doméstica\n--- Tipo: Serviço\n\n>>> Horóscopo de hoje: previsões dos astros para os capixabas nesta sexta-feira\n--- Editoria: Variedades\n--- Ângulo ES: Horóscopo personalizado com referências ao cotidiano e clima do Espírito Santo\n--- Por que performa: Trending topic com alta demanda diária de consulta aos signos\n--- Tipo: Serviço\n\n>>> Varejo capixaba aposta em Copa e festas juninas para aumentar vendas\n--- Editoria: Economia\n--- Ângulo ES: Entrevistas com lojistas de Vitória e interior sobre estratégias para período sazonal e expectativas de faturamento\n--- Por que performa: Trending topic sobre varejo conectado ao cenário econômico local\n--- Tipo: Notícia\n\n>>> Massa de ar frio chega ao Sudeste: temperaturas devem cair no ES a partir de domingo\n--- Editoria: Cotidiano\n--- Ângulo ES: Previsão específica para as diferentes regiões do Espírito Santo e dicas para enfrentar o frio\n--- Por que performa: Continuidade do trending topic sobre clima, focando no impacto local da frente fria\n--- Tipo: Serviço\n\n>>> Crise política em Minas Gerais: o que capixabas precisam saber sobre decisão de Romeu Zema\n--- Editoria: Política\n--- Ângulo ES: Análise do impacto das decisões políticas mineiras na economia e relações comerciais com o ES\n--- Por que performa: Trending topic sobre governador de estado vizinho desperta curiosidade local\n--- Tipo: Análise\n\n>>> Acidentes domésticos com produtos de limpeza crescem no ES: hospitais alertam para cuidados\n--- Editoria: Saúde\n--- Ângulo ES: Dados dos hospitais capixabas sobre intoxicações e queimaduras por produtos químicos domésticos\n--- Por que performa: Desdobramento do caso nacional de intoxicação por detergente gera busca por informações locais\n--- Tipo: Notícia\n\n>>> Como consultar previsão do tempo confiável para sua cidade no Espírito Santo\n--- Editoria: Serviços\n--- Ângulo ES: Guia com melhores sites, apps e fontes oficiais para acompanhar clima nas cidades capixabas\n--- Por que performa: Alta demanda por consultas meteorológicas pode ser direcionada para conteúdo educativo local\n--- Tipo: Explicativo"
+  },
+  "tendencias": [
+    {
+      "titulo": "previsão do tempo curitiba",
+      "trafico": "1000+",
+      "contexto": "Chuva avança no Paraná; sexta-feira (15) tem risco de temporais"
+    },
+    {
+      "titulo": "romeu zema",
+      "trafico": "200+",
+      "contexto": "Postura de Zema foi de homem covarde e oportunista, diz líder da oposição"
+    },
+    {
+      "titulo": "previsão do tempo são paulo",
+      "trafico": "1000+",
+      "contexto": "Nova massa de ar frio chega ao Sul do Brasil a partir de domingo e derruba temperaturas na próxima s"
+    },
+    {
+      "titulo": "detergente",
+      "trafico": "2000+",
+      "contexto": "Menina de 10 anos luta contra infecção após contato com detergente Ypê"
+    },
+    {
+      "titulo": "previsao do tempo hoje",
+      "trafico": "100+",
+      "contexto": ""
+    },
+    {
+      "titulo": "horoscopo",
+      "trafico": "2000+",
+      "contexto": "Horóscopo 2026: confira a previsão de hoje (15/5) para seu signo"
+    },
+    {
+      "titulo": "fundo de garantia do tempo de serviço",
+      "trafico": "1000+",
+      "contexto": "Governo libera no fim deste mês R$ 8,4 bilhões de trabalhadores que optaram pelo saque-aniversário e"
+    },
+    {
+      "titulo": "pix",
+      "trafico": "1000+",
+      "contexto": "É verdade que a Receita Federal monitora todas as transações feitas por Pix no Brasil?"
+    },
+    {
+      "titulo": "varejo",
+      "trafico": "200+",
+      "contexto": "Comércio aposta em alta nas vendas com Copa e festas juninas"
+    },
+    {
+      "titulo": "minas gerais",
+      "trafico": "100+",
+      "contexto": "Governo de Minas transfere capital para Viçosa e anuncia início das tratativas para construção do ho"
+    }
+  ]
+}
