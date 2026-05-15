@@ -1,189 +1,189 @@
 {
-  "dataDisplay": "13/05/2026",
-  "geradoEm": "2026-05-14T09:19:17.165Z",
-  "pvTotal": 236479,
-  "pctMeta": 131,
-  "metaHoje": 180702,
-  "metaAmanha": 177604,
-  "saldoOntem": 55777,
+  "dataDisplay": "14/05/2026",
+  "geradoEm": "2026-05-15T09:19:01.859Z",
+  "pvTotal": 243777,
+  "pctMeta": 137,
+  "metaHoje": 177604,
+  "metaAmanha": 173711,
+  "saldoOntem": 66173,
   "deficitOntem": 0,
   "metaDiaria": 200000,
   "metaMensal": 6000000,
-  "usuarios": 110297,
-  "sessions": 149635,
-  "pgsPorSessao": "1.58",
-  "tempoMedio": "2min12s",
-  "pvManha": 73490,
-  "pvTarde": 79510,
-  "pvNoite": 61942,
+  "usuarios": 96035,
+  "sessions": 129523,
+  "pgsPorSessao": "1.88",
+  "tempoMedio": "2min18s",
+  "pvManha": 71027,
+  "pvTarde": 79853,
+  "pvNoite": 69130,
   "checkpoints": [
     {
       "label": "Até 11h",
-      "pv": 95027,
+      "pv": 94794,
       "meta": 60000,
       "status": "META BATIDA"
     },
     {
       "label": "Até 17h",
-      "pv": 174537,
+      "pv": 174647,
       "meta": 130000,
       "status": "META BATIDA"
     },
     {
       "label": "Até 21h",
-      "pv": 221327,
-      "meta": 180702,
+      "pv": 224306,
+      "meta": 177604,
       "status": "META BATIDA"
     }
   ],
   "producao": {
     "disponivel": true,
-    "totalPublicadas": 99,
-    "pvPublicadas": 70346,
-    "mediaRealPorMateria": 711,
-    "materiasComAcesso": 92,
-    "materiasSemAcesso": 7,
-    "pvAntigos": 166133
+    "totalPublicadas": 114,
+    "pvPublicadas": 49144,
+    "mediaRealPorMateria": 431,
+    "materiasComAcesso": 108,
+    "materiasSemAcesso": 6,
+    "pvAntigos": 194633
   },
   "topMaterias": [
     {
       "pos": 1,
-      "titulo": "Quais são as regras para ter porte de arma? Saiba as exigências",
-      "pv": 27967,
+      "titulo": "Alô alô Bahia! Aniversário em alto estilo, 100 amigas e trio elétrico",
+      "pv": 15070,
       "publicadaHoje": true
     },
     {
       "pos": 2,
-      "titulo": "Entenda quem precisa trocar o RG antigo até 2027",
-      "pv": 12110,
+      "titulo": "CNH DE GRAÇA; Idosos já podem renovar sem custo; veja COMO",
+      "pv": 9579,
       "publicadaHoje": false
     },
     {
       "pos": 3,
-      "titulo": "Maior motoclube do Brasil faz entrega de coletes na Serra",
-      "pv": 10799,
-      "publicadaHoje": false
+      "titulo": "Fim de semana deve ter mudança no tempo e chuva no ES",
+      "pv": 4256,
+      "publicadaHoje": true
     },
     {
       "pos": 4,
-      "titulo": "CNH DE GRAÇA; Idosos já podem renovar sem custo; veja COMO",
-      "pv": 7396,
+      "titulo": "Alô alô Bahia! Aniversário em alto estilo, 60 amigas e trio elétrico",
+      "pv": 4237,
       "publicadaHoje": true
     },
     {
       "pos": 5,
-      "titulo": "Imposto de Renda: até que idade os idosos precisam declarar?",
-      "pv": 6118,
+      "titulo": "INSS: veja quando será o pagamento da segunda parcela do 13º",
+      "pv": 4218,
       "publicadaHoje": false
     }
   ],
   "editorias": [
     {
-      "nome": "politica",
-      "pvTotal": 33048,
-      "pvPublicadas": 31215,
-      "publicadas": 13,
-      "urlsAcessadas": 30,
-      "mediaCorreta": 2401
+      "nome": "social",
+      "pvTotal": 22342,
+      "pvPublicadas": 5608,
+      "publicadas": 2,
+      "urlsAcessadas": 18,
+      "mediaCorreta": 2804
     },
     {
       "nome": "economia",
-      "pvTotal": 30954,
-      "pvPublicadas": 4844,
-      "publicadas": 7,
-      "urlsAcessadas": 34,
-      "mediaCorreta": 692
+      "pvTotal": 20114,
+      "pvPublicadas": 5104,
+      "publicadas": 9,
+      "urlsAcessadas": 32,
+      "mediaCorreta": 567
     },
     {
       "nome": "transito",
-      "pvTotal": 16994,
-      "pvPublicadas": 11353,
-      "publicadas": 5,
-      "urlsAcessadas": 20,
-      "mediaCorreta": 2271
+      "pvTotal": 16909,
+      "pvPublicadas": 3255,
+      "publicadas": 4,
+      "urlsAcessadas": 17,
+      "mediaCorreta": 814
     },
     {
       "nome": "cultura",
-      "pvTotal": 15842,
-      "pvPublicadas": 1232,
-      "publicadas": 7,
-      "urlsAcessadas": 48,
-      "mediaCorreta": 176
+      "pvTotal": 13798,
+      "pvPublicadas": 6968,
+      "publicadas": 8,
+      "urlsAcessadas": 44,
+      "mediaCorreta": 871
     },
     {
       "nome": "cotidiano",
-      "pvTotal": 10210,
-      "pvPublicadas": 7813,
-      "publicadas": 12,
-      "urlsAcessadas": 42,
-      "mediaCorreta": 651
+      "pvTotal": 13458,
+      "pvPublicadas": 6895,
+      "publicadas": 13,
+      "urlsAcessadas": 43,
+      "mediaCorreta": 530
     },
     {
       "nome": "policia",
-      "pvTotal": 7143,
-      "pvPublicadas": 2117,
-      "publicadas": 6,
-      "urlsAcessadas": 43,
-      "mediaCorreta": 353
+      "pvTotal": 8667,
+      "pvPublicadas": 6922,
+      "publicadas": 11,
+      "urlsAcessadas": 37,
+      "mediaCorreta": 629
     },
     {
-      "nome": "trabalho",
-      "pvTotal": 5586,
-      "pvPublicadas": 728,
-      "publicadas": 3,
-      "urlsAcessadas": 23,
-      "mediaCorreta": 243
+      "nome": "politica",
+      "pvTotal": 6708,
+      "pvPublicadas": 2118,
+      "publicadas": 11,
+      "urlsAcessadas": 32,
+      "mediaCorreta": 193
     }
   ],
   "origens": [
     {
       "canal": "Direto",
-      "pv": 124992,
-      "pct": 53
+      "pv": 136455,
+      "pct": 56
     },
     {
       "canal": "Google Orgânico",
-      "pv": 96895,
-      "pct": 41
+      "pv": 95171,
+      "pct": 39
     },
     {
       "canal": "Social",
-      "pv": 8531,
-      "pct": 4
+      "pv": 7869,
+      "pct": 3
     },
     {
       "canal": "Links externos",
-      "pv": 3799,
-      "pct": 2
-    },
-    {
-      "canal": "Não identificado",
-      "pv": 2218,
+      "pv": 3163,
       "pct": 1
     },
     {
+      "canal": "Não identificado",
+      "pv": 1052,
+      "pct": 0
+    },
+    {
       "canal": "YouTube",
-      "pv": 32,
+      "pv": 54,
       "pct": 0
     },
     {
       "canal": "E-mail",
-      "pv": 12,
+      "pv": 13,
       "pct": 0
     }
   ],
   "historico": {
-    "mediaMesmoDia": 191686,
+    "mediaMesmoDia": 197669,
     "varMesmoDia": 23,
-    "media30": 195393,
-    "media30a": 166045,
+    "media30": 197653,
+    "media30a": 168097,
     "var30": 18,
-    "pvMesAtualAcum": 2803142,
-    "pvMesAntMesmoPer": 1950439,
+    "pvMesAtualAcum": 3046915,
+    "pvMesAntMesmoPer": 2112012,
     "varMesAnt": 44,
-    "diasRestantes": 18,
-    "pvFaltaMes": 3196858,
-    "mediaNecessaria": 177604,
+    "diasRestantes": 17,
+    "pvFaltaMes": 2953085,
+    "mediaNecessaria": 173711,
     "mediaMensal": 6856222,
     "melhorMes": {
       "mes": "202507",
@@ -294,45 +294,50 @@
       },
       {
         "mes": "202605",
-        "pv": 2803142,
+        "pv": 3046915,
         "label": "Mai/26",
         "atual": true
       }
     ]
   },
   "analises": {
-    "resumo": "O Folha Vitória registrou 236.479 page views no dia 13/05/2026, superando em 131% a meta diária de 180.702 visualizações. O desempenho foi consistente ao longo do dia, com destaque para o período da tarde que concentrou 79.510 PVs. A distribuição temporal mostrou equilíbrio, com manhã registrando 73.490 PVs e noite fechando com 61.942 PVs. O resultado representa um avanço significativo em direção à meta mensal de 6 milhões de page views, já acumulando 46,7% do objetivo no mês.",
-    "horarios": ">>> Manhã (6h-11h) trouxe forte início com 73.490 PVs, superando checkpoint de 60.000 em 58%\n>>> Tarde (12h-17h) manteve ritmo acelerado com 79.510 PVs, batendo meta de 130.000 até 17h\n>>> Noite (18h-23h) fechou com 61.942 PVs, garantindo superação da meta diária às 21h\n>>> Todos os checkpoints foram batidos com folga, demonstrando consistência na geração de tráfego",
-    "padrao": ">>> Conteúdos de utilidade pública dominaram com matéria sobre porte de arma liderando com 27.967 PVs\n>>> Assuntos de documentação civil mantêm alta relevância, com RG ocupando segundo lugar\n>>> Pautas de serviço para idosos mostram forte engajamento, especialmente CNH gratuita\n>>> Mix equilibrado entre matérias novas (39% dos PVs) e conteúdo evergreen (61% dos PVs)",
-    "editorias": ">>> Política lidera com média real de 2.401 PVs por matéria, demonstrando alto engajamento\n>>> Trânsito apresenta segunda melhor performance com 2.271 PVs por conteúdo publicado\n>>> Economia registra 692 PVs por matéria, performance mediana mas com volume significativo\n>>> Cultura preocupa com apenas 176 PVs por matéria, necessitando revisão de estratégia",
-    "trafego": ">>> Tráfego direto representa 53% da audiência, indicando forte fidelização da marca\n>>> Google Orgânico contribui com 41%, mostrando boa otimização SEO dos conteúdos\n>>> Redes sociais respondem por apenas 4%, sinalizando oportunidade de crescimento\n>>> Dependência excessiva de tráfego direto pode ser vulnerabilidade em médio prazo",
-    "eficiencia": "A produção de 99 matérias gerou média real de 711 page views por conteúdo, considerando apenas as publicações do dia. Das matérias publicadas, 92 tiveram acesso registrado enquanto 7 ficaram sem visualizações, representando taxa de aproveitamento de 93%. O índice demonstra boa eficiência editorial, mas as 7 matérias sem acesso merecem análise para identificar problemas de distribuição ou relevância do tema.",
-    "erros": ">>> Editoria de cultura com performance crítica de 176 PVs por matéria publicada\n>>> Baixo aproveitamento das redes sociais com apenas 4% do tráfego total\n>>> Sete matérias ficaram sem nenhum acesso, indicando falhas na estratégia de headline ou distribuição\n>>> Editoria de trabalho com média de apenas 243 PVs por conteúdo, abaixo do potencial",
-    "oportunidades": ">>> Ampliar produção de conteúdos de utilidade pública que demonstram alto engajamento\n>>> Investir em estratégia de redes sociais para reduzir dependência do tráfego direto\n>>> Replicar modelo de sucesso da editoria de política nas demais áreas\n>>> Desenvolver mais pautas evergreen que sustentam audiência ao longo do tempo\n>>> Criar série sobre direitos dos idosos, aproveitando performance da pauta CNH gratuita",
-    "acoes": ">>> Produzir pelo menos 3 matérias de utilidade pública para alavancar audiência\n>>> Intensificar distribuição nas redes sociais com foco em conteúdos de serviço\n>>> Revisar estratégia da editoria de cultura, priorizando pautas com maior apelo popular\n>>> Monitorar performance das primeiras matérias para ajustes ao longo do dia\n>>> Manter ritmo de 95-100 publicações para sustentar média de 711 PVs por matéria",
-    "metaacumulada": "A meta dinâmica de 180.702 foi calculada dividindo o restante da meta mensal pelos dias restantes, incluindo ontem. Com 3.196.858 PVs ainda necessários para atingir os 6 milhões mensais, a nova meta para amanhã é de 177.604 page views. Este sistema de meta dinâmica garante distribuição equilibrada do objetivo ao longo do mês, ajustando-se automaticamente conforme a performance diária. O cumprimento de 131% da meta de ontem reduz a pressão sobre os próximos dias, tornando as metas seguintes mais alcançáveis.",
-    "historicodia": ">>> Performance 23% superior à média do mesmo dia da semana nas últimas 8 semanas\n>>> Resultado supera em 21% a média dos últimos 30 dias de 195.393 PVs\n>>> Crescimento sustentado evidencia melhoria consistente na estratégia editorial",
-    "historicomes": ">>> Acumulado mensal de 2.803.142 representa crescimento de 44% sobre mesmo período do mês anterior\n>>> Projeção indica possibilidade real de atingir meta mensal de 6 milhões de PVs\n>>> Ritmo atual sugere fechamento do mês entre 5,8 e 6,2 milhões de page views",
-    "tendencia": "A tendência dos últimos 30 dias mostra crescimento de 18% na média diária comparada aos 30 dias anteriores. O melhor mês da história foi julho/25 com 13.625.154 PVs, enquanto o pior foi fevereiro/25 com 4.527.477 PVs. A performance atual indica recuperação consistente e aproximação dos melhores resultados históricos do portal.",
-    "alerta": "\"Meta de amanhã de 177.604 PVs exige manutenção do padrão de qualidade editorial e distribuição eficiente dos conteúdos.\"",
-    "licao": "O sucesso do dia reforça que conteúdos de utilidade pública e serviço ao cidadão são pilares fundamentais para alta performance de audiência. A matéria sobre porte de arma demonstra como temas de interesse geral, tratados com clareza e objetividade, geram engajamento massivo. A lição é clara: \"Informação útil é informação consumida.\"",
-    "tendencias": ">>> Onda de frio pode chegar ao ES ainda esta semana: veja quando e onde fará mais frio\n--- Editoria: Clima e Tempo\n--- Ângulo ES: Focar nas temperaturas esperadas para Grande Vitória, região serrana e interior, com orientações sobre que roupas usar e cuidados com idosos e crianças\n--- Por que performa: \"Onda de frio\" está em alta com 2000+ buscas, capixabas sempre buscam informações sobre mudanças climáticas\n--- Tipo: Serviço\n\n>>> Previsão do tempo para esta quinta-feira no Espírito Santo: chuva ou sol?\n--- Editoria: Clima e Tempo\n--- Ângulo ES: Previsão detalhada para todas as regiões do ES, incluindo condições para praias e atividades ao ar livre\n--- Por que performa: \"Previsão do tempo hoje\" tem 100+ buscas diárias constantes, busca local é sempre forte\n--- Tipo: Serviço\n\n>>> Onde comprar laptop com desconto no ES: guia completo das melhores lojas em Vitória\n--- Editoria: Tecnologia\n--- Ângulo ES: Mapear lojas físicas e online que atendem capixabas, comparar preços e condições de parcelamento no mercado local\n--- Por que performa: \"Laptop\" está em alta com 2000+ buscas, período de volta às aulas aumenta procura\n--- Tipo: Lista\n\n>>> Cursos de prosperidade financeira fazem sucesso entre capixabas: vale a pena investir?\n--- Editoria: Economia\n--- Ângulo ES: Investigar coaches locais que vendem cursos similares, ouvir especialistas em educação financeira do ES\n--- Por que performa: \"Prosperidade\" explodiu com 5000+ buscas após polêmica de Mariana Rios\n--- Tipo: Análise\n\n>>> Renato Ceni pode ser demitido do São Paulo: relembre a passagem do técnico pelo futebol capixaba\n--- Editoria: Esportes\n--- Ângulo ES: Resgatar quando Ceni jogou contra times capixabas ou sua relação com o futebol local\n--- Por que performa: \"Ceni\" está em alta com 2000+ buscas, capixabas acompanham futebol nacional\n--- Tipo: Notícia\n\n>>> Como o relacionamento comercial entre China e Brasil afeta a economia do ES\n--- Editoria: Economia\n--- Ângulo ES: Mostrar como as decisões de Xi Jinping impactam o Porto de Vitória e as exportações capixabas\n--- Por que performa: \"Xi Jinping\" tem 500+ buscas, ES tem forte ligação comercial com a China\n--- Tipo: Explicativo\n\n>>> Apostas esportivas online: como funcionam as casas de apostas que operam no ES\n--- Editoria: Esportes\n--- Ângulo ES: Explicar a regulamentação no Brasil, alertar sobre vício em jogos e mostrar dados de usuários capixabas\n--- Por que performa: \"BetMGM\" está em alta, apostas esportivas são tema recorrente de busca\n--- Tipo: Explicativo\n\n>>> Estruturas do litoral capixaba resistem melhor às ondas fortes que o píer do Leblon?\n--- Editoria: Cidade\n--- Ângulo ES: Comparar a engenharia dos píeres e mirantes do ES com o caso do Rio, ouvir engenheiros locais\n--- Por que performa: \"Clima hoje\" em alta por causa dos danos no RJ, capixabas se preocupam com infraestrutura local\n--- Tipo: Análise\n\n>>> Surto em navio na França: como estão os protocolos sanitários nos portos do ES\n--- Editoria: Saúde\n--- Ângulo ES: Verificar procedimentos de segurança sanitária no Porto de Vitória e terminais de cruzeiros\n--- Por que performa: \"Navio\" tem 200+ buscas pelo caso na França, ES recebe navios constantemente\n--- Tipo: Serviço\n\n>>> Produtos com defeito: como capixabas podem pedir reembolso após recall\n--- Editoria: Consumidor\n--- Ângulo ES: Orientar sobre direitos do consumidor no ES, citar Procon local e casos similares na região\n--- Por que performa: Caso dos detergentes Ypê trouxe \"Janja\" para trending com 1000+ buscas, consumidor sempre busca orientação\n--- Tipo: Serviço"
+    "resumo": "Resultado extraordinário no dia 14/05/2026 com 243.777 pageviews, superando a meta diária de 177.604 em 37% (+66.173). A manhã registrou 71.027 PVs, a tarde liderou com 79.853 e a noite manteve 69.130. Todas as metas de checkpoint foram batidas antecipadamente, demonstrando consistência ao longo do dia. O desempenho representa crescimento de 23% comparado à média do mesmo dia da semana.",
+    "horarios": ">>> Manhã (6h-11h): 71.027 PVs com checkpoint às 11h atingindo 94.794, superando meta de 60.000 em 58%\n>>> Tarde (12h-17h): 79.853 PVs, período mais forte, com checkpoint às 17h alcançando 174.647 contra meta de 130.000\n>>> Noite (18h-23h): 69.130 PVs, mantendo ritmo sólido até o checkpoint das 21h com 224.306 PVs\n>>> Todas as metas horárias foram batidas com folga, indicando distribuição equilibrada de audiência",
+    "padrao": ">>> Conteúdo de entretenimento social dominou com matéria sobre aniversário baiano gerando 15.070 PVs\n>>> Conteúdo de utilidade pública mantém relevância com CNH gratuita para idosos (9.579 PVs de matéria antiga)\n>>> Meteorologia confirma interesse constante com previsão do fim de semana (4.256 PVs)\n>>> Serviços do INSS continuam atraindo audiência mesmo em conteúdo antigo (4.218 PVs)",
+    "editorias": ">>> Social lidera eficiência com 2.804 PVs por matéria (2 publicações, 5.608 PVs)\n>>> Cultura mantém boa performance com 871 PVs por matéria (8 publicações)\n>>> Trânsito mostra 814 PVs por matéria, indicando interesse em mobilidade urbana\n>>> Economia atinge 567 PVs por matéria com 9 publicações\n>>> Política apresenta baixo rendimento com apenas 193 PVs por matéria",
+    "trafego": ">>> Audiência direta domina com 56% (136.455 PVs), demonstrando fidelização do público\n>>> Google Orgânico contribui com 39% (95.171 PVs), indicando boa otimização SEO\n>>> Redes sociais representam apenas 3% (7.869 PVs), mostrando potencial de crescimento\n>>> Canais alternativos (links externos, e-mail, YouTube) somam menos de 2%, sinalizando dependência de tráfego direto",
+    "eficiencia": "A produção de 114 matérias gerou 49.144 pageviews, resultando em média real de 431 PVs por matéria. Das publicações, 108 receberam acesso e apenas 6 ficaram sem visualizações. O conteúdo antigo contribuiu com 194.633 PVs, representando 80% da audiência total do dia.",
+    "erros": ">>> Política com baixíssimo rendimento de 193 PVs por matéria em 11 publicações\n>>> Apenas 3% de tráfego social indica subaproveitamento de redes sociais\n>>> 6 matérias publicadas sem nenhum acesso representam esforço desperdiçado\n>>> Concentração excessiva em tráfego direto (56%) cria vulnerabilidade na diversificação de fontes",
+    "oportunidades": ">>> Expandir cobertura de conteúdo social e entretenimento, seguindo sucesso da matéria sobre aniversário baiano\n>>> Intensificar estratégia de redes sociais para reduzir dependência de tráfego direto\n>>> Desenvolver mais conteúdo de utilidade pública similar ao sucesso da CNH gratuita\n>>> Otimizar produção política com foco em assuntos de maior interesse popular\n>>> Replicar formato de meteorologia que mantém audiência consistente",
+    "acoes": ">>> Produzir pelo menos 3 matérias de entretenimento/social para replicar sucesso do dia\n>>> Aumentar frequência de posts em redes sociais para elevar tráfego social acima de 5%\n>>> Revisar pauta política priorizando assuntos de impacto direto na vida do cidadão\n>>> Desenvolver 2 conteúdos de utilidade pública com potencial viral\n>>> Manter produção entre 110-120 matérias visando média de 400+ PVs por conteúdo para atingir meta de 173.711",
+    "metaacumulada": "A meta dinâmica de 177.604 foi calculada dividindo-se o restante da meta mensal pelos dias disponíveis, incluindo ontem. Com o acumulado atual de 3.046.915 de uma meta de 6.000.000, ainda faltam 2.953.085 pageviews. A meta de amanhã de 173.711 representa a divisão deste saldo pelos 17 dias restantes do mês, exigindo performance consistente para atingir o objetivo mensal.",
+    "historicodia": ">>> Performance 23% superior à média do mesmo dia da semana (197.669 PVs), confirmando crescimento sólido\n>>> Resultado supera média dos últimos 30 dias (197.653 PVs) em 23%, mantendo tendência positiva\n>>> Crescimento sustentado indica melhoria na qualidade editorial e engajamento do público",
+    "historicomes": ">>> Acumulado mensal de 3.046.915 representa crescimento de 44% versus mesmo período do mês anterior (2.112.012)\n>>> Ritmo atual projeta fechamento próximo aos 5.800.000 PVs, ligeiramente abaixo da meta de 6 milhões\n>>> Performance consistente indica potencial de atingir meta mensal com esforço concentrado nos próximos 17 dias",
+    "tendencia": "A tendência de 30 dias mostra crescimento de 18% comparado ao período anterior, confirmando trajetória ascendente. O melhor mês histórico foi julho/25 com 13.625.154 PVs, enquanto o pior foi fevereiro/25 com 4.527.477 PVs, demonstrando potencial de crescimento significativo ainda não explorado.",
+    "alerta": "\"Dependência excessiva de tráfego direto em 56% representa risco de vulnerabilidade na diversificação de audiência, exigindo urgente fortalecimento das redes sociais.\"",
+    "licao": "O dia demonstra que conteúdo de entretenimento social e utilidade pública formam a combinação ideal para audiência massiva. A matéria sobre o aniversário baiano prova que histórias humanas interessantes superam expectativas, enquanto serviços como CNH gratuita mantêm relevância duradoura. A lição fundamental é equilibrar produção entre entretenimento que viraliza e serviços que fidelizam. \"Audiência se constrói com histórias que emocionam e informações que transformam.\"",
+    "tendencias": ">>> Previsão do tempo para o Espírito Santo: chuva forte pode atingir o estado neste fim de semana\n--- Editoria: Cotidiano\n--- Ângulo ES: Análise das condições meteorológicas específicas para as regiões capixabas, incluindo Grande Vitória, norte e sul do estado\n--- Por que performa: Trending topic sobre previsão do tempo com alta demanda de busca, aplicado ao contexto local\n--- Tipo: Serviço\n\n>>> FGTS libera R$ 8,4 bilhões: como trabalhadores do ES podem sacar o benefício\n--- Editoria: Economia\n--- Ângulo ES: Orientações específicas para trabalhadores capixabas sobre documentação, agências da Caixa no ES e prazos para saque\n--- Por que performa: Trending topic sobre FGTS com impacto direto na vida financeira dos leitores\n--- Tipo: Serviço\n\n>>> Receita Federal monitora Pix: o que muda para quem usa a ferramenta no Espírito Santo\n--- Editoria: Economia\n--- Ângulo ES: Explicação sobre como o monitoramento afeta usuários capixabas e orientações para declaração no IR\n--- Por que performa: Trending topic sobre Pix gera alta demanda por esclarecimentos sobre privacidade e fiscalização\n--- Tipo: Explicativo\n\n>>> Detergente causa infecção em criança: como prevenir acidentes domésticos no ES\n--- Editoria: Saúde\n--- Ângulo ES: Orientações de pediatras capixabas sobre prevenção e dados de acidentes domésticos atendidos em hospitais do ES\n--- Por que performa: Caso repercute nacionalmente e gera busca por informações de segurança doméstica\n--- Tipo: Serviço\n\n>>> Horóscopo de hoje: previsões dos astros para os capixabas nesta sexta-feira\n--- Editoria: Variedades\n--- Ângulo ES: Horóscopo personalizado com referências ao cotidiano e clima do Espírito Santo\n--- Por que performa: Trending topic com alta demanda diária de consulta aos signos\n--- Tipo: Serviço\n\n>>> Varejo capixaba aposta em Copa e festas juninas para aumentar vendas\n--- Editoria: Economia\n--- Ângulo ES: Entrevistas com lojistas de Vitória e interior sobre estratégias para período sazonal e expectativas de faturamento\n--- Por que performa: Trending topic sobre varejo conectado ao cenário econômico local\n--- Tipo: Notícia\n\n>>> Massa de ar frio chega ao Sudeste: temperaturas devem cair no ES a partir de domingo\n--- Editoria: Cotidiano\n--- Ângulo ES: Previsão específica para as diferentes regiões do Espírito Santo e dicas para enfrentar o frio\n--- Por que performa: Continuidade do trending topic sobre clima, focando no impacto local da frente fria\n--- Tipo: Serviço\n\n>>> Crise política em Minas Gerais: o que capixabas precisam saber sobre decisão de Romeu Zema\n--- Editoria: Política\n--- Ângulo ES: Análise do impacto das decisões políticas mineiras na economia e relações comerciais com o ES\n--- Por que performa: Trending topic sobre governador de estado vizinho desperta curiosidade local\n--- Tipo: Análise\n\n>>> Acidentes domésticos com produtos de limpeza crescem no ES: hospitais alertam para cuidados\n--- Editoria: Saúde\n--- Ângulo ES: Dados dos hospitais capixabas sobre intoxicações e queimaduras por produtos químicos domésticos\n--- Por que performa: Desdobramento do caso nacional de intoxicação por detergente gera busca por informações locais\n--- Tipo: Notícia\n\n>>> Como consultar previsão do tempo confiável para sua cidade no Espírito Santo\n--- Editoria: Serviços\n--- Ângulo ES: Guia com melhores sites, apps e fontes oficiais para acompanhar clima nas cidades capixabas\n--- Por que performa: Alta demanda por consultas meteorológicas pode ser direcionada para conteúdo educativo local\n--- Tipo: Explicativo"
   },
   "tendencias": [
     {
-      "titulo": "navio",
-      "trafico": "200+",
-      "contexto": "Mais de 1.700 pessoas são confinadas em navio na França após morte de passageiro e possível surto"
-    },
-    {
-      "titulo": "clima hoje",
-      "trafico": "200+",
-      "contexto": "Ondas danificam estrutura do píer do Mirante do Leblon; área foi interditada para reparo"
-    },
-    {
-      "titulo": "janja",
+      "titulo": "previsão do tempo curitiba",
       "trafico": "1000+",
-      "contexto": "Detergentes da Ypê foram recolhidos em 2024 após mau cheiro; relembre"
+      "contexto": "Chuva avança no Paraná; sexta-feira (15) tem risco de temporais"
+    },
+    {
+      "titulo": "romeu zema",
+      "trafico": "200+",
+      "contexto": "Postura de Zema foi de homem covarde e oportunista, diz líder da oposição"
+    },
+    {
+      "titulo": "previsão do tempo são paulo",
+      "trafico": "1000+",
+      "contexto": "Nova massa de ar frio chega ao Sul do Brasil a partir de domingo e derruba temperaturas na próxima s"
+    },
+    {
+      "titulo": "detergente",
+      "trafico": "2000+",
+      "contexto": "Menina de 10 anos luta contra infecção após contato com detergente Ypê"
     },
     {
       "titulo": "previsao do tempo hoje",
@@ -340,34 +345,29 @@
       "contexto": ""
     },
     {
-      "titulo": "onda de frio",
+      "titulo": "horoscopo",
       "trafico": "2000+",
-      "contexto": "Novas frentes frias trazem chuva ao Brasil a partir de sexta; veja onde"
+      "contexto": "Horóscopo 2026: confira a previsão de hoje (15/5) para seu signo"
     },
     {
-      "titulo": "laptop",
-      "trafico": "2000+",
-      "contexto": "Introducing Googlebook, designed for Gemini Intelligence"
+      "titulo": "fundo de garantia do tempo de serviço",
+      "trafico": "1000+",
+      "contexto": "Governo libera no fim deste mês R$ 8,4 bilhões de trabalhadores que optaram pelo saque-aniversário e"
     },
     {
-      "titulo": "xi jinping",
-      "trafico": "500+",
-      "contexto": "A China &quot;abrirá ainda mais suas portas&quot; para o mundo, diz Xi a líderes empresariais dos EU"
+      "titulo": "pix",
+      "trafico": "1000+",
+      "contexto": "É verdade que a Receita Federal monitora todas as transações feitas por Pix no Brasil?"
     },
     {
-      "titulo": "prosperidade",
-      "trafico": "5000+",
-      "contexto": "Casada com milionário, Mariana Rios vende curso de R$ 300 para atrair prosperidade"
+      "titulo": "varejo",
+      "trafico": "200+",
+      "contexto": "Comércio aposta em alta nas vendas com Copa e festas juninas"
     },
     {
-      "titulo": "ceni",
-      "trafico": "2000+",
-      "contexto": "Ceni precisa ser demitido... e antes pedir desculpas a Juba e torcedores"
-    },
-    {
-      "titulo": "betmgm",
+      "titulo": "minas gerais",
       "trafico": "100+",
-      "contexto": "BetMGM Bonus Code TOP1500 Claims $1,500 Cavs-Pistons Game 5 Safety Offer - WTOP News"
+      "contexto": "Governo de Minas transfere capital para Viçosa e anuncia início das tratativas para construção do ho"
     }
   ]
 }
