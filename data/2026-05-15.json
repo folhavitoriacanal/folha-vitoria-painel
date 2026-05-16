@@ -1,0 +1,373 @@
+{
+  "dataDisplay": "15/05/2026",
+  "geradoEm": "2026-05-16T09:19:05.740Z",
+  "pvTotal": 249783,
+  "pctMeta": 144,
+  "metaHoje": 173711,
+  "metaAmanha": 168957,
+  "saldoOntem": 76072,
+  "deficitOntem": 0,
+  "metaDiaria": 200000,
+  "metaMensal": 6000000,
+  "usuarios": 93482,
+  "sessions": 125713,
+  "pgsPorSessao": "1.99",
+  "tempoMedio": "2min24s",
+  "pvManha": 74441,
+  "pvTarde": 82397,
+  "pvNoite": 64255,
+  "checkpoints": [
+    {
+      "label": "Até 11h",
+      "pv": 103131,
+      "meta": 60000,
+      "status": "META BATIDA"
+    },
+    {
+      "label": "Até 17h",
+      "pv": 185528,
+      "meta": 130000,
+      "status": "META BATIDA"
+    },
+    {
+      "label": "Até 21h",
+      "pv": 232961,
+      "meta": 173711,
+      "status": "META BATIDA"
+    }
+  ],
+  "producao": {
+    "disponivel": true,
+    "totalPublicadas": 103,
+    "pvPublicadas": 38239,
+    "mediaRealPorMateria": 371,
+    "materiasComAcesso": 89,
+    "materiasSemAcesso": 14,
+    "pvAntigos": 211544
+  },
+  "topMaterias": [
+    {
+      "pos": 1,
+      "titulo": "Alô alô Bahia! Aniversário em alto estilo, 100 amigas e trio elétrico",
+      "pv": 9547,
+      "publicadaHoje": false
+    },
+    {
+      "pos": 2,
+      "titulo": "CNH DE GRAÇA; Idosos já podem renovar sem custo; veja COMO",
+      "pv": 8329,
+      "publicadaHoje": false
+    },
+    {
+      "pos": 3,
+      "titulo": "Festa da Polenta é cancelada em Venda Nova e decisão afeta turismo e comércio da cidade",
+      "pv": 7208,
+      "publicadaHoje": true
+    },
+    {
+      "pos": 4,
+      "titulo": "Programa Seja ES estreia neste sábado na TV Vitória/ Record",
+      "pv": 7043,
+      "publicadaHoje": false
+    },
+    {
+      "pos": 5,
+      "titulo": "IRPF 26: restituição começa em maio com novidade no calendário",
+      "pv": 5137,
+      "publicadaHoje": false
+    }
+  ],
+  "editorias": [
+    {
+      "nome": "economia",
+      "pvTotal": 33174,
+      "pvPublicadas": 5770,
+      "publicadas": 9,
+      "urlsAcessadas": 36,
+      "mediaCorreta": 641
+    },
+    {
+      "nome": "cultura",
+      "pvTotal": 20810,
+      "pvPublicadas": 10394,
+      "publicadas": 8,
+      "urlsAcessadas": 51,
+      "mediaCorreta": 1299
+    },
+    {
+      "nome": "transito",
+      "pvTotal": 15347,
+      "pvPublicadas": 1753,
+      "publicadas": 2,
+      "urlsAcessadas": 20,
+      "mediaCorreta": 877
+    },
+    {
+      "nome": "social",
+      "pvTotal": 14338,
+      "pvPublicadas": 1264,
+      "publicadas": 2,
+      "urlsAcessadas": 13,
+      "mediaCorreta": 632
+    },
+    {
+      "nome": "cotidiano",
+      "pvTotal": 10706,
+      "pvPublicadas": 1952,
+      "publicadas": 7,
+      "urlsAcessadas": 38,
+      "mediaCorreta": 279
+    },
+    {
+      "nome": "esportes",
+      "pvTotal": 7783,
+      "pvPublicadas": 5410,
+      "publicadas": 9,
+      "urlsAcessadas": 29,
+      "mediaCorreta": 601
+    },
+    {
+      "nome": "policia",
+      "pvTotal": 7074,
+      "pvPublicadas": 4640,
+      "publicadas": 8,
+      "urlsAcessadas": 38,
+      "mediaCorreta": 580
+    }
+  ],
+  "origens": [
+    {
+      "canal": "Direto",
+      "pv": 140666,
+      "pct": 56
+    },
+    {
+      "canal": "Google Orgânico",
+      "pv": 95841,
+      "pct": 38
+    },
+    {
+      "canal": "Social",
+      "pv": 8976,
+      "pct": 4
+    },
+    {
+      "canal": "Links externos",
+      "pv": 3412,
+      "pct": 1
+    },
+    {
+      "canal": "Não identificado",
+      "pv": 827,
+      "pct": 0
+    },
+    {
+      "canal": "YouTube",
+      "pv": 33,
+      "pct": 0
+    },
+    {
+      "canal": "E-mail",
+      "pv": 28,
+      "pct": 0
+    }
+  ],
+  "historico": {
+    "mediaMesmoDia": 187296,
+    "varMesmoDia": 33,
+    "media30": 200393,
+    "media30a": 169322,
+    "var30": 18,
+    "pvMesAtualAcum": 3296697,
+    "pvMesAntMesmoPer": 2269281,
+    "varMesAnt": 45,
+    "diasRestantes": 16,
+    "pvFaltaMes": 2703303,
+    "mediaNecessaria": 168957,
+    "mediaMensal": 6856222,
+    "melhorMes": {
+      "mes": "202507",
+      "pv": 13625154,
+      "label": "Jul/25"
+    },
+    "piorMes": {
+      "mes": "202502",
+      "pv": 4527477,
+      "label": "Fev/25"
+    },
+    "mensal": [
+      {
+        "mes": "202501",
+        "pv": 7245874,
+        "label": "Jan/25",
+        "atual": false
+      },
+      {
+        "mes": "202502",
+        "pv": 4527477,
+        "label": "Fev/25",
+        "atual": false
+      },
+      {
+        "mes": "202503",
+        "pv": 5367201,
+        "label": "Mar/25",
+        "atual": false
+      },
+      {
+        "mes": "202504",
+        "pv": 6945113,
+        "label": "Abr/25",
+        "atual": false
+      },
+      {
+        "mes": "202505",
+        "pv": 6591733,
+        "label": "Mai/25",
+        "atual": false
+      },
+      {
+        "mes": "202506",
+        "pv": 11659575,
+        "label": "Jun/25",
+        "atual": false
+      },
+      {
+        "mes": "202507",
+        "pv": 13625154,
+        "label": "Jul/25",
+        "atual": false
+      },
+      {
+        "mes": "202508",
+        "pv": 10001619,
+        "label": "Ago/25",
+        "atual": false
+      },
+      {
+        "mes": "202509",
+        "pv": 6679985,
+        "label": "Set/25",
+        "atual": false
+      },
+      {
+        "mes": "202510",
+        "pv": 5336318,
+        "label": "Out/25",
+        "atual": false
+      },
+      {
+        "mes": "202511",
+        "pv": 4564202,
+        "label": "Nov/25",
+        "atual": false
+      },
+      {
+        "mes": "202512",
+        "pv": 5524739,
+        "label": "Dez/25",
+        "atual": false
+      },
+      {
+        "mes": "202601",
+        "pv": 4978658,
+        "label": "Jan/26",
+        "atual": false
+      },
+      {
+        "mes": "202602",
+        "pv": 6402972,
+        "label": "Fev/26",
+        "atual": false
+      },
+      {
+        "mes": "202603",
+        "pv": 5172054,
+        "label": "Mar/26",
+        "atual": false
+      },
+      {
+        "mes": "202604",
+        "pv": 5076878,
+        "label": "Abr/26",
+        "atual": false
+      },
+      {
+        "mes": "202605",
+        "pv": 3296697,
+        "label": "Mai/26",
+        "atual": true
+      }
+    ]
+  },
+  "analises": {
+    "resumo": "Excelente performance no dia 15/05/2026 com 249.783 page views, superando a meta diária em 76.072 visualizações (144% de cumprimento). A distribuição ao longo do dia foi equilibrada, com pico na tarde (82.397 PVs) e manhã forte (74.441 PVs). Todas as metas de checkpoint foram batidas com folga, demonstrando consistência na audiência. O resultado coloca o portal em trajetória positiva para atingir a meta mensal de 6 milhões de page views.",
+    "horarios": ">>> Manhã (6h-11h): 74.441 PVs com checkpoint de 103.131 até 11h, superando meta de 60.000 em 72%\n>>> Tarde (12h-17h): 82.397 PVs, período de maior audiência, com checkpoint de 185.528 até 17h batendo meta de 130.000\n>>> Noite (18h-23h): 64.255 PVs mantendo ritmo sólido, com checkpoint final de 232.961 até 21h superando meta de 173.711\n>>> Distribuição equilibrada entre períodos evidencia engajamento constante da audiência ao longo do dia",
+    "padrao": ">>> Matérias de serviço dominam o ranking com CNH gratuita (8.329 PVs) e IRPF (5.137 PVs) entre as tops\n>>> Conteúdo cultural/entretenimento forte com festa em Salvador (9.547 PVs) liderando audiência\n>>> Notícias locais relevantes como cancelamento da Festa da Polenta (7.208 PVs) gerando engajamento\n>>> Conteúdo televisivo/mídia com programa da TV Vitória (7.043 PVs) mostrando interesse por assuntos regionais\n>>> Matérias antigas sustentam maior parte da audiência (211.544 PVs vs 38.239 das novas)",
+    "editorias": ">>> Cultura lidera eficiência com média de 1.299 PVs por matéria publicada ontem\n>>> Trânsito mantém boa performance com 877 PVs de média por conteúdo novo\n>>> Economia forte em volume (641 PVs/matéria) sustentando audiência com matérias de serviço\n>>> Social e polícia equilibradas com médias entre 580-632 PVs por matéria\n>>> Cotidiano com oportunidade de melhoria (279 PVs/matéria) precisa de conteúdo mais atrativo",
+    "trafego": ">>> Audiência direta representa 56% (140.666 PVs), indicando fidelidade da audiência ao portal\n>>> Google orgânico contribui com 38% (95.841 PVs), mostrando boa otimização SEO das matérias\n>>> Redes sociais com apenas 4% (8.976 PVs) apresentam potencial de crescimento significativo\n>>> Links externos marginais (1%) sugerem necessidade de parcerias e estratégias de link building\n--- YouTube e e-mail praticamente inexistentes como fontes de tráfego, representando oportunidades perdidas",
+    "eficiencia": "A produção de 103 matérias resultou em média real de 371 page views por conteúdo publicado ontem. Das matérias publicadas, 89 geraram audiência e apenas 14 ficaram sem acesso, representando taxa de aproveitamento de 86%.",
+    "erros": ">>> 14 matérias sem nenhum acesso desperdiçaram esforço de produção e poderiam ser reformuladas\n>>> Redes sociais subutilizadas com apenas 4% do tráfego quando poderiam amplificar audiência significativamente\n>>> YouTube e e-mail marketing praticamente ignorados como canais de distribuição de conteúdo\n>>> Editoria de cotidiano com baixa eficiência (279 PVs/matéria) precisa de revisão editorial",
+    "oportunidades": ">>> Ampliar estratégia de redes sociais para aumentar os atuais 4% de participação no tráfego\n>>> Desenvolver canal no YouTube aproveitando conteúdo audiovisual e matérias de maior repercussão\n>>> Implementar newsletter efetiva via e-mail marketing para fidelizar audiência direta\n>>> Investir em parcerias para link building considerando baixa participação de links externos\n>>> Reaproveitar formato de matérias de serviço que dominam o ranking de audiência",
+    "acoes": ">>> Produzir 8-10 matérias de serviço focadas em economia e trânsito para atingir meta de 168.957 PVs\n>>> Intensificar postagens em redes sociais com foco nas matérias de maior potencial viral\n>>> Republicar e atualizar matérias antigas de alta performance para manter tráfego consistente\n>>> Priorizar conteúdo cultural e de entretenimento que demonstrou maior eficiência ontem\n>>> Monitorar checkpoints: 58.000 até 11h, 126.000 até 17h e meta final de 168.957",
+    "metaacumulada": "A meta diária de 173.711 foi calculada dividindo-se o restante da meta mensal pelos dias disponíveis, considerando o acumulado até anteontem. Com o resultado de hoje, restam 2.703.303 page views para atingir os 6 milhões mensais em 16 dias. A nova meta de amanhã (168.957) representa uma redução devido ao excelente resultado de hoje, tornando-se mais factível. O sistema de meta dinâmica ajusta automaticamente a pressão diária conforme o desempenho acumulado.",
+    "historicodia": ">>> Performance 33% superior à média das últimas 8 semanas para esta quinta-feira (187.296 PVs)\n>>> Resultado 24% acima da média dos últimos 30 dias (200.393 PVs)\n>>> Consistência positiva evidencia crescimento sustentável da audiência\n>>> Quinta-feira se consolida como dia forte da semana para o portal",
+    "historicomes": ">>> Acumulado mensal 45% superior ao mesmo período do mês anterior (3.296.697 vs 2.269.281)\n>>> Tendência dos últimos 30 dias mostra crescimento de 18% comparado aos 30 anteriores\n>>> Projeção atual indica potencial de superar meta mensal se ritmo for mantido",
+    "tendencia": "A tendência de crescimento de 18% nos últimos 30 dias posiciona maio como mês promissor, embora ainda distante do melhor histórico (julho/25 com 13.625.154 PVs). O momento atual é significativamente superior ao pior período (fevereiro/25 com 4.527.477 PVs), indicando recuperação sólida da audiência.",
+    "alerta": "\"Redes sociais representam apenas 4% do tráfego, desperdiçando potencial de amplificação que poderia elevar significativamente a audiência diária.\"",
+    "licao": "O sucesso de hoje confirma que matérias de serviço combinadas com conteúdo de entretenimento regional criam a fórmula ideal de audiência. A audiência direta de 56% demonstra fidelidade conquistada, mas as redes sociais subutilizadas representam a maior oportunidade perdida. A eficiência das editorias varia drasticamente, exigindo ajustes na estratégia editorial. \"Conteúdo que serve ao leitor capixaba sempre encontra sua audiência.\"",
+    "tendencias": ">>> Calendário Bolsa Família 2026: datas completas dos pagamentos no Espírito Santo\n--- Editoria: Política e Social\n--- Ângulo ES: Destacar quantas famílias capixabas são beneficiárias e incluir informações sobre postos de atendimento da Caixa nas principais cidades do ES\n--- Por que performa: Trending topic com 100+ buscas sobre calendário do Bolsa Família 2026, tema de grande interesse social\n--- Tipo: Serviço\n\n>>> Serra ES registra protesto de garis: entenda a situação dos trabalhadores da limpeza urbana\n--- Editoria: Cidades\n--- Ângulo ES: Aproveitar que \"Serra\" está em trending para abordar a situação dos garis no município da Grande Vitória, comparando com outras cidades capixabas\n--- Por que performa: \"Serra\" aparece como trending topic, permitindo conexão direta com município capixaba\n--- Tipo: Notícia\n\n>>> Beatriz Haddad Maia volta às quadras: como acompanhar os jogos da tenista brasileira no ES\n--- Editoria: Esportes\n--- Ângulo ES: Mostrar onde assistir aos jogos no Espírito Santo e destacar a torcida capixaba pela atleta brasileira\n--- Por que performa: Bia Haddad é trending com 500+ buscas, grande interesse no tênis brasileiro\n--- Tipo: Serviço\n\n>>> Fim da taxa das blusinhas em 2027: o que muda para consumidores capixabas que compram online\n--- Editoria: Economia\n--- Ângulo ES: Explicar o impacto da mudança no orçamento das famílias capixabas que compram em sites como Shein e Shopee\n--- Por que performa: \"2027\" é trending com 500+ buscas relacionado ao fim da taxa de importação\n--- Tipo: Explicativo\n\n>>> Pesquisas eleitorais 2026: como o Espírito Santo pode influenciar a corrida presidencial\n--- Editoria: Política\n--- Ângulo ES: Analisar o peso eleitoral do ES nas eleições nacionais e histórico de votação do estado\n--- Por que performa: \"Pesquisa para presidente 2026\" tem 200+ buscas, interesse crescente no processo eleitoral\n--- Tipo: Análise\n\n>>> Malhação completa 26 anos: relembre os atores que passaram pela novela e têm ligação com o ES\n--- Editoria: Entretenimento\n--- Ângulo ES: Buscar conexões de atores da novela com o Espírito Santo ou que já gravaram no estado\n--- Por que performa: \"Malhação\" é trending com curiosidade sobre protagonistas antigos da trama\n--- Tipo: Lista\n\n>>> Apple pode bater recorde histórico: entenda o impacto no mercado de tecnologia do ES\n--- Editoria: Tecnologia\n--- Ângulo ES: Mostrar como as oscilações da Apple afetam o setor de tecnologia local e lojas especializadas no estado\n--- Por que performa: \"Apple\" está em trending com expectativa de alta nas ações\n--- Tipo: Explicativo\n\n>>> Onde assistir Bundesliga hoje no ES: Bayern München x FC Köln e outros jogos do alemão\n--- Editoria: Esportes\n--- Ângulo ES: Listar bares e locais em Vitória e região metropolitana que transmitem jogos do campeonato alemão\n--- Por que performa: \"Campeonato alemão\" é trending com interesse em jogos de hoje\n--- Tipo: Serviço\n\n>>> Game of Thrones: saiba onde rever a série completa em plataformas disponíveis no Brasil\n--- Editoria: Entretenimento\n--- Ângulo ES: Guia prático para capixabas que querem rever ou descobrir a série pela primeira vez\n--- Por que performa: \"Game of Thrones\" volta aos trending topics, sempre gera interesse em maratonas\n--- Tipo: Serviço\n\n>>> J1 League hoje: Urawa Reds x FC Tokyo e o crescimento do futebol japonês entre capixabas\n--- Editoria: Esportes\n--- Ângulo ES: Abordar o interesse crescente dos torcedores capixabas pelo futebol asiático e onde assistir no ES\n--- Por que performa: \"Urawa Reds x FC Tokyo\" tem 100+ buscas com interesse específico no jogo\n--- Tipo: Serviço"
+  },
+  "tendencias": [
+    {
+      "titulo": "urawa reds x f.c. tokyo",
+      "trafico": "100+",
+      "contexto": "Urawa Red x FC Tokyo: Palpite, Onde Assistir, Prognóstico, J1 League (16/05)"
+    },
+    {
+      "titulo": "calendário bolsa família 2026",
+      "trafico": "100+",
+      "contexto": "Bolsa Família de maio 2026: datas e calendário completo de depósitos"
+    },
+    {
+      "titulo": "serra",
+      "trafico": "100+",
+      "contexto": "Garis se manifestam na Av. Frei Serafim, em Teresina, e reivindicam melhores condições salariais e d"
+    },
+    {
+      "titulo": "campeonato alemão",
+      "trafico": "100+",
+      "contexto": "Bayern München x FC Köln: horário, escalações e estatísticas (Bundesliga 16/05)"
+    },
+    {
+      "titulo": "beatriz haddad maia",
+      "trafico": "500+",
+      "contexto": "Semifinalista no ano passado, Bia estreia sábado no quali de Estrasburgo"
+    },
+    {
+      "titulo": "2027",
+      "trafico": "500+",
+      "contexto": "Shein, Shopee e AliExpress notificam clientes sobre fim da &apos;taxa das blusinhas&apos;; entenda n"
+    },
+    {
+      "titulo": "malhação",
+      "trafico": "100+",
+      "contexto": "Há 26 anos, ele foi protagonista de Malhação, mas desapareceu da TV: Hoje, tem ligação com um dos he"
+    },
+    {
+      "titulo": "pesquisa para presidente 2026",
+      "trafico": "200+",
+      "contexto": "As intenções de voto de Lula e Flávio Bolsonaro no Maranhão, segundo AtlasIntel"
+    },
+    {
+      "titulo": "game of thrones",
+      "trafico": "100+",
+      "contexto": "&apos;I had cheated death&apos;: Emilia Clarke opens up about the brain aneurysms she suffered durin"
+    },
+    {
+      "titulo": "apple",
+      "trafico": "100+",
+      "contexto": "Prediction: We See a New All-Time High For Apple"
+    }
+  ]
+}
