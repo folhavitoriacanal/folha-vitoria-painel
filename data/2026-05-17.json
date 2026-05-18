@@ -1,0 +1,373 @@
+{
+  "dataDisplay": "17/05/2026",
+  "geradoEm": "2026-05-18T09:19:01.365Z",
+  "pvTotal": 191988,
+  "pctMeta": 115,
+  "metaHoje": 166360,
+  "metaAmanha": 164529,
+  "saldoOntem": 25628,
+  "deficitOntem": 0,
+  "metaDiaria": 200000,
+  "metaMensal": 6000000,
+  "usuarios": 62370,
+  "sessions": 88208,
+  "pgsPorSessao": "2.18",
+  "tempoMedio": "2min04s",
+  "pvManha": 49374,
+  "pvTarde": 57199,
+  "pvNoite": 59644,
+  "checkpoints": [
+    {
+      "label": "Até 11h",
+      "pv": 75145,
+      "meta": 60000,
+      "status": "META BATIDA"
+    },
+    {
+      "label": "Até 17h",
+      "pv": 132344,
+      "meta": 130000,
+      "status": "META BATIDA"
+    },
+    {
+      "label": "Até 21h",
+      "pv": 175171,
+      "meta": 166360,
+      "status": "META BATIDA"
+    }
+  ],
+  "producao": {
+    "disponivel": true,
+    "totalPublicadas": 40,
+    "pvPublicadas": 33194,
+    "mediaRealPorMateria": 830,
+    "materiasComAcesso": 40,
+    "materiasSemAcesso": 0,
+    "pvAntigos": 158794
+  },
+  "topMaterias": [
+    {
+      "pos": 1,
+      "titulo": "Saiba quem tem prioridade para receber a restituição do IR 2026",
+      "pv": 8667,
+      "publicadaHoje": true
+    },
+    {
+      "pos": 2,
+      "titulo": "Transporte da estátua da Havan ao ES exige operação especial",
+      "pv": 6490,
+      "publicadaHoje": false
+    },
+    {
+      "pos": 3,
+      "titulo": "Briga por plantas teria motivado assassinato de mulher enterrada no quintal",
+      "pv": 3558,
+      "publicadaHoje": true
+    },
+    {
+      "pos": 4,
+      "titulo": "Entenda quem precisa trocar o RG antigo até 2027",
+      "pv": 2895,
+      "publicadaHoje": false
+    },
+    {
+      "pos": 5,
+      "titulo": "650 lojas e mais: Edu Guedes é dono de rede de supermercados",
+      "pv": 2664,
+      "publicadaHoje": false
+    }
+  ],
+  "editorias": [
+    {
+      "nome": "economia",
+      "pvTotal": 18715,
+      "pvPublicadas": 11794,
+      "publicadas": 7,
+      "urlsAcessadas": 33,
+      "mediaCorreta": 1685
+    },
+    {
+      "nome": "policia",
+      "pvTotal": 17138,
+      "pvPublicadas": 9847,
+      "publicadas": 6,
+      "urlsAcessadas": 39,
+      "mediaCorreta": 1641
+    },
+    {
+      "nome": "transito",
+      "pvTotal": 11168,
+      "pvPublicadas": 0,
+      "publicadas": null,
+      "urlsAcessadas": 19,
+      "mediaCorreta": null
+    },
+    {
+      "nome": "cultura",
+      "pvTotal": 9933,
+      "pvPublicadas": 2200,
+      "publicadas": 4,
+      "urlsAcessadas": 62,
+      "mediaCorreta": 550
+    },
+    {
+      "nome": "social",
+      "pvTotal": 4947,
+      "pvPublicadas": 1785,
+      "publicadas": 2,
+      "urlsAcessadas": 18,
+      "mediaCorreta": 893
+    },
+    {
+      "nome": "cotidiano",
+      "pvTotal": 4839,
+      "pvPublicadas": 974,
+      "publicadas": 2,
+      "urlsAcessadas": 38,
+      "mediaCorreta": 487
+    },
+    {
+      "nome": "esportes",
+      "pvTotal": 4032,
+      "pvPublicadas": 624,
+      "publicadas": 2,
+      "urlsAcessadas": 27,
+      "mediaCorreta": 312
+    }
+  ],
+  "origens": [
+    {
+      "canal": "Direto",
+      "pv": 114971,
+      "pct": 60
+    },
+    {
+      "canal": "Google Orgânico",
+      "pv": 64022,
+      "pct": 33
+    },
+    {
+      "canal": "Social",
+      "pv": 8626,
+      "pct": 4
+    },
+    {
+      "canal": "Links externos",
+      "pv": 3921,
+      "pct": 2
+    },
+    {
+      "canal": "Não identificado",
+      "pv": 423,
+      "pct": 0
+    },
+    {
+      "canal": "YouTube",
+      "pv": 13,
+      "pct": 0
+    },
+    {
+      "canal": "E-mail",
+      "pv": 12,
+      "pct": 0
+    }
+  ],
+  "historico": {
+    "mediaMesmoDia": 147158,
+    "varMesmoDia": 30,
+    "media30": 204387,
+    "media30a": 167319,
+    "var30": 22,
+    "pvMesAtualAcum": 3696597,
+    "pvMesAntMesmoPer": 2674007,
+    "varMesAnt": 38,
+    "diasRestantes": 14,
+    "pvFaltaMes": 2303403,
+    "mediaNecessaria": 164529,
+    "mediaMensal": 6856222,
+    "melhorMes": {
+      "mes": "202507",
+      "pv": 13625154,
+      "label": "Jul/25"
+    },
+    "piorMes": {
+      "mes": "202502",
+      "pv": 4527477,
+      "label": "Fev/25"
+    },
+    "mensal": [
+      {
+        "mes": "202501",
+        "pv": 7245874,
+        "label": "Jan/25",
+        "atual": false
+      },
+      {
+        "mes": "202502",
+        "pv": 4527477,
+        "label": "Fev/25",
+        "atual": false
+      },
+      {
+        "mes": "202503",
+        "pv": 5367201,
+        "label": "Mar/25",
+        "atual": false
+      },
+      {
+        "mes": "202504",
+        "pv": 6945113,
+        "label": "Abr/25",
+        "atual": false
+      },
+      {
+        "mes": "202505",
+        "pv": 6591733,
+        "label": "Mai/25",
+        "atual": false
+      },
+      {
+        "mes": "202506",
+        "pv": 11659575,
+        "label": "Jun/25",
+        "atual": false
+      },
+      {
+        "mes": "202507",
+        "pv": 13625154,
+        "label": "Jul/25",
+        "atual": false
+      },
+      {
+        "mes": "202508",
+        "pv": 10001619,
+        "label": "Ago/25",
+        "atual": false
+      },
+      {
+        "mes": "202509",
+        "pv": 6679985,
+        "label": "Set/25",
+        "atual": false
+      },
+      {
+        "mes": "202510",
+        "pv": 5336318,
+        "label": "Out/25",
+        "atual": false
+      },
+      {
+        "mes": "202511",
+        "pv": 4564202,
+        "label": "Nov/25",
+        "atual": false
+      },
+      {
+        "mes": "202512",
+        "pv": 5524739,
+        "label": "Dez/25",
+        "atual": false
+      },
+      {
+        "mes": "202601",
+        "pv": 4978658,
+        "label": "Jan/26",
+        "atual": false
+      },
+      {
+        "mes": "202602",
+        "pv": 6402972,
+        "label": "Fev/26",
+        "atual": false
+      },
+      {
+        "mes": "202603",
+        "pv": 5172054,
+        "label": "Mar/26",
+        "atual": false
+      },
+      {
+        "mes": "202604",
+        "pv": 5076878,
+        "label": "Abr/26",
+        "atual": false
+      },
+      {
+        "mes": "202605",
+        "pv": 3696597,
+        "label": "Mai/26",
+        "atual": true
+      }
+    ]
+  },
+  "analises": {
+    "resumo": "O Folha Vitória registrou 191.988 page views no dia 17/05/2026, superando em 15% a meta diária de 166.360 visualizações. O período noturno foi o mais forte com 59.644 PVs, seguido pela tarde com 57.199 PVs e manhã com 49.374 PVs. Todas as metas de checkpoint foram batidas ao longo do dia, consolidando um desempenho sólido. O resultado coloca o portal em boa posição para atingir a meta mensal de 6 milhões de page views.",
+    "horarios": ">>> Manhã (6h-11h): 49.374 PVs, representando 26% do tráfego total do dia\n>>> Tarde (12h-17h): 57.199 PVs, período intermediário com crescimento consistente\n>>> Noite (18h-23h): 59.644 PVs, horário de pico com maior engajamento\n>>> Checkpoint 11h: 75.145 PVs contra meta de 60.000 (25% acima)\n>>> Checkpoint 17h: 132.344 PVs contra meta de 130.000 (2% acima)\n>>> Checkpoint 21h: 175.171 PVs contra meta de 166.360 (5% acima)",
+    "padrao": ">>> Conteúdo de utilidade pública dominou com restituição do IR liderando (8.667 PVs)\n>>> Notícias policiais mantiveram alto engajamento, especialmente casos de homicídio\n>>> Temas de documentação pessoal (RG) continuam gerando tráfego consistente\n>>> Conteúdo sobre celebridades e negócios mantém interesse do público\n>>> Hard news local (transporte da estátua Havan) compete bem com conteúdo de serviço",
+    "editorias": ">>> Economia lidera com média real de 1.685 PVs por matéria publicada ontem\n>>> Polícia em segundo com 1.641 PVs de média, mantendo alto engajamento\n>>> Social apresenta boa performance com 893 PVs por matéria\n>>> Cultura fica abaixo da média geral com 550 PVs por publicação\n>>> Cotidiano e Esportes precisam de estratégias para melhorar performance (487 e 312 PVs respectivamente)",
+    "trafego": ">>> Tráfego direto representa 60% do total, indicando forte fidelização da audiência\n>>> Google Orgânico contribui com 33%, mostrando boa otimização SEO\n>>> Redes sociais representam apenas 4%, indicando potencial de crescimento\n>>> Links externos com 2% sugerem necessidade de parcerias estratégicas\n>>> YouTube e e-mail praticamente inexistentes, canais subutilizados",
+    "eficiencia": "A produção de ontem alcançou média real de 830 PVs por matéria, com 100% das 40 publicações gerando tráfego. Nenhuma matéria ficou sem acesso, demonstrando boa curadoria editorial e relevância do conteúdo produzido.",
+    "erros": ">>> Baixo aproveitamento das redes sociais (apenas 4% do tráfego total)\n>>> Subutilização do YouTube como canal de distribuição de conteúdo\n>>> Performance fraca das editorias de Esportes e Cotidiano\n>>> Ausência de estratégia de e-mail marketing",
+    "oportunidades": ">>> Ampliar presença nas redes sociais para capturar mais tráfego orgânico\n>>> Desenvolver conteúdo em vídeo para YouTube, aproveitando temas que funcionam no site\n>>> Criar newsletter para aumentar tráfego via e-mail\n>>> Investir em parcerias para gerar mais links externos\n>>> Otimizar horários de publicação para o período noturno, que apresenta melhor performance",
+    "acoes": ">>> Publicar conteúdo de utilidade pública no início da manhã para capturar tráfego matinal\n>>> Concentrar lançamentos principais entre 17h e 19h para aproveitar pico noturno\n>>> Produzir pelo menos 2 matérias de economia focadas em IR e documentação\n>>> Agendar 5 posts em redes sociais distribuídos ao longo do dia\n>>> Monitorar trending topics para produção de conteúdo em tempo real, visando superar a meta de 164.529 PVs",
+    "metaacumulada": "A meta de amanhã (164.529 PVs) foi calculada dividindo-se o restante necessário para atingir os 6 milhões mensais (2.303.403 PVs) pelos 14 dias que restam no mês. Com 3.696.597 PVs acumulados, o portal está 38% acima do mesmo período do mês anterior, mas ainda precisa manter ritmo diário superior a 164 mil para bater a meta mensal. A meta dinâmica se ajusta diariamente conforme a performance, exigindo consistência nos próximos dias.",
+    "historicodia": ">>> Performance 30% superior à média das últimas 8 semanas para o mesmo dia\n>>> Resultado acima da média dos últimos 30 dias, que está em 204.387 PVs\n>>> Crescimento sustentado em relação ao período anterior",
+    "historicomes": ">>> Acumulado mensal 38% superior ao mesmo período do mês anterior\n>>> Projeção indica possibilidade real de atingir meta de 6 milhões\n>>> Ritmo atual sugere fechamento entre 5,8 e 6,2 milhões no mês",
+    "tendencia": "A tendência dos últimos 30 dias mostra crescimento de 22% em relação ao período anterior, indicando trajetória ascendente. O melhor mês da história foi julho/2025 com 13,6 milhões de PVs, enquanto o pior foi fevereiro/2025 com 4,5 milhões, mostrando potencial de crescimento sazonal.",
+    "alerta": "\"A dependência excessiva do tráfego direto pode mascarar problemas de descoberta de novos leitores, sendo necessário diversificar as fontes de audiência.\"",
+    "licao": "O dia demonstrou que conteúdo de utilidade pública continua sendo o principal driver de audiência, especialmente temas relacionados a impostos e documentação. A combinação de hard news local com conteúdo de serviço mantém o equilíbrio ideal para sustentar crescimento. O período noturno consolidou-se como horário nobre, exigindo maior investimento em conteúdo para esse momento. \"Servir ao leitor com informação útil no momento certo continua sendo a fórmula do sucesso.\"",
+    "tendencias": ">>> Previsão do tempo hoje no ES: risco de chuva forte e temporais isolados\n--- Editoria: Cotidiano\n--- Ângulo ES: Focar na previsão específica para as principais cidades capixabas, alertar sobre alagamentos em pontos conhecidos de Vitória e Vila Velha\n--- Por que performa: Trending topics sobre meteorologia e previsão do tempo somam mais de 1.300 buscas, tema de interesse diário\n--- Tipo: Serviço\n\n>>> Alerta amarelo para chuva intensa pode chegar ao Espírito Santo nesta semana\n--- Editoria: Cotidiano\n--- Ângulo ES: Analisar se o sistema que atinge outros estados pode impactar o ES, histórico de alertas meteorológicos no estado\n--- Por que performa: \"Alerta amarelo: chuva intensa\" tem 500+ buscas, capixabas buscam informações sobre segurança climática\n--- Tipo: Notícia\n\n>>> Jornada 6x1: como ficam os trabalhadores do Espírito Santo com possível mudança\n--- Editoria: Economia\n--- Ângulo ES: Impacto da possível mudança na jornada para principais setores econômicos do ES: portuário, siderúrgico e comércio\n--- Por que performa: \"Jornada de trabalho\" com 200+ buscas, tema que afeta diretamente os trabalhadores capixabas\n--- Tipo: Explicativo\n\n>>> Fundaj abre especializações gratuitas: capixabas podem se inscrever\n--- Editoria: Educação\n--- Ângulo ES: Destacar que cursos são abertos para todo o Brasil, incluindo residentes do ES, e como se candidatar\n--- Por que performa: \"Especialização\" com 100+ buscas, capixabas buscam oportunidades de qualificação gratuita\n--- Tipo: Serviço\n\n>>> Temporal com raios e alagamentos: pontos de risco em Vitória e região metropolitana\n--- Editoria: Cotidiano\n--- Ângulo ES: Mapear locais históricos de alagamento na Grande Vitória, medidas de segurança da Defesa Civil capixaba\n--- Por que performa: Trending sobre temporais e previsões do tempo, preocupação constante dos moradores da região\n--- Tipo: Serviço\n\n>>> Meteorologia explica: por que o tempo muda tanto no Espírito Santo\n--- Editoria: Cotidiano\n--- Ângulo ES: Características climáticas específicas do ES, influência do oceano e serra, explicação técnica sobre o clima capixaba\n--- Por que performa: \"Meteorologia\" é o trending com mais buscas (1000+), curiosidade sobre fenômenos climáticos locais\n--- Tipo: Explicativo\n\n>>> Caso Argentina: dicas de segurança para capixabas em viagens internacionais\n--- Editoria: Cotidiano\n--- Ângulo ES: Orientações do consulado, experiências de agências de turismo capixabas, cuidados em destinos sul-americanos\n--- Por que performa: \"Argentina\" com 100+ buscas, muitos capixabas viajam para países vizinhos\n--- Tipo: Serviço\n\n>>> Morte de apresentador de TV: como a pressão da mídia afeta profissionais capixabas\n--- Editoria: Comportamento\n--- Ângulo ES: Depoimentos de apresentadores e jornalistas locais sobre pressão profissional, apoio psicológico no setor\n--- Por que performa: \"Apresentador de televisão\" com 200+ buscas, interesse em bastidores da mídia local\n--- Tipo: Análise\n\n>>> Frio e risco de geada: regiões serranas do ES podem ser afetadas\n--- Editoria: Cotidiano\n--- Ângulo ES: Previsão específica para Domingos Martins, Venda Nova do Imigrante e outras cidades serranas capixabas\n--- Por que performa: Trending sobre frio e meteorologia, preocupação com agricultura e turismo rural no ES\n--- Tipo: Notícia\n\n>>> Chuva forte retorna: o que fazer durante temporais na Grande Vitória\n--- Editoria: Cotidiano\n--- Ângulo ES: Guia prático de segurança, telefones úteis da Defesa Civil capixaba, pontos de alagamento a evitar\n--- Por que performa: Múltiplos trendings sobre chuva e previsão do tempo, necessidade prática dos moradores\n--- Tipo: Serviço"
+  },
+  "tendencias": [
+    {
+      "titulo": "especialização",
+      "trafico": "100+",
+      "contexto": "Fundaj abre inscrições para três novos cursos de especialização gratuitos"
+    },
+    {
+      "titulo": "argentina",
+      "trafico": "100+",
+      "contexto": "Paranaense que desapareceu enquanto esperava esposa fazer compras no Paraguai é encontrado morto em "
+    },
+    {
+      "titulo": "previsão",
+      "trafico": "200+",
+      "contexto": "OBSERVAÇÃO - 17/05 16:56 - TEMPORAIS ISOLADOS com RAIOS, RAJADAS DE VENTO e ALAGAMENTOS pontuais nas"
+    },
+    {
+      "titulo": "apresentador de televisão",
+      "trafico": "200+",
+      "contexto": "No banheiro do hotel: Qual apresentador tirou a própria vida aos 61 anos?"
+    },
+    {
+      "titulo": "jornada de trabalho",
+      "trafico": "200+",
+      "contexto": "Governo negocia para aliada relatoria de projeto do fim da 6x1 na Câmara"
+    },
+    {
+      "titulo": "previsão do tempo para hoje",
+      "trafico": "500+",
+      "contexto": "Previsão do tempo para hoje (18 de maio): Pancadas de chuva e trovoadas generalizadas."
+    },
+    {
+      "titulo": "meteorologia",
+      "trafico": "1000+",
+      "contexto": "Frio, risco de geada e chuva forte: veja a previsão do tempo da semana"
+    },
+    {
+      "titulo": "previsao do tempo hoje",
+      "trafico": "100+",
+      "contexto": "Chuva volta a ganhar força em Salvador nos próximos dias; veja previsão para esta semana (18 a 24 de"
+    },
+    {
+      "titulo": "alerta amarelo: chuva intensa",
+      "trafico": "500+",
+      "contexto": "Alerta amarelo: chuva intensa chega ao PI e episódios podem acontecer ao longo da sexta (15)"
+    },
+    {
+      "titulo": "enzo maresca",
+      "trafico": "100+",
+      "contexto": "Maresca reaches &apos;agreement&apos; to replace Guardiola as Man City manager"
+    }
+  ]
+}
