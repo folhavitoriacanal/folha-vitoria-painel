@@ -1,189 +1,189 @@
 {
-  "dataDisplay": "16/05/2026",
-  "geradoEm": "2026-05-17T09:19:56.677Z",
-  "pvTotal": 207927,
-  "pctMeta": 123,
-  "metaHoje": 168957,
-  "metaAmanha": 166359,
-  "saldoOntem": 38970,
+  "dataDisplay": "17/05/2026",
+  "geradoEm": "2026-05-18T09:19:01.365Z",
+  "pvTotal": 191988,
+  "pctMeta": 115,
+  "metaHoje": 166360,
+  "metaAmanha": 164529,
+  "saldoOntem": 25628,
   "deficitOntem": 0,
   "metaDiaria": 200000,
   "metaMensal": 6000000,
-  "usuarios": 67492,
-  "sessions": 94932,
-  "pgsPorSessao": "2.19",
-  "tempoMedio": "2min43s",
-  "pvManha": 57424,
-  "pvTarde": 63646,
-  "pvNoite": 59415,
+  "usuarios": 62370,
+  "sessions": 88208,
+  "pgsPorSessao": "2.18",
+  "tempoMedio": "2min04s",
+  "pvManha": 49374,
+  "pvTarde": 57199,
+  "pvNoite": 59644,
   "checkpoints": [
     {
       "label": "Até 11h",
-      "pv": 84866,
+      "pv": 75145,
       "meta": 60000,
       "status": "META BATIDA"
     },
     {
       "label": "Até 17h",
-      "pv": 148512,
+      "pv": 132344,
       "meta": 130000,
       "status": "META BATIDA"
     },
     {
       "label": "Até 21h",
-      "pv": 191062,
-      "meta": 168957,
+      "pv": 175171,
+      "meta": 166360,
       "status": "META BATIDA"
     }
   ],
   "producao": {
     "disponivel": true,
-    "totalPublicadas": 42,
-    "pvPublicadas": 45102,
-    "mediaRealPorMateria": 1074,
-    "materiasComAcesso": 42,
+    "totalPublicadas": 40,
+    "pvPublicadas": 33194,
+    "mediaRealPorMateria": 830,
+    "materiasComAcesso": 40,
     "materiasSemAcesso": 0,
-    "pvAntigos": 162825
+    "pvAntigos": 158794
   },
   "topMaterias": [
     {
       "pos": 1,
-      "titulo": "Mãe e filha são mortas a golpes de facão na Serra",
-      "pv": 7155,
+      "titulo": "Saiba quem tem prioridade para receber a restituição do IR 2026",
+      "pv": 8667,
       "publicadaHoje": true
     },
     {
       "pos": 2,
-      "titulo": "Festa da Polenta é cancelada em Venda Nova e decisão afeta turismo e comércio da cidade",
-      "pv": 6239,
+      "titulo": "Transporte da estátua da Havan ao ES exige operação especial",
+      "pv": 6490,
       "publicadaHoje": false
     },
     {
       "pos": 3,
-      "titulo": "Menina é atacada por onça-parda na Chapada dos Veadeiros",
-      "pv": 5214,
+      "titulo": "Briga por plantas teria motivado assassinato de mulher enterrada no quintal",
+      "pv": 3558,
       "publicadaHoje": true
     },
     {
       "pos": 4,
-      "titulo": "Praia da Costa ganha 'business club' com coquetel de inauguração",
-      "pv": 5201,
-      "publicadaHoje": true
+      "titulo": "Entenda quem precisa trocar o RG antigo até 2027",
+      "pv": 2895,
+      "publicadaHoje": false
     },
     {
       "pos": 5,
-      "titulo": "Inmet emite alerta de tempestade e granizo para o Sul do ES",
-      "pv": 3244,
-      "publicadaHoje": true
+      "titulo": "650 lojas e mais: Edu Guedes é dono de rede de supermercados",
+      "pv": 2664,
+      "publicadaHoje": false
     }
   ],
   "editorias": [
     {
-      "nome": "policia",
-      "pvTotal": 18630,
-      "pvPublicadas": 15211,
-      "publicadas": 9,
-      "urlsAcessadas": 45,
-      "mediaCorreta": 1690
+      "nome": "economia",
+      "pvTotal": 18715,
+      "pvPublicadas": 11794,
+      "publicadas": 7,
+      "urlsAcessadas": 33,
+      "mediaCorreta": 1685
     },
     {
-      "nome": "cultura",
-      "pvTotal": 13908,
-      "pvPublicadas": 859,
-      "publicadas": 1,
-      "urlsAcessadas": 57,
-      "mediaCorreta": 859
+      "nome": "policia",
+      "pvTotal": 17138,
+      "pvPublicadas": 9847,
+      "publicadas": 6,
+      "urlsAcessadas": 39,
+      "mediaCorreta": 1641
     },
     {
       "nome": "transito",
-      "pvTotal": 12878,
-      "pvPublicadas": 6621,
+      "pvTotal": 11168,
+      "pvPublicadas": 0,
+      "publicadas": null,
+      "urlsAcessadas": 19,
+      "mediaCorreta": null
+    },
+    {
+      "nome": "cultura",
+      "pvTotal": 9933,
+      "pvPublicadas": 2200,
       "publicadas": 4,
-      "urlsAcessadas": 23,
-      "mediaCorreta": 1655
-    },
-    {
-      "nome": "economia",
-      "pvTotal": 12316,
-      "pvPublicadas": 1748,
-      "publicadas": 3,
-      "urlsAcessadas": 33,
-      "mediaCorreta": 583
-    },
-    {
-      "nome": "cotidiano",
-      "pvTotal": 9623,
-      "pvPublicadas": 5675,
-      "publicadas": 3,
-      "urlsAcessadas": 40,
-      "mediaCorreta": 1892
+      "urlsAcessadas": 62,
+      "mediaCorreta": 550
     },
     {
       "nome": "social",
-      "pvTotal": 8557,
-      "pvPublicadas": 6244,
+      "pvTotal": 4947,
+      "pvPublicadas": 1785,
       "publicadas": 2,
-      "urlsAcessadas": 14,
-      "mediaCorreta": 3122
+      "urlsAcessadas": 18,
+      "mediaCorreta": 893
+    },
+    {
+      "nome": "cotidiano",
+      "pvTotal": 4839,
+      "pvPublicadas": 974,
+      "publicadas": 2,
+      "urlsAcessadas": 38,
+      "mediaCorreta": 487
     },
     {
       "nome": "esportes",
-      "pvTotal": 5160,
-      "pvPublicadas": 1203,
-      "publicadas": 1,
+      "pvTotal": 4032,
+      "pvPublicadas": 624,
+      "publicadas": 2,
       "urlsAcessadas": 27,
-      "mediaCorreta": 1203
+      "mediaCorreta": 312
     }
   ],
   "origens": [
     {
       "canal": "Direto",
-      "pv": 123416,
-      "pct": 59
+      "pv": 114971,
+      "pct": 60
     },
     {
       "canal": "Google Orgânico",
-      "pv": 69167,
+      "pv": 64022,
       "pct": 33
     },
     {
       "canal": "Social",
-      "pv": 11858,
-      "pct": 6
+      "pv": 8626,
+      "pct": 4
     },
     {
       "canal": "Links externos",
-      "pv": 2523,
-      "pct": 1
+      "pv": 3921,
+      "pct": 2
     },
     {
       "canal": "Não identificado",
-      "pv": 921,
+      "pv": 423,
       "pct": 0
     },
     {
       "canal": "YouTube",
-      "pv": 26,
+      "pv": 13,
       "pct": 0
     },
     {
       "canal": "E-mail",
-      "pv": 16,
+      "pv": 12,
       "pct": 0
     }
   ],
   "historico": {
-    "mediaMesmoDia": 146304,
-    "varMesmoDia": 42,
-    "media30": 203476,
-    "media30a": 167655,
-    "var30": 21,
-    "pvMesAtualAcum": 3504619,
-    "pvMesAntMesmoPer": 2449883,
-    "varMesAnt": 43,
-    "diasRestantes": 15,
-    "pvFaltaMes": 2495381,
-    "mediaNecessaria": 166359,
+    "mediaMesmoDia": 147158,
+    "varMesmoDia": 30,
+    "media30": 204387,
+    "media30a": 167319,
+    "var30": 22,
+    "pvMesAtualAcum": 3696597,
+    "pvMesAntMesmoPer": 2674007,
+    "varMesAnt": 38,
+    "diasRestantes": 14,
+    "pvFaltaMes": 2303403,
+    "mediaNecessaria": 164529,
     "mediaMensal": 6856222,
     "melhorMes": {
       "mes": "202507",
@@ -294,80 +294,80 @@
       },
       {
         "mes": "202605",
-        "pv": 3504619,
+        "pv": 3696597,
         "label": "Mai/26",
         "atual": true
       }
     ]
   },
   "analises": {
-    "resumo": "O portal registrou 207.927 page views no dia 16/05/2026, superando em 123% a meta diária de 168.957 PVs. A distribuição horária mostrou equilíbrio entre os três períodos, com ligeira vantagem para a tarde (63.646 PVs). Todas as metas de checkpoint foram batidas ao longo do dia, consolidando um desempenho sólido. O resultado coloca o portal em posição confortável para atingir a meta mensal de 6 milhões de page views.",
-    "horarios": ">>> Manhã (6h-11h): 57.424 PVs - período com menor volume, mas checkpoint das 11h superou meta em 41%\n>>> Tarde (12h-17h): 63.646 PVs - melhor período do dia, mantendo ritmo constante de crescimento\n>>> Noite (18h-23h): 59.415 PVs - fechamento forte, garantindo superação da meta diária\n>>> Checkpoint 11h: 84.866 PVs contra meta de 60.000 (141%)\n>>> Checkpoint 17h: 148.512 PVs contra meta de 130.000 (114%)\n>>> Checkpoint 21h: 191.062 PVs contra meta de 168.957 (113%)",
-    "padrao": ">>> Hard news dominaram o ranking com crime violento liderando (7.155 PVs)\n>>> Matérias de impacto regional como cancelamento da Festa da Polenta mantêm relevância\n>>> Conteúdo de segurança pública e tragédias geraram maior engajamento\n>>> Notícias de serviço (alerta meteorológico) complementaram o mix de sucesso\n>>> Variedade editorial entre polícia, eventos, cotidiano e economia nas top 5",
-    "editorias": ">>> Social lidera em eficiência com média de 3.122 PVs por matéria publicada\n>>> Cotidiano mantém performance sólida com 1.892 PVs por matéria\n>>> Polícia confirma força com 1.690 PVs por conteúdo, maior volume absoluto\n>>> Trânsito equilibrado com 1.655 PVs por matéria\n>>> Esportes e cultura precisam melhorar conversão editorial\n>>> Economia apresenta baixa média de 583 PVs por matéria",
-    "trafego": ">>> Tráfego direto representa 59% do total, indicando fidelidade da audiência\n>>> Google Orgânico contribui com 33%, mostrando boa otimização SEO\n>>> Redes sociais respondem por apenas 6%, sinalizando potencial de crescimento\n>>> Dependência excessiva de tráfego direto pode ser vulnerabilidade\n>>> Diversificação de origens precisa ser ampliada",
-    "eficiencia": "Média real de 1.074 PVs por matéria publicada ontem, com 100% das 42 matérias gerando tráfego. Nenhuma matéria ficou sem acesso, demonstrando qualidade editorial consistente.",
-    "erros": ">>> Baixa performance da editoria de economia (583 PVs/matéria) indica falta de apelo editorial\n>>> Subutilização das redes sociais como canal de distribuição (apenas 6% do tráfego)\n>>> Produção de esportes limitada a apenas 1 matéria no dia\n>>> Ausência de conteúdos que explorem tendências de busca orgânica",
-    "oportunidades": ">>> Expandir cobertura social que apresenta melhor conversão (3.122 PVs/matéria)\n>>> Intensificar estratégia de redes sociais para reduzir dependência do tráfego direto\n>>> Desenvolver série sobre segurança pública aproveitando interesse do público\n>>> Criar conteúdos evergreen para manter matérias antigas gerando tráfego consistente\n>>> Ampliar cobertura de eventos regionais seguindo sucesso da Festa da Polenta",
-    "acoes": ">>> Produzir ao menos 3 matérias da editoria social priorizando eventos e personalidades\n>>> Publicar 45-50 matérias para manter média atual e atingir meta de 166.359 PVs\n>>> Intensificar posts nas redes sociais com foco em hard news e conteúdo local\n>>> Desenvolver matéria de follow-up sobre caso da Serra explorando desdobramentos\n>>> Monitorar trending topics para produção de conteúdo em tempo real",
-    "metaacumulada": "A meta dinâmica de 168.957 PVs foi calculada dividindo-se o restante da meta mensal (2.534.351 PVs na época) pelos 15 dias restantes do mês. Com a superação de ontem, faltam 2.495.381 PVs para atingir os 6 milhões mensais. A meta de amanhã (166.359 PVs) representa esse novo saldo dividido pelos 15 dias restantes, mantendo o portal no ritmo necessário para o objetivo mensal.",
-    "historicodia": ">>> Resultado 42% superior à média de mesmo dia da semana (146.304 PVs)\n>>> Performance 2% acima da média dos últimos 30 dias (203.476 PVs)\n>>> Confirma tendência de crescimento sustentável",
-    "historicomes": ">>> Acumulado mensal 43% superior ao mesmo período do mês anterior\n>>> Projeção atual indica possibilidade real de atingir meta de 6 milhões\n>>> Ritmo consistente de 233.641 PVs/dia em média no mês",
-    "tendencia": "Tendência de crescimento de 21% comparando médias de 30 dias (203.476 atual vs 167.655 anterior). Melhor mês histórico foi julho/2025 com 13.625.154 PVs, enquanto o pior foi fevereiro/2025 com 4.527.477 PVs.",
-    "alerta": "\"Dependência excessiva de tráfego direto (59%) pode representar vulnerabilidade caso haja mudanças no comportamento da audiência fiel.\"",
-    "licao": "O dia demonstrou que a combinação equilibrada entre hard news locais, conteúdo de serviço e cobertura de eventos regionais gera engajamento consistente. A editoria social provou sua eficiência, enquanto economia e esportes precisam de reforço editorial. O sucesso das matérias de polícia confirma o interesse por segurança pública, tema que deve ser explorado estrategicamente. \"Audiência premia relevância local com conversão superior à média.\"",
-    "tendencias": ">>> Juventus x Fiorentina: onde assistir ao jogo do Campeonato Italiano hoje\n--- Editoria: Esportes\n--- Ângulo ES: Incluir horário local de Brasília/ES, onde assistir na Grande Vitória e mencionar bares e casas de apostas da região que transmitem jogos europeus\n--- Por que performa: Trending topic com 200+ buscas sobre o jogo ao vivo\n--- Tipo: Serviço\n\n>>> Flamengo demite Leonardo Jardim: pressão por resultados afeta técnicos brasileiros\n--- Editoria: Esportes\n--- Ângulo ES: Comparar com situações similares de técnicos que passaram por clubes capixabas como Real Noroeste e Rio Branco, analisando pressão no futebol regional\n--- Por que performa: Leonardo Jardim está em alta com 200+ buscas relacionadas à pressão no Flamengo\n--- Tipo: Análise\n\n>>> Desembargador do ES explica investigações contra magistrados no Brasil\n--- Editoria: Política\n--- Ângulo ES: Entrevistar desembargador do Tribunal de Justiça do ES sobre procedimentos internos e transparência no judiciário capixaba\n--- Por que performa: \"Desembargador\" é trending com 100+ buscas devido a escândalos recentes\n--- Tipo: Explicativo\n\n>>> Campeonato Italiano hoje: guia completo dos jogos e onde assistir no ES\n--- Editoria: Esportes\n--- Ângulo ES: Mapear bares e estabelecimentos da Grande Vitória que transmitem futebol europeu, com foco na comunidade italiana local\n--- Por que performa: \"Campeonato italiano\" tem 100+ buscas com interesse em transmissões\n--- Tipo: Serviço\n\n>>> Relações comerciais entre ES e Cuba: como crise internacional afeta negócios capixabas\n--- Editoria: Economia\n--- Ângulo ES: Analisar impacto das tensões EUA-Cuba no porto de Vitória e nas exportações capixabas para países caribenhos\n--- Por que performa: Cuba está em trending com 100+ buscas devido a tensões diplomáticas\n--- Tipo: Análise\n\n>>> Motorola lança nova estratégia no Brasil: preços e disponibilidade no ES\n--- Editoria: Tecnologia\n--- Ângulo ES: Pesquisar preços dos novos aparelhos Motorola em lojas de Vitória, Vila Velha e Serra, comparando com outras capitais\n--- Por que performa: Motorola tem 100+ buscas relacionadas a estratégia premium e novos produtos\n--- Tipo: Notícia\n\n>>> Mercado de informática cresce no ES: oportunidades para profissionais de TI\n--- Editoria: Economia\n--- Ângulo ES: Mapear empresas de tecnologia no ES, vagas disponíveis e cursos de programação na Grande Vitória\n--- Por que performa: \"Computer\" tem 200+ buscas relacionadas a avanços tecnológicos\n--- Tipo: Explicativo\n\n>>> Futebol japonês ganha fãs no ES: como assistir J-League na Grande Vitória\n--- Editoria: Esportes\n--- Ângulo ES: Perfil da comunidade japonesa no ES e interesse crescente por futebol asiático entre capixabas\n--- Por que performa: Vissel Kobe tem 200+ buscas com jogo em andamento\n--- Tipo: Serviço\n\n>>> Bradley Cooper em cartaz: programação de cinemas da Grande Vitória\n--- Editoria: Cultura\n--- Ângulo ES: Listar sessões do filme com Bradley Cooper nos cinemas de Vitória, Vila Velha, Serra e Cariacica, com horários e promoções\n--- Por que performa: Bradley Cooper é trending com 200+ buscas devido a exibição de filme\n--- Tipo: Serviço\n\n>>> Adoção no ES: como funciona o processo e números atuais no estado\n--- Editoria: Geral\n--- Ângulo ES: Dados da Vara da Infância do ES, tempo médio de adoção no estado e perfil de crianças disponíveis\n--- Por que performa: \"Adoção\" tem 200+ buscas relacionadas a encontros e processos\n--- Tipo: Explicativo"
+    "resumo": "O Folha Vitória registrou 191.988 page views no dia 17/05/2026, superando em 15% a meta diária de 166.360 visualizações. O período noturno foi o mais forte com 59.644 PVs, seguido pela tarde com 57.199 PVs e manhã com 49.374 PVs. Todas as metas de checkpoint foram batidas ao longo do dia, consolidando um desempenho sólido. O resultado coloca o portal em boa posição para atingir a meta mensal de 6 milhões de page views.",
+    "horarios": ">>> Manhã (6h-11h): 49.374 PVs, representando 26% do tráfego total do dia\n>>> Tarde (12h-17h): 57.199 PVs, período intermediário com crescimento consistente\n>>> Noite (18h-23h): 59.644 PVs, horário de pico com maior engajamento\n>>> Checkpoint 11h: 75.145 PVs contra meta de 60.000 (25% acima)\n>>> Checkpoint 17h: 132.344 PVs contra meta de 130.000 (2% acima)\n>>> Checkpoint 21h: 175.171 PVs contra meta de 166.360 (5% acima)",
+    "padrao": ">>> Conteúdo de utilidade pública dominou com restituição do IR liderando (8.667 PVs)\n>>> Notícias policiais mantiveram alto engajamento, especialmente casos de homicídio\n>>> Temas de documentação pessoal (RG) continuam gerando tráfego consistente\n>>> Conteúdo sobre celebridades e negócios mantém interesse do público\n>>> Hard news local (transporte da estátua Havan) compete bem com conteúdo de serviço",
+    "editorias": ">>> Economia lidera com média real de 1.685 PVs por matéria publicada ontem\n>>> Polícia em segundo com 1.641 PVs de média, mantendo alto engajamento\n>>> Social apresenta boa performance com 893 PVs por matéria\n>>> Cultura fica abaixo da média geral com 550 PVs por publicação\n>>> Cotidiano e Esportes precisam de estratégias para melhorar performance (487 e 312 PVs respectivamente)",
+    "trafego": ">>> Tráfego direto representa 60% do total, indicando forte fidelização da audiência\n>>> Google Orgânico contribui com 33%, mostrando boa otimização SEO\n>>> Redes sociais representam apenas 4%, indicando potencial de crescimento\n>>> Links externos com 2% sugerem necessidade de parcerias estratégicas\n>>> YouTube e e-mail praticamente inexistentes, canais subutilizados",
+    "eficiencia": "A produção de ontem alcançou média real de 830 PVs por matéria, com 100% das 40 publicações gerando tráfego. Nenhuma matéria ficou sem acesso, demonstrando boa curadoria editorial e relevância do conteúdo produzido.",
+    "erros": ">>> Baixo aproveitamento das redes sociais (apenas 4% do tráfego total)\n>>> Subutilização do YouTube como canal de distribuição de conteúdo\n>>> Performance fraca das editorias de Esportes e Cotidiano\n>>> Ausência de estratégia de e-mail marketing",
+    "oportunidades": ">>> Ampliar presença nas redes sociais para capturar mais tráfego orgânico\n>>> Desenvolver conteúdo em vídeo para YouTube, aproveitando temas que funcionam no site\n>>> Criar newsletter para aumentar tráfego via e-mail\n>>> Investir em parcerias para gerar mais links externos\n>>> Otimizar horários de publicação para o período noturno, que apresenta melhor performance",
+    "acoes": ">>> Publicar conteúdo de utilidade pública no início da manhã para capturar tráfego matinal\n>>> Concentrar lançamentos principais entre 17h e 19h para aproveitar pico noturno\n>>> Produzir pelo menos 2 matérias de economia focadas em IR e documentação\n>>> Agendar 5 posts em redes sociais distribuídos ao longo do dia\n>>> Monitorar trending topics para produção de conteúdo em tempo real, visando superar a meta de 164.529 PVs",
+    "metaacumulada": "A meta de amanhã (164.529 PVs) foi calculada dividindo-se o restante necessário para atingir os 6 milhões mensais (2.303.403 PVs) pelos 14 dias que restam no mês. Com 3.696.597 PVs acumulados, o portal está 38% acima do mesmo período do mês anterior, mas ainda precisa manter ritmo diário superior a 164 mil para bater a meta mensal. A meta dinâmica se ajusta diariamente conforme a performance, exigindo consistência nos próximos dias.",
+    "historicodia": ">>> Performance 30% superior à média das últimas 8 semanas para o mesmo dia\n>>> Resultado acima da média dos últimos 30 dias, que está em 204.387 PVs\n>>> Crescimento sustentado em relação ao período anterior",
+    "historicomes": ">>> Acumulado mensal 38% superior ao mesmo período do mês anterior\n>>> Projeção indica possibilidade real de atingir meta de 6 milhões\n>>> Ritmo atual sugere fechamento entre 5,8 e 6,2 milhões no mês",
+    "tendencia": "A tendência dos últimos 30 dias mostra crescimento de 22% em relação ao período anterior, indicando trajetória ascendente. O melhor mês da história foi julho/2025 com 13,6 milhões de PVs, enquanto o pior foi fevereiro/2025 com 4,5 milhões, mostrando potencial de crescimento sazonal.",
+    "alerta": "\"A dependência excessiva do tráfego direto pode mascarar problemas de descoberta de novos leitores, sendo necessário diversificar as fontes de audiência.\"",
+    "licao": "O dia demonstrou que conteúdo de utilidade pública continua sendo o principal driver de audiência, especialmente temas relacionados a impostos e documentação. A combinação de hard news local com conteúdo de serviço mantém o equilíbrio ideal para sustentar crescimento. O período noturno consolidou-se como horário nobre, exigindo maior investimento em conteúdo para esse momento. \"Servir ao leitor com informação útil no momento certo continua sendo a fórmula do sucesso.\"",
+    "tendencias": ">>> Previsão do tempo hoje no ES: risco de chuva forte e temporais isolados\n--- Editoria: Cotidiano\n--- Ângulo ES: Focar na previsão específica para as principais cidades capixabas, alertar sobre alagamentos em pontos conhecidos de Vitória e Vila Velha\n--- Por que performa: Trending topics sobre meteorologia e previsão do tempo somam mais de 1.300 buscas, tema de interesse diário\n--- Tipo: Serviço\n\n>>> Alerta amarelo para chuva intensa pode chegar ao Espírito Santo nesta semana\n--- Editoria: Cotidiano\n--- Ângulo ES: Analisar se o sistema que atinge outros estados pode impactar o ES, histórico de alertas meteorológicos no estado\n--- Por que performa: \"Alerta amarelo: chuva intensa\" tem 500+ buscas, capixabas buscam informações sobre segurança climática\n--- Tipo: Notícia\n\n>>> Jornada 6x1: como ficam os trabalhadores do Espírito Santo com possível mudança\n--- Editoria: Economia\n--- Ângulo ES: Impacto da possível mudança na jornada para principais setores econômicos do ES: portuário, siderúrgico e comércio\n--- Por que performa: \"Jornada de trabalho\" com 200+ buscas, tema que afeta diretamente os trabalhadores capixabas\n--- Tipo: Explicativo\n\n>>> Fundaj abre especializações gratuitas: capixabas podem se inscrever\n--- Editoria: Educação\n--- Ângulo ES: Destacar que cursos são abertos para todo o Brasil, incluindo residentes do ES, e como se candidatar\n--- Por que performa: \"Especialização\" com 100+ buscas, capixabas buscam oportunidades de qualificação gratuita\n--- Tipo: Serviço\n\n>>> Temporal com raios e alagamentos: pontos de risco em Vitória e região metropolitana\n--- Editoria: Cotidiano\n--- Ângulo ES: Mapear locais históricos de alagamento na Grande Vitória, medidas de segurança da Defesa Civil capixaba\n--- Por que performa: Trending sobre temporais e previsões do tempo, preocupação constante dos moradores da região\n--- Tipo: Serviço\n\n>>> Meteorologia explica: por que o tempo muda tanto no Espírito Santo\n--- Editoria: Cotidiano\n--- Ângulo ES: Características climáticas específicas do ES, influência do oceano e serra, explicação técnica sobre o clima capixaba\n--- Por que performa: \"Meteorologia\" é o trending com mais buscas (1000+), curiosidade sobre fenômenos climáticos locais\n--- Tipo: Explicativo\n\n>>> Caso Argentina: dicas de segurança para capixabas em viagens internacionais\n--- Editoria: Cotidiano\n--- Ângulo ES: Orientações do consulado, experiências de agências de turismo capixabas, cuidados em destinos sul-americanos\n--- Por que performa: \"Argentina\" com 100+ buscas, muitos capixabas viajam para países vizinhos\n--- Tipo: Serviço\n\n>>> Morte de apresentador de TV: como a pressão da mídia afeta profissionais capixabas\n--- Editoria: Comportamento\n--- Ângulo ES: Depoimentos de apresentadores e jornalistas locais sobre pressão profissional, apoio psicológico no setor\n--- Por que performa: \"Apresentador de televisão\" com 200+ buscas, interesse em bastidores da mídia local\n--- Tipo: Análise\n\n>>> Frio e risco de geada: regiões serranas do ES podem ser afetadas\n--- Editoria: Cotidiano\n--- Ângulo ES: Previsão específica para Domingos Martins, Venda Nova do Imigrante e outras cidades serranas capixabas\n--- Por que performa: Trending sobre frio e meteorologia, preocupação com agricultura e turismo rural no ES\n--- Tipo: Notícia\n\n>>> Chuva forte retorna: o que fazer durante temporais na Grande Vitória\n--- Editoria: Cotidiano\n--- Ângulo ES: Guia prático de segurança, telefones úteis da Defesa Civil capixaba, pontos de alagamento a evitar\n--- Por que performa: Múltiplos trendings sobre chuva e previsão do tempo, necessidade prática dos moradores\n--- Tipo: Serviço"
   },
   "tendencias": [
     {
-      "titulo": "juventus x fiorentina",
-      "trafico": "200+",
-      "contexto": "Assistir a Ao Vivo: Juventus x Fiorentina | Campeonato Italiano (CazéTV)"
-    },
-    {
-      "titulo": "leonardo jardim",
-      "trafico": "200+",
-      "contexto": "Relação do Flamengo com a Copa do Brasil se estremece e pressão por resultados aumenta no segundo se"
-    },
-    {
-      "titulo": "desembargador",
+      "titulo": "especialização",
       "trafico": "100+",
-      "contexto": "UM EX-BRAÇO-DIREITO DE CIRO NOGUEIRA NO FOGARÉU DA REFIT"
+      "contexto": "Fundaj abre inscrições para três novos cursos de especialização gratuitos"
     },
     {
-      "titulo": "campeonato italiano",
+      "titulo": "argentina",
       "trafico": "100+",
-      "contexto": "Pisa x Napoli: onde assistir ao vivo, horário e escalações pela Serie A"
+      "contexto": "Paranaense que desapareceu enquanto esperava esposa fazer compras no Paraguai é encontrado morto em "
     },
     {
-      "titulo": "cuba",
+      "titulo": "previsão",
+      "trafico": "200+",
+      "contexto": "OBSERVAÇÃO - 17/05 16:56 - TEMPORAIS ISOLADOS com RAIOS, RAJADAS DE VENTO e ALAGAMENTOS pontuais nas"
+    },
+    {
+      "titulo": "apresentador de televisão",
+      "trafico": "200+",
+      "contexto": "No banheiro do hotel: Qual apresentador tirou a própria vida aos 61 anos?"
+    },
+    {
+      "titulo": "jornada de trabalho",
+      "trafico": "200+",
+      "contexto": "Governo negocia para aliada relatoria de projeto do fim da 6x1 na Câmara"
+    },
+    {
+      "titulo": "previsão do tempo para hoje",
+      "trafico": "500+",
+      "contexto": "Previsão do tempo para hoje (18 de maio): Pancadas de chuva e trovoadas generalizadas."
+    },
+    {
+      "titulo": "meteorologia",
+      "trafico": "1000+",
+      "contexto": "Frio, risco de geada e chuva forte: veja a previsão do tempo da semana"
+    },
+    {
+      "titulo": "previsao do tempo hoje",
       "trafico": "100+",
-      "contexto": "US ramps up pressure on Cuba with potential Castro indictment following visit by CIA chief"
+      "contexto": "Chuva volta a ganhar força em Salvador nos próximos dias; veja previsão para esta semana (18 a 24 de"
     },
     {
-      "titulo": "motorola",
+      "titulo": "alerta amarelo: chuva intensa",
+      "trafico": "500+",
+      "contexto": "Alerta amarelo: chuva intensa chega ao PI e episódios podem acontecer ao longo da sexta (15)"
+    },
+    {
+      "titulo": "enzo maresca",
       "trafico": "100+",
-      "contexto": "Razr Fold e Copa do Mundo: a estratégia premium da Motorola"
-    },
-    {
-      "titulo": "computer",
-      "trafico": "200+",
-      "contexto": "Gaussian boson sampling with 1,024 squeezed states in 8,176 modes"
-    },
-    {
-      "titulo": "vissel kobe",
-      "trafico": "200+",
-      "contexto": "V-Varen Nagasaki - Vissel Kobe 0 - 0 | COMEÇA O JOGO"
-    },
-    {
-      "titulo": "bradley cooper",
-      "trafico": "200+",
-      "contexto": "&quot;Supercine&quot; exibe filme noir de Del Toro com Bradley Cooper e Cate Blanchett"
-    },
-    {
-      "titulo": "adoção",
-      "trafico": "200+",
-      "contexto": "Teófilo Otoni realiza III Encontro de Pretendentes à Adoção"
+      "contexto": "Maresca reaches &apos;agreement&apos; to replace Guardiola as Man City manager"
     }
   ]
 }
