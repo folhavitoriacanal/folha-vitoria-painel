@@ -1,0 +1,373 @@
+{
+  "dataDisplay": "18/05/2026",
+  "geradoEm": "2026-05-19T09:19:05.035Z",
+  "pvTotal": 324289,
+  "pctMeta": 197,
+  "metaHoje": 164530,
+  "metaAmanha": 152241,
+  "saldoOntem": 159759,
+  "deficitOntem": 0,
+  "metaDiaria": 200000,
+  "metaMensal": 6000000,
+  "usuarios": 140224,
+  "sessions": 185753,
+  "pgsPorSessao": "1.75",
+  "tempoMedio": "2min08s",
+  "pvManha": 97808,
+  "pvTarde": 109523,
+  "pvNoite": 87782,
+  "checkpoints": [
+    {
+      "label": "Até 11h",
+      "pv": 126984,
+      "meta": 60000,
+      "status": "META BATIDA"
+    },
+    {
+      "label": "Até 17h",
+      "pv": 236507,
+      "meta": 130000,
+      "status": "META BATIDA"
+    },
+    {
+      "label": "Até 21h",
+      "pv": 303193,
+      "meta": 164530,
+      "status": "META BATIDA"
+    }
+  ],
+  "producao": {
+    "disponivel": true,
+    "totalPublicadas": 100,
+    "pvPublicadas": 119610,
+    "mediaRealPorMateria": 1196,
+    "materiasComAcesso": 93,
+    "materiasSemAcesso": 7,
+    "pvAntigos": 204679
+  },
+  "topMaterias": [
+    {
+      "pos": 1,
+      "titulo": "Ícone do pop rock dos anos 80 comemora: \"Vivendo de música aos 74\"",
+      "pv": 59869,
+      "publicadaHoje": true
+    },
+    {
+      "pos": 2,
+      "titulo": "Ídolo do Vasco, capixaba Geovani Silva morre aos 62 anos",
+      "pv": 15655,
+      "publicadaHoje": true
+    },
+    {
+      "pos": 3,
+      "titulo": "Veja 12 concursos abertos com vagas no Exército, Samu e MPES",
+      "pv": 8345,
+      "publicadaHoje": false
+    },
+    {
+      "pos": 4,
+      "titulo": "Saiu ao vivo: Quem são os jogadores convocados para Copa 2026",
+      "pv": 8089,
+      "publicadaHoje": true
+    },
+    {
+      "pos": 5,
+      "titulo": "Saiba quem tem prioridade para receber a restituição do IR 2026",
+      "pv": 4942,
+      "publicadaHoje": false
+    }
+  ],
+  "editorias": [
+    {
+      "nome": "social",
+      "pvTotal": 63859,
+      "pvPublicadas": 60173,
+      "publicadas": 2,
+      "urlsAcessadas": 18,
+      "mediaCorreta": 30087
+    },
+    {
+      "nome": "esportes",
+      "pvTotal": 41890,
+      "pvPublicadas": 38586,
+      "publicadas": 26,
+      "urlsAcessadas": 60,
+      "mediaCorreta": 1484
+    },
+    {
+      "nome": "economia",
+      "pvTotal": 18699,
+      "pvPublicadas": 2272,
+      "publicadas": 4,
+      "urlsAcessadas": 27,
+      "mediaCorreta": 568
+    },
+    {
+      "nome": "policia",
+      "pvTotal": 14418,
+      "pvPublicadas": 4600,
+      "publicadas": 8,
+      "urlsAcessadas": 36,
+      "mediaCorreta": 575
+    },
+    {
+      "nome": "trabalho",
+      "pvTotal": 11352,
+      "pvPublicadas": 82,
+      "publicadas": 1,
+      "urlsAcessadas": 19,
+      "mediaCorreta": 82
+    },
+    {
+      "nome": "transito",
+      "pvTotal": 10113,
+      "pvPublicadas": 5113,
+      "publicadas": 6,
+      "urlsAcessadas": 23,
+      "mediaCorreta": 852
+    },
+    {
+      "nome": "cultura",
+      "pvTotal": 10000,
+      "pvPublicadas": 2652,
+      "publicadas": 6,
+      "urlsAcessadas": 52,
+      "mediaCorreta": 442
+    }
+  ],
+  "origens": [
+    {
+      "canal": "Direto",
+      "pv": 175611,
+      "pct": 54
+    },
+    {
+      "canal": "Google Orgânico",
+      "pv": 129635,
+      "pct": 40
+    },
+    {
+      "canal": "Social",
+      "pv": 12211,
+      "pct": 4
+    },
+    {
+      "canal": "Links externos",
+      "pv": 5100,
+      "pct": 2
+    },
+    {
+      "canal": "Não identificado",
+      "pv": 1688,
+      "pct": 1
+    },
+    {
+      "canal": "YouTube",
+      "pv": 23,
+      "pct": 0
+    },
+    {
+      "canal": "E-mail",
+      "pv": 21,
+      "pct": 0
+    }
+  ],
+  "historico": {
+    "mediaMesmoDia": 196499,
+    "varMesmoDia": 65,
+    "media30": 203315,
+    "media30a": 168389,
+    "var30": 21,
+    "pvMesAtualAcum": 4020877,
+    "pvMesAntMesmoPer": 2838814,
+    "varMesAnt": 42,
+    "diasRestantes": 13,
+    "pvFaltaMes": 1979123,
+    "mediaNecessaria": 152241,
+    "mediaMensal": 6856222,
+    "melhorMes": {
+      "mes": "202507",
+      "pv": 13625154,
+      "label": "Jul/25"
+    },
+    "piorMes": {
+      "mes": "202502",
+      "pv": 4527477,
+      "label": "Fev/25"
+    },
+    "mensal": [
+      {
+        "mes": "202501",
+        "pv": 7245874,
+        "label": "Jan/25",
+        "atual": false
+      },
+      {
+        "mes": "202502",
+        "pv": 4527477,
+        "label": "Fev/25",
+        "atual": false
+      },
+      {
+        "mes": "202503",
+        "pv": 5367201,
+        "label": "Mar/25",
+        "atual": false
+      },
+      {
+        "mes": "202504",
+        "pv": 6945113,
+        "label": "Abr/25",
+        "atual": false
+      },
+      {
+        "mes": "202505",
+        "pv": 6591733,
+        "label": "Mai/25",
+        "atual": false
+      },
+      {
+        "mes": "202506",
+        "pv": 11659575,
+        "label": "Jun/25",
+        "atual": false
+      },
+      {
+        "mes": "202507",
+        "pv": 13625154,
+        "label": "Jul/25",
+        "atual": false
+      },
+      {
+        "mes": "202508",
+        "pv": 10001619,
+        "label": "Ago/25",
+        "atual": false
+      },
+      {
+        "mes": "202509",
+        "pv": 6679985,
+        "label": "Set/25",
+        "atual": false
+      },
+      {
+        "mes": "202510",
+        "pv": 5336318,
+        "label": "Out/25",
+        "atual": false
+      },
+      {
+        "mes": "202511",
+        "pv": 4564202,
+        "label": "Nov/25",
+        "atual": false
+      },
+      {
+        "mes": "202512",
+        "pv": 5524739,
+        "label": "Dez/25",
+        "atual": false
+      },
+      {
+        "mes": "202601",
+        "pv": 4978658,
+        "label": "Jan/26",
+        "atual": false
+      },
+      {
+        "mes": "202602",
+        "pv": 6402972,
+        "label": "Fev/26",
+        "atual": false
+      },
+      {
+        "mes": "202603",
+        "pv": 5172054,
+        "label": "Mar/26",
+        "atual": false
+      },
+      {
+        "mes": "202604",
+        "pv": 5076878,
+        "label": "Abr/26",
+        "atual": false
+      },
+      {
+        "mes": "202605",
+        "pv": 4020877,
+        "label": "Mai/26",
+        "atual": true
+      }
+    ]
+  },
+  "analises": {
+    "resumo": "O dia 18/05/2026 registrou 324.289 page views contra meta de 164.530, superando em 197% com resultado positivo de 159.759 PVs. A distribuição de audiência foi equilibrada entre manhã (97.808), tarde (109.523) e noite (87.782), com destaque para o período vespertino. Todas as metas de checkpoint foram batidas ao longo do dia, consolidando um desempenho excepcional. O resultado coloca o portal em posição favorável para alcançar a meta mensal de 6 milhões de page views.",
+    "horarios": ">>> Manhã (6h-11h): 97.808 PVs com checkpoint de 126.984 batendo meta de 60.000 já às 11h\n>>> Tarde (12h-17h): 109.523 PVs foi o período mais forte, levando checkpoint das 17h para 236.507 contra meta de 130.000\n>>> Noite (18h-23h): 87.782 PVs manteve ritmo consistente, garantindo checkpoint final de 303.193 às 21h\n>>> Todos os três checkpoints superaram suas respectivas metas com folga significativa",
+    "padrao": ">>> Conteúdo de celebridades e nostalgia dominou com matéria do ícone pop rock gerando 59.869 PVs\n>>> Obituários de personalidades regionais performaram bem, como caso do ex-jogador capixaba com 15.655 PVs  \n>>> Conteúdo de utilidade pública sobre concursos manteve relevância mesmo sendo matéria antiga\n>>> Esportes com foco em seleção nacional trouxe engajamento sólido com 8.089 PVs",
+    "editorias": ">>> Social liderou com média excepcional de 30.087 PVs por matéria, impulsionada por apenas 2 publicações de alto impacto\n>>> Esportes manteve consistência com 1.484 PVs por matéria em 26 publicações, mostrando volume e qualidade\n>>> Trânsito surpreendeu com 852 PVs por matéria, indicando boa receptividade do público local\n>>> Economia, polícia e cultura ficaram abaixo de 600 PVs por matéria, sinalizando necessidade de otimização",
+    "trafego": ">>> Tráfego direto forte em 54% indica fidelização consolidada da audiência capixaba\n>>> Google orgânico com 40% demonstra boa otimização SEO e descoberta de conteúdo\n>>> Redes sociais com apenas 4% sinaliza potencial subaproveitado para amplificação\n>>> Canais alternativos como YouTube e e-mail praticamente inexistentes, representando oportunidades perdidas",
+    "eficiencia": "A produção de 100 matérias gerou 119.610 PVs com média real de 1.196 PVs por matéria. Das publicações do dia, 93 matérias tiveram acesso registrado enquanto 7 ficaram sem audiência. O restante dos page views (204.679) veio de matérias antigas, demonstrando importante cauda longa do conteúdo.",
+    "erros": ">>> 7 matérias publicadas ontem não geraram nenhum page view, indicando possível problema de indexação ou qualidade\n>>> Editoria de trabalho com apenas 82 PVs em 1 matéria sugere desalinhamento com interesse da audiência\n>>> Baixo aproveitamento das redes sociais deixa potencial de viralização na mesa\n>>> Ausência total de tráfego via e-mail marketing desperdiça base de assinantes",
+    "oportunidades": ">>> Replicar fórmula de sucesso da editoria social em outras áreas, focando em personalidades regionais\n>>> Explorar mais conteúdo nostálgico e de celebridades que demonstrou alta performance\n>>> Intensificar estratégia de redes sociais para amplificar conteúdos de maior potencial\n>>> Desenvolver newsletters segmentadas para reativar canal de e-mail marketing\n>>> Criar mais conteúdo evergreen seguindo modelo dos concursos que continuam gerando tráfego",
+    "acoes": ">>> Produzir ao menos 2 matérias sobre personalidades capixabas ou celebridades para replicar sucesso de hoje\n>>> Implementar checklist pré-publicação para evitar que matérias fiquem sem audiência\n>>> Programar pelo menos 15 posts nas redes sociais destacando principais matérias do dia\n>>> Revisar estratégia da editoria de economia para melhorar média de 568 PVs por matéria\n>>> Monitorar performance até 17h para garantir checkpoint de 152.241 conforme nova meta",
+    "metaacumulada": "A meta de 164.530 foi calculada dividindo o que faltava para a meta mensal pelos dias restantes incluindo ontem. Com o acumulado atual de 4.020.877 de 6.000.000, ainda faltam 1.979.123 page views para bater a meta mensal. A meta de amanhã será 152.241, representando a divisão do valor restante por 13 dias que ainda restam no mês.",
+    "historicodia": ">>> Performance 65% superior à média de 196.499 do mesmo dia da semana nas últimas 8 semanas\n>>> Resultado 59% acima da média de 203.315 dos últimos 30 dias, consolidando tendência positiva\n>>> Superou expectativas baseadas no histórico recente, indicando crescimento sustentável da audiência",
+    "historicomes": ">>> Acumulado mensal 42% superior ao mesmo período do mês anterior, saltando de 2.838.814 para 4.020.877\n>>> Tendência de crescimento de 21% comparando médias de 30 dias confirma trajetória ascendente\n>>> Projeção indica possibilidade real de bater meta mensal mantendo ritmo atual",
+    "tendencia": "A tendência de 30 dias mostra crescimento consistente de 21%, com média atual de 203.315 contra 168.389 do período anterior. O melhor mês da história foi julho/25 com 13.625.154 page views, enquanto o pior foi fevereiro/25 com 4.527.477, demonstrando potencial de crescimento significativo ainda a ser explorado.",
+    "alerta": "\"Apenas 4% do tráfego vem das redes sociais, desperdiçando o maior potencial de crescimento orgânico disponível.\"",
+    "licao": "O dia demonstrou que conteúdo sobre personalidades regionais e celebridades gera engajamento excepcional no público capixaba, especialmente quando combina nostalgia e conexão local. A estratégia de menos matérias com maior impacto na editoria social provou ser mais eficaz que volume sem foco. \"Qualidade editorial direcionada supera quantidade dispersa.\"",
+    "tendencias": ">>> Bolsa Família maio 2026: datas de pagamento e valores atualizados no ES\n--- Editoria: Economia\n--- Ângulo ES: Destacar quantos capixabas recebem o benefício, calendário específico para o ES e onde sacar nos municípios da Grande Vitória\n--- Por que performa: Trending topic \"pagamento\" com 5000+ buscas relacionado ao calendário do Bolsa Família\n--- Tipo: Serviço\n\n>>> Salário mínimo no ES: quando sai o reajuste e como afeta trabalhadores capixabas\n--- Editoria: Economia\n--- Ângulo ES: Impacto do aumento no salário mínimo estadual para trabalhadores do ES, comparação com outros estados e setores mais beneficiados na região\n--- Por que performa: Trending topic \"salário mínimo\" com 2000+ buscas sobre votação de aumento\n--- Tipo: Notícia\n\n>>> Brasileirão Feminino: como acompanhar os jogos de hoje no ES e horários\n--- Editoria: Esportes\n--- Ângulo ES: Onde assistir os jogos do campeonato no ES, bares e locais para torcedores, projetos de futebol feminino no estado\n--- Por que performa: Trending topics \"campeonato brasileiro feminino a1\" e \"brasileiro feminino\" somam 3000+ buscas\n--- Tipo: Serviço\n\n>>> Horóscopo de hoje 19/05: previsões para capixabas nesta segunda-feira\n--- Editoria: Bem Viver\n--- Ângulo ES: Horóscopo personalizado com dicas de locais em Vitória e região metropolitana para cada signo aproveitar o dia\n--- Por que performa: Trending topic \"horóscopo\" com 500+ buscas diárias, tema de alta recorrência\n--- Tipo: Serviço\n\n>>> Rádios online do ES: guia completo para ouvir música e notícias capixabas\n--- Editoria: Cultura\n--- Ângulo ES: Listagem das principais rádios online do Espírito Santo, programação local e como sintonizar pelo celular\n--- Por que performa: Trending topic \"radio online\" indica interesse crescente por conteúdo de rádio digital\n--- Tipo: Lista\n\n>>> Mercado imobiliário no ES: preços sobem e capixabas migram para cidades menores\n--- Editoria: Economia\n--- Ângulo ES: Análise do mercado imobiliário capixaba, valorização em Vitória e migração para Serra, Vila Velha e interior\n--- Por que performa: Trending topic \"real estate\" mostra interesse por mercado imobiliário\n--- Tipo: Análise\n\n>>> Profissões em alta no ES: Python e programação abrem vagas em Vitória\n--- Editoria: Economia\n--- Ângulo ES: Mercado de tecnologia no ES, vagas para programadores Python em empresas capixabas e cursos disponíveis na região\n--- Por que performa: Trending topic \"python\" relacionado a habilidades profissionais em tecnologia\n--- Tipo: Explicativo\n\n>>> Nova coleção Puma chega ao ES: onde encontrar os lançamentos em Vitória\n--- Editoria: Bem Viver\n--- Ângulo ES: Lojas da marca no ES, Shopping Vitória, Vila Velha e Serra, preços e disponibilidade dos novos produtos\n--- Por que performa: Trending topic \"puma\" por lançamento de coleção especial com A$AP Rocky\n--- Tipo: Serviço\n\n>>> Harry Potter e a busca por novos talentos: capixabas podem participar de castings\n--- Editoria: Cultura\n--- Ângulo ES: Como jovens talentos do ES podem participar de seleções para cinema e TV, escolas de teatro em Vitória\n--- Por que performa: Trending topic \"gracie cochrane\" relacionado à nova temporada de Harry Potter\n--- Tipo: Explicativo\n\n>>> PIX, cartão ou dinheiro: qual forma de pagamento os capixabas mais usam\n--- Editoria: Economia\n--- Ângulo ES: Pesquisa sobre hábitos de pagamento no ES, aceitação do PIX no comércio local e preferências dos consumidores capixabas\n--- Por que performa: Trending topic \"pagamento\" com alto volume de buscas sobre métodos de pagamento\n--- Tipo: Análise"
+  },
+  "tendencias": [
+    {
+      "titulo": "campeonato brasileiro feminino a1",
+      "trafico": "1000+",
+      "contexto": "Verdão recebe Botafogo pela décima primeira rodada do Brasileiro Feminino"
+    },
+    {
+      "titulo": "gracie cochrane",
+      "trafico": "200+",
+      "contexto": "&apos;Harry Potter&apos; To Recast Ginny Weasley Role In Season 2 - Exclusive"
+    },
+    {
+      "titulo": "pagamento",
+      "trafico": "5000+",
+      "contexto": "Datas do Bolsa Família em maio de 2026: confira o calendário oficial"
+    },
+    {
+      "titulo": "real estate",
+      "trafico": "100+",
+      "contexto": "1/32 Denison Road, Lewisham, NSW 2049"
+    },
+    {
+      "titulo": "radio online",
+      "trafico": "100+",
+      "contexto": "Seaboard Adds Rich Appel Countdown Show"
+    },
+    {
+      "titulo": "salário mínimo",
+      "trafico": "2000+",
+      "contexto": "Aumento no salário mínimo estadual será votado nesta terça-feira"
+    },
+    {
+      "titulo": "brasileiro feminino",
+      "trafico": "2000+",
+      "contexto": "Corinthians conta com vacilos defensivos e perde para o Cruzeiro no Brasileirão Feminino"
+    },
+    {
+      "titulo": "horóscopo",
+      "trafico": "500+",
+      "contexto": "Horóscopo 2026: confira a previsão de hoje (19/5) para seu signo"
+    },
+    {
+      "titulo": "python",
+      "trafico": "100+",
+      "contexto": "The Hidden Skill Gap: Why Knowing SQL + Python Isn’t Enough Anymore"
+    },
+    {
+      "titulo": "puma",
+      "trafico": "100+",
+      "contexto": "Puma and A$AP Rocky launch 3D printed Mostro mule"
+    }
+  ]
+}
