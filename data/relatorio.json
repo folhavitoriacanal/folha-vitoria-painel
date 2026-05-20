@@ -1,189 +1,189 @@
 {
-  "dataDisplay": "18/05/2026",
-  "geradoEm": "2026-05-19T09:19:05.035Z",
-  "pvTotal": 324289,
-  "pctMeta": 197,
-  "metaHoje": 164530,
-  "metaAmanha": 152241,
-  "saldoOntem": 159759,
+  "dataDisplay": "19/05/2026",
+  "geradoEm": "2026-05-20T16:28:50.151Z",
+  "pvTotal": 245935,
+  "pctMeta": 162,
+  "metaHoje": 152241,
+  "metaAmanha": 144433,
+  "saldoOntem": 93694,
   "deficitOntem": 0,
   "metaDiaria": 200000,
   "metaMensal": 6000000,
-  "usuarios": 140224,
-  "sessions": 185753,
-  "pgsPorSessao": "1.75",
-  "tempoMedio": "2min08s",
-  "pvManha": 97808,
-  "pvTarde": 109523,
-  "pvNoite": 87782,
+  "usuarios": 117833,
+  "sessions": 159159,
+  "pgsPorSessao": "1.55",
+  "tempoMedio": "1min57s",
+  "pvManha": 71912,
+  "pvTarde": 76244,
+  "pvNoite": 62855,
   "checkpoints": [
     {
       "label": "Até 11h",
-      "pv": 126984,
+      "pv": 106836,
       "meta": 60000,
       "status": "META BATIDA"
     },
     {
       "label": "Até 17h",
-      "pv": 236507,
+      "pv": 183080,
       "meta": 130000,
       "status": "META BATIDA"
     },
     {
       "label": "Até 21h",
-      "pv": 303193,
-      "meta": 164530,
+      "pv": 229737,
+      "meta": 152241,
       "status": "META BATIDA"
     }
   ],
   "producao": {
     "disponivel": true,
-    "totalPublicadas": 100,
-    "pvPublicadas": 119610,
-    "mediaRealPorMateria": 1196,
-    "materiasComAcesso": 93,
-    "materiasSemAcesso": 7,
-    "pvAntigos": 204679
+    "totalPublicadas": 97,
+    "pvPublicadas": 43147,
+    "mediaRealPorMateria": 445,
+    "materiasComAcesso": 85,
+    "materiasSemAcesso": 12,
+    "pvAntigos": 202788
   },
   "topMaterias": [
     {
       "pos": 1,
       "titulo": "Ícone do pop rock dos anos 80 comemora: \"Vivendo de música aos 74\"",
-      "pv": 59869,
-      "publicadaHoje": true
+      "pv": 45439,
+      "publicadaHoje": false
     },
     {
       "pos": 2,
-      "titulo": "Ídolo do Vasco, capixaba Geovani Silva morre aos 62 anos",
-      "pv": 15655,
-      "publicadaHoje": true
+      "titulo": "Restituição do Imposto de Renda: veja data de pagamento de lotes",
+      "pv": 8707,
+      "publicadaHoje": false
     },
     {
       "pos": 3,
       "titulo": "Veja 12 concursos abertos com vagas no Exército, Samu e MPES",
-      "pv": 8345,
+      "pv": 6348,
       "publicadaHoje": false
     },
     {
       "pos": 4,
-      "titulo": "Saiu ao vivo: Quem são os jogadores convocados para Copa 2026",
-      "pv": 8089,
-      "publicadaHoje": true
+      "titulo": "Projetos sobre porte de arma avançam para 4 profissões",
+      "pv": 4520,
+      "publicadaHoje": false
     },
     {
       "pos": 5,
-      "titulo": "Saiba quem tem prioridade para receber a restituição do IR 2026",
-      "pv": 4942,
-      "publicadaHoje": false
+      "titulo": "Inmet emite alerta de tempestade e granizo para 54 cidades do ES",
+      "pv": 4367,
+      "publicadaHoje": true
     }
   ],
   "editorias": [
     {
       "nome": "social",
-      "pvTotal": 63859,
-      "pvPublicadas": 60173,
+      "pvTotal": 51441,
+      "pvPublicadas": 1448,
       "publicadas": 2,
-      "urlsAcessadas": 18,
-      "mediaCorreta": 30087
-    },
-    {
-      "nome": "esportes",
-      "pvTotal": 41890,
-      "pvPublicadas": 38586,
-      "publicadas": 26,
-      "urlsAcessadas": 60,
-      "mediaCorreta": 1484
-    },
-    {
-      "nome": "economia",
-      "pvTotal": 18699,
-      "pvPublicadas": 2272,
-      "publicadas": 4,
-      "urlsAcessadas": 27,
-      "mediaCorreta": 568
+      "urlsAcessadas": 15,
+      "mediaCorreta": 724
     },
     {
       "nome": "policia",
-      "pvTotal": 14418,
-      "pvPublicadas": 4600,
-      "publicadas": 8,
-      "urlsAcessadas": 36,
-      "mediaCorreta": 575
+      "pvTotal": 15116,
+      "pvPublicadas": 9800,
+      "publicadas": 7,
+      "urlsAcessadas": 41,
+      "mediaCorreta": 1400
     },
     {
-      "nome": "trabalho",
-      "pvTotal": 11352,
-      "pvPublicadas": 82,
-      "publicadas": 1,
-      "urlsAcessadas": 19,
-      "mediaCorreta": 82
+      "nome": "economia",
+      "pvTotal": 14991,
+      "pvPublicadas": 2423,
+      "publicadas": 11,
+      "urlsAcessadas": 32,
+      "mediaCorreta": 220
     },
     {
-      "nome": "transito",
-      "pvTotal": 10113,
-      "pvPublicadas": 5113,
-      "publicadas": 6,
-      "urlsAcessadas": 23,
-      "mediaCorreta": 852
+      "nome": "esportes",
+      "pvTotal": 13964,
+      "pvPublicadas": 5764,
+      "publicadas": 15,
+      "urlsAcessadas": 54,
+      "mediaCorreta": 384
     },
     {
       "nome": "cultura",
-      "pvTotal": 10000,
-      "pvPublicadas": 2652,
-      "publicadas": 6,
-      "urlsAcessadas": 52,
-      "mediaCorreta": 442
+      "pvTotal": 11363,
+      "pvPublicadas": 3981,
+      "publicadas": 8,
+      "urlsAcessadas": 42,
+      "mediaCorreta": 498
+    },
+    {
+      "nome": "trabalho",
+      "pvTotal": 8885,
+      "pvPublicadas": 416,
+      "publicadas": 3,
+      "urlsAcessadas": 21,
+      "mediaCorreta": 139
+    },
+    {
+      "nome": "politica",
+      "pvTotal": 7971,
+      "pvPublicadas": 1803,
+      "publicadas": 7,
+      "urlsAcessadas": 26,
+      "mediaCorreta": 258
     }
   ],
   "origens": [
     {
       "canal": "Direto",
-      "pv": 175611,
-      "pct": 54
+      "pv": 124747,
+      "pct": 51
     },
     {
       "canal": "Google Orgânico",
-      "pv": 129635,
-      "pct": 40
+      "pv": 103102,
+      "pct": 42
     },
     {
       "canal": "Social",
-      "pv": 12211,
-      "pct": 4
+      "pv": 12430,
+      "pct": 5
     },
     {
       "canal": "Links externos",
-      "pv": 5100,
+      "pv": 4657,
       "pct": 2
     },
     {
       "canal": "Não identificado",
-      "pv": 1688,
-      "pct": 1
+      "pv": 945,
+      "pct": 0
     },
     {
       "canal": "YouTube",
-      "pv": 23,
+      "pv": 47,
       "pct": 0
     },
     {
       "canal": "E-mail",
-      "pv": 21,
+      "pv": 7,
       "pct": 0
     }
   ],
   "historico": {
-    "mediaMesmoDia": 196499,
-    "varMesmoDia": 65,
-    "media30": 203315,
-    "media30a": 168389,
-    "var30": 21,
-    "pvMesAtualAcum": 4020877,
-    "pvMesAntMesmoPer": 2838814,
-    "varMesAnt": 42,
-    "diasRestantes": 13,
-    "pvFaltaMes": 1979123,
-    "mediaNecessaria": 152241,
+    "mediaMesmoDia": 210045,
+    "varMesmoDia": 17,
+    "media30": 211734,
+    "media30a": 156517,
+    "var30": 35,
+    "pvMesAtualAcum": 4266811,
+    "pvMesAntMesmoPer": 2991662,
+    "varMesAnt": 43,
+    "diasRestantes": 12,
+    "pvFaltaMes": 1733189,
+    "mediaNecessaria": 144433,
     "mediaMensal": 6856222,
     "melhorMes": {
       "mes": "202507",
@@ -294,80 +294,75 @@
       },
       {
         "mes": "202605",
-        "pv": 4020877,
+        "pv": 4266811,
         "label": "Mai/26",
         "atual": true
       }
     ]
   },
   "analises": {
-    "resumo": "O dia 18/05/2026 registrou 324.289 page views contra meta de 164.530, superando em 197% com resultado positivo de 159.759 PVs. A distribuição de audiência foi equilibrada entre manhã (97.808), tarde (109.523) e noite (87.782), com destaque para o período vespertino. Todas as metas de checkpoint foram batidas ao longo do dia, consolidando um desempenho excepcional. O resultado coloca o portal em posição favorável para alcançar a meta mensal de 6 milhões de page views.",
-    "horarios": ">>> Manhã (6h-11h): 97.808 PVs com checkpoint de 126.984 batendo meta de 60.000 já às 11h\n>>> Tarde (12h-17h): 109.523 PVs foi o período mais forte, levando checkpoint das 17h para 236.507 contra meta de 130.000\n>>> Noite (18h-23h): 87.782 PVs manteve ritmo consistente, garantindo checkpoint final de 303.193 às 21h\n>>> Todos os três checkpoints superaram suas respectivas metas com folga significativa",
-    "padrao": ">>> Conteúdo de celebridades e nostalgia dominou com matéria do ícone pop rock gerando 59.869 PVs\n>>> Obituários de personalidades regionais performaram bem, como caso do ex-jogador capixaba com 15.655 PVs  \n>>> Conteúdo de utilidade pública sobre concursos manteve relevância mesmo sendo matéria antiga\n>>> Esportes com foco em seleção nacional trouxe engajamento sólido com 8.089 PVs",
-    "editorias": ">>> Social liderou com média excepcional de 30.087 PVs por matéria, impulsionada por apenas 2 publicações de alto impacto\n>>> Esportes manteve consistência com 1.484 PVs por matéria em 26 publicações, mostrando volume e qualidade\n>>> Trânsito surpreendeu com 852 PVs por matéria, indicando boa receptividade do público local\n>>> Economia, polícia e cultura ficaram abaixo de 600 PVs por matéria, sinalizando necessidade de otimização",
-    "trafego": ">>> Tráfego direto forte em 54% indica fidelização consolidada da audiência capixaba\n>>> Google orgânico com 40% demonstra boa otimização SEO e descoberta de conteúdo\n>>> Redes sociais com apenas 4% sinaliza potencial subaproveitado para amplificação\n>>> Canais alternativos como YouTube e e-mail praticamente inexistentes, representando oportunidades perdidas",
-    "eficiencia": "A produção de 100 matérias gerou 119.610 PVs com média real de 1.196 PVs por matéria. Das publicações do dia, 93 matérias tiveram acesso registrado enquanto 7 ficaram sem audiência. O restante dos page views (204.679) veio de matérias antigas, demonstrando importante cauda longa do conteúdo.",
-    "erros": ">>> 7 matérias publicadas ontem não geraram nenhum page view, indicando possível problema de indexação ou qualidade\n>>> Editoria de trabalho com apenas 82 PVs em 1 matéria sugere desalinhamento com interesse da audiência\n>>> Baixo aproveitamento das redes sociais deixa potencial de viralização na mesa\n>>> Ausência total de tráfego via e-mail marketing desperdiça base de assinantes",
-    "oportunidades": ">>> Replicar fórmula de sucesso da editoria social em outras áreas, focando em personalidades regionais\n>>> Explorar mais conteúdo nostálgico e de celebridades que demonstrou alta performance\n>>> Intensificar estratégia de redes sociais para amplificar conteúdos de maior potencial\n>>> Desenvolver newsletters segmentadas para reativar canal de e-mail marketing\n>>> Criar mais conteúdo evergreen seguindo modelo dos concursos que continuam gerando tráfego",
-    "acoes": ">>> Produzir ao menos 2 matérias sobre personalidades capixabas ou celebridades para replicar sucesso de hoje\n>>> Implementar checklist pré-publicação para evitar que matérias fiquem sem audiência\n>>> Programar pelo menos 15 posts nas redes sociais destacando principais matérias do dia\n>>> Revisar estratégia da editoria de economia para melhorar média de 568 PVs por matéria\n>>> Monitorar performance até 17h para garantir checkpoint de 152.241 conforme nova meta",
-    "metaacumulada": "A meta de 164.530 foi calculada dividindo o que faltava para a meta mensal pelos dias restantes incluindo ontem. Com o acumulado atual de 4.020.877 de 6.000.000, ainda faltam 1.979.123 page views para bater a meta mensal. A meta de amanhã será 152.241, representando a divisão do valor restante por 13 dias que ainda restam no mês.",
-    "historicodia": ">>> Performance 65% superior à média de 196.499 do mesmo dia da semana nas últimas 8 semanas\n>>> Resultado 59% acima da média de 203.315 dos últimos 30 dias, consolidando tendência positiva\n>>> Superou expectativas baseadas no histórico recente, indicando crescimento sustentável da audiência",
-    "historicomes": ">>> Acumulado mensal 42% superior ao mesmo período do mês anterior, saltando de 2.838.814 para 4.020.877\n>>> Tendência de crescimento de 21% comparando médias de 30 dias confirma trajetória ascendente\n>>> Projeção indica possibilidade real de bater meta mensal mantendo ritmo atual",
-    "tendencia": "A tendência de 30 dias mostra crescimento consistente de 21%, com média atual de 203.315 contra 168.389 do período anterior. O melhor mês da história foi julho/25 com 13.625.154 page views, enquanto o pior foi fevereiro/25 com 4.527.477, demonstrando potencial de crescimento significativo ainda a ser explorado.",
-    "alerta": "\"Apenas 4% do tráfego vem das redes sociais, desperdiçando o maior potencial de crescimento orgânico disponível.\"",
-    "licao": "O dia demonstrou que conteúdo sobre personalidades regionais e celebridades gera engajamento excepcional no público capixaba, especialmente quando combina nostalgia e conexão local. A estratégia de menos matérias com maior impacto na editoria social provou ser mais eficaz que volume sem foco. \"Qualidade editorial direcionada supera quantidade dispersa.\"",
-    "tendencias": ">>> Bolsa Família maio 2026: datas de pagamento e valores atualizados no ES\n--- Editoria: Economia\n--- Ângulo ES: Destacar quantos capixabas recebem o benefício, calendário específico para o ES e onde sacar nos municípios da Grande Vitória\n--- Por que performa: Trending topic \"pagamento\" com 5000+ buscas relacionado ao calendário do Bolsa Família\n--- Tipo: Serviço\n\n>>> Salário mínimo no ES: quando sai o reajuste e como afeta trabalhadores capixabas\n--- Editoria: Economia\n--- Ângulo ES: Impacto do aumento no salário mínimo estadual para trabalhadores do ES, comparação com outros estados e setores mais beneficiados na região\n--- Por que performa: Trending topic \"salário mínimo\" com 2000+ buscas sobre votação de aumento\n--- Tipo: Notícia\n\n>>> Brasileirão Feminino: como acompanhar os jogos de hoje no ES e horários\n--- Editoria: Esportes\n--- Ângulo ES: Onde assistir os jogos do campeonato no ES, bares e locais para torcedores, projetos de futebol feminino no estado\n--- Por que performa: Trending topics \"campeonato brasileiro feminino a1\" e \"brasileiro feminino\" somam 3000+ buscas\n--- Tipo: Serviço\n\n>>> Horóscopo de hoje 19/05: previsões para capixabas nesta segunda-feira\n--- Editoria: Bem Viver\n--- Ângulo ES: Horóscopo personalizado com dicas de locais em Vitória e região metropolitana para cada signo aproveitar o dia\n--- Por que performa: Trending topic \"horóscopo\" com 500+ buscas diárias, tema de alta recorrência\n--- Tipo: Serviço\n\n>>> Rádios online do ES: guia completo para ouvir música e notícias capixabas\n--- Editoria: Cultura\n--- Ângulo ES: Listagem das principais rádios online do Espírito Santo, programação local e como sintonizar pelo celular\n--- Por que performa: Trending topic \"radio online\" indica interesse crescente por conteúdo de rádio digital\n--- Tipo: Lista\n\n>>> Mercado imobiliário no ES: preços sobem e capixabas migram para cidades menores\n--- Editoria: Economia\n--- Ângulo ES: Análise do mercado imobiliário capixaba, valorização em Vitória e migração para Serra, Vila Velha e interior\n--- Por que performa: Trending topic \"real estate\" mostra interesse por mercado imobiliário\n--- Tipo: Análise\n\n>>> Profissões em alta no ES: Python e programação abrem vagas em Vitória\n--- Editoria: Economia\n--- Ângulo ES: Mercado de tecnologia no ES, vagas para programadores Python em empresas capixabas e cursos disponíveis na região\n--- Por que performa: Trending topic \"python\" relacionado a habilidades profissionais em tecnologia\n--- Tipo: Explicativo\n\n>>> Nova coleção Puma chega ao ES: onde encontrar os lançamentos em Vitória\n--- Editoria: Bem Viver\n--- Ângulo ES: Lojas da marca no ES, Shopping Vitória, Vila Velha e Serra, preços e disponibilidade dos novos produtos\n--- Por que performa: Trending topic \"puma\" por lançamento de coleção especial com A$AP Rocky\n--- Tipo: Serviço\n\n>>> Harry Potter e a busca por novos talentos: capixabas podem participar de castings\n--- Editoria: Cultura\n--- Ângulo ES: Como jovens talentos do ES podem participar de seleções para cinema e TV, escolas de teatro em Vitória\n--- Por que performa: Trending topic \"gracie cochrane\" relacionado à nova temporada de Harry Potter\n--- Tipo: Explicativo\n\n>>> PIX, cartão ou dinheiro: qual forma de pagamento os capixabas mais usam\n--- Editoria: Economia\n--- Ângulo ES: Pesquisa sobre hábitos de pagamento no ES, aceitação do PIX no comércio local e preferências dos consumidores capixabas\n--- Por que performa: Trending topic \"pagamento\" com alto volume de buscas sobre métodos de pagamento\n--- Tipo: Análise"
+    "resumo": "O Folha Vitória registrou 245.935 pageviews em 19/05/2026, superando em 162% a meta dinâmica de 152.241 PVs. A performance foi consistente ao longo do dia, com picos na tarde (76.244 PVs) e forte resultado na manhã (71.912 PVs). Todas as metas de checkpoint foram batidas, demonstrando regularidade na audiência. O resultado consolida a trajetória positiva do mês, aproximando o portal da meta mensal de 6 milhões.",
+    "horarios": ">>> Manhã (6h-11h): 71.912 PVs com checkpoint de 106.836 até 11h, batendo meta de 60.000\n>>> Tarde (12h-17h): 76.244 PVs, melhor período do dia, com checkpoint acumulado de 183.080 superando meta de 130.000\n>>> Noite (18h-23h): 62.855 PVs mantendo ritmo consistente\n>>> Checkpoint final até 21h: 229.737 PVs contra meta de 152.241, garantindo folga para o fechamento do dia",
+    "padrao": ">>> Matérias de arquivo dominam o top 5, com destaque para conteúdo evergreen sobre música e impostos\n>>> Apenas uma matéria do dia (alerta do Inmet) entre as mais acessadas, evidenciando força do catálogo histórico\n>>> Temas de utilidade pública (IR, concursos, armas) mantêm relevância duradoura\n>>> Conteúdo de emergência climática consegue furar a bolha das matérias antigas",
+    "editorias": ">>> Polícia lidera em eficiência com 1.400 PVs por matéria nova, demonstrando alta demanda por segurança pública\n>>> Social alcança 724 PVs por matéria apesar de apenas 2 publicações, indicando qualidade editorial\n>>> Cultura mantém média sólida de 498 PVs por conteúdo com 8 matérias publicadas\n>>> Esportes com 384 PVs por matéria mostra consistência mesmo com 15 publicações\n>>> Economia, política e trabalho apresentam médias baixas, sinalizando necessidade de revisão de pauta",
+    "trafego": ">>> Tráfego direto forte (51%) indica fidelização da audiência e força da marca\n>>> Google orgânico com 42% demonstra boa otimização SEO e descoberta de conteúdo\n>>> Redes sociais em apenas 5% revelam oportunidade de crescimento em engajamento\n>>> Tráfego de referência baixo (2%) sugere potencial para parcerias e menções externas",
+    "eficiencia": "A média real de 445 PVs por matéria nova reflete produção equilibrada, com 85 das 97 matérias gerando tráfego. Apenas 12 matérias não registraram acessos, indicando assertividade editorial de 87% na produção diária.",
+    "erros": ">>> 12 matérias sem nenhum acesso representam esforço editorial desperdiçado\n>>> Economia com média de apenas 220 PVs por matéria indica desalinhamento com interesse do público\n>>> Baixo engajamento em redes sociais (5%) desperdiça potencial de viralização\n>>> Política com 258 PVs de média sinaliza necessidade de abordagem mais atrativa",
+    "oportunidades": ">>> Expandir cobertura de utilidade pública seguindo sucesso de IR e concursos\n>>> Intensificar distribuição em redes sociais para amplificar alcance\n>>> Replicar formato de alertas meteorológicos que conseguiu destaque entre matérias antigas\n>>> Desenvolver mais conteúdo evergreen que mantenha relevância ao longo do tempo\n>>> Otimizar pautas de economia e política com enfoque mais próximo do cidadão comum",
+    "acoes": ">>> Priorizar pautas de utilidade pública e serviços para replicar sucesso do padrão top 5\n>>> Intensificar postagens em redes sociais para elevar os 5% de tráfego social\n>>> Focar em conteúdo local sobre clima e emergências, aproveitando interesse demonstrado\n>>> Revisar estratégia de economia e política para aumentar média de PVs por matéria\n>>> Manter ritmo de produção policial que demonstra maior eficiência (1.400 PVs/matéria)",
+    "metaacumulada": "A meta dinâmica de 152.241 foi calculada dividindo-se o restante para atingir 6 milhões (1.733.189) pelos 12 dias restantes no mês. Com o resultado de hoje, a meta de amanhã cai para 144.433 PVs, representando o novo patamar diário necessário. O acumulado de 4.266.811 representa 71% da meta mensal, deixando apenas 29% para os dias finais.",
+    "historicodia": ">>> Performance 17% superior à média do mesmo dia da semana (210.045), demonstrando crescimento consistente\n>>> Resultado 16% acima da média dos últimos 30 dias (211.734), confirmando momento positivo",
+    "historicomes": ">>> Acumulado mensal 43% superior ao mesmo período do mês anterior (2.991.662 vs 4.266.811)\n>>> Projeção de fechamento em aproximadamente 6.2 milhões caso mantenha ritmo atual",
+    "tendencia": "A tendência dos últimos 30 dias mostra crescimento de 35% comparado ao período anterior, consolidando recuperação consistente. O melhor mês histórico foi julho/25 com 13.6 milhões, enquanto o pior foi fevereiro/25 com 4.5 milhões, mostrando potencial de crescimento ainda inexplorado.",
+    "alerta": "\"A baixíssima participação das redes sociais (5%) representa uma sangria de audiência potencial que precisa ser estancada imediatamente.\"",
+    "licao": "O dia demonstra que a força do Folha Vitória está na combinação entre conteúdo evergreen de qualidade e cobertura assertiva do noticiário local emergencial. O segredo não está apenas em produzir muito, mas em criar conteúdo que mantenha relevância ao longo do tempo, como evidenciam as 4 matérias antigas no top 5. \"Audiência sustentável se constrói com conteúdo que envelhece bem.\"",
+    "tendencias": ">>> Guardas municipais do ES podem ter benefícios ampliados como em São Gonçalo\n--- Editoria: Política\n--- Ângulo ES: Comparar os estatutos dos guardas municipais de Vitória, Vila Velha e Serra com as novas conquistas em São Gonçalo, ouvir sindicalistas locais\n--- Por que performa: Trending topic \"guarda municipal\" com 200+ buscas sobre ampliação de benefícios\n--- Tipo: Notícia\n\n>>> José Mourinho no Real Madrid: relembre quando o técnico quase treinou no Vila Nova-ES\n--- Editoria: Esportes\n--- Ângulo ES: Resgatar a história curiosa de quando empresários capixabas tentaram trazer Mourinho para o futebol local nos anos 2000\n--- Por que performa: \"José Mourinho\" está em alta com 200+ buscas sobre possível retorno ao Real Madrid\n--- Tipo: Notícia\n\n>>> Itaúsa dispara: como capixabas podem investir na holding que supera o próprio Itaú\n--- Editoria: Economia\n--- Ângulo ES: Explicar para investidores locais as diferenças entre ITSA4 e ITUB4, com dicas de corretoras que atuam no ES\n--- Por que performa: \"Itaúsa\" tem 200+ buscas devido ao desempenho superior ao Itaú no mercado\n--- Tipo: Explicativo\n\n>>> Onde comprar ingressos para Brasil x EUA feminino: pontos de venda no ES\n--- Editoria: Esportes\n--- Ângulo ES: Listar casas lotéricas, pontos da bilheteria digital e locais em Vitória e interior onde torcedores podem adquirir ingressos\n--- Por que performa: \"Bilheteria digital brasil x eua\" tem 200+ buscas com convocação da seleção feminina\n--- Tipo: Serviço\n\n>>> Tenistas capixabas se inspiram em Alex de Minaur rumo ao ranking ATP\n--- Editoria: Esportes\n--- Ângulo ES: Mostrar jovens tenistas do ES que sonham chegar ao circuito profissional, clubes de tênis locais e torneios estaduais\n--- Por que performa: \"Alex de Minaur\" está em alta com 200+ buscas por sua participação no ATP Hamburg\n--- Tipo: Notícia\n\n>>> Roland Garros 2026: como assistir em Vitória e programação completa\n--- Editoria: Esportes\n--- Ângulo ES: Guia para torcedores capixabas com bares e restaurantes em Vitória que transmitem tênis, horários considerando fuso brasileiro\n--- Por que performa: \"Torneio de roland garros\" gera 200+ buscas sobre calendário e transmissão\n--- Tipo: Serviço\n\n>>> iPhone 17 chegará ao ES custando mais de R$ 10 mil, preveem especialistas\n--- Editoria: Tecnologia\n--- Ângulo ES: Projeção de preços nas lojas capixabas, comparar com salário médio local e impacto dos impostos estaduais\n--- Por que performa: \"iPhone 17\" explode com 2000+ buscas sobre preço e lançamento em 2026\n--- Tipo: Análise\n\n>>> BBB 26: capixabas já enviam vídeos para seleção do reality\n--- Editoria: Entretenimento\n--- Ângulo ES: Encontrar candidatos do ES que estão se inscrevendo, relembrar participantes capixabas em edições anteriores\n--- Por que performa: \"Big Brother Brasil 26\" tem 1000+ buscas com expectativa para nova temporada\n--- Tipo: Notícia\n\n>>> Rafa Kalimann em Cannes inspira influencers capixabas a investir em moda\n--- Editoria: Entretenimento\n--- Ângulo ES: Ouvir influenciadores e stylists do ES sobre tendências, lojas locais que vendem looks inspirados em red carpet\n--- Por que performa: \"Rafa Kalimann\" registra 1000+ buscas após look no Festival de Cannes\n--- Tipo: Lista\n\n>>> Ana Paula Renault emociona: psicólogos do ES explicam importância de falar sobre traumas\n--- Editoria: Bem-estar\n--- Ângulo ES: Profissionais de psicologia de Vitória comentam a importância do depoimento público, indicar centros de apoio no ES\n--- Por que performa: Ligado ao trending \"Big Brother Brasil 26\" e depoimentos emocionantes de ex-participantes\n--- Tipo: Explicativo"
   },
   "tendencias": [
     {
-      "titulo": "campeonato brasileiro feminino a1",
-      "trafico": "1000+",
-      "contexto": "Verdão recebe Botafogo pela décima primeira rodada do Brasileiro Feminino"
-    },
-    {
-      "titulo": "gracie cochrane",
+      "titulo": "guarda municipal",
       "trafico": "200+",
-      "contexto": "&apos;Harry Potter&apos; To Recast Ginny Weasley Role In Season 2 - Exclusive"
+      "contexto": "São Gonçalo amplia benefícios para Guarda Municipal em novo estatuto encaminhado à Câmara"
     },
     {
-      "titulo": "pagamento",
-      "trafico": "5000+",
-      "contexto": "Datas do Bolsa Família em maio de 2026: confira o calendário oficial"
+      "titulo": "josé mourinho",
+      "trafico": "200+",
+      "contexto": "Mourinho é esperado em Madri na próxima semana e pode fechar contrato com o Real até 2029"
     },
     {
-      "titulo": "real estate",
-      "trafico": "100+",
-      "contexto": "1/32 Denison Road, Lewisham, NSW 2049"
+      "titulo": "itaúsa",
+      "trafico": "200+",
+      "contexto": "Itaúsa (ITSA4) cansou de andar atrás do Itaú (ITUB4) – e agora o mercado percebe uma vantagem"
     },
     {
-      "titulo": "radio online",
-      "trafico": "100+",
-      "contexto": "Seaboard Adds Rich Appel Countdown Show"
+      "titulo": "bilheteria digital brasil x eua",
+      "trafico": "200+",
+      "contexto": "Com retorno de Marta e novidades da base, Arthur Elias convoca seleção feminina"
     },
     {
-      "titulo": "salário mínimo",
+      "titulo": "alex de minaur",
+      "trafico": "200+",
+      "contexto": "ATP Hamburg Day 4 Predictions Including Alex de Minaur vs Alejandro Davidovich Fokina"
+    },
+    {
+      "titulo": "torneio de roland garros",
+      "trafico": "200+",
+      "contexto": "Roland Garros 2026: Veja onde assistir ao torneio e calendário de jogos"
+    },
+    {
+      "titulo": "iphone 17",
       "trafico": "2000+",
-      "contexto": "Aumento no salário mínimo estadual será votado nesta terça-feira"
+      "contexto": "Quanto vale a pena pagar no iPhone 17 Pro em maio de 2026?"
     },
     {
-      "titulo": "brasileiro feminino",
-      "trafico": "2000+",
-      "contexto": "Corinthians conta com vacilos defensivos e perde para o Cruzeiro no Brasileirão Feminino"
+      "titulo": "big brother brasil 26",
+      "trafico": "1000+",
+      "contexto": "Ana Paula Renault dá depoimento emocionante em Quem Ama Cuida; reveja"
     },
     {
-      "titulo": "horóscopo",
-      "trafico": "500+",
-      "contexto": "Horóscopo 2026: confira a previsão de hoje (19/5) para seu signo"
-    },
-    {
-      "titulo": "python",
-      "trafico": "100+",
-      "contexto": "The Hidden Skill Gap: Why Knowing SQL + Python Isn’t Enough Anymore"
-    },
-    {
-      "titulo": "puma",
-      "trafico": "100+",
-      "contexto": "Puma and A$AP Rocky launch 3D printed Mostro mule"
+      "titulo": "rafa kalimann",
+      "trafico": "1000+",
+      "contexto": "Rafa Kalimann chega ao tapete vermelho do Festival de Cannes com look deslumbrante"
     }
   ]
 }
