@@ -1,0 +1,378 @@
+{
+  "dataDisplay": "22/05/2026",
+  "geradoEm": "2026-05-23T09:19:04.815Z",
+  "pvTotal": 154486,
+  "pctMeta": 117,
+  "metaHoje": 132421,
+  "metaAmanha": 129969,
+  "saldoOntem": 22065,
+  "deficitOntem": 0,
+  "metaDiaria": 200000,
+  "metaMensal": 6000000,
+  "usuarios": 64565,
+  "sessions": 95256,
+  "pgsPorSessao": "1.62",
+  "tempoMedio": "2min47s",
+  "pvManha": 50264,
+  "pvTarde": 52848,
+  "pvNoite": 38039,
+  "checkpoints": [
+    {
+      "label": "Até 11h",
+      "pv": 63599,
+      "meta": 60000,
+      "status": "META BATIDA"
+    },
+    {
+      "label": "Até 17h",
+      "pv": 116447,
+      "meta": 130000,
+      "status": "PERTO DA META"
+    },
+    {
+      "label": "Até 21h",
+      "pv": 145426,
+      "meta": 132421,
+      "status": "META BATIDA"
+    }
+  ],
+  "producao": {
+    "disponivel": true,
+    "totalPublicadas": 102,
+    "pvPublicadas": 35800,
+    "mediaRealPorMateria": 351,
+    "materiasComAcesso": 87,
+    "materiasSemAcesso": 15,
+    "pvAntigos": 118686
+  },
+  "topMaterias": [
+    {
+      "pos": 1,
+      "titulo": "10 dicas para fazer as unhas em casa e deixá-las perfeitas",
+      "pv": 9592,
+      "publicadaHoje": false
+    },
+    {
+      "pos": 2,
+      "titulo": "Neymar pode ser cortado da Copa do Mundo? Entenda",
+      "pv": 3632,
+      "publicadaHoje": true
+    },
+    {
+      "pos": 3,
+      "titulo": "Comerciante do ES cai no golpe do álbum de figurinhas da Copa",
+      "pv": 2696,
+      "publicadaHoje": true
+    },
+    {
+      "pos": 4,
+      "titulo": "Restituição do Imposto de Renda: veja data de pagamento de lotes",
+      "pv": 2655,
+      "publicadaHoje": false
+    },
+    {
+      "pos": 5,
+      "titulo": "Veja como embarcar no ônibus do Transcol fora do terminal sem pagar outra passagem",
+      "pv": 2204,
+      "publicadaHoje": false
+    }
+  ],
+  "editorias": [
+    {
+      "nome": "beleza",
+      "pvTotal": 12492,
+      "pvPublicadas": 0,
+      "publicadas": 3,
+      "urlsAcessadas": 14,
+      "mediaCorreta": 0
+    },
+    {
+      "nome": "policia",
+      "pvTotal": 11349,
+      "pvPublicadas": 8119,
+      "publicadas": 9,
+      "urlsAcessadas": 46,
+      "mediaCorreta": 902
+    },
+    {
+      "nome": "politica",
+      "pvTotal": 10067,
+      "pvPublicadas": 8217,
+      "publicadas": 8,
+      "urlsAcessadas": 30,
+      "mediaCorreta": 1027
+    },
+    {
+      "nome": "economia",
+      "pvTotal": 9220,
+      "pvPublicadas": 4183,
+      "publicadas": 10,
+      "urlsAcessadas": 42,
+      "mediaCorreta": 418
+    },
+    {
+      "nome": "cultura",
+      "pvTotal": 6977,
+      "pvPublicadas": 1065,
+      "publicadas": 10,
+      "urlsAcessadas": 51,
+      "mediaCorreta": 107
+    },
+    {
+      "nome": "esportes",
+      "pvTotal": 6610,
+      "pvPublicadas": 4810,
+      "publicadas": 8,
+      "urlsAcessadas": 31,
+      "mediaCorreta": 601
+    },
+    {
+      "nome": "cotidiano",
+      "pvTotal": 4913,
+      "pvPublicadas": 517,
+      "publicadas": 6,
+      "urlsAcessadas": 35,
+      "mediaCorreta": 86
+    }
+  ],
+  "origens": [
+    {
+      "canal": "Google Orgânico",
+      "pv": 77421,
+      "pct": 50
+    },
+    {
+      "canal": "Direto",
+      "pv": 63825,
+      "pct": 41
+    },
+    {
+      "canal": "Social",
+      "pv": 8583,
+      "pct": 6
+    },
+    {
+      "canal": "Links externos",
+      "pv": 3689,
+      "pct": 2
+    },
+    {
+      "canal": "Não identificado",
+      "pv": 873,
+      "pct": 1
+    },
+    {
+      "canal": "E-mail",
+      "pv": 55,
+      "pct": 0
+    },
+    {
+      "canal": "YouTube",
+      "pv": 39,
+      "pct": 0
+    },
+    {
+      "canal": "Mobile Push Notifications",
+      "pv": 1,
+      "pct": 0
+    }
+  ],
+  "historico": {
+    "mediaMesmoDia": 183052,
+    "varMesmoDia": -16,
+    "media30": 213564,
+    "media30a": 158617,
+    "var30": 35,
+    "pvMesAtualAcum": 4830284,
+    "pvMesAntMesmoPer": 3506337,
+    "varMesAnt": 38,
+    "diasRestantes": 9,
+    "pvFaltaMes": 1169716,
+    "mediaNecessaria": 129969,
+    "mediaMensal": 6856222,
+    "melhorMes": {
+      "mes": "202507",
+      "pv": 13625154,
+      "label": "Jul/25"
+    },
+    "piorMes": {
+      "mes": "202502",
+      "pv": 4527477,
+      "label": "Fev/25"
+    },
+    "mensal": [
+      {
+        "mes": "202501",
+        "pv": 7245874,
+        "label": "Jan/25",
+        "atual": false
+      },
+      {
+        "mes": "202502",
+        "pv": 4527477,
+        "label": "Fev/25",
+        "atual": false
+      },
+      {
+        "mes": "202503",
+        "pv": 5367201,
+        "label": "Mar/25",
+        "atual": false
+      },
+      {
+        "mes": "202504",
+        "pv": 6945113,
+        "label": "Abr/25",
+        "atual": false
+      },
+      {
+        "mes": "202505",
+        "pv": 6591733,
+        "label": "Mai/25",
+        "atual": false
+      },
+      {
+        "mes": "202506",
+        "pv": 11659575,
+        "label": "Jun/25",
+        "atual": false
+      },
+      {
+        "mes": "202507",
+        "pv": 13625154,
+        "label": "Jul/25",
+        "atual": false
+      },
+      {
+        "mes": "202508",
+        "pv": 10001619,
+        "label": "Ago/25",
+        "atual": false
+      },
+      {
+        "mes": "202509",
+        "pv": 6679985,
+        "label": "Set/25",
+        "atual": false
+      },
+      {
+        "mes": "202510",
+        "pv": 5336318,
+        "label": "Out/25",
+        "atual": false
+      },
+      {
+        "mes": "202511",
+        "pv": 4564202,
+        "label": "Nov/25",
+        "atual": false
+      },
+      {
+        "mes": "202512",
+        "pv": 5524739,
+        "label": "Dez/25",
+        "atual": false
+      },
+      {
+        "mes": "202601",
+        "pv": 4978658,
+        "label": "Jan/26",
+        "atual": false
+      },
+      {
+        "mes": "202602",
+        "pv": 6402972,
+        "label": "Fev/26",
+        "atual": false
+      },
+      {
+        "mes": "202603",
+        "pv": 5172054,
+        "label": "Mar/26",
+        "atual": false
+      },
+      {
+        "mes": "202604",
+        "pv": 5076878,
+        "label": "Abr/26",
+        "atual": false
+      },
+      {
+        "mes": "202605",
+        "pv": 4830284,
+        "label": "Mai/26",
+        "atual": true
+      }
+    ]
+  },
+  "analises": {
+    "resumo": "Superamos a meta do dia com 154.486 PVs contra 132.421 esperados, alcançando 117% da meta diária. A manhã apresentou forte performance com 50.264 PVs, seguida pela tarde com 52.848 PVs, enquanto a noite registrou 38.039 PVs. Estamos com 4.830.284 PVs acumulados no mês, faltando 1.169.716 para atingir a meta mensal de 6 milhões. O resultado representa crescimento de 38% comparado ao mesmo período do mês anterior.",
+    "horarios": ">>> Manhã dominou com 50.264 PVs, garantindo que batêssemos a meta das 11h (63.599 vs 60.000)\n>>> Tarde manteve ritmo forte com 52.848 PVs, mas ficamos próximos da meta das 17h (116.447 vs 130.000)\n>>> Noite recuperou o déficit com 38.039 PVs, permitindo bater a meta final às 21h (145.426 vs 132.421)\n>>> Distribuição equilibrada entre manhã e tarde evidencia engajamento consistente ao longo do dia",
+    "padrao": ">>> Conteúdo de beleza e tutoriais dominam com matéria de unhas liderando (9.592 PVs)\n>>> Esportes nacionais geram alto engajamento, especialmente Copa do Mundo (3.632 PVs)\n>>> Pautas de serviço público capilares mantêm audiência estável (Transcol e Imposto de Renda)\n>>> Segurança pública local ressoa com os leitores (golpe das figurinhas com 2.696 PVs)",
+    "editorias": ">>> Política lidera eficiência com média de 1.027 PVs por matéria em 8 publicações\n>>> Polícia mantém performance sólida com 902 PVs de média em 9 matérias\n>>> Esportes atinge 601 PVs por matéria com destaque para pauta da Copa\n>>> Economia apresenta média moderada de 418 PVs em 10 matérias publicadas\n>>> Cultura precisa de atenção com apenas 107 PVs de média apesar de 10 publicações\n>>> Cotidiano demanda revisão estratégica com média crítica de 86 PVs por matéria",
+    "trafego": ">>> Google Orgânico consolida posição dominante com 50% do tráfego (77.421 PVs)\n>>> Audiência direta representa 41% (63.825 PVs), demonstrando forte fidelização\n>>> Redes sociais contribuem com apenas 6% (8.583 PVs), indicando potencial de crescimento\n>>> Links externos somam 2% (3.689 PVs), sugerindo necessidade de parcerias estratégicas\n>>> Push notifications praticamente inexistente (1 PV) demanda ativação urgente",
+    "eficiencia": "Publicamos 102 matérias que geraram 35.800 PVs, resultando em média real de 351 PVs por matéria. Das 102 publicações, 15 não receberam nenhum acesso, representando 15% de taxa de insucesso. O restante do tráfego (118.686 PVs) veio de matérias de dias anteriores, evidenciando a importância do acervo histórico.",
+    "erros": ">>> Beleza publicou 3 matérias sem gerar nenhum PV, desperdiçando recursos editoriais\n>>> 15 matérias ficaram sem acesso, indicando problemas de título, timing ou relevância\n>>> Push notifications subutilizado com apenas 1 PV gerado\n>>> Redes sociais representam apenas 6% do tráfego, muito abaixo do potencial",
+    "oportunidades": ">>> Intensificar produção de tutoriais e conteúdo de beleza, seguindo sucesso das unhas\n>>> Explorar mais pautas de Copa do Mundo com Neymar gerando forte engajamento\n>>> Desenvolver série sobre golpes financeiros, aproveitando interesse do público local\n>>> Criar mais conteúdo de serviço público estilo Transcol e Imposto de Renda\n>>> Investir em parcerias para aumentar tráfego de referência além dos atuais 2%",
+    "acoes": ">>> Programar 5 matérias de beleza e tutoriais para manhã, replicando sucesso das unhas\n>>> Produzir follow-up da pauta Neymar Copa com desdobramentos e análises\n>>> Ativar push notifications para top 3 matérias do dia visando Meta de 129.969 PVs\n>>> Revisar títulos das matérias de cultura e cotidiano antes da publicação\n>>> Intensificar promoção nas redes sociais com meta de dobrar participação para 12%",
+    "metaacumulada": "A meta de amanhã de 129.969 PVs foi calculada dividindo-se os 1.169.716 PVs restantes para a meta mensal pelos 9 dias que faltam no mês. Esta meta dinâmica se ajusta diariamente conforme nosso desempenho, ficando mais desafiadora quando superamos as expectativas. Para atingir os 6 milhões mensais, precisamos manter média próxima a 130 mil PVs diários até o fim do mês.",
+    "historicodia": ">>> Performance 16% abaixo da média de quinta-feira das últimas 8 semanas (183.052 PVs)\n>>> Resultado significativamente abaixo da média dos últimos 30 dias (213.564 PVs)\n>>> Crescimento expressivo de 35% comparado à média dos 30 dias anteriores\n>>> Indica recuperação de audiência após período de baixa performance",
+    "historicomes": ">>> Acumulado mensal 38% superior ao mesmo período do mês anterior (4.830.284 vs 3.506.337)\n>>> Ritmo atual projeta fechamento em 5.367.093 PVs, ainda abaixo da meta de 6 milhões\n>>> Necessário acelerar 3% na performance diária para atingir meta mensal\n>>> Crescimento consistente evidencia recuperação sustentada da audiência",
+    "tendencia": "A média móvel de 30 dias mostra tendência positiva de 35% comparada ao período anterior, sinalizando recuperação robusta. O melhor mês histórico foi julho/25 com 13.625.154 PVs, enquanto o pior foi fevereiro/25 com 4.527.477 PVs, demonstrando potencial de crescimento ainda inexplorado.",
+    "alerta": "\"Cuidado: 15 matérias sem acesso representam desperdício de 15% da produção editorial\"",
+    "licao": "O sucesso do dia veio da combinação entre conteúdo evergreen de beleza, pautas nacionais relevantes e serviços públicos locais. A matéria de unhas prova que tutoriais práticos têm vida longa e geram tráfego consistente, enquanto a pauta do Neymar confirma que esportes nacionais mobilizam audiência capixaba. \"Conteúdo de serviço é investimento de longo prazo na fidelização da audiência.\"",
+    "tendencias": ">>> Chuva forte atinge Espírito Santo hoje e temperaturas despencam no estado\n--- Editoria: Tempo\n--- Ângulo ES: Focar nas condições meteorológicas específicas do ES, comparando com o frio de São Paulo e alertando capixabas sobre mudanças bruscas de temperatura\n--- Por que performa: 5000+ buscas sobre \"chuva\" devido ao tempo instável no Brasil\n--- Tipo: Serviço\n\n>>> Previsão do tempo ES: ciclone pode trazer temporais para o litoral capixaba\n--- Editoria: Tempo\n--- Ângulo ES: Analisar se o ciclone que afeta Santa Catarina pode impactar o litoral do ES, alertando pescadores e turistas sobre condições do mar\n--- Por que performa: 200+ buscas sobre \"previsão do tempo\" com interesse em fenômenos meteorológicos extremos\n--- Tipo: Serviço\n\n>>> Capixaba pode ganhar R$ 19 milhões na Dupla Sena hoje: veja números sorteados\n--- Editoria: Loterias\n--- Ângulo ES: Destacar apostadores do ES, relembrar últimos ganhadores capixabas e onde fazer apostas no estado\n--- Por que performa: 500+ buscas sobre \"dupla sena\" por interesse em resultados de loterias\n--- Tipo: Serviço\n\n>>> João Fonseca inspira nova geração de tenistas capixabas rumo a Roland Garros 2026\n--- Editoria: Esportes\n--- Ângulo ES: Mostrar como o sucesso de Fonseca motiva jovens tenistas do ES, destacar quadras e escolinhas de tênis no estado\n--- Por que performa: 1000+ buscas sobre \"roland garros 2026\" devido ao destaque do tenista brasileiro\n--- Tipo: Notícia\n\n>>> Vasco pode reforçar defesa: relembre craques do time que já jogaram no ES\n--- Editoria: Esportes\n--- Ângulo ES: Listar jogadores históricos do Vasco que passaram por clubes capixabas ou tiveram ligação com o estado\n--- Por que performa: 200+ buscas sobre \"Vasco da Gama\" por movimentações no mercado da bola\n--- Tipo: Lista\n\n>>> Horóscopo capixaba: previsões para os signos nesta quinta-feira no ES\n--- Editoria: Variedades\n--- Ângulo ES: Adaptar previsões astrológicas para o contexto local, mencionando pontos turísticos e características regionais\n--- Por que performa: 100+ buscas sobre \"horóscopo\" por interesse diário em previsões astrológicas\n--- Tipo: Serviço\n\n>>> Guardiola e suas lições: como técnicos capixabas podem aplicar métodos do catalão\n--- Editoria: Esportes\n--- Ângulo ES: Entrevistar técnicos de clubes locais sobre metodologias de Guardiola e sua aplicação no futebol capixaba\n--- Por que performa: 2000+ buscas sobre \"Josep Guardiola\" devido a repercussões de suas declarações\n--- Tipo: Análise\n\n>>> Grupo compra afiliada da Globo: qual o impacto para a comunicação no ES\n--- Editoria: Economia\n--- Ângulo ES: Analisar como mudanças no mercado de comunicação nacional podem afetar veículos locais e empregos no setor no ES\n--- Por que performa: 100+ buscas sobre \"Tocantins\" relacionadas à compra de emissoras\n--- Tipo: Explicativo\n\n>>> Joe Hart se aposenta: relembre goleiros ingleses que marcaram torcedores capixabas\n--- Editoria: Esportes\n--- Ângulo ES: Conectar com memórias de torcedores capixabas sobre goleiros ingleses famosos e tradição do futebol inglês no estado\n--- Por que performa: 200+ buscas sobre \"Joe Hart\" devido ao fim de sua carreira\n--- Tipo: Lista\n\n>>> Regulamentação de cassinos no Brasil: como ES pode ser afetado pelo projeto\n--- Editoria: Política\n--- Ângulo ES: Analisar potencial impacto econômico e turístico da legalização de cassinos para o ES, ouvindo deputados e empresários locais\n--- Por que performa: 100+ buscas sobre \"casino\" por discussões sobre regulamentação no país\n--- Tipo: Explicativo"
+  },
+  "tendencias": [
+    {
+      "titulo": "roland garros 2026",
+      "trafico": "1000+",
+      "contexto": "João Fonseca encara Roland Garros 2026 diferente: &apos;Jogadores já me conhecem e eu tenho pontos p"
+    },
+    {
+      "titulo": "chuva",
+      "trafico": "5000+",
+      "contexto": "Cidade de São Paulo registrou hoje a tarde mais fria do ano"
+    },
+    {
+      "titulo": "previsão do tempo para hoje",
+      "trafico": "200+",
+      "contexto": "Ciclone deve provocar temporais e rajadas de vento em Santa Catarina"
+    },
+    {
+      "titulo": "club de regatas vasco da gama",
+      "trafico": "200+",
+      "contexto": "Especulado no Vasco, zagueiro Léo Duarte chegaria de graça a partir de 1° de julho"
+    },
+    {
+      "titulo": "dupla sena",
+      "trafico": "500+",
+      "contexto": "Dupla Sena hoje: resultado do concurso 2960 e números sorteados"
+    },
+    {
+      "titulo": "tocantins",
+      "trafico": "100+",
+      "contexto": "Grupo compra afiliada da Globo em Goiás e Tocantins"
+    },
+    {
+      "titulo": "horóscopo",
+      "trafico": "100+",
+      "contexto": "Horóscopo de hoje: veja previsão para seu signo no dia 23/5"
+    },
+    {
+      "titulo": "josep guardiola",
+      "trafico": "2000+",
+      "contexto": "Fracasar como Guardiola"
+    },
+    {
+      "titulo": "casino",
+      "trafico": "100+",
+      "contexto": "High Paying Real Money Online Casinos in USA by SweepsPulse"
+    },
+    {
+      "titulo": "joe hart",
+      "trafico": "200+",
+      "contexto": "Guardiola revela um arrependimento em seus 10 anos de Manchester City"
+    }
+  ]
+}
