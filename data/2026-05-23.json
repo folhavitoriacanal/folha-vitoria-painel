@@ -1,0 +1,378 @@
+{
+  "dataDisplay": "23/05/2026",
+  "geradoEm": "2026-05-24T09:19:34.197Z",
+  "pvTotal": 130921,
+  "pctMeta": 101,
+  "metaHoje": 129969,
+  "metaAmanha": 129850,
+  "saldoOntem": 952,
+  "deficitOntem": 0,
+  "metaDiaria": 200000,
+  "metaMensal": 6000000,
+  "usuarios": 65038,
+  "sessions": 87965,
+  "pgsPorSessao": "1.49",
+  "tempoMedio": "2min19s",
+  "pvManha": 32235,
+  "pvTarde": 39988,
+  "pvNoite": 45984,
+  "checkpoints": [
+    {
+      "label": "Até 11h",
+      "pv": 44949,
+      "meta": 60000,
+      "status": "ABAIXO"
+    },
+    {
+      "label": "Até 17h",
+      "pv": 84937,
+      "meta": 130000,
+      "status": "MUITO ABAIXO"
+    },
+    {
+      "label": "Até 21h",
+      "pv": 119778,
+      "meta": 129969,
+      "status": "PERTO DA META"
+    }
+  ],
+  "producao": {
+    "disponivel": true,
+    "totalPublicadas": 38,
+    "pvPublicadas": 32271,
+    "mediaRealPorMateria": 849,
+    "materiasComAcesso": 38,
+    "materiasSemAcesso": 0,
+    "pvAntigos": 98650
+  },
+  "topMaterias": [
+    {
+      "pos": 1,
+      "titulo": "10 dicas para fazer as unhas em casa e deixá-las perfeitas",
+      "pv": 7832,
+      "publicadaHoje": false
+    },
+    {
+      "pos": 2,
+      "titulo": "O que aconteceu com Gabriel Ganley? Relembre '20 kg em 2 dias'",
+      "pv": 7172,
+      "publicadaHoje": true
+    },
+    {
+      "pos": 3,
+      "titulo": "X-bolo conquista clientes no ES com visual de hambúrguer e recheio doce",
+      "pv": 6622,
+      "publicadaHoje": true
+    },
+    {
+      "pos": 4,
+      "titulo": "Tiros, correria e medo: ataque deixa quatro mortos em Cariacica",
+      "pv": 3804,
+      "publicadaHoje": true
+    },
+    {
+      "pos": 5,
+      "titulo": "Trânsito em Vila Velha: corredor exclusivo vai ligar Terceira Ponte à Carlos Lindenberg",
+      "pv": 2510,
+      "publicadaHoje": true
+    }
+  ],
+  "editorias": [
+    {
+      "nome": "beleza",
+      "pvTotal": 10995,
+      "pvPublicadas": 0,
+      "publicadas": null,
+      "urlsAcessadas": 17,
+      "mediaCorreta": null
+    },
+    {
+      "nome": "policia",
+      "pvTotal": 9235,
+      "pvPublicadas": 5171,
+      "publicadas": 4,
+      "urlsAcessadas": 47,
+      "mediaCorreta": 1293
+    },
+    {
+      "nome": "gastronomia",
+      "pvTotal": 9144,
+      "pvPublicadas": 6622,
+      "publicadas": 1,
+      "urlsAcessadas": 17,
+      "mediaCorreta": 6622
+    },
+    {
+      "nome": "saude",
+      "pvTotal": 8978,
+      "pvPublicadas": 7816,
+      "publicadas": 5,
+      "urlsAcessadas": 19,
+      "mediaCorreta": 1563
+    },
+    {
+      "nome": "cultura",
+      "pvTotal": 5356,
+      "pvPublicadas": 2348,
+      "publicadas": 5,
+      "urlsAcessadas": 65,
+      "mediaCorreta": 470
+    },
+    {
+      "nome": "cotidiano",
+      "pvTotal": 4949,
+      "pvPublicadas": 3341,
+      "publicadas": 7,
+      "urlsAcessadas": 41,
+      "mediaCorreta": 477
+    },
+    {
+      "nome": "economia",
+      "pvTotal": 4573,
+      "pvPublicadas": 526,
+      "publicadas": 4,
+      "urlsAcessadas": 37,
+      "mediaCorreta": 132
+    }
+  ],
+  "origens": [
+    {
+      "canal": "Direto",
+      "pv": 60846,
+      "pct": 46
+    },
+    {
+      "canal": "Google Orgânico",
+      "pv": 60319,
+      "pct": 46
+    },
+    {
+      "canal": "Social",
+      "pv": 6852,
+      "pct": 5
+    },
+    {
+      "canal": "Links externos",
+      "pv": 2475,
+      "pct": 2
+    },
+    {
+      "canal": "Não identificado",
+      "pv": 398,
+      "pct": 0
+    },
+    {
+      "canal": "E-mail",
+      "pv": 17,
+      "pct": 0
+    },
+    {
+      "canal": "YouTube",
+      "pv": 13,
+      "pct": 0
+    },
+    {
+      "canal": "Cross-network",
+      "pv": 1,
+      "pct": 0
+    }
+  ],
+  "historico": {
+    "mediaMesmoDia": 152935,
+    "varMesmoDia": -14,
+    "media30": 213361,
+    "media30a": 156849,
+    "var30": 36,
+    "pvMesAtualAcum": 4961205,
+    "pvMesAntMesmoPer": 3686848,
+    "varMesAnt": 35,
+    "diasRestantes": 8,
+    "pvFaltaMes": 1038795,
+    "mediaNecessaria": 129850,
+    "mediaMensal": 6856222,
+    "melhorMes": {
+      "mes": "202507",
+      "pv": 13625154,
+      "label": "Jul/25"
+    },
+    "piorMes": {
+      "mes": "202502",
+      "pv": 4527477,
+      "label": "Fev/25"
+    },
+    "mensal": [
+      {
+        "mes": "202501",
+        "pv": 7245874,
+        "label": "Jan/25",
+        "atual": false
+      },
+      {
+        "mes": "202502",
+        "pv": 4527477,
+        "label": "Fev/25",
+        "atual": false
+      },
+      {
+        "mes": "202503",
+        "pv": 5367201,
+        "label": "Mar/25",
+        "atual": false
+      },
+      {
+        "mes": "202504",
+        "pv": 6945113,
+        "label": "Abr/25",
+        "atual": false
+      },
+      {
+        "mes": "202505",
+        "pv": 6591733,
+        "label": "Mai/25",
+        "atual": false
+      },
+      {
+        "mes": "202506",
+        "pv": 11659575,
+        "label": "Jun/25",
+        "atual": false
+      },
+      {
+        "mes": "202507",
+        "pv": 13625154,
+        "label": "Jul/25",
+        "atual": false
+      },
+      {
+        "mes": "202508",
+        "pv": 10001619,
+        "label": "Ago/25",
+        "atual": false
+      },
+      {
+        "mes": "202509",
+        "pv": 6679985,
+        "label": "Set/25",
+        "atual": false
+      },
+      {
+        "mes": "202510",
+        "pv": 5336318,
+        "label": "Out/25",
+        "atual": false
+      },
+      {
+        "mes": "202511",
+        "pv": 4564202,
+        "label": "Nov/25",
+        "atual": false
+      },
+      {
+        "mes": "202512",
+        "pv": 5524739,
+        "label": "Dez/25",
+        "atual": false
+      },
+      {
+        "mes": "202601",
+        "pv": 4978658,
+        "label": "Jan/26",
+        "atual": false
+      },
+      {
+        "mes": "202602",
+        "pv": 6402972,
+        "label": "Fev/26",
+        "atual": false
+      },
+      {
+        "mes": "202603",
+        "pv": 5172054,
+        "label": "Mar/26",
+        "atual": false
+      },
+      {
+        "mes": "202604",
+        "pv": 5076878,
+        "label": "Abr/26",
+        "atual": false
+      },
+      {
+        "mes": "202605",
+        "pv": 4961205,
+        "label": "Mai/26",
+        "atual": true
+      }
+    ]
+  },
+  "analises": {
+    "resumo": "Superamos a meta diária de 129.969 pageviews, alcançando 130.921 PVs (101% da meta). O dia começou lento com manhã e tarde abaixo das expectativas, mas a noite foi decisiva para o resultado positivo. Com 65.038 usuários e 87.965 sessões, mantivemos o engajamento médio de 1,49 páginas por sessão. Publicamos 38 matérias que geraram 32.271 PVs, enquanto conteúdos antigos contribuíram com 98.650 PVs.",
+    "horarios": ">>> Manhã fraca com apenas 32.235 PVs, muito abaixo do esperado para o período\n>>> Tarde melhorou para 39.988 PVs mas ainda insuficiente para recuperar o atraso\n>>> Noite salvou o dia com 45.984 PVs, garantindo que batêssemos a meta\n>>> Checkpoint 11h: 44.949 PVs de 60.000 esperados - início preocupante\n>>> Checkpoint 17h: 84.937 PVs de 130.000 esperados - déficit significativo mantido\n>>> Checkpoint 21h: 119.778 PVs - recuperação acelerada que definiu o sucesso",
+    "padrao": ">>> Conteúdo de beleza e lifestyle dominou com \"10 dicas para fazer unhas em casa\" liderando\n>>> Matérias sobre personalidades e curiosidades performaram bem, como o caso Gabriel Ganley\n>>> Gastronomia local mostrou força com o viral do X-bolo que imita hambúrguer\n>>> Hard news de polícia manteve relevância com a cobertura dos tiros em Cariacica\n>>> Pautas de utilidade pública sobre trânsito geraram engajamento consistente",
+    "editorias": ">>> Gastronomia liderou eficiência com 6.622 PVs/matéria, provando o poder do conteúdo local único\n>>> Polícia manteve performance sólida com 1.293 PVs/matéria em 4 publicações\n>>> Saúde equilibrou volume e qualidade com 1.563 PVs/matéria em 5 conteúdos\n>>> Cultura e Cotidiano ficaram abaixo da média geral com 470 e 477 PVs/matéria\n>>> Economia preocupa com apenas 132 PVs/matéria, indicando necessidade de revisão editorial",
+    "trafego": ">>> Empate técnico entre tráfego direto (46%) e orgânico (46%) mostra audiência fiel e SEO eficiente\n>>> Redes sociais com apenas 5% indicam oportunidade perdida para amplificação de conteúdo\n>>> Tráfego de referência baixo (2%) sugere necessidade de parcerias e backlinks\n>>> Canais de e-mail e YouTube praticamente inexistentes precisam de ativação urgente",
+    "eficiencia": "Média real de 849 PVs por matéria publicada, com 100% dos conteúdos recebendo pelo menos um acesso. Das 38 matérias do dia, nenhuma zerou, mostrando boa curadoria editorial e distribuição eficiente.",
+    "erros": ">>> Início de dia muito lento comprometeu o ritmo e criou pressão desnecessária\n>>> Baixo aproveitamento das redes sociais limitou o alcance orgânico\n>>> Economia com média de apenas 132 PVs/matéria indica desalinhamento com interesse da audiência\n>>> Ausência de estratégia para e-mail marketing e YouTube desperdiça canais próprios",
+    "oportunidades": ">>> Beleza e lifestyle provaram potencial - expandir cobertura desses temas\n>>> Gastronomia local é ouro puro - intensificar pautas sobre ES\n>>> Manhãs precisam de conteúdo mais atrativo para começar o dia forte\n>>> Redes sociais podem dobrar nosso alcance com estratégia adequada\n>>> Conteúdo evergreen sobre utilidades domésticas tem vida longa comprovada",
+    "acoes": ">>> Programar ao menos 3 matérias de beleza/lifestyle para publicação matinal\n>>> Produzir conteúdo gastronômico capixaba para replicar sucesso do X-bolo  \n>>> Criar estratégia de posts para redes sociais visando 8% de participação no tráfego\n>>> Revisar pauta econômica priorizando temas de impacto direto no cotidiano capixaba\n>>> Estabelecer meta de 35.000 PVs até 11h para começar o dia no ritmo certo da meta 129.850",
+    "metaacumulada": "A meta diária de 129.969 foi calculada dividindo-se o que falta para a meta mensal (1.038.795 PVs) pelos dias restantes incluindo ontem. Como batemos a meta de ontem, a meta de amanhã fica 129.850 - ligeiramente menor porque temos um dia a menos para alcançar o objetivo. Estamos com 4.961.205 PVs acumulados de uma meta mensal de 6.000.000, precisando de 1.038.795 PVs em 8 dias. É uma meta desafiadora mas factível.",
+    "historicodia": ">>> Performance 14% abaixo da média do mesmo dia nas últimas 8 semanas (152.935 PVs)\n>>> Resultado dentro da média dos últimos 30 dias, que tem sido de 213.361 PVs\n>>> Comparado aos 30 dias anteriores, mantemos tendência de crescimento de 36%",
+    "historicomes": ">>> Acumulado mensal 35% superior ao mesmo período do mês anterior (3.686.848 PVs)\n>>> Ritmo atual projeta fechamento próximo a 6.200.000 PVs se mantido\n>>> Precisamos acelerar ligeiramente para garantir a meta de 6 milhões",
+    "tendencia": "A tendência dos últimos 30 dias mostra crescimento consistente de 36% comparado ao período anterior. Nosso melhor mês foi julho/25 com 13.625.154 PVs, enquanto o pior foi fevereiro/25 com 4.527.477 PVs, mostrando a capacidade de grandes variações sazonais.",
+    "alerta": "\"O padrão de crescimento lento pela manhã está se repetindo e pode comprometer metas futuras se não corrigido imediatamente.\"",
+    "licao": "O dia provou que conteúdo local diferenciado, como o caso do X-bolo, gera muito mais engajamento que pautas genéricas. A combinação de utilidade prática com curiosidade capixaba é nossa fórmula de sucesso. Matérias antigas continuam sendo nosso principal motor de audiência, reforçando a importância de produzir conteúdo evergreen de qualidade. \"Manhã devagar, noite milagrosa - mas milagre não é estratégia sustentável.\"",
+    "tendencias": ">>> Previsão do tempo no ES: chuva forte pode atingir Grande Vitória nesta quarta-feira\n--- Editoria: Cotidiano\n--- Ângulo ES: Alertar sobre condições climáticas na Grande Vitória e interior do estado, com impacto no trânsito e atividades diárias dos capixabas\n--- Por que performa: Trending \"chuva\" com 100+ buscas, tema de interesse local essencial\n--- Tipo: Serviço\n\n>>> BYD cresce no ES: montadora chinesa amplia vendas de carros elétricos no mercado capixaba\n--- Editoria: Economia\n--- Ângulo ES: Crescimento das vendas de veículos elétricos BYD no Espírito Santo e impacto no setor automotivo local\n--- Por que performa: \"BYD company limited\" em alta com 100+ buscas, conecta inovação ao mercado local\n--- Tipo: Notícia\n\n>>> Capixabas assistem mais Netflix: minisséries dominam fim de semana no ES\n--- Editoria: Cultura\n--- Ângulo ES: Hábitos de consumo de streaming dos capixabas e preferências por minisséries durante os fins de semana\n--- Por que performa: \"Minissérie\" trending com 100+ buscas, tema de entretenimento popular\n--- Tipo: Explicativo\n\n>>> Tenistas capixabas sonham com Roland Garros 2026: conheça os jovens talentos do ES\n--- Editoria: Esportes\n--- Ângulo ES: Perfil de jovens tenistas capixabas que se inspiram no torneio francês e treinam em clubes do estado\n--- Por que performa: \"Roland Garros 2026\" com 100+ buscas, conecta esporte internacional ao local\n--- Tipo: Notícia\n\n>>> Decisão de Moraes repercute no ES: advogados analisam impactos no sistema judiciário\n--- Editoria: Política\n--- Ângulo ES: Repercussão entre juristas e advogados capixabas sobre as decisões do ministro do STF\n--- Por que performa: \"Moraes\" é o trending mais forte com 1000+ buscas\n--- Tipo: Análise\n\n>>> Eduardo Bolsonaro e a imprensa: jornalistas do ES relatam experiências com políticos\n--- Editoria: Política\n--- Ângulo ES: Profissionais de imprensa capixabas comentam relação entre políticos e jornalistas no estado\n--- Por que performa: \"Eduardo Bolsonaro\" em alta com 200+ buscas sobre conflito com repórter\n--- Tipo: Análise\n\n>>> eSports no ES: crescimento do League of Legends movimenta mercado gamer capixaba\n--- Editoria: Tecnologia\n--- Ângulo ES: Crescimento da comunidade gamer no ES, campeonatos locais e casas de jogos eletrônicos\n--- Por que performa: \"LOL\" trending com 200+ buscas pelo CBLOL 2026\n--- Tipo: Explicativo\n\n>>> Nova lei dos pets: como fica a guarda de animais em separações no ES\n--- Editoria: Cotidiano\n--- Ângulo ES: Advogados de família capixabas explicam como a nova lei afeta casais que se separam no estado\n--- Por que performa: \"Agora\" em alta com 200+ buscas sobre nova lei dos pets\n--- Tipo: Serviço\n\n>>> Rodrigo Faro no ES: relembre visitas do apresentador ao estado\n--- Editoria: Cultura\n--- Ângulo ES: Histórico de visitas e gravações de Rodrigo Faro no Espírito Santo ao longo da carreira\n--- Por que performa: \"Rodrigo Faro\" trending com 200+ buscas sobre vida pessoal\n--- Tipo: Lista\n\n>>> MMA capixaba em alta: atletas do ES se inspiram no Jungle Fight para crescer no esporte\n--- Editoria: Esportes\n--- Ângulo ES: Lutadores de MMA do Espírito Santo que sonham em participar de grandes eventos como o Jungle Fight\n--- Por que performa: \"Jungle Fight\" em alta com 200+ buscas sobre luta principal\n--- Tipo: Notícia"
+  },
+  "tendencias": [
+    {
+      "titulo": "chuva",
+      "trafico": "100+",
+      "contexto": "São Paulo continua com chuva e tempo instável durante a semana; veja previsão"
+    },
+    {
+      "titulo": "byd company limited",
+      "trafico": "100+",
+      "contexto": "Battery X Metals Reports Up to ~84 km Estimated Driving Range Increase Across Multiple BYD Electric "
+    },
+    {
+      "titulo": "minissérie",
+      "trafico": "100+",
+      "contexto": "A minissérie da Netflix de 5 episódios com mais de 69 milhões de visualizações: A história se passa "
+    },
+    {
+      "titulo": "roland garros 2026",
+      "trafico": "100+",
+      "contexto": "Roland-Garros 2026 : comment voir le tournoi de tennis en streaming, et sur quelle chaîne ?"
+    },
+    {
+      "titulo": "moraes",
+      "trafico": "1000+",
+      "contexto": "Justiça dos EUA autoriza citação de Moraes por e-mail em processo do Rumble e Trump Media"
+    },
+    {
+      "titulo": "eduardo bolsonaro",
+      "trafico": "200+",
+      "contexto": "Eduardo Bolsonaro diz ter acionado polícia contra repórter - 23/05/2026 - Política"
+    },
+    {
+      "titulo": "lol",
+      "trafico": "200+",
+      "contexto": "CBLOL 2026: LOS não dá chances e elimina a Vivo Keyd Stars"
+    },
+    {
+      "titulo": "agora",
+      "trafico": "200+",
+      "contexto": "Quem fica com o pet em caso de separação? Nova lei muda regras"
+    },
+    {
+      "titulo": "rodrigo faro",
+      "trafico": "200+",
+      "contexto": "Rodrigo Faro ficou surpreso com &apos;defeito&apos; de Vera Viel no início do namoro"
+    },
+    {
+      "titulo": "jungle fight",
+      "trafico": "200+",
+      "contexto": "Nágila Goku vence luta principal e garante vaga na semifinal do Fight do Milhão"
+    }
+  ]
+}
