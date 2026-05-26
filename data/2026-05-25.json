@@ -1,0 +1,378 @@
+{
+  "dataDisplay": "25/05/2026",
+  "geradoEm": "2026-05-26T09:19:16.302Z",
+  "pvTotal": 175926,
+  "pctMeta": 136,
+  "metaHoje": 128969,
+  "metaAmanha": 121143,
+  "saldoOntem": 46957,
+  "deficitOntem": 0,
+  "metaDiaria": 200000,
+  "metaMensal": 6000000,
+  "usuarios": 67155,
+  "sessions": 100100,
+  "pgsPorSessao": "1.76",
+  "tempoMedio": "3min08s",
+  "pvManha": 56885,
+  "pvTarde": 62196,
+  "pvNoite": 41650,
+  "checkpoints": [
+    {
+      "label": "Até 11h",
+      "pv": 72080,
+      "meta": 60000,
+      "status": "META BATIDA"
+    },
+    {
+      "label": "Até 17h",
+      "pv": 134276,
+      "meta": 130000,
+      "status": "META BATIDA"
+    },
+    {
+      "label": "Até 21h",
+      "pv": 166021,
+      "meta": 128969,
+      "status": "META BATIDA"
+    }
+  ],
+  "producao": {
+    "disponivel": true,
+    "totalPublicadas": 95,
+    "pvPublicadas": 38982,
+    "mediaRealPorMateria": 410,
+    "materiasComAcesso": 85,
+    "materiasSemAcesso": 10,
+    "pvAntigos": 136944
+  },
+  "topMaterias": [
+    {
+      "pos": 1,
+      "titulo": "Sete apostas do ES acertam Mega-Sena de R$ 330 milhões",
+      "pv": 8950,
+      "publicadaHoje": false
+    },
+    {
+      "pos": 2,
+      "titulo": "10 dicas para fazer as unhas em casa e deixá-las perfeitas",
+      "pv": 6571,
+      "publicadaHoje": false
+    },
+    {
+      "pos": 3,
+      "titulo": "Quem eram as vítimas do acidente na Rodovia do Contorno",
+      "pv": 5735,
+      "publicadaHoje": true
+    },
+    {
+      "pos": 4,
+      "titulo": "Homem que morreu no Contorno ficou cadeirante há 28 anos",
+      "pv": 2683,
+      "publicadaHoje": true
+    },
+    {
+      "pos": 5,
+      "titulo": "Novo Mercado do Pescado da Prainha terá restaurantes e espaço gourmet com vista para o mar",
+      "pv": 2600,
+      "publicadaHoje": true
+    }
+  ],
+  "editorias": [
+    {
+      "nome": "transito",
+      "pvTotal": 16257,
+      "pvPublicadas": 11894,
+      "publicadas": 6,
+      "urlsAcessadas": 23,
+      "mediaCorreta": 1982
+    },
+    {
+      "nome": "policia",
+      "pvTotal": 12973,
+      "pvPublicadas": 5564,
+      "publicadas": 6,
+      "urlsAcessadas": 43,
+      "mediaCorreta": 927
+    },
+    {
+      "nome": "loterias",
+      "pvTotal": 11051,
+      "pvPublicadas": 923,
+      "publicadas": 1,
+      "urlsAcessadas": 9,
+      "mediaCorreta": 923
+    },
+    {
+      "nome": "beleza",
+      "pvTotal": 8733,
+      "pvPublicadas": 0,
+      "publicadas": 3,
+      "urlsAcessadas": 18,
+      "mediaCorreta": 0
+    },
+    {
+      "nome": "cotidiano",
+      "pvTotal": 7776,
+      "pvPublicadas": 5762,
+      "publicadas": 12,
+      "urlsAcessadas": 37,
+      "mediaCorreta": 480
+    },
+    {
+      "nome": "economia",
+      "pvTotal": 5599,
+      "pvPublicadas": 1898,
+      "publicadas": 14,
+      "urlsAcessadas": 42,
+      "mediaCorreta": 136
+    },
+    {
+      "nome": "esportes",
+      "pvTotal": 4971,
+      "pvPublicadas": 2063,
+      "publicadas": 9,
+      "urlsAcessadas": 30,
+      "mediaCorreta": 229
+    }
+  ],
+  "origens": [
+    {
+      "canal": "Google Orgânico",
+      "pv": 88026,
+      "pct": 50
+    },
+    {
+      "canal": "Direto",
+      "pv": 71861,
+      "pct": 41
+    },
+    {
+      "canal": "Social",
+      "pv": 10878,
+      "pct": 6
+    },
+    {
+      "canal": "Links externos",
+      "pv": 3955,
+      "pct": 2
+    },
+    {
+      "canal": "Não identificado",
+      "pv": 1178,
+      "pct": 1
+    },
+    {
+      "canal": "YouTube",
+      "pv": 21,
+      "pct": 0
+    },
+    {
+      "canal": "E-mail",
+      "pv": 6,
+      "pct": 0
+    },
+    {
+      "canal": "Mobile Push Notifications",
+      "pv": 1,
+      "pct": 0
+    }
+  ],
+  "historico": {
+    "mediaMesmoDia": 210331,
+    "varMesmoDia": -16,
+    "media30": 209756,
+    "media30a": 155389,
+    "var30": 35,
+    "pvMesAtualAcum": 5273144,
+    "pvMesAntMesmoPer": 4050560,
+    "varMesAnt": 30,
+    "diasRestantes": 6,
+    "pvFaltaMes": 726856,
+    "mediaNecessaria": 121143,
+    "mediaMensal": 6856222,
+    "melhorMes": {
+      "mes": "202507",
+      "pv": 13625154,
+      "label": "Jul/25"
+    },
+    "piorMes": {
+      "mes": "202502",
+      "pv": 4527477,
+      "label": "Fev/25"
+    },
+    "mensal": [
+      {
+        "mes": "202501",
+        "pv": 7245874,
+        "label": "Jan/25",
+        "atual": false
+      },
+      {
+        "mes": "202502",
+        "pv": 4527477,
+        "label": "Fev/25",
+        "atual": false
+      },
+      {
+        "mes": "202503",
+        "pv": 5367201,
+        "label": "Mar/25",
+        "atual": false
+      },
+      {
+        "mes": "202504",
+        "pv": 6945113,
+        "label": "Abr/25",
+        "atual": false
+      },
+      {
+        "mes": "202505",
+        "pv": 6591733,
+        "label": "Mai/25",
+        "atual": false
+      },
+      {
+        "mes": "202506",
+        "pv": 11659575,
+        "label": "Jun/25",
+        "atual": false
+      },
+      {
+        "mes": "202507",
+        "pv": 13625154,
+        "label": "Jul/25",
+        "atual": false
+      },
+      {
+        "mes": "202508",
+        "pv": 10001619,
+        "label": "Ago/25",
+        "atual": false
+      },
+      {
+        "mes": "202509",
+        "pv": 6679985,
+        "label": "Set/25",
+        "atual": false
+      },
+      {
+        "mes": "202510",
+        "pv": 5336318,
+        "label": "Out/25",
+        "atual": false
+      },
+      {
+        "mes": "202511",
+        "pv": 4564202,
+        "label": "Nov/25",
+        "atual": false
+      },
+      {
+        "mes": "202512",
+        "pv": 5524739,
+        "label": "Dez/25",
+        "atual": false
+      },
+      {
+        "mes": "202601",
+        "pv": 4978658,
+        "label": "Jan/26",
+        "atual": false
+      },
+      {
+        "mes": "202602",
+        "pv": 6402972,
+        "label": "Fev/26",
+        "atual": false
+      },
+      {
+        "mes": "202603",
+        "pv": 5172054,
+        "label": "Mar/26",
+        "atual": false
+      },
+      {
+        "mes": "202604",
+        "pv": 5076878,
+        "label": "Abr/26",
+        "atual": false
+      },
+      {
+        "mes": "202605",
+        "pv": 5273144,
+        "label": "Mai/26",
+        "atual": true
+      }
+    ]
+  },
+  "analises": {
+    "resumo": "O dia 25/05/2026 registrou 175.926 page views, superando em 136% a meta de 128.969, com um resultado positivo de +46.957 PVs. A distribuição ao longo do dia mostrou equilíbrio, com pico na tarde (62.196 PVs) e queda esperada na noite (41.650 PVs). Todas as metas de checkpoint foram batidas, demonstrando consistência na performance. O resultado coloca o mês em trajetória positiva para alcançar a meta de 6 milhões, faltando 726.856 PVs em 6 dias.",
+    "horarios": ">>> Manhã (6h-11h): 56.885 PVs com checkpoint às 11h batendo meta (72.080 vs 60.000)\n>>> Tarde (12h-17h): 62.196 PVs, melhor período do dia, checkpoint às 17h superou expectativa (134.276 vs 130.000)\n>>> Noite (18h-23h): 41.650 PVs, queda natural esperada no período\n>>> Checkpoint das 21h: 166.021 PVs já havia superado a meta diária completa",
+    "padrao": ">>> Matérias de utilidade pública dominam: trânsito (acidente no Contorno) gerou engajamento massivo\n>>> Conteúdo evergreen mantém força: dicas de beleza e loterias seguem tracionando\n>>> Hard news local tem impacto: cobertura humanizada das vítimas do acidente amplificou interesse\n>>> Lifestyle e serviços: novo Mercado do Pescado mostra apetite por novidades gastronômicas",
+    "editorias": ">>> Trânsito lidera com média real de 1.982 PVs/matéria (6 publicadas, 11.894 PVs)\n>>> Polícia mantém relevância com 927 PVs/matéria (6 publicadas, 5.564 PVs)\n>>> Loterias: baixo volume mas alta eficiência - 923 PVs em 1 matéria\n>>> Beleza: 3 matérias sem engajamento novo (0 PVs), dependendo só de arquivo\n>>> Economia: 14 matérias geraram apenas 136 PVs/matéria, performance muito baixa",
+    "trafego": ">>> Google orgânico domina com 50% (88.026 PVs), indicando boa otimização SEO\n>>> Tráfego direto forte (41%) demonstra fidelidade da audiência capixaba\n>>> Redes sociais com apenas 6% sugerem oportunidade de expansão\n>>> Links externos residuais (2%) apontam para baixa viralização\n>>> Push notifications praticamente inexistente (1 PV) indica ferramenta subutilizada",
+    "eficiencia": "Média real de 410 PVs por matéria publicada ontem, com 95 conteúdos gerando 38.982 PVs. Das 95 matérias, 10 ficaram sem acesso, representando 10,5% de taxa de rejeição na produção.",
+    "erros": ">>> Beleza publicou 3 matérias que não geraram engajamento novo\n>>> Economia com produção excessiva (14 matérias) e baixo retorno (136 PVs/matéria)\n>>> 10 matérias sem nenhum acesso indicam problemas de timing ou relevância\n>>> Push notifications completamente negligenciadas (apenas 1 PV)",
+    "oportunidades": ">>> Amplificar cobertura de trânsito, editoria mais eficiente do dia\n>>> Reativar estratégia de redes sociais para além dos 6% atuais\n>>> Explorar mais conteúdo de loterias, que mostrou alta eficiência\n>>> Implementar push notifications estratégicas para breaking news\n>>> Reduzir volume de economia e focar em qualidade editorial",
+    "acoes": ">>> Priorizar hard news local e trânsito nas primeiras horas (meta: 121.143)\n>>> Reduzir produção de economia para máximo 8 matérias com foco em serviço\n>>> Ativar push notifications para matérias de alta relevância local\n>>> Intensificar promoção social do conteúdo de maior potencial\n>>> Monitorar de perto performance matutina para manter ritmo das 60mil até 11h",
+    "metaacumulada": "A meta diária de 128.969 foi calculada dividindo-se o que faltava para a meta mensal (6.000.000 - acumulado até anteontem) pelos dias restantes incluindo ontem. Com o resultado de hoje, a nova meta para amanhã será de 121.143 PVs, representando a necessidade de manter 726.856 PVs nos próximos 6 dias. A meta dinâmica se ajusta diariamente conforme a performance, exigindo média de 121mil PVs/dia para fechar maio dentro do objetivo.",
+    "historicodia": ">>> Performance 16% abaixo da média de mesmo dia da semana (175.926 vs 210.331)\n>>> Resultado dentro da média dos últimos 30 dias (209.756), indicando estabilidade\n>>> Queda pontual não compromete tendência positiva estabelecida",
+    "historicomes": ">>> Acumulado mensal 30% superior ao mesmo período do mês anterior (5.273.144 vs 4.050.560)\n>>> Projeção indica fechamento próximo aos 5,5 milhões caso mantido ritmo atual\n>>> Crescimento consistente coloca maio entre os melhores meses do ano",
+    "tendencia": "A tendência dos últimos 30 dias é positiva (+35% vs período anterior), consolidando crescimento sustentado. O melhor mês da história foi julho/25 (13.625.154 PVs) enquanto o pior foi fevereiro/25 (4.527.477 PVs), mostrando amplitude significativa de performance sazonal.",
+    "alerta": "\"Economia está consumindo recursos editoriais sem retorno proporcional em audiência.\"",
+    "licao": "O dia demonstrou que a combinação de hard news local (acidente no Contorno) com abordagem humanizada amplifica significativamente o engajamento. Matérias antigas continuam sendo responsáveis por 78% do tráfego total, reforçando a importância do arquivo otimizado. A lição central é clara: \"Conteúdo local com relevância social sempre supera volume de produção sem foco.\"",
+    "tendencias": ">>> Capixabas aposentados recebem segunda parcela do 13º salário do INSS nesta semana; veja calendário completo\n--- Editoria: Economia\n--- Ângulo ES: Foco nos beneficiários do ES, com dados locais sobre quantos aposentados e pensionistas receberão o pagamento no estado\n--- Por que performa: INSS está em alta com 1000+ buscas devido ao pagamento da segunda parcela do 13º\n--- Tipo: Serviço\n\n>>> BYD King chega mais barato que Virtus: novo elétrico pode impactar mercado automotivo no ES\n--- Editoria: Economia\n--- Ângulo ES: Analisar impacto no mercado local, concessionárias no ES e interesse dos capixabas por carros elétricos\n--- Por que performa: BYD King está trending com estratégia agressiva de preços chamando atenção do consumidor\n--- Tipo: Notícia\n\n>>> Vini Jr. confirma Neymar com camisa 10 na Copa: torcida capixaba já sonha com hexa\n--- Editoria: Esportes\n--- Ângulo ES: Repercussão entre torcedores capixabas, casas de apostas locais e bares que transmitem jogos da seleção\n--- Por que performa: Vinicius Júnior está em alta com 5000+ buscas pela declaração sobre Neymar\n--- Tipo: Notícia\n\n>>> Idoso de 77 anos é atingido por roda de caminhão: como prevenir acidentes similares no ES\n--- Editoria: Cidades\n--- Ângulo ES: Comparar com acidentes similares no ES, condições das rodovias estaduais e medidas de segurança\n--- Por que performa: Termo \"idoso\" em alta com 500+ buscas após acidente chocante em Santos Dumont\n--- Tipo: Explicativo\n\n>>> Chapecoense demite técnico após dois meses: relembre outros casos polêmicos no futebol capixaba\n--- Editoria: Esportes\n--- Ângulo ES: Conectar com demissões rápidas de técnicos no Real Noroeste, Rio Branco e outros clubes estaduais\n--- Por que performa: Associação Chapecoense está trending com 10000+ buscas pela demissão do técnico\n--- Tipo: Análise\n\n>>> Tarifa de energia elétrica: capixabas podem ter nova mudança nas contas de luz\n--- Editoria: Economia\n--- Ângulo ES: Focar na EDP Espírito Santo, bandeiras tarifárias e impacto no orçamento das famílias capixabas\n--- Por que performa: \"Energia\" está em alta com investimentos e mudanças no setor elétrico\n--- Tipo: Serviço\n\n>>> Mário Frias nega irregularidades em emendas: entenda o caso que repercute nacionalmente\n--- Editoria: Política\n--- Ângulo ES: Contextualizar o sistema de emendas parlamentares e como funciona no ES com a bancada federal capixaba\n--- Por que performa: Mário Frias está trending com 2000+ buscas devido à polêmica das emendas\n--- Tipo: Explicativo\n\n>>> ES ainda não tem metrô, mas VLT da Grande Vitória pode ser alternativa ao transporte público\n--- Editoria: Cidades\n--- Ângulo ES: Comparar projetos de transporte de massa no ES, situação do VLT e demanda por melhorias na mobilidade\n--- Por que performa: \"Metrô\" está em alta com novas vagas na Bahia, despertando interesse em transporte público\n--- Tipo: Análise\n\n>>> Programas sociais: como capixabas podem acessar novos benefícios do governo federal\n--- Editoria: Cidadania\n--- Ângulo ES: Orientar sobre programas disponíveis no ES, pontos de atendimento e documentação necessária\n--- Por que performa: Ministério do Desenvolvimento Social está trending com entrega de veículos e expansão de programas\n--- Tipo: Serviço\n\n>>> Governador Casagrande comenta tensões políticas nacionais: posicionamento do ES no cenário atual\n--- Editoria: Política\n--- Ângulo ES: Buscar posicionamento do governador capixaba sobre as tensões entre bolsonaristas, similar ao caso Romeu Zema\n--- Por que performa: Romeu Zema está em alta com 200+ buscas por declarações sobre cenário político nacional\n--- Tipo: Notícia"
+  },
+  "tendencias": [
+    {
+      "titulo": "metrô",
+      "trafico": "100+",
+      "contexto": "Metrô Bahia prorroga inscrições para vagas de agente de atendimento e segurança; metade das oportuni"
+    },
+    {
+      "titulo": "energia",
+      "trafico": "100+",
+      "contexto": "EBRD invests €20 million in Eesti Energia’s inaugural green bond"
+    },
+    {
+      "titulo": "vinicius júnior",
+      "trafico": "5000+",
+      "contexto": "Vini Jr. diz que Neymar deverá usar a camisa 10 do Brasil na Copa do Mundo: &apos;Isso é óbvio&apos;"
+    },
+    {
+      "titulo": "idoso",
+      "trafico": "500+",
+      "contexto": "Vídeo: roda de caminhão se solta e atinge idoso de 77 anos em Santos Dumont"
+    },
+    {
+      "titulo": "associação chapecoense de futebol",
+      "trafico": "10000+",
+      "contexto": "Chapecoense demite o técnico Fábio Matias com menos de dois meses de trabalho"
+    },
+    {
+      "titulo": "inss",
+      "trafico": "1000+",
+      "contexto": "INSS inicia o pagamento da segunda parcela do 13º; veja o calendário"
+    },
+    {
+      "titulo": "ministério de desenvolvimento e assistência social, família e combate à fome",
+      "trafico": "100+",
+      "contexto": "MDS entrega 70 veículos do MobSUAS a municípios piauienses"
+    },
+    {
+      "titulo": "byd king",
+      "trafico": "100+",
+      "contexto": "BYD joga preços no chão e vende King mais barato que Virtus"
+    },
+    {
+      "titulo": "romeu zema",
+      "trafico": "200+",
+      "contexto": "Em aceno a bolsonaristas, Caiado diz não fazer ‘pré-julgamento’ da ligação de Flávio com Vorcaro"
+    },
+    {
+      "titulo": "mário frias",
+      "trafico": "2000+",
+      "contexto": "Mario Frias nega que emenda para ONG ligada à produtora do filme de Bolsonaro foi para &apos;qualque"
+    }
+  ]
+}
