@@ -1,0 +1,378 @@
+{
+  "dataDisplay": "27/05/2026",
+  "geradoEm": "2026-05-28T13:07:56.109Z",
+  "pvTotal": 134016,
+  "pctMeta": 117,
+  "metaHoje": 114673,
+  "metaAmanha": 109837,
+  "saldoOntem": 19343,
+  "deficitOntem": 0,
+  "metaDiaria": 200000,
+  "metaMensal": 6000000,
+  "usuarios": 50979,
+  "sessions": 77926,
+  "pgsPorSessao": "1.72",
+  "tempoMedio": "3min22s",
+  "pvManha": 42304,
+  "pvTarde": 46657,
+  "pvNoite": 33093,
+  "checkpoints": [
+    {
+      "label": "Até 11h",
+      "pv": 54266,
+      "meta": 60000,
+      "status": "PERTO DA META"
+    },
+    {
+      "label": "Até 17h",
+      "pv": 100923,
+      "meta": 130000,
+      "status": "ABAIXO"
+    },
+    {
+      "label": "Até 21h",
+      "pv": 125364,
+      "meta": 114673,
+      "status": "META BATIDA"
+    }
+  ],
+  "producao": {
+    "disponivel": true,
+    "totalPublicadas": 106,
+    "pvPublicadas": 31852,
+    "mediaRealPorMateria": 300,
+    "materiasComAcesso": 95,
+    "materiasSemAcesso": 11,
+    "pvAntigos": 102164
+  },
+  "topMaterias": [
+    {
+      "pos": 1,
+      "titulo": "Câncer fatal: A morte devastadora de atriz da Globo e Ana Maria aos prantos: \"Luto\"",
+      "pv": 3412,
+      "publicadaHoje": true
+    },
+    {
+      "pos": 2,
+      "titulo": "Feira dos Municípios vai ter maior café do mundo",
+      "pv": 3340,
+      "publicadaHoje": false
+    },
+    {
+      "pos": 3,
+      "titulo": "10 dicas para fazer as unhas em casa e deixá-las perfeitas",
+      "pv": 2638,
+      "publicadaHoje": false
+    },
+    {
+      "pos": 4,
+      "titulo": "Dentistas são indiciados por deixar lesões em pacientes",
+      "pv": 2450,
+      "publicadaHoje": false
+    },
+    {
+      "pos": 5,
+      "titulo": "Chuva e frio leve: ciclone no Sul provoca virada no tempo no ES",
+      "pv": 2422,
+      "publicadaHoje": true
+    }
+  ],
+  "editorias": [
+    {
+      "nome": "cultura",
+      "pvTotal": 10315,
+      "pvPublicadas": 4499,
+      "publicadas": 6,
+      "urlsAcessadas": 48,
+      "mediaCorreta": 750
+    },
+    {
+      "nome": "policia",
+      "pvTotal": 9335,
+      "pvPublicadas": 4782,
+      "publicadas": 9,
+      "urlsAcessadas": 48,
+      "mediaCorreta": 531
+    },
+    {
+      "nome": "cotidiano",
+      "pvTotal": 5378,
+      "pvPublicadas": 3264,
+      "publicadas": 10,
+      "urlsAcessadas": 47,
+      "mediaCorreta": 326
+    },
+    {
+      "nome": "economia",
+      "pvTotal": 4782,
+      "pvPublicadas": 1896,
+      "publicadas": 12,
+      "urlsAcessadas": 41,
+      "mediaCorreta": 158
+    },
+    {
+      "nome": "social",
+      "pvTotal": 4554,
+      "pvPublicadas": 2939,
+      "publicadas": 2,
+      "urlsAcessadas": 20,
+      "mediaCorreta": 1470
+    },
+    {
+      "nome": "transito",
+      "pvTotal": 3876,
+      "pvPublicadas": 2572,
+      "publicadas": 5,
+      "urlsAcessadas": 19,
+      "mediaCorreta": 514
+    },
+    {
+      "nome": "saude",
+      "pvTotal": 3522,
+      "pvPublicadas": 1054,
+      "publicadas": 7,
+      "urlsAcessadas": 26,
+      "mediaCorreta": 151
+    }
+  ],
+  "origens": [
+    {
+      "canal": "Google Orgânico",
+      "pv": 70603,
+      "pct": 53
+    },
+    {
+      "canal": "Direto",
+      "pv": 49253,
+      "pct": 37
+    },
+    {
+      "canal": "Social",
+      "pv": 8131,
+      "pct": 6
+    },
+    {
+      "canal": "Links externos",
+      "pv": 5238,
+      "pct": 4
+    },
+    {
+      "canal": "Não identificado",
+      "pv": 747,
+      "pct": 1
+    },
+    {
+      "canal": "YouTube",
+      "pv": 37,
+      "pct": 0
+    },
+    {
+      "canal": "E-mail",
+      "pv": 6,
+      "pct": 0
+    },
+    {
+      "canal": "Cross-network",
+      "pv": 1,
+      "pct": 0
+    }
+  ],
+  "historico": {
+    "mediaMesmoDia": 197202,
+    "varMesmoDia": -32,
+    "media30": 209837,
+    "media30a": 156036,
+    "var30": 34,
+    "pvMesAtualAcum": 5560655,
+    "pvMesAntMesmoPer": 4403589,
+    "varMesAnt": 26,
+    "diasRestantes": 4,
+    "pvFaltaMes": 439345,
+    "mediaNecessaria": 109837,
+    "mediaMensal": 6856222,
+    "melhorMes": {
+      "mes": "202507",
+      "pv": 13625154,
+      "label": "Jul/25"
+    },
+    "piorMes": {
+      "mes": "202502",
+      "pv": 4527477,
+      "label": "Fev/25"
+    },
+    "mensal": [
+      {
+        "mes": "202501",
+        "pv": 7245874,
+        "label": "Jan/25",
+        "atual": false
+      },
+      {
+        "mes": "202502",
+        "pv": 4527477,
+        "label": "Fev/25",
+        "atual": false
+      },
+      {
+        "mes": "202503",
+        "pv": 5367201,
+        "label": "Mar/25",
+        "atual": false
+      },
+      {
+        "mes": "202504",
+        "pv": 6945113,
+        "label": "Abr/25",
+        "atual": false
+      },
+      {
+        "mes": "202505",
+        "pv": 6591733,
+        "label": "Mai/25",
+        "atual": false
+      },
+      {
+        "mes": "202506",
+        "pv": 11659575,
+        "label": "Jun/25",
+        "atual": false
+      },
+      {
+        "mes": "202507",
+        "pv": 13625154,
+        "label": "Jul/25",
+        "atual": false
+      },
+      {
+        "mes": "202508",
+        "pv": 10001619,
+        "label": "Ago/25",
+        "atual": false
+      },
+      {
+        "mes": "202509",
+        "pv": 6679985,
+        "label": "Set/25",
+        "atual": false
+      },
+      {
+        "mes": "202510",
+        "pv": 5336318,
+        "label": "Out/25",
+        "atual": false
+      },
+      {
+        "mes": "202511",
+        "pv": 4564202,
+        "label": "Nov/25",
+        "atual": false
+      },
+      {
+        "mes": "202512",
+        "pv": 5524739,
+        "label": "Dez/25",
+        "atual": false
+      },
+      {
+        "mes": "202601",
+        "pv": 4978658,
+        "label": "Jan/26",
+        "atual": false
+      },
+      {
+        "mes": "202602",
+        "pv": 6402972,
+        "label": "Fev/26",
+        "atual": false
+      },
+      {
+        "mes": "202603",
+        "pv": 5172054,
+        "label": "Mar/26",
+        "atual": false
+      },
+      {
+        "mes": "202604",
+        "pv": 5076878,
+        "label": "Abr/26",
+        "atual": false
+      },
+      {
+        "mes": "202605",
+        "pv": 5560655,
+        "label": "Mai/26",
+        "atual": true
+      }
+    ]
+  },
+  "analises": {
+    "resumo": "O Folha Vitória registrou 134.016 page views no dia 27/05/2026, superando a meta diária de 114.673 em 17% e somando +19.343 acessos além do esperado. A distribuição de tráfego mostrou manhã com 42.304 PVs, tarde liderando com 46.657 PVs e noite com 33.093 PVs. O resultado positivo mantém o portal no caminho para atingir a meta mensal de 6 milhões, faltando apenas 439.345 PVs nos últimos 4 dias. Com 50.979 usuários únicos e 77.926 sessões, o engajamento se manteve estável com 1,72 páginas por sessão.",
+    "horarios": ">>> Manhã iniciou aquém do esperado com 54.266 PVs até 11h contra meta de 60.000, ficando 9,5% abaixo\n>>> Tarde manteve o déficit acumulando 100.923 PVs até 17h contra meta de 130.000, com gap de 22%\n>>> Noite recuperou o ritmo e garantiu 125.364 PVs até 21h, superando a meta de 114.673 e salvando o dia\n>>> Período vespertino foi o mais produtivo com 46.657 PVs entre 12h-17h, seguido da manhã com 42.304 PVs",
+    "padrao": ">>> Conteúdo de celebridades e tragédias dominou com matéria sobre morte de atriz da Globo liderando (3.412 PVs)\n>>> Matérias de serviço e eventos locais mantêm força, como Feira dos Municípios em segundo lugar (3.340 PVs)\n>>> Tutoriais e dicas práticas continuam performando bem, caso das \"10 dicas para unhas\" (2.638 PVs)\n>>> Conteúdo evergreen representa 76% do tráfego total, mostrando importância do arquivo histórico",
+    "editorias": ">>> Social lidera em eficiência com 1.470 PVs por matéria, publicando apenas 2 conteúdos certeiros\n>>> Cultura mantém alta performance com 750 PVs por matéria em 6 publicações focadas\n>>> Polícia equilibra volume e resultado com 531 PVs por matéria em 9 publicações\n>>> Trânsito surpreende com 514 PVs por matéria, aproveitando bem as 5 publicações do dia\n>>> Saúde e Economia apresentam baixa eficiência com 151 e 158 PVs por matéria respectivamente",
+    "trafego": ">>> Google Orgânico consolida liderança com 53% do tráfego (70.603 PVs), mostrando força do SEO\n>>> Tráfego direto representa 37% (49.253 PVs), indicando audiência fiel e lembrança de marca\n>>> Redes sociais contribuem com apenas 6% (8.131 PVs), sinalizando necessidade de maior investimento\n>>> Links externos somam 4% (5.238 PVs), demonstrando potencial de parcerias e compartilhamentos\n>>> YouTube praticamente inexistente com 37 PVs, representando oportunidade perdida de tráfego",
+    "eficiencia": "A produção de 106 matérias resultou em 31.852 PVs diretos, gerando média real de 300 PVs por conteúdo. Onze matérias não registraram acessos, representando 10% de taxa de rejeição na produção editorial, índice que demanda atenção para aproveitamento máximo dos recursos.",
+    "erros": ">>> Manhã perdeu ritmo com performance 9,5% abaixo da meta, comprometendo o início do dia\n>>> Onze matérias publicadas não geraram nenhum acesso, desperdiçando tempo de produção\n>>> Redes sociais contribuem com apenas 6% do tráfego, subutilizando canal importante\n>>> YouTube registra apenas 37 PVs, ignorando potencial de tráfego multiplataforma",
+    "oportunidades": ">>> Economia publicou 12 matérias mas gerou baixa média de 158 PVs, necessitando revisão editorial\n>>> Saúde tem potencial inexplorado com apenas 151 PVs por matéria em temas de interesse público\n>>> Redes sociais podem triplicar contribuição com estratégia mais agressiva de compartilhamento\n>>> Conteúdo evergreen representa 76% do tráfego, justificando investimento em matérias atemporais\n>>> YouTube praticamente zerado oferece campo virgem para crescimento exponencial",
+    "acoes": ">>> Reforçar produção matinal para recuperar gap de 60.000 PVs até 11h amanhã\n>>> Focar em 3-4 matérias de alta qualidade por editoria em vez de volume excessivo\n>>> Implementar checklist pré-publicação para evitar matérias com zero acessos\n>>> Intensificar distribuição em redes sociais com meta de 10.000 PVs vindos destes canais\n>>> Priorizar conteúdo de Cultura e Social que demonstram maior eficiência por publicação",
+    "metaacumulada": "A meta diária de 114.673 foi calculada dividindo-se os 439.345 PVs restantes para atingir 6 milhões mensais pelos dias remanescentes. Com o resultado positivo de hoje, a meta de amanhã diminui para 109.837 PVs, representando a necessidade de manter ritmo constante nos 4 dias finais. Esta meta dinâmica se ajusta diariamente conforme performance, exigindo 419.982 PVs nos próximos 4 dias para o sucesso mensal.",
+    "historicodia": ">>> Performance 32% inferior à média de 197.202 PVs do mesmo dia da semana nas últimas 8 semanas\n>>> Resultado abaixo da média 30 dias que registra 209.837 PVs, sinalizando necessidade de recuperação\n>>> Apesar do gap histórico, tendência de 30 dias mostra crescimento de 34% vs período anterior",
+    "historicomes": ">>> Acumulado mensal de 5.560.655 supera em 26% os 4.403.589 do mesmo período do mês anterior\n>>> Projeção de fechamento em 6.120.000 PVs caso mantenha-se média atual dos últimos dias\n>>> Faltam apenas 439.345 PVs para meta mensal, representando 7,3% do objetivo restante",
+    "tendencia": "A média dos últimos 30 dias (209.837) supera em 34% o período anterior (156.036), confirmando trajetória ascendente do portal. O melhor mês da história foi julho/25 com 13.625.154 PVs, enquanto o pior registro ocorreu em fevereiro/25 com 4.527.477 PVs, demonstrando amplitude de performance e potencial de crescimento.",
+    "alerta": "\"Meta mensal de 6 milhões exige média de 109.837 PVs diários nos próximos 4 dias, demandando foco total em conteúdo de alta performance e distribuição otimizada.\"",
+    "licao": "O dia demonstrou que recuperação noturna pode salvar metas quando manhã e tarde apresentam déficit, mas a dependência desta estratégia representa risco desnecessário. Conteúdo evergreen sustenta 76% do tráfego, comprovando valor do investimento em matérias atemporais, enquanto eficiência editorial varia drasticamente entre editorias. \"Consistência ao longo do dia vale mais que recuperação heroica no final.\"",
+    "tendencias": ">>> Jannik Sinner enfrenta argentino em Roland Garros: entenda como assistir no Brasil\n--- Editoria: Esportes\n--- Ângulo ES: Orientar torcedores capixabas sobre horários e onde assistir as partidas do torneio francês, destacando o interesse crescente pelo tênis no estado\n--- Por que performa: Sinner está entre os trending topics com mais de 2000 buscas devido ao confronto em Roland Garros\n--- Tipo: Serviço\n\n>>> Copa do Mundo 2026: como será a estreia do Brasil na próxima edição\n--- Editoria: Esportes  \n--- Ângulo ES: Expectativas dos torcedores capixabas para a próxima Copa, lembrando a participação de jogadores do ES em seleções passadas\n--- Por que performa: \"Estreia do Brasil na Copa\" está em alta com mais de 200 buscas, gerando nostalgia e expectativa\n--- Tipo: Explicativo\n\n>>> Conta de luz no ES: entenda como mudanças no setor elétrico podem afetar sua fatura\n--- Editoria: Economia\n--- Ângulo ES: Impacto direto nas contas de energia dos capixabas, comparando com situações de outros estados como Paraná (Copel)\n--- Por que performa: Copel está trending com 500+ buscas devido a mudanças no setor energético nacional\n--- Tipo: Explicativo\n\n>>> Ingressos online: 5 dicas para não cair em golpes ao comprar pelo Ticketmaster\n--- Editoria: Cultura\n--- Ângulo ES: Proteger consumidores capixabas que compram ingressos para shows no ES ou viajam para eventos em outros estados\n--- Por que performa: Ticketmaster tem mais de 5000 buscas, indicando alta procura por ingressos\n--- Tipo: Lista\n\n>>> Pesquisa eleitoral: como funciona a metodologia dos institutos de opinião\n--- Editoria: Política\n--- Ângulo ES: Explicar para o eleitor capixaba como interpretar pesquisas eleitorais, especialmente em ano de eleições municipais\n--- Por que performa: \"Pesquisa Meio/Ideia\" está em alta com 2000+ buscas devido aos resultados divulgados\n--- Tipo: Explicativo\n\n>>> Shows em Vitória: programação de eventos musicais para junho no ES\n--- Editoria: Cultura\n--- Ângulo ES: Agenda cultural completa para o público capixaba, incluindo shows nacionais e eventos locais\n--- Por que performa: Ticket Master trending indica interesse por eventos musicais e compra de ingressos\n--- Tipo: Serviço\n\n>>> Tênis brasileiro: jovens promessas seguem os passos de Gustavo Kuerten\n--- Editoria: Esportes\n--- Ângulo ES: Inspirar jovens tenistas capixabas e destacar iniciativas esportivas do estado na modalidade\n--- Por que performa: Learner Tien está trending por conquistas no tênis, gerando interesse na modalidade\n--- Tipo: Notícia\n\n>>> Futebol internacional: como acompanhar jogadores brasileiros no exterior\n--- Editoria: Esportes\n--- Ângulo ES: Satisfazer curiosidade dos torcedores capixabas sobre brasileiros jogando fora, incluindo ex-jogadores de clubes locais\n--- Por que performa: Moise Kouame está em alta, demonstrando interesse por futebol internacional\n--- Tipo: Serviço\n\n>>> Libertadores e Sul-Americana: guia completo dos times brasileiros nas competições\n--- Editoria: Esportes\n--- Ângulo ES: Informar torcedores capixabas sobre o desempenho dos clubes brasileiros, incluindo horários dos jogos\n--- Por que performa: \"Grêmio x Bolívar\" indica interesse nas competições continentais\n--- Tipo: Explicativo\n\n>>> Roland Garros 2024: brasileiros em ação e como acompanhar o torneio francês\n--- Editoria: Esportes\n--- Ângulo ES: Despertar interesse dos capixabas pelo tênis e orientar sobre transmissões do Grand Slam francês\n--- Por que performa: Múltiplos tenistas estão trending devido aos jogos de Roland Garros\n--- Tipo: Serviço"
+  },
+  "tendencias": [
+    {
+      "titulo": "sinner",
+      "trafico": "2000+",
+      "contexto": "Who is Juan Manuel Cerundolo, the man facing Sinner at Roland Garros?"
+    },
+    {
+      "titulo": "estreia do brasil na copa",
+      "trafico": "200+",
+      "contexto": "Brasil nas Copas: 1954, a estreia da Amarelinha em Mundiais"
+    },
+    {
+      "titulo": "copel",
+      "trafico": "500+",
+      "contexto": "Usinas reversíveis podem ganhar espaço com fim de contratos de hidrelétricas"
+    },
+    {
+      "titulo": "facundo díaz acosta",
+      "trafico": "100+",
+      "contexto": "Semana de impulso argentino en la gira europea sobre polvo de ladrillo"
+    },
+    {
+      "titulo": "ticket master",
+      "trafico": "500+",
+      "contexto": "Maria Rita: Redescobrir Vol. 2 - São Paulo"
+    },
+    {
+      "titulo": "ticketmaster",
+      "trafico": "5000+",
+      "contexto": ""
+    },
+    {
+      "titulo": "pesquisa meio/ideia",
+      "trafico": "2000+",
+      "contexto": "Lula abre vantagem sobre Flávio no 2º turno após caso &apos;Dark Horse&apos;, aponta Meio Ideia"
+    },
+    {
+      "titulo": "learner tien",
+      "trafico": "200+",
+      "contexto": "Tien atinge seu melhor ranking e Buse ameaça top 30 de Fonseca"
+    },
+    {
+      "titulo": "moise kouame",
+      "trafico": "200+",
+      "contexto": "Sur les traces de Moïse Kouame le « matcheur » : « Très tôt, il a su se battre »"
+    },
+    {
+      "titulo": "gremio x bolivar",
+      "trafico": "100+",
+      "contexto": "Próximo adversário do Grêmio na Sul-Americana está definido; confira"
+    }
+  ]
+}
