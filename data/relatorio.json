@@ -1,6 +1,6 @@
 {
   "dataDisplay": "27/05/2026",
-  "geradoEm": "2026-05-28T13:07:56.109Z",
+  "geradoEm": "2026-05-28T13:45:18.267Z",
   "pvTotal": 134016,
   "pctMeta": 117,
   "metaHoje": 114673,
@@ -9,10 +9,10 @@
   "deficitOntem": 0,
   "metaDiaria": 200000,
   "metaMensal": 6000000,
-  "usuarios": 50979,
-  "sessions": 77926,
-  "pgsPorSessao": "1.72",
-  "tempoMedio": "3min22s",
+  "usuarios": 50881,
+  "sessions": 79991,
+  "pgsPorSessao": "1.68",
+  "tempoMedio": "2min55s",
   "pvManha": 42304,
   "pvTarde": 46657,
   "pvNoite": 33093,
@@ -138,12 +138,12 @@
   "origens": [
     {
       "canal": "Google Orgânico",
-      "pv": 70603,
+      "pv": 70639,
       "pct": 53
     },
     {
       "canal": "Direto",
-      "pv": 49253,
+      "pv": 49266,
       "pct": 37
     },
     {
@@ -153,12 +153,12 @@
     },
     {
       "canal": "Links externos",
-      "pv": 5238,
+      "pv": 5249,
       "pct": 4
     },
     {
       "canal": "Não identificado",
-      "pv": 747,
+      "pv": 688,
       "pct": 1
     },
     {
@@ -169,11 +169,6 @@
     {
       "canal": "E-mail",
       "pv": 6,
-      "pct": 0
-    },
-    {
-      "canal": "Cross-network",
-      "pv": 1,
       "pct": 0
     }
   ],
@@ -306,33 +301,43 @@
     ]
   },
   "analises": {
-    "resumo": "O Folha Vitória registrou 134.016 page views no dia 27/05/2026, superando a meta diária de 114.673 em 17% e somando +19.343 acessos além do esperado. A distribuição de tráfego mostrou manhã com 42.304 PVs, tarde liderando com 46.657 PVs e noite com 33.093 PVs. O resultado positivo mantém o portal no caminho para atingir a meta mensal de 6 milhões, faltando apenas 439.345 PVs nos últimos 4 dias. Com 50.979 usuários únicos e 77.926 sessões, o engajamento se manteve estável com 1,72 páginas por sessão.",
-    "horarios": ">>> Manhã iniciou aquém do esperado com 54.266 PVs até 11h contra meta de 60.000, ficando 9,5% abaixo\n>>> Tarde manteve o déficit acumulando 100.923 PVs até 17h contra meta de 130.000, com gap de 22%\n>>> Noite recuperou o ritmo e garantiu 125.364 PVs até 21h, superando a meta de 114.673 e salvando o dia\n>>> Período vespertino foi o mais produtivo com 46.657 PVs entre 12h-17h, seguido da manhã com 42.304 PVs",
-    "padrao": ">>> Conteúdo de celebridades e tragédias dominou com matéria sobre morte de atriz da Globo liderando (3.412 PVs)\n>>> Matérias de serviço e eventos locais mantêm força, como Feira dos Municípios em segundo lugar (3.340 PVs)\n>>> Tutoriais e dicas práticas continuam performando bem, caso das \"10 dicas para unhas\" (2.638 PVs)\n>>> Conteúdo evergreen representa 76% do tráfego total, mostrando importância do arquivo histórico",
-    "editorias": ">>> Social lidera em eficiência com 1.470 PVs por matéria, publicando apenas 2 conteúdos certeiros\n>>> Cultura mantém alta performance com 750 PVs por matéria em 6 publicações focadas\n>>> Polícia equilibra volume e resultado com 531 PVs por matéria em 9 publicações\n>>> Trânsito surpreende com 514 PVs por matéria, aproveitando bem as 5 publicações do dia\n>>> Saúde e Economia apresentam baixa eficiência com 151 e 158 PVs por matéria respectivamente",
-    "trafego": ">>> Google Orgânico consolida liderança com 53% do tráfego (70.603 PVs), mostrando força do SEO\n>>> Tráfego direto representa 37% (49.253 PVs), indicando audiência fiel e lembrança de marca\n>>> Redes sociais contribuem com apenas 6% (8.131 PVs), sinalizando necessidade de maior investimento\n>>> Links externos somam 4% (5.238 PVs), demonstrando potencial de parcerias e compartilhamentos\n>>> YouTube praticamente inexistente com 37 PVs, representando oportunidade perdida de tráfego",
-    "eficiencia": "A produção de 106 matérias resultou em 31.852 PVs diretos, gerando média real de 300 PVs por conteúdo. Onze matérias não registraram acessos, representando 10% de taxa de rejeição na produção editorial, índice que demanda atenção para aproveitamento máximo dos recursos.",
-    "erros": ">>> Manhã perdeu ritmo com performance 9,5% abaixo da meta, comprometendo o início do dia\n>>> Onze matérias publicadas não geraram nenhum acesso, desperdiçando tempo de produção\n>>> Redes sociais contribuem com apenas 6% do tráfego, subutilizando canal importante\n>>> YouTube registra apenas 37 PVs, ignorando potencial de tráfego multiplataforma",
-    "oportunidades": ">>> Economia publicou 12 matérias mas gerou baixa média de 158 PVs, necessitando revisão editorial\n>>> Saúde tem potencial inexplorado com apenas 151 PVs por matéria em temas de interesse público\n>>> Redes sociais podem triplicar contribuição com estratégia mais agressiva de compartilhamento\n>>> Conteúdo evergreen representa 76% do tráfego, justificando investimento em matérias atemporais\n>>> YouTube praticamente zerado oferece campo virgem para crescimento exponencial",
-    "acoes": ">>> Reforçar produção matinal para recuperar gap de 60.000 PVs até 11h amanhã\n>>> Focar em 3-4 matérias de alta qualidade por editoria em vez de volume excessivo\n>>> Implementar checklist pré-publicação para evitar matérias com zero acessos\n>>> Intensificar distribuição em redes sociais com meta de 10.000 PVs vindos destes canais\n>>> Priorizar conteúdo de Cultura e Social que demonstram maior eficiência por publicação",
-    "metaacumulada": "A meta diária de 114.673 foi calculada dividindo-se os 439.345 PVs restantes para atingir 6 milhões mensais pelos dias remanescentes. Com o resultado positivo de hoje, a meta de amanhã diminui para 109.837 PVs, representando a necessidade de manter ritmo constante nos 4 dias finais. Esta meta dinâmica se ajusta diariamente conforme performance, exigindo 419.982 PVs nos próximos 4 dias para o sucesso mensal.",
-    "historicodia": ">>> Performance 32% inferior à média de 197.202 PVs do mesmo dia da semana nas últimas 8 semanas\n>>> Resultado abaixo da média 30 dias que registra 209.837 PVs, sinalizando necessidade de recuperação\n>>> Apesar do gap histórico, tendência de 30 dias mostra crescimento de 34% vs período anterior",
-    "historicomes": ">>> Acumulado mensal de 5.560.655 supera em 26% os 4.403.589 do mesmo período do mês anterior\n>>> Projeção de fechamento em 6.120.000 PVs caso mantenha-se média atual dos últimos dias\n>>> Faltam apenas 439.345 PVs para meta mensal, representando 7,3% do objetivo restante",
-    "tendencia": "A média dos últimos 30 dias (209.837) supera em 34% o período anterior (156.036), confirmando trajetória ascendente do portal. O melhor mês da história foi julho/25 com 13.625.154 PVs, enquanto o pior registro ocorreu em fevereiro/25 com 4.527.477 PVs, demonstrando amplitude de performance e potencial de crescimento.",
-    "alerta": "\"Meta mensal de 6 milhões exige média de 109.837 PVs diários nos próximos 4 dias, demandando foco total em conteúdo de alta performance e distribuição otimizada.\"",
-    "licao": "O dia demonstrou que recuperação noturna pode salvar metas quando manhã e tarde apresentam déficit, mas a dependência desta estratégia representa risco desnecessário. Conteúdo evergreen sustenta 76% do tráfego, comprovando valor do investimento em matérias atemporais, enquanto eficiência editorial varia drasticamente entre editorias. \"Consistência ao longo do dia vale mais que recuperação heroica no final.\"",
-    "tendencias": ">>> Jannik Sinner enfrenta argentino em Roland Garros: entenda como assistir no Brasil\n--- Editoria: Esportes\n--- Ângulo ES: Orientar torcedores capixabas sobre horários e onde assistir as partidas do torneio francês, destacando o interesse crescente pelo tênis no estado\n--- Por que performa: Sinner está entre os trending topics com mais de 2000 buscas devido ao confronto em Roland Garros\n--- Tipo: Serviço\n\n>>> Copa do Mundo 2026: como será a estreia do Brasil na próxima edição\n--- Editoria: Esportes  \n--- Ângulo ES: Expectativas dos torcedores capixabas para a próxima Copa, lembrando a participação de jogadores do ES em seleções passadas\n--- Por que performa: \"Estreia do Brasil na Copa\" está em alta com mais de 200 buscas, gerando nostalgia e expectativa\n--- Tipo: Explicativo\n\n>>> Conta de luz no ES: entenda como mudanças no setor elétrico podem afetar sua fatura\n--- Editoria: Economia\n--- Ângulo ES: Impacto direto nas contas de energia dos capixabas, comparando com situações de outros estados como Paraná (Copel)\n--- Por que performa: Copel está trending com 500+ buscas devido a mudanças no setor energético nacional\n--- Tipo: Explicativo\n\n>>> Ingressos online: 5 dicas para não cair em golpes ao comprar pelo Ticketmaster\n--- Editoria: Cultura\n--- Ângulo ES: Proteger consumidores capixabas que compram ingressos para shows no ES ou viajam para eventos em outros estados\n--- Por que performa: Ticketmaster tem mais de 5000 buscas, indicando alta procura por ingressos\n--- Tipo: Lista\n\n>>> Pesquisa eleitoral: como funciona a metodologia dos institutos de opinião\n--- Editoria: Política\n--- Ângulo ES: Explicar para o eleitor capixaba como interpretar pesquisas eleitorais, especialmente em ano de eleições municipais\n--- Por que performa: \"Pesquisa Meio/Ideia\" está em alta com 2000+ buscas devido aos resultados divulgados\n--- Tipo: Explicativo\n\n>>> Shows em Vitória: programação de eventos musicais para junho no ES\n--- Editoria: Cultura\n--- Ângulo ES: Agenda cultural completa para o público capixaba, incluindo shows nacionais e eventos locais\n--- Por que performa: Ticket Master trending indica interesse por eventos musicais e compra de ingressos\n--- Tipo: Serviço\n\n>>> Tênis brasileiro: jovens promessas seguem os passos de Gustavo Kuerten\n--- Editoria: Esportes\n--- Ângulo ES: Inspirar jovens tenistas capixabas e destacar iniciativas esportivas do estado na modalidade\n--- Por que performa: Learner Tien está trending por conquistas no tênis, gerando interesse na modalidade\n--- Tipo: Notícia\n\n>>> Futebol internacional: como acompanhar jogadores brasileiros no exterior\n--- Editoria: Esportes\n--- Ângulo ES: Satisfazer curiosidade dos torcedores capixabas sobre brasileiros jogando fora, incluindo ex-jogadores de clubes locais\n--- Por que performa: Moise Kouame está em alta, demonstrando interesse por futebol internacional\n--- Tipo: Serviço\n\n>>> Libertadores e Sul-Americana: guia completo dos times brasileiros nas competições\n--- Editoria: Esportes\n--- Ângulo ES: Informar torcedores capixabas sobre o desempenho dos clubes brasileiros, incluindo horários dos jogos\n--- Por que performa: \"Grêmio x Bolívar\" indica interesse nas competições continentais\n--- Tipo: Explicativo\n\n>>> Roland Garros 2024: brasileiros em ação e como acompanhar o torneio francês\n--- Editoria: Esportes\n--- Ângulo ES: Despertar interesse dos capixabas pelo tênis e orientar sobre transmissões do Grand Slam francês\n--- Por que performa: Múltiplos tenistas estão trending devido aos jogos de Roland Garros\n--- Tipo: Serviço"
+    "resumo": "Superamos a meta do dia com 134.016 PVs contra os 114.673 esperados, um resultado 17% superior que nos coloca em posição favorável para fechar o mês. A tarde foi o período mais forte com 46.657 PVs, seguida pela manhã com 42.304 PVs. Embora tenhamos ficado abaixo da meta nos checkpoints intermediários, conseguimos recuperar e bater a meta até às 21h. O desempenho consolida nossa trajetória positiva rumo aos 6 milhões de PVs mensais, faltando apenas 439.345 para atingir o objetivo.",
+    "horarios": ">>> Manhã registrou 42.304 PVs, representando o segundo melhor período do dia\n>>> Tarde liderou com 46.657 PVs, concentrando o maior volume de audiência \n>>> Noite fechou com 33.093 PVs, mostrando queda natural no engajamento\n>>> Checkpoint das 11h ficou em 54.266 contra meta de 60.000, sinalizando início mais lento\n>>> Checkpoint das 17h mostrou 100.923 contra meta de 130.000, mantendo distância da meta\n>>> Checkpoint das 21h alcançou 125.364, superando a meta diária de 114.673",
+    "padrao": ">>> Conteúdos de celebridades com drama pessoal dominaram o topo, como a matéria sobre o câncer da atriz da Globo\n>>> Matérias de utilidade pública como dicas de beleza mantêm relevância constante no histórico\n>>> Conteúdo local sobre eventos regionais como a Feira dos Municípios gera engajamento sustentado\n>>> Notícias de saúde e segurança pública continuam atraindo audiência significativa\n>>> Previsão do tempo com impacto regional mantém performance consistente",
+    "editorias": ">>> Social lidera em eficiência com 1.470 PVs por matéria, aproveitando bem conteúdos de alto engajamento\n>>> Cultura mantém boa performance com 750 PVs por matéria, beneficiando-se do interesse por celebridades\n>>> Polícia apresenta 531 PVs por matéria, confirmando o apelo do conteúdo de segurança\n>>> Trânsito atinge 514 PVs por matéria, mostrando relevância do conteúdo de utilidade\n>>> Cotidiano registra 326 PVs por matéria, performance mediana para volume alto de produção\n>>> Economia e Saúde ficam abaixo da média com 158 e 151 PVs por matéria respectivamente",
+    "trafego": ">>> Google Orgânico domina com 53% do tráfego, evidenciando boa otimização SEO e relevância do conteúdo\n>>> Tráfego direto representa 37%, indicando forte fidelização da audiência e reconhecimento da marca\n>>> Redes sociais contribuem com apenas 6%, sinalizando oportunidade de crescimento neste canal\n>>> Links externos respondem por 4%, mostrando potencial para parcerias e compartilhamentos\n>>> Canais como YouTube e e-mail têm participação insignificante, representando campos inexplorados",
+    "eficiencia": "Das 106 matérias publicadas, 95 geraram audiência com média real de 300 PVs por matéria. O índice de 11 matérias sem acesso (10,4%) está dentro do aceitável, mas pode ser reduzido com melhor curadoria e otimização de títulos.",
+    "erros": ">>> Início de dia mais lento evidenciado pelo checkpoint das 11h abaixo da meta em 5.734 PVs\n>>> Produção excessiva em Economia (12 matérias) com baixo retorno de audiência (158 PVs/matéria)\n>>> Subutilização das redes sociais, que representam apenas 6% do tráfego total\n>>> Falta de estratégia para YouTube e e-mail marketing, canais praticamente inexplorados",
+    "oportunidades": ">>> Ampliar cobertura de conteúdos sobre celebridades e drama pessoal, que demonstraram alto engajamento\n>>> Investir em conteúdo de utilidade pública e dicas práticas, que mantêm performance constante\n>>> Desenvolver estratégia específica para redes sociais, aproveitando o potencial de viralização\n>>> Otimizar títulos e abordagem das matérias de Economia para melhorar sua performance\n>>> Explorar parcerias para aumentar o tráfego de links externos",
+    "acoes": ">>> Intensificar produção matutina para garantir checkpoint das 11h mais próximo da meta de 109.837\n>>> Priorizar conteúdos de Social e Cultura na programação, aproveitando suas altas médias de audiência\n>>> Reduzir volume de produção em Economia e focar na qualidade e relevância das matérias\n>>> Implementar estratégia de distribuição nas redes sociais para amplificar o alcance\n>>> Monitorar performance em tempo real para ajustes durante o dia e garantir meta diária",
+    "metaacumulada": "A meta dinâmica funciona redistribuindo o objetivo mensal pelos dias restantes. Com 439.345 PVs ainda necessários para atingir os 6 milhões mensais e 4 dias restantes, a meta de amanhã é de 109.837 PVs. Este cálculo considera o acumulado atual de 5.560.655 PVs e redistribui o restante igualmente pelos dias finais. O resultado de hoje (17% acima da meta) reduz a pressão sobre os próximos dias, mas mantém a necessidade de performance consistente para fechar o mês no objetivo.",
+    "historicodia": ">>> Performance 32% inferior ao mesmo dia da semana nas últimas 8 semanas (197.202 PVs de média)\n>>> Resultado 36% abaixo da média dos últimos 30 dias (209.837 PVs)\n>>> Desempenho indica possível sazonalidade ou mudança no padrão de consumo\n>>> Apesar da queda relativa, o resultado ainda atendeu à meta ajustada do dia",
+    "historicomes": ">>> Acumulado mensal 26% superior ao mesmo período do mês anterior (4.403.589 PVs)\n>>> Tendência de crescimento de 34% comparando médias de 30 dias\n>>> Projeção indica fechamento do mês próximo aos 6 milhões se mantida a performance\n>>> Trajetória positiva consolida recuperação após períodos anteriores mais fracos",
+    "tendencia": "A tendência de 30 dias mostra crescimento robusto de 34% comparando com o período anterior, indicando recuperação consistente da audiência. O melhor mês da história foi julho de 2025 com 13.625.154 PVs, enquanto o pior foi fevereiro de 2025 com 4.527.477 PVs, mostrando a amplitude de variação sazonal do portal.",
+    "alerta": "\"A queda de 32% comparada ao mesmo dia da semana merece atenção e monitoramento para identificar se representa mudança estrutural no comportamento da audiência.\"",
+    "licao": "O dia reforça que matérias de alto impacto emocional, especialmente sobre celebridades, continuam sendo o motor principal da audiência, enquanto conteúdo de utilidade pública garante performance estável. A distribuição equilibrada entre tráfego orgânico e direto mostra saúde do portal, mas as redes sociais representam a maior oportunidade não explorada. \"Meta batida não significa acomodação, mas sim base sólida para voos maiores.\"",
+    "tendencias": ">>> Raízen converte 45% da dívida em ações: entenda o que muda para os postos de combustível no ES\n--- Editoria: Economia\n--- Ângulo ES: Impacto da reestruturação da Raízen nos preços dos combustíveis nos postos Shell do estado e reflexos para o consumidor capixaba\n--- Por que performa: Alto volume de buscas sobre \"raiz4\" relacionado ao plano de reestruturação da empresa\n--- Tipo: Explicativo\n\n>>> Jannik Sinner passa mal durante Roland Garros e preocupa fãs: acompanhe AO VIVO\n--- Editoria: Esportes\n--- Ângulo ES: Transmissão ao vivo do jogo com atualizações em tempo real para os fãs de tênis capixabas\n--- Por que performa: Trending topic \"sinner\" com 5000+ buscas sobre o mal-estar do tenista durante a partida\n--- Tipo: Notícia\n\n>>> Ator de \"Quem Ama Cuida\" deixa novela após uma semana: Rômulo Arantes Neto explica saída\n--- Editoria: Entretenimento\n--- Ângulo ES: Repercussão da saída do ator entre telespectadores capixabas da novela da Record\n--- Por que performa: Busca crescente sobre \"romulo arantes neto\" devido à polêmica saída da novela\n--- Tipo: Notícia\n\n>>> Copel investe em usinas reversíveis: tecnologia pode chegar ao Espírito Santo\n--- Editoria: Economia\n--- Ângulo ES: Potencial de implementação de usinas reversíveis no ES com o fim dos contratos de hidrelétricas e impacto na matriz energética capixaba\n--- Por que performa: Trending \"copel\" sobre mudanças no setor elétrico brasileiro\n--- Tipo: Análise\n\n>>> Show de Maria Rita em São Paulo tem ingressos esgotados no Ticketmaster: veja próximas datas\n--- Editoria: Entretenimento\n--- Ângulo ES: Expectativa dos fãs capixabas por possível show da cantora no ES e histórico de apresentações no estado\n--- Por que performa: Picos de busca por \"ticketmaster\" e \"ticket master\" relacionados ao show da cantora\n--- Tipo: Serviço\n\n>>> Pesquisa Meio/Ideia mostra Lula à frente de Flávio Dino para 2026: veja os números\n--- Editoria: Política\n--- Ângulo ES: Como o cenário político nacional pode influenciar as eleições estaduais no ES e posicionamento dos políticos capixabas\n--- Por que performa: 2000+ buscas sobre \"pesquisa meio/ideia\" após divulgação dos números eleitorais\n--- Tipo: Notícia\n\n>>> Tenista argentino Cerundolo enfrenta Sinner em Roland Garros: acompanhe o placar\n--- Editoria: Esportes\n--- Ângulo ES: Cobertura da partida para os entusiastas de tênis do estado, com foco na recuperação de Sinner após mal-estar\n--- Por que performa: Búsicas crescentes sobre \"cerundolo\" devido ao confronto em Roland Garros\n--- Tipo: Notícia\n\n>>> Facundo Díaz Acosta avança no saibro europeu: jovens tenistas sul-americanos em ascensão\n--- Editoria: Esportes\n--- Ângulo ES: Inspiração para jovens tenistas capixabas com o exemplo dos sul-americanos no circuito europeu\n--- Por que performa: Trending \"facundo díaz acosta\" sobre performance na temporada europeia de saibro\n--- Tipo: Análise\n\n>>> Learner Tien escapa de derrota dramática em Roland Garros: americano surpreende\n--- Editoria: Esportes\n--- Ângulo ES: Emoção do tênis internacional para fãs capixabas acompanharem as viradas dramáticas do torneio\n--- Por que performa: Buscas sobre \"learner tien\" após vitória suada contra argentino\n--- Tipo: Notícia\n\n>>> Problemas no Ticketmaster afetam vendas de ingressos: saiba como evitar transtornos\n--- Editoria: Serviço\n--- Ângulo ES: Orientações para capixabas que compram ingressos online, incluindo shows que passam por Vitória e região\n--- Por que performa: Alto volume de buscas sobre \"ticketmaster\" indica problemas na plataforma\n--- Tipo: Serviço"
   },
   "tendencias": [
     {
-      "titulo": "sinner",
-      "trafico": "2000+",
-      "contexto": "Who is Juan Manuel Cerundolo, the man facing Sinner at Roland Garros?"
+      "titulo": "raiz4",
+      "trafico": "500+",
+      "contexto": "Plano de reestruturação da Raízen prevê conversão de 45% da dívida em ações"
     },
     {
-      "titulo": "estreia do brasil na copa",
+      "titulo": "cerundolo",
       "trafico": "200+",
-      "contexto": "Brasil nas Copas: 1954, a estreia da Amarelinha em Mundiais"
+      "contexto": "AO VIVO - Jannik Sinner enfrenta JM Cerundolo em Roland Garros"
+    },
+    {
+      "titulo": "romulo arantes neto",
+      "trafico": "200+",
+      "contexto": "Saiba por que ator de Quem Ama Cuida precisou deixar a novela após uma semana"
+    },
+    {
+      "titulo": "sinner",
+      "trafico": "5000+",
+      "contexto": "Sinner, on brink of R3, takes medical timeout and forced into fourth set at Roland Garros"
     },
     {
       "titulo": "copel",
@@ -350,29 +355,19 @@
       "contexto": "Maria Rita: Redescobrir Vol. 2 - São Paulo"
     },
     {
-      "titulo": "ticketmaster",
-      "trafico": "5000+",
-      "contexto": ""
-    },
-    {
       "titulo": "pesquisa meio/ideia",
       "trafico": "2000+",
       "contexto": "Lula abre vantagem sobre Flávio no 2º turno após caso &apos;Dark Horse&apos;, aponta Meio Ideia"
     },
     {
+      "titulo": "ticketmaster",
+      "trafico": "5000+",
+      "contexto": ""
+    },
+    {
       "titulo": "learner tien",
       "trafico": "200+",
-      "contexto": "Tien atinge seu melhor ranking e Buse ameaça top 30 de Fonseca"
-    },
-    {
-      "titulo": "moise kouame",
-      "trafico": "200+",
-      "contexto": "Sur les traces de Moïse Kouame le « matcheur » : « Très tôt, il a su se battre »"
-    },
-    {
-      "titulo": "gremio x bolivar",
-      "trafico": "100+",
-      "contexto": "Próximo adversário do Grêmio na Sul-Americana está definido; confira"
+      "contexto": "Tien escapa da derrota para argentino e desafia Cobolli"
     }
   ]
 }
