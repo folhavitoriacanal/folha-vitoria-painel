@@ -1,0 +1,368 @@
+{
+  "dataDisplay": "29/05/2026",
+  "geradoEm": "2026-05-30T09:19:11.286Z",
+  "pvTotal": 157903,
+  "pctMeta": 173,
+  "metaHoje": 91242,
+  "metaAmanha": 57911,
+  "saldoOntem": 66661,
+  "deficitOntem": 0,
+  "metaDiaria": 200000,
+  "metaMensal": 6000000,
+  "usuarios": 73453,
+  "sessions": 105811,
+  "pgsPorSessao": "1.49",
+  "tempoMedio": "2min26s",
+  "pvManha": 50842,
+  "pvTarde": 50812,
+  "pvNoite": 38782,
+  "checkpoints": [
+    {
+      "label": "Até 11h",
+      "pv": 68309,
+      "meta": 60000,
+      "status": "META BATIDA"
+    },
+    {
+      "label": "Até 17h",
+      "pv": 119121,
+      "meta": 130000,
+      "status": "PERTO DA META"
+    },
+    {
+      "label": "Até 21h",
+      "pv": 147288,
+      "meta": 91242,
+      "status": "META BATIDA"
+    }
+  ],
+  "producao": {
+    "disponivel": true,
+    "totalPublicadas": 121,
+    "pvPublicadas": 30209,
+    "mediaRealPorMateria": 250,
+    "materiasComAcesso": 106,
+    "materiasSemAcesso": 15,
+    "pvAntigos": 127694
+  },
+  "topMaterias": [
+    {
+      "pos": 1,
+      "titulo": "\"Excursão dos Encalhados\" leva solteiros para Santa Teresa",
+      "pv": 7674,
+      "publicadaHoje": false
+    },
+    {
+      "pos": 2,
+      "titulo": "Uber e 99 têm novo concorrente no ES: uma cooperativa com 5 mil motoristas",
+      "pv": 4517,
+      "publicadaHoje": false
+    },
+    {
+      "pos": 3,
+      "titulo": "Transcol terá nova linha em Cariacica; veja trajetos e HORÁRIO",
+      "pv": 4226,
+      "publicadaHoje": false
+    },
+    {
+      "pos": 4,
+      "titulo": "Nuvem diferente chama atenção no ES; meteorologista explica fenômeno raro",
+      "pv": 2074,
+      "publicadaHoje": true
+    },
+    {
+      "pos": 5,
+      "titulo": "19 chefs em jantar beneficente com banda e estação de doces",
+      "pv": 1702,
+      "publicadaHoje": true
+    }
+  ],
+  "editorias": [
+    {
+      "nome": "cultura",
+      "pvTotal": 14782,
+      "pvPublicadas": 2515,
+      "publicadas": 10,
+      "urlsAcessadas": 52,
+      "mediaCorreta": 252
+    },
+    {
+      "nome": "transito",
+      "pvTotal": 9546,
+      "pvPublicadas": 2857,
+      "publicadas": 4,
+      "urlsAcessadas": 22,
+      "mediaCorreta": 714
+    },
+    {
+      "nome": "policia",
+      "pvTotal": 8625,
+      "pvPublicadas": 5361,
+      "publicadas": 11,
+      "urlsAcessadas": 46,
+      "mediaCorreta": 487
+    },
+    {
+      "nome": "folha-business",
+      "pvTotal": 5941,
+      "pvPublicadas": 997,
+      "publicadas": 2,
+      "urlsAcessadas": 13,
+      "mediaCorreta": 499
+    },
+    {
+      "nome": "economia",
+      "pvTotal": 5716,
+      "pvPublicadas": 3229,
+      "publicadas": 14,
+      "urlsAcessadas": 46,
+      "mediaCorreta": 231
+    },
+    {
+      "nome": "social",
+      "pvTotal": 3897,
+      "pvPublicadas": 3030,
+      "publicadas": 2,
+      "urlsAcessadas": 18,
+      "mediaCorreta": 1515
+    },
+    {
+      "nome": "tempo",
+      "pvTotal": 3742,
+      "pvPublicadas": 2486,
+      "publicadas": 2,
+      "urlsAcessadas": 6,
+      "mediaCorreta": 1243
+    }
+  ],
+  "origens": [
+    {
+      "canal": "Direto",
+      "pv": 75284,
+      "pct": 48
+    },
+    {
+      "canal": "Google Orgânico",
+      "pv": 71609,
+      "pct": 45
+    },
+    {
+      "canal": "Social",
+      "pv": 7021,
+      "pct": 4
+    },
+    {
+      "canal": "Links externos",
+      "pv": 3205,
+      "pct": 2
+    },
+    {
+      "canal": "Não identificado",
+      "pv": 760,
+      "pct": 0
+    },
+    {
+      "canal": "YouTube",
+      "pv": 20,
+      "pct": 0
+    },
+    {
+      "canal": "E-mail",
+      "pv": 4,
+      "pct": 0
+    }
+  ],
+  "historico": {
+    "mediaMesmoDia": 184449,
+    "varMesmoDia": -14,
+    "media30": 204609,
+    "media30a": 165036,
+    "var30": 24,
+    "pvMesAtualAcum": 5884179,
+    "pvMesAntMesmoPer": 4887571,
+    "varMesAnt": 20,
+    "diasRestantes": 2,
+    "pvFaltaMes": 115821,
+    "mediaNecessaria": 57911,
+    "mediaMensal": 6856222,
+    "melhorMes": {
+      "mes": "202507",
+      "pv": 13625154,
+      "label": "Jul/25"
+    },
+    "piorMes": {
+      "mes": "202502",
+      "pv": 4527477,
+      "label": "Fev/25"
+    },
+    "mensal": [
+      {
+        "mes": "202501",
+        "pv": 7245874,
+        "label": "Jan/25",
+        "atual": false
+      },
+      {
+        "mes": "202502",
+        "pv": 4527477,
+        "label": "Fev/25",
+        "atual": false
+      },
+      {
+        "mes": "202503",
+        "pv": 5367201,
+        "label": "Mar/25",
+        "atual": false
+      },
+      {
+        "mes": "202504",
+        "pv": 6945113,
+        "label": "Abr/25",
+        "atual": false
+      },
+      {
+        "mes": "202505",
+        "pv": 6591733,
+        "label": "Mai/25",
+        "atual": false
+      },
+      {
+        "mes": "202506",
+        "pv": 11659575,
+        "label": "Jun/25",
+        "atual": false
+      },
+      {
+        "mes": "202507",
+        "pv": 13625154,
+        "label": "Jul/25",
+        "atual": false
+      },
+      {
+        "mes": "202508",
+        "pv": 10001619,
+        "label": "Ago/25",
+        "atual": false
+      },
+      {
+        "mes": "202509",
+        "pv": 6679985,
+        "label": "Set/25",
+        "atual": false
+      },
+      {
+        "mes": "202510",
+        "pv": 5336318,
+        "label": "Out/25",
+        "atual": false
+      },
+      {
+        "mes": "202511",
+        "pv": 4564202,
+        "label": "Nov/25",
+        "atual": false
+      },
+      {
+        "mes": "202512",
+        "pv": 5524739,
+        "label": "Dez/25",
+        "atual": false
+      },
+      {
+        "mes": "202601",
+        "pv": 4978658,
+        "label": "Jan/26",
+        "atual": false
+      },
+      {
+        "mes": "202602",
+        "pv": 6402972,
+        "label": "Fev/26",
+        "atual": false
+      },
+      {
+        "mes": "202603",
+        "pv": 5172054,
+        "label": "Mar/26",
+        "atual": false
+      },
+      {
+        "mes": "202604",
+        "pv": 5076878,
+        "label": "Abr/26",
+        "atual": false
+      },
+      {
+        "mes": "202605",
+        "pv": 5884179,
+        "label": "Mai/26",
+        "atual": true
+      }
+    ]
+  },
+  "analises": {
+    "resumo": "O Folha Vitória registrou 157.903 pageviews em 29/05/2026, superando em 173% a meta do dia de 91.242. A distribuição foi equilibrada entre manhã e tarde, com 50.842 e 50.812 pageviews respectivamente, enquanto a noite teve 38.782. O desempenho coloca o portal muito próximo de atingir a meta mensal de 6 milhões, faltando apenas 115.821 pageviews em dois dias. A audiência foi impulsionada principalmente por matérias antigas, que representaram 127.694 dos pageviews totais.",
+    "horarios": ">>> Manhã superou expectativas com 50.842 pageviews, batendo a meta de 60.000 até 11h com 68.309\n>>> Tarde manteve ritmo consistente com 50.812 pageviews, ficando próximo da meta de 130.000 até 17h com 119.121\n>>> Noite registrou 38.782 pageviews, permitindo bater a meta diária até 21h com 147.288\n>>> Checkpoint das 21h mostrou desempenho excepcional, superando a meta em 61%",
+    "padrao": ">>> Matérias de entretenimento e turismo lideram com \"Excursão dos Encalhados\" gerando 7.674 pageviews\n>>> Conteúdos de economia e negócios mostram força com cooperativa de motoristas em segundo lugar\n>>> Serviços públicos como transporte têm apelo duradouro, com linha do Transcol em terceiro\n>>> Meteorologia e fenômenos naturais geram interesse imediato quando bem explorados\n>>> Eventos gastronômicos e sociais demonstram potencial de engajamento local",
+    "editorias": ">>> Social lidera em eficiência com média de 1.515 pageviews por matéria publicada\n>>> Tempo mantém alta performance com 1.243 pageviews por matéria\n>>> Trânsito confirma relevância com 714 pageviews por matéria em apenas 4 publicações\n>>> Folha Business e Polícia equilibram com médias próximas de 500 pageviews\n>>> Cultura e Economia mostram volume alto mas médias menores, indicando diluição",
+    "trafego": ">>> Tráfego direto forte com 48% demonstra fidelização da audiência\n>>> Google orgânico com 45% confirma boa performance em SEO\n>>> Redes sociais com apenas 4% indicam potencial de crescimento não explorado\n>>> Links externos representam 2%, mostrando baixa viralização\n>>> YouTube praticamente inexistente sugere oportunidade perdida em vídeo",
+    "eficiencia": "Das 121 matérias publicadas ontem, 106 receberam acessos com média real de 250 pageviews por matéria. O índice de 15 matérias sem acesso (12%) está dentro do aceitável mas pode ser melhorado. A contribuição das matérias novas foi de 19% do total de pageviews do dia.",
+    "erros": ">>> 15 matérias publicadas não receberam nenhum acesso, indicando problemas de distribuição ou títulos\n>>> Redes sociais subutilizadas com apenas 4% do tráfego total\n>>> Noite com queda de performance, perdendo 12.000 pageviews comparado aos outros períodos\n>>> YouTube quase inexistente com apenas 20 pageviews em todo o dia",
+    "oportunidades": ">>> Replicar estratégia de conteúdos de serviço como trânsito e transporte público\n>>> Investir em matérias de entretenimento e turismo local que demonstram longevidade\n>>> Explorar mais conteúdos meteorológicos e fenômenos naturais regionais\n>>> Desenvolver mais eventos gastronômicos e sociais que geram engajamento\n>>> Fortalecer parcerias para aumentar links externos e amplificar alcance",
+    "acoes": ">>> Focar em 6-8 matérias de alta qualidade sobre serviços públicos e economia local\n>>> Intensificar distribuição nas redes sociais para aumentar os 4% atuais\n>>> Produzir conteúdo específico para período noturno visando equilibrar distribuição\n>>> Reforçar SEO em todas as publicações para manter os 45% do Google orgânico\n>>> Criar conteúdo multimídia para diversificar origens de tráfego",
+    "metaacumulada": "A meta diária foi calculada dinamicamente: (meta mensal de 6.000.000 − acumulado de 5.768.358 até 27/05) ÷ 2 dias restantes = 91.242. Com o resultado de hoje, faltam 115.821 pageviews para a meta mensal. A meta de amanhã será de 57.911 pageviews (115.821 ÷ 2 dias restantes), representando uma redução significativa e tornando a meta mensal altamente atingível.",
+    "historicodia": ">>> Performance 14% abaixo da média de mesmo dia da semana (184.449), indicando espaço para melhoria\n>>> Resultado 23% inferior à média dos últimos 30 dias (204.609)\n>>> Compensado pelo crescimento de 24% na tendência comparando últimos 30 dias com os 30 anteriores",
+    "historicomes": ">>> Acumulado mensal 20% superior ao mesmo período do mês anterior (4.887.571)\n>>> Projeção de fechamento do mês indica possível superação da meta de 6 milhões\n>>> Crescimento consistente demonstra evolução positiva da audiência",
+    "tendencia": "A tendência de 30 dias mostra crescimento de 24% comparado ao período anterior, indicando evolução positiva sustentada. O melhor mês da história foi julho/2025 com 13.625.154 pageviews, enquanto o pior foi fevereiro/2025 com 4.527.477, mostrando grande amplitude de performance sazonal.",
+    "alerta": "\"Meta de amanhã de apenas 57.911 pageviews pode gerar acomodação da equipe quando o potencial de audiência é muito maior.\"",
+    "licao": "O dia demonstrou que matérias antigas continuam sendo a força motriz da audiência, representando 81% dos pageviews totais. A longevidade do conteúdo confirma a importância de produzir material perene e bem otimizado para SEO. A eficiência das editorias Social e Tempo mostra que qualidade supera quantidade na geração de audiência. \"O segredo não está em publicar mais, mas em publicar conteúdo que perdura.\"",
+    "tendencias": ">>> Frente fria chega ao ES: veja a previsão do tempo para este final de semana\n--- Editoria: Cotidiano\n--- Ângulo ES: Previsão específica para o Espírito Santo, impacto nas praias capixabas e dicas de vestuário para o frio\n--- Por que performa: Trending topic com 200+ buscas sobre frente fria, interesse em previsão do tempo\n--- Tipo: Serviço\n\n>>> Dupla Sena acumula R$ 2,1 milhões: onde apostar no ES e horário do sorteio\n--- Editoria: Economia\n--- Ângulo ES: Casas lotéricas em Vitória e região metropolitana, últimos ganhadores capixabas de prêmios da Caixa\n--- Por que performa: Trending topic com 100+ buscas sobre Dupla Sena acumulada\n--- Tipo: Serviço\n\n>>> Gasolina no ES: como a nova regra de combustível afeta o bolso do capixaba\n--- Editoria: Economia\n--- Ângulo ES: Preços nos postos da Grande Vitória, comparativo com outros estados e impacto no orçamento familiar\n--- Por que performa: Trending topic com 200+ buscas sobre combustível e subvenção\n--- Tipo: Explicativo\n\n>>> Nova regra para CNH: exame toxicológico agora é obrigatório no ES para primeira habilitação\n--- Editoria: Trânsito\n--- Ângulo ES: Como funciona nos Detrans do ES, custos e onde fazer o exame em Vitória e interior\n--- Por que performa: Trending topic com 100+ buscas sobre habilitação e nova regra\n--- Tipo: Serviço\n\n>>> Série B Sub-20: jovens talentos capixabas disputam quartas de final do Brasileiro\n--- Editoria: Esportes\n--- Ângulo ES: Atletas do ES nas competições, times locais e revelações das categorias de base\n--- Por que performa: Trending topic com 100+ buscas sobre jogos de brasileirão série b\n--- Tipo: Notícia\n\n>>> Chuva no ES: instabilidade aumenta e temporal pode atingir o estado no sábado\n--- Editoria: Cotidiano\n--- Ângulo ES: Alerta para chuvas nas regiões do ES, áreas de risco em Vitória e cuidados necessários\n--- Por que performa: Relacionado ao trending sobre tempo e instabilidade climática\n--- Tipo: Serviço\n\n>>> Apostas esportivas no ES: novo mercado movimenta economia capixaba\n--- Editoria: Economia\n--- Ângulo ES: Impacto das casas de apostas na economia local, regulamentação e cuidados com vício em jogos\n--- Por que performa: Relacionado ao trending sobre betting e jogos online\n--- Tipo: Análise\n\n>>> Mórmons no ES: comunidade celebra novo templo em Santos e crescimento no estado\n--- Editoria: Cidades\n--- Ângulo ES: Presença da Igreja Mórmon no ES, comunidades em Vitória e interior, participação em evento de Santos\n--- Por que performa: Trending topic com 200+ buscas sobre mormon church e temple\n--- Tipo: Notícia\n\n>>> Como o frio afeta a saúde: médicos do ES orientam sobre cuidados na temporada\n--- Editoria: Saúde\n--- Ângulo ES: Hospitais e UPAs de Vitória registram aumento de casos respiratórios, dicas de especialistas capixabas\n--- Por que performa: Conexão com trending sobre frente fria e interesse em saúde\n--- Tipo: Explicativo\n\n>>> Final de semana no ES: o que fazer com tempo instável na Grande Vitória\n--- Editoria: Cultura\n--- Ângulo ES: Opções de lazer indoor em Vitória, shoppings, cinemas e atividades culturais para dias de chuva\n--- Por que performa: Interesse em previsão do tempo para planejamento do fim de semana\n--- Tipo: Lista"
+  },
+  "tendencias": [
+    {
+      "titulo": "frente fria",
+      "trafico": "200+",
+      "contexto": "Frio continua? Veja a previsão do tempo para o fim de semana em São Paulo"
+    },
+    {
+      "titulo": "jogos de brasileirão série b",
+      "trafico": "100+",
+      "contexto": "Brasileiro Série B Sub-20; veja os confrontos das quartas de final"
+    },
+    {
+      "titulo": "meghan, duquesa de sussex",
+      "trafico": "100+",
+      "contexto": "Meghan Markle revela interesse de Harry e apelidos de Archie e Lilibet"
+    },
+    {
+      "titulo": "dupla sena",
+      "trafico": "100+",
+      "contexto": "Prêmio da Dupla Sena acumula e sobe para R$ 2,1 milhões; confira as dezenas"
+    },
+    {
+      "titulo": "combustível",
+      "trafico": "200+",
+      "contexto": "Subvenção reduz impacto de reajuste da gasolina"
+    },
+    {
+      "titulo": "habilitação",
+      "trafico": "100+",
+      "contexto": "Exame toxicológico para CNH: nova regra vale para primeira habilitação de carro e moto"
+    },
+    {
+      "titulo": "tempo curitiba",
+      "trafico": "100+",
+      "contexto": "Instabilidade aumenta e chuva avança pelo Paraná no sábado, 30"
+    },
+    {
+      "titulo": "betmgm",
+      "trafico": "200+",
+      "contexto": "Condensed Game: NYY@ATH - 5/29/26"
+    },
+    {
+      "titulo": "mormon church",
+      "trafico": "200+",
+      "contexto": "Santos Brazil Temple groundbreaking announced"
+    }
+  ]
+}
