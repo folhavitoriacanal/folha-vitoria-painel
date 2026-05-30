@@ -1,194 +1,189 @@
 {
-  "dataDisplay": "28/05/2026",
-  "geradoEm": "2026-05-29T09:19:35.075Z",
-  "pvTotal": 165620,
-  "pctMeta": 151,
-  "metaHoje": 109837,
-  "metaAmanha": 91242,
-  "saldoOntem": 55783,
+  "dataDisplay": "29/05/2026",
+  "geradoEm": "2026-05-30T09:19:11.286Z",
+  "pvTotal": 157903,
+  "pctMeta": 173,
+  "metaHoje": 91242,
+  "metaAmanha": 57911,
+  "saldoOntem": 66661,
   "deficitOntem": 0,
   "metaDiaria": 200000,
   "metaMensal": 6000000,
-  "usuarios": 70886,
-  "sessions": 106826,
-  "pgsPorSessao": "1.55",
-  "tempoMedio": "2min43s",
-  "pvManha": 54154,
-  "pvTarde": 54370,
-  "pvNoite": 42927,
+  "usuarios": 73453,
+  "sessions": 105811,
+  "pgsPorSessao": "1.49",
+  "tempoMedio": "2min26s",
+  "pvManha": 50842,
+  "pvTarde": 50812,
+  "pvNoite": 38782,
   "checkpoints": [
     {
       "label": "Até 11h",
-      "pv": 68323,
+      "pv": 68309,
       "meta": 60000,
       "status": "META BATIDA"
     },
     {
       "label": "Até 17h",
-      "pv": 122693,
+      "pv": 119121,
       "meta": 130000,
       "status": "PERTO DA META"
     },
     {
       "label": "Até 21h",
-      "pv": 155117,
-      "meta": 109837,
+      "pv": 147288,
+      "meta": 91242,
       "status": "META BATIDA"
     }
   ],
   "producao": {
     "disponivel": true,
-    "totalPublicadas": 95,
-    "pvPublicadas": 48703,
-    "mediaRealPorMateria": 513,
-    "materiasComAcesso": 87,
-    "materiasSemAcesso": 8,
-    "pvAntigos": 116917
+    "totalPublicadas": 121,
+    "pvPublicadas": 30209,
+    "mediaRealPorMateria": 250,
+    "materiasComAcesso": 106,
+    "materiasSemAcesso": 15,
+    "pvAntigos": 127694
   },
   "topMaterias": [
     {
       "pos": 1,
-      "titulo": "Ficou no quase: Rio Branco é vice na Copa Centro-Oeste",
-      "pv": 5872,
-      "publicadaHoje": true
+      "titulo": "\"Excursão dos Encalhados\" leva solteiros para Santa Teresa",
+      "pv": 7674,
+      "publicadaHoje": false
     },
     {
       "pos": 2,
-      "titulo": "\"Excursão dos Encalhados\" leva solteiros para Santa Teresa",
-      "pv": 4674,
-      "publicadaHoje": true
+      "titulo": "Uber e 99 têm novo concorrente no ES: uma cooperativa com 5 mil motoristas",
+      "pv": 4517,
+      "publicadaHoje": false
     },
     {
       "pos": 3,
-      "titulo": "Governo anuncia obras na Segunda e Terceira Pontes",
-      "pv": 4496,
+      "titulo": "Transcol terá nova linha em Cariacica; veja trajetos e HORÁRIO",
+      "pv": 4226,
       "publicadaHoje": false
     },
     {
       "pos": 4,
-      "titulo": "Chuva e frio leve: ciclone no Sul provoca virada no tempo no ES",
-      "pv": 4384,
-      "publicadaHoje": false
+      "titulo": "Nuvem diferente chama atenção no ES; meteorologista explica fenômeno raro",
+      "pv": 2074,
+      "publicadaHoje": true
     },
     {
       "pos": 5,
-      "titulo": "Transcol terá nova linha em Cariacica; veja trajetos e HORÁRIO",
-      "pv": 4085,
+      "titulo": "19 chefs em jantar beneficente com banda e estação de doces",
+      "pv": 1702,
       "publicadaHoje": true
     }
   ],
   "editorias": [
     {
       "nome": "cultura",
-      "pvTotal": 15510,
-      "pvPublicadas": 9679,
+      "pvTotal": 14782,
+      "pvPublicadas": 2515,
       "publicadas": 10,
-      "urlsAcessadas": 59,
-      "mediaCorreta": 968
+      "urlsAcessadas": 52,
+      "mediaCorreta": 252
     },
     {
       "nome": "transito",
-      "pvTotal": 10852,
-      "pvPublicadas": 5135,
-      "publicadas": 5,
-      "urlsAcessadas": 20,
-      "mediaCorreta": 1027
+      "pvTotal": 9546,
+      "pvPublicadas": 2857,
+      "publicadas": 4,
+      "urlsAcessadas": 22,
+      "mediaCorreta": 714
     },
     {
       "nome": "policia",
-      "pvTotal": 9159,
-      "pvPublicadas": 5713,
-      "publicadas": 9,
-      "urlsAcessadas": 47,
-      "mediaCorreta": 635
-    },
-    {
-      "nome": "esportes",
-      "pvTotal": 8092,
-      "pvPublicadas": 7403,
-      "publicadas": 5,
-      "urlsAcessadas": 31,
-      "mediaCorreta": 1481
+      "pvTotal": 8625,
+      "pvPublicadas": 5361,
+      "publicadas": 11,
+      "urlsAcessadas": 46,
+      "mediaCorreta": 487
     },
     {
       "nome": "folha-business",
-      "pvTotal": 7312,
-      "pvPublicadas": 3223,
+      "pvTotal": 5941,
+      "pvPublicadas": 997,
       "publicadas": 2,
-      "urlsAcessadas": 10,
-      "mediaCorreta": 1612
+      "urlsAcessadas": 13,
+      "mediaCorreta": 499
+    },
+    {
+      "nome": "economia",
+      "pvTotal": 5716,
+      "pvPublicadas": 3229,
+      "publicadas": 14,
+      "urlsAcessadas": 46,
+      "mediaCorreta": 231
+    },
+    {
+      "nome": "social",
+      "pvTotal": 3897,
+      "pvPublicadas": 3030,
+      "publicadas": 2,
+      "urlsAcessadas": 18,
+      "mediaCorreta": 1515
     },
     {
       "nome": "tempo",
-      "pvTotal": 6131,
-      "pvPublicadas": 1623,
-      "publicadas": 1,
+      "pvTotal": 3742,
+      "pvPublicadas": 2486,
+      "publicadas": 2,
       "urlsAcessadas": 6,
-      "mediaCorreta": 1623
-    },
-    {
-      "nome": "trabalho",
-      "pvTotal": 5231,
-      "pvPublicadas": 2297,
-      "publicadas": 6,
-      "urlsAcessadas": 19,
-      "mediaCorreta": 383
+      "mediaCorreta": 1243
     }
   ],
   "origens": [
     {
-      "canal": "Google Orgânico",
-      "pv": 83784,
-      "pct": 51
+      "canal": "Direto",
+      "pv": 75284,
+      "pct": 48
     },
     {
-      "canal": "Direto",
-      "pv": 68583,
-      "pct": 41
+      "canal": "Google Orgânico",
+      "pv": 71609,
+      "pct": 45
     },
     {
       "canal": "Social",
-      "pv": 7400,
+      "pv": 7021,
       "pct": 4
     },
     {
       "canal": "Links externos",
-      "pv": 4941,
-      "pct": 3
+      "pv": 3205,
+      "pct": 2
     },
     {
       "canal": "Não identificado",
-      "pv": 863,
-      "pct": 1
+      "pv": 760,
+      "pct": 0
     },
     {
       "canal": "YouTube",
-      "pv": 40,
+      "pv": 20,
       "pct": 0
     },
     {
       "canal": "E-mail",
-      "pv": 8,
-      "pct": 0
-    },
-    {
-      "canal": "Cross-network",
-      "pv": 1,
+      "pv": 4,
       "pct": 0
     }
   ],
   "historico": {
-    "mediaMesmoDia": 182672,
-    "varMesmoDia": -9,
-    "media30": 207798,
-    "media30a": 159316,
-    "var30": 30,
-    "pvMesAtualAcum": 5726275,
-    "pvMesAntMesmoPer": 4664880,
-    "varMesAnt": 23,
-    "diasRestantes": 3,
-    "pvFaltaMes": 273725,
-    "mediaNecessaria": 91242,
+    "mediaMesmoDia": 184449,
+    "varMesmoDia": -14,
+    "media30": 204609,
+    "media30a": 165036,
+    "var30": 24,
+    "pvMesAtualAcum": 5884179,
+    "pvMesAntMesmoPer": 4887571,
+    "varMesAnt": 20,
+    "diasRestantes": 2,
+    "pvFaltaMes": 115821,
+    "mediaNecessaria": 57911,
     "mediaMensal": 6856222,
     "melhorMes": {
       "mes": "202507",
@@ -299,80 +294,75 @@
       },
       {
         "mes": "202605",
-        "pv": 5726275,
+        "pv": 5884179,
         "label": "Mai/26",
         "atual": true
       }
     ]
   },
   "analises": {
-    "resumo": "O dia 28/05/2026 superou a meta em 151%, alcançando 165.620 PVs contra 109.837 esperados, um resultado 55.783 páginas acima do planejado. A distribuição foi equilibrada entre manhã e tarde (54.154 e 54.370 respectivamente), com queda natural à noite (42.927). Das 95 matérias publicadas, 87 geraram audiência com média de 513 PVs cada, totalizando 48.703 PVs, enquanto matérias antigas contribuíram com 116.917 PVs. O resultado coloca o mês muito próximo da meta de 6 milhões, faltando apenas 273.725 PVs em 3 dias.",
-    "horarios": ">>> Manhã forte bateu a meta às 11h com 68.323 PVs contra 60.000 esperados\n>>> Tarde manteve ritmo constante mas ficou 7.307 PVs abaixo da meta intermediária de 130.000\n>>> Noite recuperou o déficit e garantiu superação da meta diária até às 21h\n>>> Período noturno teve menor volume, típico do comportamento de audiência",
-    "padrao": ">>> Esportes local dominaram com Rio Branco vice na Copa Centro-Oeste (5.872 PVs)\n>>> Conteúdo de entretenimento regional performou bem com \"Excursão dos Encalhados\" (4.674 PVs)\n>>> Infraestrutura urbana mantém interesse com obras nas pontes (4.496 PVs de matéria antiga)\n>>> Mix equilibrado entre conteúdo novo e evergreen nas top posições",
-    "editorias": ">>> Folha Business lidera eficiência com 1.612 PVs por matéria (2 publicações)\n>>> Tempo marca 1.623 PVs na única matéria publicada, excelente aproveitamento\n>>> Esportes alcança 1.481 PVs de média com 5 matérias, driven pelo Rio Branco\n>>> Trânsito mantém consistência com 1.027 PVs de média\n>>> Trabalho preocupa com apenas 383 PVs de média apesar de 6 publicações",
-    "trafego": ">>> Google Orgânico sólido em 51% mostra SEO eficiente e matérias bem otimizadas\n>>> Tráfego direto robusto de 41% indica fidelização e marca forte no estado\n>>> Social em apenas 4% sugere oportunidade de melhoria nas redes\n>>> Canais alternativos (email, YouTube) praticamente inexistentes precisam de ativação",
-    "eficiencia": "A produção de 95 matérias gerou média real de 513 PVs cada, com 87 matérias recebendo audiência e apenas 8 sem acesso. Performance sólida considerando que matérias antigas responderam por 70% do tráfego total do dia.",
-    "erros": ">>> Trabalho publicou 6 matérias mas média baixíssima de 383 PVs indica falta de foco em temas relevantes\n>>> Redes sociais representam apenas 4% do tráfego, muito abaixo do potencial para veículos locais\n>>> 8 matérias ficaram sem audiência, indicando possível problema de distribuição ou timing\n>>> Período da tarde perdeu momentum e não atingiu checkpoint intermediário",
-    "oportunidades": ">>> Esportes local mostra potencial para ampliação de cobertura com média de 1.481 PVs\n>>> Tempo/clima tem audiência cativa e merece mais investimento editorial diário\n>>> Folha Business com excelente performance pode aumentar frequência de publicação\n>>> Horário da manhã consistentemente forte permite apostas em hard news matinais\n>>> Evergreen de infraestrutura urbana ainda gera tráfego e pode ser explorado",
-    "acoes": ">>> Reforçar pauta de trabalho/economia com temas mais atrativos para melhorar média baixa\n>>> Intensificar distribuição social para aumentar os 4% atuais, especialmente Instagram\n>>> Publicar pelo menos 2 matérias de esportes locais aproveitando boa performance\n>>> Manter ritmo forte da manhã com hard news entre 6h-11h\n>>> Focar em 90 PVs de média por matéria para atingir meta de 91.242 PVs",
-    "metaacumulada": "A meta diária de 109.837 foi calculada dividindo-se os 273.725 PVs restantes para atingir os 6 milhões mensais pelos 3 dias restantes incluindo hoje. Com a superação de hoje, restam agora 273.725 PVs para os próximos 2 dias, gerando nova meta de 91.242 PVs para amanhã. Esta meta dinâmica ajusta-se diariamente conforme a performance, tornando-se mais acessível a cada dia bem-sucedido.",
-    "historicodia": ">>> Performance 9% abaixo da média de quinta-feira (182.672) das últimas 8 semanas\n>>> Resultado 20% inferior à média dos últimos 30 dias (207.798)\n>>> Compensação positiva: tendência de crescimento de 30% vs 30 dias anteriores mostra trajetória ascendente",
-    "historicomes": ">>> Acumulado mensal 23% superior ao mesmo período do mês anterior (5.726.275 vs 4.664.880)\n>>> Projeção indica chegada próxima aos 6 milhões com margem confortável\n>>> Ritmo atual sustenta meta e permite folga para últimos dias do mês",
-    "tendencia": "A tendência de 30 dias mostra crescimento robusto de 30% comparado ao período anterior, indicando consolidação de audiência. O melhor mês histórico foi julho/25 com 13.625.154 PVs, enquanto o pior foi fevereiro/25 com 4.527.477, mostrando amplitude de performance sazonal significativa.",
-    "alerta": "\"Meta de amanhã de 91.242 PVs exige manutenção do padrão atual, mas atenção especial para evitar dispersão editorial em editorias de baixa performance como trabalho.\"",
-    "licao": "O dia demonstrou que o equilíbrio entre conteúdo novo relevante e aproveitamento de evergreen é fundamental para sustentar audiência robusta. Esportes locais e temas de infraestrutura urbana continuam sendo pilares sólidos de audiência no Espírito Santo, enquanto a dependência de tráfego orgânico e direto revela marca consolidada mas com potencial social subutilizado. \"A consistência editorial supera a quantidade quando se trata de performance sustentável.\"",
-    "tendencias": ">>> Previsão do tempo para esta quinta-feira no ES: frente fria traz chuva e queda de temperatura\n--- Editoria: Cotidiano\n--- Ângulo ES: Detalhar como a frente fria que atinge o país impacta especificamente o Espírito Santo, com previsão por região e alertas para a Grande Vitória\n--- Por que performa: Alto volume de buscas por previsão do tempo durante mudanças climáticas, especialmente frentes frias\n--- Tipo: Serviço\n\n>>> Horóscopo de hoje: veja as previsões para os 12 signos nesta quinta-feira\n--- Editoria: Entretenimento\n--- Ângulo ES: Incluir dicas personalizadas para o dia dos capixabas baseadas nas previsões astrológicas, conectando com eventos locais\n--- Por que performa: Buscas diárias consistentes por horóscopo, com pico matinal quando pessoas planejam o dia\n--- Tipo: Serviço\n\n>>> Suzana Alves fala sobre arrependimentos da época de Tiazinha: \"Me arrependo da exposição\"\n--- Editoria: Entretenimento\n--- Ângulo ES: Relembrar apresentações da personagem Tiazinha no ES e repercussão entre fãs capixabas na época\n--- Por que performa: Nostalgia dos anos 90/2000 gera engajamento, especialmente declarações sobre arrependimentos de celebridades\n--- Tipo: Notícia\n\n>>> Liga dos Campeões: Kvaratskhelia no PSG e outros destaques da rodada\n--- Editoria: Esportes\n--- Ângulo ES: Comentar a torcida capixaba pelos times europeus e onde assistir aos jogos da Champions em Vitória\n--- Por que performa: Champions League mobiliza milhões de fãs brasileiros, transferências geram curiosidade adicional\n--- Tipo: Notícia\n\n>>> República Dominicana reabre voos com Haiti: destino caribenho popular entre capixabas\n--- Editoria: Turismo\n--- Ângulo ES: Explicar como a notícia impacta turistas capixabas que planejam viajar para o Caribe, com dicas de agências locais\n--- Por que performa: Notícias sobre reopening de destinos turísticos atraem viajantes planejando férias\n--- Tipo: Serviço\n\n>>> NBA Playoffs: Spurs de Wemby perde jogo 2 e situação fica complicada\n--- Editoria: Esportes\n--- Ângulo ES: Destacar a torcida capixaba pelos Spurs e eventos de NBA em bares de Vitória para acompanhar os playoffs\n--- Por que performa: Playoffs da NBA geram grande interesse no Brasil, especialmente jogos de rookies fenômenos\n--- Tipo: Notícia\n\n>>> Ariana Grande lança \"Hate That I Made You Love Me\": ouça a nova música\n--- Editoria: Entretenimento\n--- Ângulo ES: Listar onde os fãs capixabas podem ouvir a música e relembrar shows da cantora que capixabas gostariam de ver no ES\n--- Por que performa: Lançamentos de Ariana Grande geram milhões de buscas imediatas de fãs querendo ouvir\n--- Tipo: Notícia\n\n>>> WNBA 2024: Caitlin Clark e as melhores armadoras da temporada\n--- Editoria: Esportes\n--- Ângulo ES: Abordar o crescimento do basquete feminino no ES e como a popularidade da WNBA inspira jovens capixabas\n--- Por que performa: Crescente interesse no basquete feminino, especialmente com estrelas jovens como Caitlin Clark\n--- Tipo: Análise\n\n>>> Igreja Mórmon inaugura novos templos no Brasil: entenda a expansão religiosa\n--- Editoria: Cotidiano\n--- Ângulo ES: Mapear a presença mórmon no Espírito Santo e como a comunidade local recebe a expansão da igreja\n--- Por que performa: Notícias sobre expansão religiosa despertam curiosidade sobre diferentes denominações\n--- Tipo: Explicativo\n\n>>> Mina the Hollower: novo jogo indie conquista crítica e gamers brasileiros\n--- Editoria: Entretenimento\n--- Ângulo ES: Destacar a comunidade gamer capixaba e eventos de jogos indie na Grande Vitória\n--- Por que performa: Reviews de jogos indie geram buscas de gamers interessados em novos títulos\n--- Tipo: Notícia"
+    "resumo": "O Folha Vitória registrou 157.903 pageviews em 29/05/2026, superando em 173% a meta do dia de 91.242. A distribuição foi equilibrada entre manhã e tarde, com 50.842 e 50.812 pageviews respectivamente, enquanto a noite teve 38.782. O desempenho coloca o portal muito próximo de atingir a meta mensal de 6 milhões, faltando apenas 115.821 pageviews em dois dias. A audiência foi impulsionada principalmente por matérias antigas, que representaram 127.694 dos pageviews totais.",
+    "horarios": ">>> Manhã superou expectativas com 50.842 pageviews, batendo a meta de 60.000 até 11h com 68.309\n>>> Tarde manteve ritmo consistente com 50.812 pageviews, ficando próximo da meta de 130.000 até 17h com 119.121\n>>> Noite registrou 38.782 pageviews, permitindo bater a meta diária até 21h com 147.288\n>>> Checkpoint das 21h mostrou desempenho excepcional, superando a meta em 61%",
+    "padrao": ">>> Matérias de entretenimento e turismo lideram com \"Excursão dos Encalhados\" gerando 7.674 pageviews\n>>> Conteúdos de economia e negócios mostram força com cooperativa de motoristas em segundo lugar\n>>> Serviços públicos como transporte têm apelo duradouro, com linha do Transcol em terceiro\n>>> Meteorologia e fenômenos naturais geram interesse imediato quando bem explorados\n>>> Eventos gastronômicos e sociais demonstram potencial de engajamento local",
+    "editorias": ">>> Social lidera em eficiência com média de 1.515 pageviews por matéria publicada\n>>> Tempo mantém alta performance com 1.243 pageviews por matéria\n>>> Trânsito confirma relevância com 714 pageviews por matéria em apenas 4 publicações\n>>> Folha Business e Polícia equilibram com médias próximas de 500 pageviews\n>>> Cultura e Economia mostram volume alto mas médias menores, indicando diluição",
+    "trafego": ">>> Tráfego direto forte com 48% demonstra fidelização da audiência\n>>> Google orgânico com 45% confirma boa performance em SEO\n>>> Redes sociais com apenas 4% indicam potencial de crescimento não explorado\n>>> Links externos representam 2%, mostrando baixa viralização\n>>> YouTube praticamente inexistente sugere oportunidade perdida em vídeo",
+    "eficiencia": "Das 121 matérias publicadas ontem, 106 receberam acessos com média real de 250 pageviews por matéria. O índice de 15 matérias sem acesso (12%) está dentro do aceitável mas pode ser melhorado. A contribuição das matérias novas foi de 19% do total de pageviews do dia.",
+    "erros": ">>> 15 matérias publicadas não receberam nenhum acesso, indicando problemas de distribuição ou títulos\n>>> Redes sociais subutilizadas com apenas 4% do tráfego total\n>>> Noite com queda de performance, perdendo 12.000 pageviews comparado aos outros períodos\n>>> YouTube quase inexistente com apenas 20 pageviews em todo o dia",
+    "oportunidades": ">>> Replicar estratégia de conteúdos de serviço como trânsito e transporte público\n>>> Investir em matérias de entretenimento e turismo local que demonstram longevidade\n>>> Explorar mais conteúdos meteorológicos e fenômenos naturais regionais\n>>> Desenvolver mais eventos gastronômicos e sociais que geram engajamento\n>>> Fortalecer parcerias para aumentar links externos e amplificar alcance",
+    "acoes": ">>> Focar em 6-8 matérias de alta qualidade sobre serviços públicos e economia local\n>>> Intensificar distribuição nas redes sociais para aumentar os 4% atuais\n>>> Produzir conteúdo específico para período noturno visando equilibrar distribuição\n>>> Reforçar SEO em todas as publicações para manter os 45% do Google orgânico\n>>> Criar conteúdo multimídia para diversificar origens de tráfego",
+    "metaacumulada": "A meta diária foi calculada dinamicamente: (meta mensal de 6.000.000 − acumulado de 5.768.358 até 27/05) ÷ 2 dias restantes = 91.242. Com o resultado de hoje, faltam 115.821 pageviews para a meta mensal. A meta de amanhã será de 57.911 pageviews (115.821 ÷ 2 dias restantes), representando uma redução significativa e tornando a meta mensal altamente atingível.",
+    "historicodia": ">>> Performance 14% abaixo da média de mesmo dia da semana (184.449), indicando espaço para melhoria\n>>> Resultado 23% inferior à média dos últimos 30 dias (204.609)\n>>> Compensado pelo crescimento de 24% na tendência comparando últimos 30 dias com os 30 anteriores",
+    "historicomes": ">>> Acumulado mensal 20% superior ao mesmo período do mês anterior (4.887.571)\n>>> Projeção de fechamento do mês indica possível superação da meta de 6 milhões\n>>> Crescimento consistente demonstra evolução positiva da audiência",
+    "tendencia": "A tendência de 30 dias mostra crescimento de 24% comparado ao período anterior, indicando evolução positiva sustentada. O melhor mês da história foi julho/2025 com 13.625.154 pageviews, enquanto o pior foi fevereiro/2025 com 4.527.477, mostrando grande amplitude de performance sazonal.",
+    "alerta": "\"Meta de amanhã de apenas 57.911 pageviews pode gerar acomodação da equipe quando o potencial de audiência é muito maior.\"",
+    "licao": "O dia demonstrou que matérias antigas continuam sendo a força motriz da audiência, representando 81% dos pageviews totais. A longevidade do conteúdo confirma a importância de produzir material perene e bem otimizado para SEO. A eficiência das editorias Social e Tempo mostra que qualidade supera quantidade na geração de audiência. \"O segredo não está em publicar mais, mas em publicar conteúdo que perdura.\"",
+    "tendencias": ">>> Frente fria chega ao ES: veja a previsão do tempo para este final de semana\n--- Editoria: Cotidiano\n--- Ângulo ES: Previsão específica para o Espírito Santo, impacto nas praias capixabas e dicas de vestuário para o frio\n--- Por que performa: Trending topic com 200+ buscas sobre frente fria, interesse em previsão do tempo\n--- Tipo: Serviço\n\n>>> Dupla Sena acumula R$ 2,1 milhões: onde apostar no ES e horário do sorteio\n--- Editoria: Economia\n--- Ângulo ES: Casas lotéricas em Vitória e região metropolitana, últimos ganhadores capixabas de prêmios da Caixa\n--- Por que performa: Trending topic com 100+ buscas sobre Dupla Sena acumulada\n--- Tipo: Serviço\n\n>>> Gasolina no ES: como a nova regra de combustível afeta o bolso do capixaba\n--- Editoria: Economia\n--- Ângulo ES: Preços nos postos da Grande Vitória, comparativo com outros estados e impacto no orçamento familiar\n--- Por que performa: Trending topic com 200+ buscas sobre combustível e subvenção\n--- Tipo: Explicativo\n\n>>> Nova regra para CNH: exame toxicológico agora é obrigatório no ES para primeira habilitação\n--- Editoria: Trânsito\n--- Ângulo ES: Como funciona nos Detrans do ES, custos e onde fazer o exame em Vitória e interior\n--- Por que performa: Trending topic com 100+ buscas sobre habilitação e nova regra\n--- Tipo: Serviço\n\n>>> Série B Sub-20: jovens talentos capixabas disputam quartas de final do Brasileiro\n--- Editoria: Esportes\n--- Ângulo ES: Atletas do ES nas competições, times locais e revelações das categorias de base\n--- Por que performa: Trending topic com 100+ buscas sobre jogos de brasileirão série b\n--- Tipo: Notícia\n\n>>> Chuva no ES: instabilidade aumenta e temporal pode atingir o estado no sábado\n--- Editoria: Cotidiano\n--- Ângulo ES: Alerta para chuvas nas regiões do ES, áreas de risco em Vitória e cuidados necessários\n--- Por que performa: Relacionado ao trending sobre tempo e instabilidade climática\n--- Tipo: Serviço\n\n>>> Apostas esportivas no ES: novo mercado movimenta economia capixaba\n--- Editoria: Economia\n--- Ângulo ES: Impacto das casas de apostas na economia local, regulamentação e cuidados com vício em jogos\n--- Por que performa: Relacionado ao trending sobre betting e jogos online\n--- Tipo: Análise\n\n>>> Mórmons no ES: comunidade celebra novo templo em Santos e crescimento no estado\n--- Editoria: Cidades\n--- Ângulo ES: Presença da Igreja Mórmon no ES, comunidades em Vitória e interior, participação em evento de Santos\n--- Por que performa: Trending topic com 200+ buscas sobre mormon church e temple\n--- Tipo: Notícia\n\n>>> Como o frio afeta a saúde: médicos do ES orientam sobre cuidados na temporada\n--- Editoria: Saúde\n--- Ângulo ES: Hospitais e UPAs de Vitória registram aumento de casos respiratórios, dicas de especialistas capixabas\n--- Por que performa: Conexão com trending sobre frente fria e interesse em saúde\n--- Tipo: Explicativo\n\n>>> Final de semana no ES: o que fazer com tempo instável na Grande Vitória\n--- Editoria: Cultura\n--- Ângulo ES: Opções de lazer indoor em Vitória, shoppings, cinemas e atividades culturais para dias de chuva\n--- Por que performa: Interesse em previsão do tempo para planejamento do fim de semana\n--- Tipo: Lista"
   },
   "tendencias": [
     {
+      "titulo": "frente fria",
+      "trafico": "200+",
+      "contexto": "Frio continua? Veja a previsão do tempo para o fim de semana em São Paulo"
+    },
+    {
+      "titulo": "jogos de brasileirão série b",
+      "trafico": "100+",
+      "contexto": "Brasileiro Série B Sub-20; veja os confrontos das quartas de final"
+    },
+    {
+      "titulo": "meghan, duquesa de sussex",
+      "trafico": "100+",
+      "contexto": "Meghan Markle revela interesse de Harry e apelidos de Archie e Lilibet"
+    },
+    {
+      "titulo": "dupla sena",
+      "trafico": "100+",
+      "contexto": "Prêmio da Dupla Sena acumula e sobe para R$ 2,1 milhões; confira as dezenas"
+    },
+    {
+      "titulo": "combustível",
+      "trafico": "200+",
+      "contexto": "Subvenção reduz impacto de reajuste da gasolina"
+    },
+    {
+      "titulo": "habilitação",
+      "trafico": "100+",
+      "contexto": "Exame toxicológico para CNH: nova regra vale para primeira habilitação de carro e moto"
+    },
+    {
+      "titulo": "tempo curitiba",
+      "trafico": "100+",
+      "contexto": "Instabilidade aumenta e chuva avança pelo Paraná no sábado, 30"
+    },
+    {
+      "titulo": "betmgm",
+      "trafico": "200+",
+      "contexto": "Condensed Game: NYY@ATH - 5/29/26"
+    },
+    {
       "titulo": "mormon church",
       "trafico": "200+",
-      "contexto": "Milestones for Mexico, Brazil, Idaho and South Carolina Temples"
-    },
-    {
-      "titulo": "previsao do tempo hoje",
-      "trafico": "100+",
-      "contexto": "Frente fria mantém temperaturas baixas em parte do país e provoca chuva forte e temporais"
-    },
-    {
-      "titulo": "liga dos campeões",
-      "trafico": "100+",
-      "contexto": "Destaque na Champions League, Kvaratskhelia chegou ao PSG fugindo da guerra; veja trajetória"
-    },
-    {
-      "titulo": "nba playoffs",
-      "trafico": "100+",
-      "contexto": "Wemby Calls Out Spurs&apos; Turnovers in Game 2 Loss amid Castle&apos;s Struggles After Fox, Harper "
-    },
-    {
-      "titulo": "horóscopo",
-      "trafico": "200+",
-      "contexto": "Horóscopo de hoje: veja previsão para seu signo no dia 29/5"
-    },
-    {
-      "titulo": "mina the hollower",
-      "trafico": "100+",
-      "contexto": "Mina the Hollower Review"
-    },
-    {
-      "titulo": "republica dominicana",
-      "trafico": "200+",
-      "contexto": "Vuelos entre República Dominicana y Haití se reabrirán este 30 de mayo"
-    },
-    {
-      "titulo": "suzana alves",
-      "trafico": "200+",
-      "contexto": "Suzana Alves relembra desconforto com fama de Tiazinha: &apos;Me arrependo da exposição do nu&apos;"
-    },
-    {
-      "titulo": "hate that i made you love me",
-      "trafico": "2000+",
-      "contexto": "Listen to Ariana Grande’s New Song “Hate That I Made You Love Me”"
-    },
-    {
-      "titulo": "wnba",
-      "trafico": "200+",
-      "contexto": "Chelsea Gray, Caitlin Clark and the WNBA&apos;s best playmakers"
+      "contexto": "Santos Brazil Temple groundbreaking announced"
     }
   ]
 }
