@@ -1,0 +1,368 @@
+{
+  "dataDisplay": "30/05/2026",
+  "geradoEm": "2026-05-31T09:19:16.561Z",
+  "pvTotal": 113827,
+  "pctMeta": 197,
+  "metaHoje": 57904,
+  "metaAmanha": 1981,
+  "saldoOntem": 55923,
+  "deficitOntem": 0,
+  "metaDiaria": 200000,
+  "metaMensal": 6000000,
+  "usuarios": 54130,
+  "sessions": 79133,
+  "pgsPorSessao": "1.44",
+  "tempoMedio": "2min08s",
+  "pvManha": 31043,
+  "pvTarde": 34049,
+  "pvNoite": 33984,
+  "checkpoints": [
+    {
+      "label": "Até 11h",
+      "pv": 45794,
+      "meta": 60000,
+      "status": "ABAIXO"
+    },
+    {
+      "label": "Até 17h",
+      "pv": 79843,
+      "meta": 130000,
+      "status": "MUITO ABAIXO"
+    },
+    {
+      "label": "Até 21h",
+      "pv": 104783,
+      "meta": 57904,
+      "status": "META BATIDA"
+    }
+  ],
+  "producao": {
+    "disponivel": true,
+    "totalPublicadas": 54,
+    "pvPublicadas": 27260,
+    "mediaRealPorMateria": 505,
+    "materiasComAcesso": 53,
+    "materiasSemAcesso": 1,
+    "pvAntigos": 86567
+  },
+  "topMaterias": [
+    {
+      "pos": 1,
+      "titulo": "Prazo para emitir a nova identidade é ampliado; veja até quando",
+      "pv": 4359,
+      "publicadaHoje": true
+    },
+    {
+      "pos": 2,
+      "titulo": "Lugares no ES para esquecer o celular e curtir a natureza",
+      "pv": 3271,
+      "publicadaHoje": true
+    },
+    {
+      "pos": 3,
+      "titulo": "Zé Felipe faz show em festa de 15 anos em Vitória (ES) hoje; Veja valor",
+      "pv": 2800,
+      "publicadaHoje": true
+    },
+    {
+      "pos": 4,
+      "titulo": "Transcol terá nova linha em Cariacica; veja trajetos e HORÁRIO",
+      "pv": 2042,
+      "publicadaHoje": false
+    },
+    {
+      "pos": 5,
+      "titulo": "Homem é morto a tiros na calçada de casa durante madrugada em Vila Velha",
+      "pv": 1690,
+      "publicadaHoje": true
+    }
+  ],
+  "editorias": [
+    {
+      "nome": "cultura",
+      "pvTotal": 11449,
+      "pvPublicadas": 6664,
+      "publicadas": 4,
+      "urlsAcessadas": 60,
+      "mediaCorreta": 1666
+    },
+    {
+      "nome": "policia",
+      "pvTotal": 10170,
+      "pvPublicadas": 7546,
+      "publicadas": 9,
+      "urlsAcessadas": 46,
+      "mediaCorreta": 838
+    },
+    {
+      "nome": "economia",
+      "pvTotal": 9273,
+      "pvPublicadas": 5739,
+      "publicadas": 9,
+      "urlsAcessadas": 48,
+      "mediaCorreta": 638
+    },
+    {
+      "nome": "transito",
+      "pvTotal": 6106,
+      "pvPublicadas": 2247,
+      "publicadas": 2,
+      "urlsAcessadas": 25,
+      "mediaCorreta": 1124
+    },
+    {
+      "nome": "social",
+      "pvTotal": 3359,
+      "pvPublicadas": 2260,
+      "publicadas": 2,
+      "urlsAcessadas": 20,
+      "mediaCorreta": 1130
+    },
+    {
+      "nome": "ultimas-noticias",
+      "pvTotal": 2812,
+      "pvPublicadas": 0,
+      "publicadas": null,
+      "urlsAcessadas": 4,
+      "mediaCorreta": null
+    },
+    {
+      "nome": "folha-business",
+      "pvTotal": 2172,
+      "pvPublicadas": 0,
+      "publicadas": null,
+      "urlsAcessadas": 12,
+      "mediaCorreta": null
+    }
+  ],
+  "origens": [
+    {
+      "canal": "Direto",
+      "pv": 54311,
+      "pct": 48
+    },
+    {
+      "canal": "Google Orgânico",
+      "pv": 49718,
+      "pct": 44
+    },
+    {
+      "canal": "Social",
+      "pv": 7166,
+      "pct": 6
+    },
+    {
+      "canal": "Links externos",
+      "pv": 2295,
+      "pct": 2
+    },
+    {
+      "canal": "Não identificado",
+      "pv": 316,
+      "pct": 0
+    },
+    {
+      "canal": "YouTube",
+      "pv": 14,
+      "pct": 0
+    },
+    {
+      "canal": "E-mail",
+      "pv": 7,
+      "pct": 0
+    }
+  ],
+  "historico": {
+    "mediaMesmoDia": 157203,
+    "varMesmoDia": -28,
+    "media30": 202450,
+    "media30a": 167766,
+    "var30": 21,
+    "pvMesAtualAcum": 5998019,
+    "pvMesAntMesmoPer": 5076878,
+    "varMesAnt": 18,
+    "diasRestantes": 1,
+    "pvFaltaMes": 1981,
+    "mediaNecessaria": 1981,
+    "mediaMensal": 6856222,
+    "melhorMes": {
+      "mes": "202507",
+      "pv": 13625154,
+      "label": "Jul/25"
+    },
+    "piorMes": {
+      "mes": "202502",
+      "pv": 4527477,
+      "label": "Fev/25"
+    },
+    "mensal": [
+      {
+        "mes": "202501",
+        "pv": 7245874,
+        "label": "Jan/25",
+        "atual": false
+      },
+      {
+        "mes": "202502",
+        "pv": 4527477,
+        "label": "Fev/25",
+        "atual": false
+      },
+      {
+        "mes": "202503",
+        "pv": 5367201,
+        "label": "Mar/25",
+        "atual": false
+      },
+      {
+        "mes": "202504",
+        "pv": 6945113,
+        "label": "Abr/25",
+        "atual": false
+      },
+      {
+        "mes": "202505",
+        "pv": 6591733,
+        "label": "Mai/25",
+        "atual": false
+      },
+      {
+        "mes": "202506",
+        "pv": 11659575,
+        "label": "Jun/25",
+        "atual": false
+      },
+      {
+        "mes": "202507",
+        "pv": 13625154,
+        "label": "Jul/25",
+        "atual": false
+      },
+      {
+        "mes": "202508",
+        "pv": 10001619,
+        "label": "Ago/25",
+        "atual": false
+      },
+      {
+        "mes": "202509",
+        "pv": 6679985,
+        "label": "Set/25",
+        "atual": false
+      },
+      {
+        "mes": "202510",
+        "pv": 5336318,
+        "label": "Out/25",
+        "atual": false
+      },
+      {
+        "mes": "202511",
+        "pv": 4564202,
+        "label": "Nov/25",
+        "atual": false
+      },
+      {
+        "mes": "202512",
+        "pv": 5524739,
+        "label": "Dez/25",
+        "atual": false
+      },
+      {
+        "mes": "202601",
+        "pv": 4978658,
+        "label": "Jan/26",
+        "atual": false
+      },
+      {
+        "mes": "202602",
+        "pv": 6402972,
+        "label": "Fev/26",
+        "atual": false
+      },
+      {
+        "mes": "202603",
+        "pv": 5172054,
+        "label": "Mar/26",
+        "atual": false
+      },
+      {
+        "mes": "202604",
+        "pv": 5076878,
+        "label": "Abr/26",
+        "atual": false
+      },
+      {
+        "mes": "202605",
+        "pv": 5998019,
+        "label": "Mai/26",
+        "atual": true
+      }
+    ]
+  },
+  "analises": {
+    "resumo": "O dia 30/05/2026 registrou 113.827 page views, superando em 197% a meta dinâmica de 57.904 PVs. A distribuição ao longo do dia foi equilibrada: manhã com 31.043 PVs, tarde com 34.049 PVs e noite com 33.984 PVs. O desempenho permite que a meta mensal seja alcançada facilmente amanhã, restando apenas 1.981 PVs dos 6 milhões planejados. Com 54.130 usuários únicos e 79.133 sessões, o engajamento manteve padrão sólido de 1,44 páginas por sessão.",
+    "horarios": ">>> Manhã (6h-11h) gerou 31.043 PVs, ficando 24.957 PVs abaixo da meta intermediária de 60.000\n>>> Tarde (12h-17h) acumulou 79.843 PVs até 17h, mantendo-se 50.157 PVs abaixo da meta de 130.000 PVs\n>>> Noite (18h-23h) consolidou o resultado com 33.984 PVs, permitindo superar a meta diária\n>>> Checkpoint das 21h mostrou 104.783 PVs, já batendo a meta de 57.904 PVs com folga de 46.879 PVs",
+    "padrao": ">>> Matérias de utilidade pública dominaram o topo, com nova identidade liderando com 4.359 PVs\n>>> Conteúdo de entretenimento local performou bem, com show do Zé Felipe gerando 2.800 PVs\n>>> Turismo capixaba se destacou com 3.271 PVs na matéria sobre lugares sem celular\n>>> Violência urbana manteve relevância com 1.690 PVs no homicídio de Vila Velha\n>>> Serviços públicos sustentaram audiência, com Transcol gerando 2.042 PVs mesmo sendo matéria antiga",
+    "editorias": ">>> Cultura liderou eficiência com média real de 1.666 PVs por matéria em 4 publicações\n>>> Trânsito alcançou 1.124 PVs de média com apenas 2 matérias publicadas\n>>> Social manteve bom desempenho com 1.130 PVs de média em 2 publicações\n>>> Polícia registrou 838 PVs de média distribuídos em 9 matérias\n>>> Economia fechou com 638 PVs de média apesar de 9 matérias publicadas",
+    "trafego": ">>> Tráfego direto dominou com 48% (54.311 PVs), indicando forte fidelidade da audiência\n>>> Google orgânico contribuiu com 44% (49.718 PVs), demonstrando boa otimização SEO\n>>> Redes sociais representaram 6% (7.166 PVs), sugerindo potencial de crescimento\n>>> Links externos trouxeram 2% (2.295 PVs), mostrando baixa viralização\n>>> YouTube e e-mail marketing praticamente inexistentes, com apenas 21 PVs combinados",
+    "eficiencia": "Das 54 matérias publicadas ontem, 53 geraram tráfego com média real de 505 PVs cada. Apenas 1 matéria não registrou acessos. O índice de 98% de matérias acessadas demonstra boa curadoria editorial, enquanto os 86.567 PVs de matérias antigas comprovam o valor do arquivo histórico.",
+    "erros": ">>> Meta intermediária das 11h muito alta (60.000 PVs) para o padrão de audiência matinal\n>>> Baixíssima participação das redes sociais (6%) indica estratégia de distribuição deficiente\n>>> Apenas 1 dia restante no mês com meta quase batida sugere planejamento conservador\n>>> Diferença de 28% abaixo da média do mesmo dia da semana aponta inconsistência",
+    "oportunidades": ">>> Investir em conteúdo de utilidade pública, que dominou o top 5 de matérias\n>>> Explorar mais eventos culturais locais, seguindo sucesso do show do Zé Felipe\n>>> Desenvolver série sobre turismo no ES, aproveitando interesse por \"lugares sem celular\"\n>>> Amplificar conteúdo nas redes sociais para reduzir dependência do tráfego direto\n>>> Criar mais matérias de serviço sobre transporte público, que mantêm audiência duradoura",
+    "acoes": ">>> Publicar 3-4 matérias estratégicas para garantir os 1.981 PVs restantes da meta mensal\n>>> Priorizar conteúdo de utilidade pública e serviços, que performaram melhor hoje\n>>> Reforçar distribuição social das principais matérias para expandir alcance\n>>> Monitorar performance das matérias antigas que geraram 76% do tráfego total\n>>> Preparar estratégia para junho com base nos learnings de maio",
+    "metaacumulada": "A meta dinâmica de 57.904 PVs foi calculada dividindo-se o restante da meta mensal (após acumular antes de ontem) pelos dias restantes incluindo hoje. Com 5.998.019 PVs acumulados de uma meta de 6 milhões, faltam apenas 1.981 PVs para completar maio. A meta de amanhã representa 0,033% da meta mensal, praticamente garantindo o fechamento positivo do mês.",
+    "historicodia": ">>> Hoje ficou 28% abaixo da média do mesmo dia da semana (157.203 PVs), indicando performance inferior ao padrão\n>>> Comparado à média dos últimos 30 dias (202.450 PVs), o resultado também ficou 44% abaixo\n>>> A tendência de 30 dias mostra crescimento de 21% sobre o período anterior, mantendo direção positiva",
+    "historicomes": ">>> Acumulado mensal de 5.998.019 PVs supera em 18% o mesmo período do mês anterior (5.076.878 PVs)\n>>> Projeção para fechamento de maio indica cerca de 6.002.000 PVs, ligeiramente acima da meta\n>>> Performance mensal demonstra recuperação consistente comparada ao mesmo período anterior",
+    "tendencia": "A tendência dos últimos 30 dias aponta crescimento de 21% sobre o período anterior, sinalizando trajetória positiva sustentada. O melhor mês histórico foi julho/2025 com 13.625.154 PVs, enquanto o pior foi fevereiro/2025 com 4.527.477 PVs, mostrando amplitude significativa de performance sazonal.",
+    "alerta": "\"A dependência excessiva do tráfego direto (48%) e a baixa performance nas redes sociais (6%) criam vulnerabilidade na diversificação de fontes de audiência.\"",
+    "licao": "O dia comprovou que matérias de utilidade pública e serviços governamentais garantem audiência sólida e duradoura, enquanto o arquivo histórico sustenta 76% do tráfego total. A estratégia de conteúdo evergreen se mostrou fundamental, mas a distribuição social precisa ser repensada urgentemente. \"Conteúdo útil constrói audiência; distribuição inteligente a multiplica.\"",
+    "tendencias": ">>> Flamengo de 2019: Jorge Jesus reencontra Filipe Luís e relembra título da Libertadores no ES\n--- Editoria: Esportes\n--- Ângulo ES: Conectar com torcedores capixabas do Flamengo e relembrar a passagem histórica do time pelo estado durante a campanha da Libertadores\n--- Por que performa: Filipe Luís está em alta com 5000+ buscas após encontro nostálgico com Jorge Jesus\n--- Tipo: Notícia\n\n>>> Previsão do tempo RJ x ES: frente fria que atinge Rio chega ao Espírito Santo nesta terça\n--- Editoria: Cotidiano\n--- Ângulo ES: Mostrar como o tempo no Rio de Janeiro influencia diretamente o clima capixaba nas próximas horas\n--- Por que performa: \"Tempo RJ\" tem 100+ buscas e capixabas sempre buscam previsão meteorológica\n--- Tipo: Serviço\n\n>>> Dividendos em alta: fundos imobiliários atraem cada vez mais investidores capixabas\n--- Editoria: Economia\n--- Ângulo ES: Mostrar crescimento de investidores do ES em FIIs e entrevistar corretoras locais sobre a tendência\n--- Por que performa: \"Dividendo\" tem 500+ buscas com foco em MXRF11 e rendimentos\n--- Tipo: Explicativo\n\n>>> iPhone 16 com desconto: onde encontrar o melhor preço em Vitória e Vila Velha\n--- Editoria: Tecnologia\n--- Ângulo ES: Guia de lojas físicas e online que entregam no ES com os melhores preços do iPhone 16\n--- Por que performa: \"iPhone 16\" tem 100+ buscas por promoções e descontos\n--- Tipo: Serviço\n\n>>> MEI no ES: últimas horas para declaração anual sem multa da Receita Federal\n--- Editoria: Economia\n--- Ângulo ES: Focar nos 180 mil MEIs do Espírito Santo e dar orientações práticas para evitar multa\n--- Por que performa: \"Multa\" tem 100+ buscas relacionada ao prazo do MEI que vence hoje\n--- Tipo: Serviço\n\n>>> Receita Federal: capixabas têm até meia-noite para entregar Imposto de Renda 2024\n--- Editoria: Economia\n--- Ângulo ES: Destacar dados específicos do ES, postos de atendimento em Vitória e orientações de última hora\n--- Por que performa: \"Receita Federal\" tem 1000+ buscas pelo prazo final da declaração\n--- Tipo: Serviço\n\n>>> Chuva forte derruba sistema do Outlook e afeta empresas no ES\n--- Editoria: Tecnologia\n--- Ângulo ES: Mostrar impacto de instabilidades tecnológicas no setor empresarial capixaba\n--- Por que performa: \"Outlook\" tem 100+ buscas por problemas técnicos e instabilidades\n--- Tipo: Notícia\n\n>>> McDonald's vs Burger King: guerra do fast food chega com força à Grande Vitória\n--- Editoria: Economia\n--- Ângulo ES: Analisar expansão das redes no ES, novos empregos gerados e preferência dos capixabas\n--- Por que performa: \"McDonald's\" tem 100+ buscas sobre disputa bilionária entre as redes\n--- Tipo: Análise\n\n>>> Taylor Swift Eras Tour: capixabas gastam até R$ 5 mil para ver show em São Paulo\n--- Editoria: Cultura\n--- Ângulo ES: Mostrar quanto fãs do ES estão gastando com viagem, hospedagem e ingressos para os shows\n--- Por que performa: \"Taylor Swift\" tem 500+ buscas por novidades da turnê e campanhas promocionais\n--- Tipo: Notícia\n\n>>> Prazo da Receita: 5 erros que capixabas mais cometem na declaração do IR\n--- Editoria: Economia\n--- Ângulo ES: Listar erros comuns específicos dos contribuintes do ES baseado em dados regionais\n--- Por que performa: Combina trending de \"Receita Federal\" e \"multa\" no último dia de prazo\n--- Tipo: Lista"
+  },
+  "tendencias": [
+    {
+      "titulo": "filipe luís",
+      "trafico": "5000+",
+      "contexto": "Jesus se encontra com Filipe Luís e outros jogadores do Flamengo de 2019: “Melhor time que tive na v"
+    },
+    {
+      "titulo": "tempo rj",
+      "trafico": "100+",
+      "contexto": ""
+    },
+    {
+      "titulo": "dividendo",
+      "trafico": "500+",
+      "contexto": "Dividendo do MXRF11: FII anuncia novo pagamento para junho; veja valor"
+    },
+    {
+      "titulo": "iphone 16",
+      "trafico": "100+",
+      "contexto": "iPhone 16 atinge menor preço desde março com 44% OFF em promoção"
+    },
+    {
+      "titulo": "multa",
+      "trafico": "100+",
+      "contexto": "MEI: prazo para enviar a declaração anual termina hoje; veja como fazer"
+    },
+    {
+      "titulo": "receita federal",
+      "trafico": "1000+",
+      "contexto": "Termina hoje (29) o prazo para enviar a Declaração do Imposto de Renda — Receita Federal"
+    },
+    {
+      "titulo": "outlook",
+      "trafico": "100+",
+      "contexto": "India says retail inflation may accelerate on weak monsoon, fuel price rise"
+    },
+    {
+      "titulo": "mcdonald&apos;s",
+      "trafico": "100+",
+      "contexto": "Enquanto o Burger King fatura US$ 11 bilhões, o McDonald’s tem um lucro 5 vezes maior"
+    },
+    {
+      "titulo": "taylor swift",
+      "trafico": "500+",
+      "contexto": "‘Toy Story’ or Tay Story? Easter Eggs in New ‘TS’ Billboard Campaign Heighten Fans’ Belief That Tayl"
+    }
+  ]
+}
