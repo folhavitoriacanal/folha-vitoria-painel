@@ -1,21 +1,21 @@
 {
   "dataDisplay": "01/06/2026",
-  "geradoEm": "2026-06-02T09:19:10.324Z",
-  "pvTotal": 170361,
+  "geradoEm": "2026-06-02T22:36:31.098Z",
+  "pvTotal": 170525,
   "pctMeta": 85,
   "metaHoje": 200000,
-  "metaAmanha": 201023,
-  "saldoOntem": -29639,
-  "deficitOntem": 29639,
+  "metaAmanha": 201017,
+  "saldoOntem": -29475,
+  "deficitOntem": 29475,
   "metaDiaria": 200000,
   "metaMensal": 6000000,
-  "usuarios": 80332,
-  "sessions": 113819,
-  "pgsPorSessao": "1.50",
-  "tempoMedio": "2min16s",
+  "usuarios": 80348,
+  "sessions": 110411,
+  "pgsPorSessao": "1.54",
+  "tempoMedio": "2min14s",
   "pvManha": 56061,
   "pvTarde": 57441,
-  "pvNoite": 41268,
+  "pvNoite": 41432,
   "checkpoints": [
     {
       "label": "Até 11h",
@@ -38,30 +38,39 @@
   ],
   "producao": {
     "disponivel": true,
-    "totalPublicadas": 92,
-    "pvPublicadas": 28421,
-    "mediaRealPorMateria": 309,
-    "materiasComAcesso": 84,
-    "materiasSemAcesso": 8,
-    "pvAntigos": 141940
+    "totalPublicadas": 89,
+    "pvPublicadas": 28313,
+    "mediaRealPorMateria": 318,
+    "materiasComAcesso": 82,
+    "materiasSemAcesso": 7,
+    "materiasSemAcessoLista": [
+      "/beleza/o-que-acontece-quando-voce-escova-o-cabelo-de-cabeca-para-baixo-veja-beneficios-viral/",
+      "/beleza/frio-castiga-a-pele-veja-6-hidratantes-faciais-que-ajudam-a-combater-o-ressecamento-no-inverno-viral/",
+      "/tv-vitoria/jornal-da-tv-vitoria/reajuste-de-511-em-planos-de-saude-impacta-14-milhao-no-es/",
+      "/tv-vitoria/jornal-da-tv-vitoria/eua-classificam-comando-vermelho-e-pcc-como-terroristas/",
+      "/tv-vitoria/jornal-da-tv-vitoria/nova-estacao-do-aquaviario-comeca-a-funcionar-na-rodoviaria-de-vitoria/",
+      "/tv-vitoria/jornal-da-tv-vitoria/condominios-investem-em-lazer-infantil-para-qualidade-de-vida/",
+      "/beleza/labios-rachados-especialistas-apontam-solucao-simples-e-economica-viral/"
+    ],
+    "pvAntigos": 142212
   },
   "topMaterias": [
     {
       "pos": 1,
       "titulo": "Quem precisa tirar a nova identidade? Veja os prazos",
-      "pv": 15593,
+      "pv": 15609,
       "publicadaHoje": false
     },
     {
       "pos": 2,
       "titulo": "Prazo para emitir a nova identidade é ampliado; veja até quando",
-      "pv": 14128,
+      "pv": 14136,
       "publicadaHoje": false
     },
     {
       "pos": 3,
       "titulo": "Nova onda de frio deve derrubar as temperaturas no ES",
-      "pv": 4953,
+      "pv": 4955,
       "publicadaHoje": false
     },
     {
@@ -73,77 +82,184 @@
     {
       "pos": 5,
       "titulo": "Seu RG antigo ainda vale? Veja quando ele pode ser recusado",
-      "pv": 2965,
+      "pv": 2968,
       "publicadaHoje": true
+    }
+  ],
+  "piorDesempenho": [
+    {
+      "pos": 1,
+      "titulo": "\"Ele não responde\": O que fazer quando o crush visualiza e some?",
+      "pv": 8,
+      "path": "/cultura/comportamento/o-que-fazer-quando-o-crush-visualiza-e-nao-responde/",
+      "publicadaHoje": false
+    },
+    {
+      "pos": 2,
+      "titulo": "30 restaurantes abertos nas segundas-feiras na Grande Vitória",
+      "pv": 8,
+      "path": "/gastronomia/30-restaurantes-abertos-nas-segundas-feiras-na-grande-vitoria-veja-onde-almocar-ou-jantar/",
+      "publicadaHoje": false
+    },
+    {
+      "pos": 3,
+      "titulo": "5 cortes para se livrar do volume excessivo sem chapinha",
+      "pv": 8,
+      "path": "/viralizou/para-acordar-pronta-5-cortes-de-cabelo-que-controlam-o-volume-sem-chapinha-viral/",
+      "publicadaHoje": false
+    },
+    {
+      "pos": 4,
+      "titulo": "Acelera Mulheres - Coluna do Folha Vitória",
+      "pv": 8,
+      "path": "/colunas/acelera-mulheres/",
+      "publicadaHoje": false
+    },
+    {
+      "pos": 5,
+      "titulo": "Andressa Urach revela vídeos eróticos com filho: “Ele sabe o que eu gosto”",
+      "pv": 8,
+      "path": "/cultura/andressa-urach-revela-videos-eroticos-com-filho-viral/",
+      "publicadaHoje": false
+    },
+    {
+      "pos": 6,
+      "titulo": "Batata frita: o clássico que atravessa gerações e segue conquistando paladares",
+      "pv": 8,
+      "path": "/gastronomia/batata-frita-o-classico-que-atravessa-geracoes-e-segue-conquistando-paladares/",
+      "publicadaHoje": false
+    },
+    {
+      "pos": 7,
+      "titulo": "Brasil na Copa do Mundo 2026: veja datas e horários dos jogos",
+      "pv": 8,
+      "path": "/copa-do-mundo/brasil-na-copa-do-mundo-2026-veja-datas-horarios-dos-jogos-e-o-que-muda-no-torneio-viral/",
+      "publicadaHoje": false
+    },
+    {
+      "pos": 8,
+      "titulo": "Breaking: IDH do Espírito Santo mantém patamar 'muito alto' pelo segundo ano",
+      "pv": 8,
+      "path": "/folha-business/breaking-idh-do-espirito-santo-mantem-patamar-muito-alto-pelo-segundo-ano/",
+      "publicadaHoje": false
+    },
+    {
+      "pos": 9,
+      "titulo": "Carro quebra mureta e cai na Beira-Mar em Vitória",
+      "pv": 8,
+      "path": "/transito/video-carro-perde-controle-quebra-mureta-e-cai-na-beira-mar-em-vitoria/",
+      "publicadaHoje": false
+    },
+    {
+      "pos": 10,
+      "titulo": "Como a BR-101 busca melhorar a segurança no trânsito no ES",
+      "pv": 8,
+      "path": "/conteudo-de-marca/investimentos-tecnologia-e-atendimento-como-a-br-101-busca-melhorar-a-seguranca-no-transito-no-es/",
+      "publicadaHoje": false
+    },
+    {
+      "pos": 11,
+      "titulo": "Confira os grupos da Copa Vitória das Comunidades 2026",
+      "pv": 8,
+      "path": "/esportes/confira-os-grupos-e-a-data-de-inicio-da-copa-vitoria-das-comunidades/",
+      "publicadaHoje": false
+    },
+    {
+      "pos": 12,
+      "titulo": "Dia do Hambúrguer tem lanches a R$ 1 e até figurinhas da Copa",
+      "pv": 8,
+      "path": "/gastronomia/lanches-por-r-1-e-ate-com-figurinhas-da-copa-veja-promocoes-do-dia-do-hamburguer/",
+      "publicadaHoje": false
+    },
+    {
+      "pos": 13,
+      "titulo": "EsPCEx abre 440 vagas para formação de oficiais do Exército",
+      "pv": 8,
+      "path": "/trabalho/concursos/escola-de-cadetes-abre-440-vagas-para-formacao-de-oficiais-do-exercito/",
+      "publicadaHoje": false
+    },
+    {
+      "pos": 14,
+      "titulo": "Ferrugem, Simone Mendes e Feira dos Municípios: o que agita o ES",
+      "pv": 8,
+      "path": "/cultura/agenda-cultural/ferrugem-simone-mendes-e-feira-dos-municipios-veja-o-que-agita-o-es-no-fim-de-semana/",
+      "publicadaHoje": false
+    },
+    {
+      "pos": 15,
+      "titulo": "Grupo de canoa havaiana de Vitória vai disputar mundial em Singapura",
+      "pv": 8,
+      "path": "/tv-vitoria/jornal-da-tv-vitoria/grupo-de-canoa-havaiana-de-vitoria-vai-disputar-mundial-em-singapura/",
+      "publicadaHoje": false
     }
   ],
   "editorias": [
     {
       "nome": "economia",
-      "pvTotal": 33143,
+      "pvTotal": 33178,
       "pvPublicadas": 1643,
       "publicadas": 12,
-      "urlsAcessadas": 46,
+      "urlsAcessadas": 47,
       "mediaCorreta": 137
     },
     {
       "nome": "cotidiano",
-      "pvTotal": 11584,
-      "pvPublicadas": 6052,
+      "pvTotal": 11591,
+      "pvPublicadas": 6058,
       "publicadas": 11,
       "urlsAcessadas": 39,
-      "mediaCorreta": 550
+      "mediaCorreta": 551
     },
     {
       "nome": "policia",
-      "pvTotal": 8163,
-      "pvPublicadas": 3949,
+      "pvTotal": 8166,
+      "pvPublicadas": 3952,
       "publicadas": 5,
       "urlsAcessadas": 36,
       "mediaCorreta": 790
     },
     {
       "nome": "tempo",
-      "pvTotal": 6964,
-      "pvPublicadas": 1875,
+      "pvTotal": 6978,
+      "pvPublicadas": 1886,
       "publicadas": 1,
       "urlsAcessadas": 10,
-      "mediaCorreta": 1875
+      "mediaCorreta": 1886
     },
     {
       "nome": "cultura",
-      "pvTotal": 6861,
-      "pvPublicadas": 3426,
+      "pvTotal": 6868,
+      "pvPublicadas": 3430,
       "publicadas": 9,
       "urlsAcessadas": 54,
       "mediaCorreta": 381
     },
     {
       "nome": "transito",
-      "pvTotal": 5370,
-      "pvPublicadas": 1127,
+      "pvTotal": 5376,
+      "pvPublicadas": 1128,
       "publicadas": 3,
       "urlsAcessadas": 20,
       "mediaCorreta": 376
     },
     {
       "nome": "loterias",
-      "pvTotal": 4942,
-      "pvPublicadas": 1258,
+      "pvTotal": 4951,
+      "pvPublicadas": 1266,
       "publicadas": 2,
       "urlsAcessadas": 8,
-      "mediaCorreta": 629
+      "mediaCorreta": 633
     }
   ],
   "origens": [
     {
       "canal": "Google Orgânico",
-      "pv": 80381,
+      "pv": 80486,
       "pct": 47
     },
     {
       "canal": "Direto",
-      "pv": 78915,
+      "pv": 78995,
       "pct": 46
     },
     {
@@ -153,12 +269,12 @@
     },
     {
       "canal": "Links externos",
-      "pv": 3169,
+      "pv": 3175,
       "pct": 2
     },
     {
       "canal": "Não identificado",
-      "pv": 777,
+      "pv": 751,
       "pct": 0
     },
     {
@@ -175,25 +291,20 @@
       "canal": "Organic Shopping",
       "pv": 2,
       "pct": 0
-    },
-    {
-      "canal": "Cross-network",
-      "pv": 1,
-      "pct": 0
     }
   ],
   "historico": {
     "mediaMesmoDia": 214726,
     "varMesmoDia": -21,
-    "media30": 199265,
-    "media30a": 170057,
+    "media30": 200022,
+    "media30a": 170637,
     "var30": 17,
-    "pvMesAtualAcum": 170361,
+    "pvMesAtualAcum": 170525,
     "pvMesAntMesmoPer": 161658,
     "varMesAnt": 5,
     "diasRestantes": 29,
-    "pvFaltaMes": 5829639,
-    "mediaNecessaria": 201023,
+    "pvFaltaMes": 5829475,
+    "mediaNecessaria": 201017,
     "mediaMensal": 6814068,
     "melhorMes": {
       "mes": "202507",
@@ -310,80 +421,80 @@
       },
       {
         "mes": "202606",
-        "pv": 170361,
+        "pv": 170525,
         "label": "Jun/26",
         "atual": true
       }
     ]
   },
   "analises": {
-    "resumo": "O Folha Vitória registrou 170.361 page views nesta sexta-feira, ficando 29.639 visualizações abaixo da meta diária de 200.000 (85% de atingimento). O tráfego foi bem distribuído ao longo do dia, com manhã registrando 56.061 PVs, tarde com 57.441 PVs e noite com 41.268 PVs. Apesar de ficar abaixo da meta, o resultado representa crescimento de 5% em relação ao mesmo período do mês anterior. Para amanhã, a meta ajustada é de 201.023 PVs para manter o ritmo necessário à meta mensal de 6 milhões.",
-    "horarios": ">>> Manhã (6h-11h) bateu a meta com 71.652 PVs contra 60.000 esperados, mostrando força no período matinal\n>>> Tarde (12h-17h) ficou próximo da meta com 129.093 PVs contra 130.000, demonstrando consistência\n>>> Noite (18h-23h) apresentou queda natural com 41.268 PVs, mas checkpoint das 21h mostrou 160.462 PVs, ainda distante dos 200.000 da meta diária\n>>> Performance matinal forte indica boa receptividade do conteúdo no início do dia",
-    "padrao": ">>> Matérias sobre nova identidade dominam o tráfego com as duas primeiras posições somando 29.721 PVs\n>>> Conteúdo de serviço público (documentos e prazos) mostra alta demanda dos leitores\n>>> Previsão do tempo mantém relevância constante entre os temas mais acessados\n>>> Loterias seguem como nicho fiel de audiência, especialmente com eventos especiais como Copa do Mundo",
-    "editorias": ">>> Tempo lidera em eficiência com 1.875 PVs por matéria publicada, confirmando alta demanda por informações meteorológicas\n>>> Polícia apresenta boa média de 790 PVs por matéria, mantendo interesse consistente do público\n>>> Loterias alcança 629 PVs por matéria, demonstrando nicho engajado\n>>> Cotidiano atinge 550 PVs por matéria com boa diversidade de conteúdo\n>>> Economia precisa melhorar com apenas 137 PVs por matéria apesar de 12 publicações",
-    "trafego": ">>> Google Orgânico e tráfego direto equilibrados (47% e 46%) mostram boa diversificação de fontes\n>>> Redes sociais com apenas 4% indicam oportunidade de crescimento em engajamento\n>>> Tráfego direto forte de 78.915 PVs demonstra fidelização da audiência\n>>> Links externos com 2% sugerem necessidade de parcerias para ampliar alcance",
-    "eficiencia": "A produção de 92 matérias gerou 28.421 PVs nas publicações do dia, resultando em média real de 309 PVs por matéria. Das 92 publicações, 8 não registraram acessos, representando 9% de conteúdo sem engajamento. O grosso do tráfego (141.940 PVs) veio de matérias antigas, mostrando a importância do acervo para sustentar a audiência diária.",
-    "erros": ">>> Economia publicou 12 matérias mas teve baixíssima média de 137 PVs por texto\n>>> 8 matérias sem nenhum acesso representam desperdício de produção\n>>> Redes sociais gerando apenas 4% do tráfego indica falha na estratégia de distribuição\n>>> Período noturno com queda acentuada sugere falta de conteúdo adequado para o horário",
-    "oportunidades": ">>> Investir em mais conteúdo de serviço público, seguindo sucesso das matérias sobre documentação\n>>> Ampliar cobertura meteorológica considerando a alta eficiência da editoria Tempo\n>>> Desenvolver estratégia específica para redes sociais visando aumentar os 4% atuais\n>>> Criar conteúdo noturno mais atrativo para reduzir a queda natural do período\n>>> Revisar linha editorial de Economia para melhorar a baixa média de engagement",
-    "acoes": ">>> Publicar pelo menos 2 matérias de serviço sobre documentação e prazos governamentais\n>>> Intensificar posts em redes sociais com conteúdo visual e chamadas mais atrativas\n>>> Concentrar 60% da produção entre 6h e 17h para aproveitar melhor performance desses períodos\n>>> Revisar matérias de Economia antes da publicação para garantir maior apelo ao leitor\n>>> Acompanhar métricas de hora em hora para ajustes durante o dia visando os 201.023 PVs",
-    "metaacumulada": "A meta dinâmica funciona dividindo o que falta para atingir os 6 milhões mensais pelos dias restantes. Como acumulamos 170.361 PVs no primeiro dia, ainda faltam 5.829.639 PVs para a meta mensal. Com 29 dias restantes, a meta de amanhã sobe para 201.023 PVs. Este sistema garante que mesmo com dias abaixo da meta, ainda seja possível recuperar o objetivo mensal ajustando as metas diárias.",
-    "historicodia": ">>> Resultado 21% inferior à média histórica do mesmo dia da semana (214.726 PVs), indicando performance abaixo do padrão semanal\n>>> Porém, 5% superior ao mesmo período do mês anterior (161.658 PVs), mostrando evolução mensal positiva\n>>> Média dos últimos 30 dias em 199.265 PVs sugere que o resultado de hoje ficou dentro da normalidade recente",
-    "historicomes": ">>> Primeiro dia do mês com 170.361 PVs estabelece base inicial para perseguir a meta de 6 milhões\n>>> Crescimento de 5% vs mês anterior no mesmo período é sinal positivo para início de mês\n>>> Projeção baseada no primeiro dia sugere necessidade de aceleração nos próximos dias para atingir meta mensal",
-    "tendencia": "A tendência dos últimos 30 dias mostra crescimento de 17% em relação ao período anterior, indicando trajetória positiva. O melhor mês da história foi julho de 2025 com 13.625.154 PVs, enquanto o pior foi fevereiro de 2025 com 4.527.477 PVs. A meta atual de 6 milhões está dentro do intervalo histórico, sendo desafiadora mas factível considerando a tendência ascendente.",
-    "alerta": "\"Meta de amanhã aumenta para 201.023 PVs - cada dia abaixo pressiona mais os próximos.\"",
-    "licao": "O primeiro dia de junho mostrou que matérias de serviço público geram alto engajamento, especialmente sobre documentação e prazos. A distribuição equilibrada entre Google e tráfego direto é positiva, mas as redes sociais precisam de atenção urgente. A eficiência de 309 PVs por matéria é razoável, porém 8 textos sem acesso indicam necessidade de maior curadoria na produção. \"Qualidade editorial e distribuição estratégica são as chaves para recuperar terreno na meta mensal.\"",
-    "tendencias": ">>> Incêndio atinge restaurante 'Ilha do Caranguejo' em Jardim Camburi: bombeiros controlam fogo\n--- Editoria: Cotidiano\n--- Ângulo ES: Matéria sobre o incêndio que atingiu o restaurante em Jardim Camburi, bairro nobre de Vitória, com impacto no trânsito e comércio local\n--- Por que performa: Trending topic \"incêndio\" com 200+ buscas relacionado diretamente ao ES\n--- Tipo: Notícia\n\n>>> Acidente em Congonhas: como evitar quedas no embarque e desembarque em voos\n--- Editoria: Serviços\n--- Ângulo ES: Dicas de segurança para capixabas que viajam pelo aeroporto de Vitória e conexões em Congonhas\n--- Por que performa: Trending topic \"congonhas\" com 200+ buscas após acidente fatal\n--- Tipo: Serviço\n\n>>> Anjo da Guarda de hoje: previsões para os 4 signos mais favorecidos neste domingo\n--- Editoria: Horóscopo\n--- Ângulo ES: Previsões astrológicas para o domingo dos leitores capixabas com foco nos signos em destaque\n--- Por que performa: Trending topic \"anjo da guarda\" com 200+ buscas sobre previsões astrológicas\n--- Tipo: Serviço\n\n>>> Silvia Abravanel cotada para vice de Caiado: filhas de Silvio Santos na política\n--- Editoria: Política\n--- Ângulo ES: Análise do movimento de celebridades na política nacional e reflexos nas eleições capixabas\n--- Por que performa: Trending topic \"silvia abravanel\" com 100+ buscas sobre entrada na política\n--- Tipo: Análise\n\n>>> Terremoto de 6,1 na Itália: capixabas que moram no país relatam susto\n--- Editoria: Internacional\n--- Ângulo ES: Depoimentos de imigrantes capixabas que vivem na Itália sobre o terremoto\n--- Por que performa: Trending topic \"itália\" com 200+ buscas após terremoto\n--- Tipo: Notícia\n\n>>> Coração Acelerado: novela das 7 movimenta redes sociais com noivado polêmico\n--- Editoria: Entretenimento\n--- Ângulo ES: Como a novela das 7 repercute entre telespectadores capixabas nas redes sociais\n--- Por que performa: Trending topic \"novela das sete\" com 200+ buscas sobre trama atual\n--- Tipo: Notícia\n\n>>> Williams Racing em Mônaco: como acompanhar a Fórmula 1 em Vitória\n--- Editoria: Esportes\n--- Ângulo ES: Guia dos melhores locais em Vitória e Vila Velha para assistir à Fórmula 1 com amigos\n--- Por que performa: Trending topic \"williams racing\" com 100+ buscas durante GP de Mônaco\n--- Tipo: Serviço\n\n>>> Carla Perez comemora vitória da nora no fisiculturismo: esporte cresce no ES\n--- Editoria: Esportes\n--- Ângulo ES: Crescimento do fisiculturismo feminino no Espírito Santo e principais competições locais\n--- Por que performa: Trending topic \"carla perez\" com 100+ buscas sobre fisiculturismo da nora\n--- Tipo: Explicativo\n\n>>> Erro com bandeira brasileira gera revolta: simbolos nacionais e protocolo\n--- Editoria: Brasil\n--- Ângulo ES: Como eventos oficiais no ES seguem protocolos com símbolos nacionais\n--- Por que performa: Trending topic \"bandeira\" com 100+ buscas após erro em campanha\n--- Tipo: Explicativo\n\n>>> Gastos públicos suspeitos: como capixabas podem fiscalizar verbas em municípios do ES\n--- Editoria: Política\n--- Ângulo ES: Ferramentas de transparência disponíveis para cidadãos capixabas acompanharem gastos municipais\n--- Por que performa: Trending topic \"política\" com 100+ buscas sobre investigações de gastos públicos\n--- Tipo: Serviço"
+    "resumo": "O Folha Vitória registrou 170.525 page views no dia 01/06/2026, ficando 29.475 PVs abaixo da meta diária de 200.000 (85% de cumprimento). O período da manhã teve o melhor desempenho com 56.061 PVs, seguido pela tarde com 57.441 PVs e a noite com 41.432 PVs. A meta do checkpoint das 11h foi superada, mas o portal não conseguiu sustentar o ritmo nos períodos seguintes. Iniciamos junho com 5% de crescimento em relação ao mesmo período do mês anterior, mas ainda precisamos de 5.829.475 PVs para atingir a meta mensal de 6 milhões.",
+    "horarios": ">>> Manhã (6h-11h): 56.061 PVs - período mais forte do dia, representando 33% do total\n>>> Tarde (12h-17h): 57.441 PVs - manteve ritmo similar à manhã com leve crescimento\n>>> Noite (18h-23h): 41.432 PVs - queda significativa de audiência no período noturno\n>>> Checkpoint 11h: 71.652 PVs superaram meta de 60.000 (119% de cumprimento)\n>>> Checkpoint 17h: 129.093 PVs ficaram próximos dos 130.000 esperados (99% de cumprimento)\n>>> Checkpoint 21h: 160.462 PVs bem abaixo dos 200.000 necessários (80% de cumprimento)",
+    "padrao": ">>> Matérias sobre nova identidade dominaram o ranking com duas posições no top 5, somando 29.745 PVs\n>>> Conteúdo de utilidade pública (documentos, prazos) concentrou a maior audiência\n>>> Previsão do tempo mantém relevância constante com 4.955 PVs em matéria antiga\n>>> Loterias e jogos aparecem entre os assuntos de maior interesse do público\n>>> Apenas uma matéria publicada ontem (RG antigo) entrou no top 5 com 2.968 PVs",
+    "editorias": ">>> Tempo lidera eficiência com 1.886 PVs por matéria publicada ontem (1 matéria)\n>>> Polícia mantém alta performance com 790 PVs de média (5 matérias, 3.952 PVs)\n>>> Loterias apresenta boa média de 633 PVs por matéria (2 matérias, 1.266 PVs)\n>>> Cotidiano alcança 551 PVs de média com volume significativo (11 matérias, 6.058 PVs)\n>>> Cultura registra 381 PVs por matéria com produção intensa (9 matérias, 3.430 PVs)\n>>> Economia decepciona com apenas 137 PVs por matéria apesar do alto volume (12 matérias, 1.643 PVs)",
+    "trafego": ">>> Google Orgânico e tráfego direto praticamente empatados (47% vs 46%), demonstrando equilíbrio saudável\n>>> Redes sociais com apenas 4% indicam oportunidade de melhoria na estratégia digital\n>>> Links externos representam 2%, sugerindo baixo compartilhamento orgânico\n>>> YouTube quase inexistente com apenas 25 PVs, evidenciando subaproveitamento da plataforma\n>>> E-mail marketing praticamente zerado (10 PVs), indicando newsletter subutilizada",
+    "eficiencia": "Das 89 matérias publicadas ontem, 82 receberam acessos, gerando média real de 318 PVs por matéria. Sete matérias ficaram sem nenhum acesso, representando 8% de taxa de conteúdo ineficaz.",
+    "erros": ">>> Economia com 12 matérias publicadas mas média baixíssima de 137 PVs, indicando desalinhamento com interesse do público\n>>> Queda abrupta de audiência no período noturno (41.432 PVs), perdendo 28% em relação à tarde\n>>> Sete matérias sem nenhum acesso demonstram falha na curadoria e distribuição de conteúdo\n>>> Redes sociais gerando apenas 4% do tráfego, muito abaixo do potencial de engajamento",
+    "oportunidades": ">>> Matérias sobre documentos e utilidade pública provaram alta demanda - expandir cobertura similar\n>>> Fortalecer estratégia de redes sociais para aumentar os atuais 4% de participação no tráfego\n>>> Desenvolver conteúdo noturno mais atrativo para recuperar audiência perdida após às 18h\n>>> Melhorar estratégia de economia, editoria com maior volume mas menor eficiência\n>>> Ativar newsletter e marketing por e-mail, praticamente inexplorados atualmente",
+    "acoes": ">>> Produzir matéria de utilidade pública logo cedo para aproveitar o forte tráfego matinal\n>>> Agendar posts nas redes sociais nos três períodos para distribuir melhor a audiência\n>>> Republicar e atualizar as duas matérias top sobre nova identidade para manter relevância\n>>> Reduzir volume de matérias de economia e focar em ângulos mais atrativos\n>>> Programar conteúdo noturno diferenciado para tentar recuperar audiência perdida após 18h\nMeta de amanhã: 201.017 PVs",
+    "metaacumulada": "A meta dinâmica funciona dividindo o que falta para atingir os 6 milhões mensais pelos dias restantes. Como faltam 5.829.475 PVs em 29 dias, a meta de amanhã sobe para 201.017 PVs. A meta de ontem (200.000) foi calculada da mesma forma, considerando que era o primeiro dia útil do mês. Este sistema garante que mesmo com dias abaixo da meta, ainda seja possível recuperar o objetivo mensal ajustando as expectativas diárias.",
+    "historicodia": ">>> Desempenho 21% inferior à média das últimas 8 semanas no mesmo dia (214.726 PVs)\n>>> Resultado abaixo da média dos últimos 30 dias (200.022 PVs), indicando início de mês mais fraco\n>>> Comparação com média de 30 dias anteriores mostra tendência positiva de crescimento (+17%)",
+    "historicomes": ">>> Primeiro dia de junho com 170.525 PVs supera mesmo período de maio em 5% (161.658 PVs)\n>>> Projeção atual indica possibilidade de atingir cerca de 5,1 milhões no mês se mantiver média atual\n>>> Necessário crescimento de 18% na média diária para atingir meta de 6 milhões",
+    "tendencia": "A tendência dos últimos 30 dias mostra crescimento de 17% em relação ao período anterior, sinalizando recuperação gradual da audiência. O melhor mês da história foi julho/25 com 13,6 milhões de PVs, enquanto o pior foi fevereiro/25 com 4,5 milhões, demonstrando a capacidade de grandes variações sazonais do portal.",
+    "alerta": "\"A queda de 21% em relação ao padrão semanal e o desempenho noturno fraco exigem ajustes imediatos na estratégia de conteúdo e distribuição.\"",
+    "licao": "O primeiro dia de junho revelou que matérias de utilidade pública sobre documentação continuam sendo o filão de ouro da audiência, mas a dependência excessiva de conteúdo antigo (83% dos PVs) expõe fragilidade na produção atual. A eficiência das editorias varia drasticamente, com Economia produzindo muito mas convertendo pouco, enquanto Tempo e Polícia mantêm alta performance. \"O segredo não está no volume de produção, mas na precisão editorial que conecta com as necessidades reais do público capixaba.\"",
+    "tendencias": ">>> Desenrola Brasil 2025: como capixabas podem negociar dívidas em bancos do ES\n--- Editoria: Economia\n--- Ângulo ES: Destacar agências participantes no ES, cases de sucesso locais e orientações específicas para moradores da Grande Vitória\n--- Por que performa: Trending topic com 2000+ buscas sobre renegociação de dívidas, tema de interesse direto do público\n--- Tipo: Serviço\n\n>>> Previsão do tempo junho 2025 no ES: duas frentes frias vão atingir o estado\n--- Editoria: Cotidiano\n--- Ângulo ES: Focar nas mudanças específicas para litoral e interior capixaba, impactos na agricultura e turismo local\n--- Por que performa: 1000+ buscas sobre clima de junho, assunto sazonal de alto interesse\n--- Tipo: Notícia\n\n>>> Fortaleza x Vitória hoje: onde assistir ao jogo do Brasileirão na Grande Vitória\n--- Editoria: Esportes\n--- Ângulo ES: Listar bares e restaurantes em Vitória que transmitirão o jogo, conexão com torcedores capixabas\n--- Por que performa: 1000+ buscas sobre a partida, interesse nacional em futebol\n--- Tipo: Serviço\n\n>>> Until Dawn 2 confirmado para 2027: lojas de games no ES já recebem pré-reservas\n--- Editoria: Tecnologia\n--- Ângulo ES: Entrevistar proprietários de lojas de games em Vitória sobre expectativa e mercado local de consoles\n--- Por que performa: 1000+ buscas sobre o novo jogo, público gamer em expansão\n--- Tipo: Notícia\n\n>>> Mestres do Universo volta aos cinemas: sessões em Vitória prometem nostalgia dos anos 80\n--- Editoria: Entretenimento\n--- Ângulo ES: Destacar cinemas da Grande Vitória que exibirão, entrevistar fãs capixabas da franquia\n--- Por que performa: 500+ buscas sobre o filme, apelo nostálgico forte\n--- Tipo: Serviço\n\n>>> Onimusha ganha nova versão: como está o mercado de games no Espírito Santo\n--- Editoria: Tecnologia\n--- Ângulo ES: Panorama do setor de games no ES, desenvolvedoras locais e crescimento do mercado\n--- Por que performa: 500+ buscas sobre o jogo, interesse crescente em games\n--- Tipo: Análise\n\n>>> Rayman Legends em português: tradução brasileira movimenta setor de localização no ES\n--- Editoria: Tecnologia\n--- Ângulo ES: Destacar profissionais capixabas que trabalham com tradução de games e conteúdo digital\n--- Por que performa: 500+ buscas sobre localização do jogo, nicho específico mas engajado\n--- Tipo: Explicativo\n\n>>> Real Madrid busca Dumfries: como capixabas acompanham o mercado europeu\n--- Editoria: Esportes\n--- Ângulo ES: Perfil de torcedores do Real Madrid no ES, bares temáticos e grupos de fãs locais\n--- Por que performa: 1000+ buscas sobre transferência, interesse em futebol internacional\n--- Tipo: Notícia\n\n>>> Independiente Medellín e Fredy Montero: conexões colombianas com o futebol capixaba\n--- Editoria: Esportes\n--- Ângulo ES: Relembrar jogadores colombianos que passaram por times do ES, conexões históricas\n--- Por que performa: 1000+ buscas sobre time colombiano, interesse em futebol sul-americano\n--- Tipo: Explicativo\n\n>>> Laufey em God of War: trilha sonora de games vira tendência entre jovens do ES\n--- Editoria: Entretenimento\n--- Ângulo ES: Como soundtracks de games influenciam gosto musical de capixabas, entrevista com fãs locais\n--- Por que performa: 5000+ buscas sobre Laufey, cruzamento entre música e games\n--- Tipo: Análise"
   },
   "tendencias": [
     {
-      "titulo": "novela das sete",
-      "trafico": "200+",
-      "contexto": "Coração Acelerado: Ana Castela tem a melhor reação ao saber do noivado de João Raul e Naiane"
+      "titulo": "laufey",
+      "trafico": "5000+",
+      "contexto": "First look at God of War Laufey"
     },
     {
-      "titulo": "bandeira",
-      "trafico": "100+",
-      "contexto": "Patrocinador erra feio em campanha com seleção: bandeira no Maracanã"
+      "titulo": "desenrola brasil",
+      "trafico": "2000+",
+      "contexto": "Ministério da Fazenda fortalece cidadania financeira com portaria do Novo Desenrola Brasil"
     },
     {
-      "titulo": "anjo da guarda",
-      "trafico": "200+",
-      "contexto": "Anjo da Guarda traz resposta esperada para 4 signos neste domingo (31 de maio): algo finalmente fica"
+      "titulo": "junho",
+      "trafico": "1000+",
+      "contexto": "Brasil terá mês com baixa influência do El Niño e duas quedas de temperatura"
     },
     {
-      "titulo": "carla perez",
-      "trafico": "100+",
-      "contexto": "Noiva de filho de Carla Perez vence primeiro campeonato de fisiculturismo e ganha homenagem da sogra"
+      "titulo": "until dawn 2",
+      "trafico": "1000+",
+      "contexto": "Until Dawn 2 is coming to PS5 in 2027"
     },
     {
-      "titulo": "williams racing",
-      "trafico": "100+",
-      "contexto": "Monaco Grand Prix: Best images of F1&apos;s most famous race since 1950"
+      "titulo": "onimusha",
+      "trafico": "500+",
+      "contexto": "Onimusha: Way of the Sword ganha demo e data; veja trailer"
     },
     {
-      "titulo": "incêndio",
-      "trafico": "200+",
-      "contexto": "Incêndio atinge prédio de restaurante &apos;Ilha do Caranguejo&apos; em Jardim Camburi"
+      "titulo": "rayman legends retold",
+      "trafico": "500+",
+      "contexto": "Rayman Legends Retold terá localização em português brasileiro"
     },
     {
-      "titulo": "congonhas",
-      "trafico": "200+",
-      "contexto": "Mulher morre ao cair de escada de avião no desembarque em Congonhas, em SP"
+      "titulo": "independiente medellín",
+      "trafico": "1000+",
+      "contexto": "¡Fredy Montero, goleador del Torneo BetPlay DIMAYOR I-2026!"
     },
     {
-      "titulo": "silvia abravanel",
-      "trafico": "100+",
-      "contexto": "Daniela Lima: Filha de Silvio Santos, Silvia Abravanel é cotada para vice de Caiado"
+      "titulo": "dumfries",
+      "trafico": "1000+",
+      "contexto": "Real Madrid pursuing Ibrahima Konate, Denzel Dumfries deals - The Athletic"
     },
     {
-      "titulo": "política",
-      "trafico": "100+",
-      "contexto": "Gabinete de Mario Frias pagou R$ 154 mil a empresa citada em investigação do contrato de wi-fi da Pr"
+      "titulo": "fortaleza x vitoria",
+      "trafico": "1000+",
+      "contexto": "Fortaleza x Vitória: onde assistir ao vivo, horário e escalações"
     },
     {
-      "titulo": "itália",
-      "trafico": "200+",
-      "contexto": "Terremoto de magnitude 6,1 atinge costa do sul da Itália"
+      "titulo": "mestres do universo",
+      "trafico": "500+",
+      "contexto": "&apos;Mestres do Universo&apos; abraça cafonice de He-Man em aventura ridícula e divertida; g1 já vi"
     }
   ]
 }
