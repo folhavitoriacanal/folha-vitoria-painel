@@ -1,174 +1,179 @@
 {
-  "dataDisplay": "31/05/2026",
-  "geradoEm": "2026-06-01T09:19:33.940Z",
-  "pvTotal": 141589,
-  "pctMeta": 7147,
-  "metaHoje": 1981,
-  "metaAmanha": 200000,
-  "saldoOntem": 139608,
-  "deficitOntem": 0,
+  "dataDisplay": "01/06/2026",
+  "geradoEm": "2026-06-02T09:19:10.324Z",
+  "pvTotal": 170361,
+  "pctMeta": 85,
+  "metaHoje": 200000,
+  "metaAmanha": 201023,
+  "saldoOntem": -29639,
+  "deficitOntem": 29639,
   "metaDiaria": 200000,
   "metaMensal": 6000000,
-  "usuarios": 79847,
-  "sessions": 104993,
-  "pgsPorSessao": "1.35",
-  "tempoMedio": "1min48s",
-  "pvManha": 30175,
-  "pvTarde": 46449,
-  "pvNoite": 52335,
+  "usuarios": 80332,
+  "sessions": 113819,
+  "pgsPorSessao": "1.50",
+  "tempoMedio": "2min16s",
+  "pvManha": 56061,
+  "pvTarde": 57441,
+  "pvNoite": 41268,
   "checkpoints": [
     {
       "label": "Até 11h",
-      "pv": 42805,
+      "pv": 71652,
       "meta": 60000,
-      "status": "ABAIXO"
+      "status": "META BATIDA"
     },
     {
       "label": "Até 17h",
-      "pv": 89254,
+      "pv": 129093,
       "meta": 130000,
-      "status": "MUITO ABAIXO"
+      "status": "PERTO DA META"
     },
     {
       "label": "Até 21h",
-      "pv": 129184,
-      "meta": 1981,
-      "status": "META BATIDA"
+      "pv": 160462,
+      "meta": 200000,
+      "status": "ABAIXO"
     }
   ],
   "producao": {
     "disponivel": true,
-    "totalPublicadas": 38,
-    "pvPublicadas": 43897,
-    "mediaRealPorMateria": 1155,
-    "materiasComAcesso": 38,
-    "materiasSemAcesso": 0,
-    "pvAntigos": 97692
+    "totalPublicadas": 92,
+    "pvPublicadas": 28421,
+    "mediaRealPorMateria": 309,
+    "materiasComAcesso": 84,
+    "materiasSemAcesso": 8,
+    "pvAntigos": 141940
   },
   "topMaterias": [
     {
       "pos": 1,
-      "titulo": "Prazo para emitir a nova identidade é ampliado; veja até quando",
-      "pv": 19088,
+      "titulo": "Quem precisa tirar a nova identidade? Veja os prazos",
+      "pv": 15593,
       "publicadaHoje": false
     },
     {
       "pos": 2,
-      "titulo": "Nova onda de frio deve derrubar as temperaturas no ES",
-      "pv": 17048,
-      "publicadaHoje": true
+      "titulo": "Prazo para emitir a nova identidade é ampliado; veja até quando",
+      "pv": 14128,
+      "publicadaHoje": false
     },
     {
       "pos": 3,
-      "titulo": "Caixa lança concurso especial da Loteca para a Copa do Mundo",
-      "pv": 5892,
-      "publicadaHoje": true
+      "titulo": "Nova onda de frio deve derrubar as temperaturas no ES",
+      "pv": 4953,
+      "publicadaHoje": false
     },
     {
       "pos": 4,
-      "titulo": "CNH aos 16 anos: veja o que muda na proposta do novo código",
-      "pv": 3733,
-      "publicadaHoje": true
+      "titulo": "Caixa lança concurso especial da Loteca para a Copa do Mundo",
+      "pv": 3267,
+      "publicadaHoje": false
     },
     {
       "pos": 5,
-      "titulo": "Quem precisa tirar a nova identidade? Veja os prazos",
-      "pv": 3347,
+      "titulo": "Seu RG antigo ainda vale? Veja quando ele pode ser recusado",
+      "pv": 2965,
       "publicadaHoje": true
     }
   ],
   "editorias": [
     {
       "nome": "economia",
-      "pvTotal": 24662,
-      "pvPublicadas": 3407,
-      "publicadas": 4,
-      "urlsAcessadas": 43,
-      "mediaCorreta": 852
+      "pvTotal": 33143,
+      "pvPublicadas": 1643,
+      "publicadas": 12,
+      "urlsAcessadas": 46,
+      "mediaCorreta": 137
     },
     {
-      "nome": "tempo",
-      "pvTotal": 17255,
-      "pvPublicadas": 17048,
-      "publicadas": 1,
-      "urlsAcessadas": 9,
-      "mediaCorreta": 17048
-    },
-    {
-      "nome": "transito",
-      "pvTotal": 9022,
-      "pvPublicadas": 5344,
-      "publicadas": 2,
-      "urlsAcessadas": 23,
-      "mediaCorreta": 2672
-    },
-    {
-      "nome": "loterias",
-      "pvTotal": 7241,
-      "pvPublicadas": 6877,
-      "publicadas": 2,
-      "urlsAcessadas": 7,
-      "mediaCorreta": 3439
-    },
-    {
-      "nome": "cultura",
-      "pvTotal": 5341,
-      "pvPublicadas": 1011,
-      "publicadas": 5,
-      "urlsAcessadas": 62,
-      "mediaCorreta": 202
-    },
-    {
-      "nome": "esportes",
-      "pvTotal": 5163,
-      "pvPublicadas": 3162,
-      "publicadas": 6,
-      "urlsAcessadas": 37,
-      "mediaCorreta": 527
+      "nome": "cotidiano",
+      "pvTotal": 11584,
+      "pvPublicadas": 6052,
+      "publicadas": 11,
+      "urlsAcessadas": 39,
+      "mediaCorreta": 550
     },
     {
       "nome": "policia",
-      "pvTotal": 4985,
-      "pvPublicadas": 435,
+      "pvTotal": 8163,
+      "pvPublicadas": 3949,
+      "publicadas": 5,
+      "urlsAcessadas": 36,
+      "mediaCorreta": 790
+    },
+    {
+      "nome": "tempo",
+      "pvTotal": 6964,
+      "pvPublicadas": 1875,
       "publicadas": 1,
-      "urlsAcessadas": 40,
-      "mediaCorreta": 435
+      "urlsAcessadas": 10,
+      "mediaCorreta": 1875
+    },
+    {
+      "nome": "cultura",
+      "pvTotal": 6861,
+      "pvPublicadas": 3426,
+      "publicadas": 9,
+      "urlsAcessadas": 54,
+      "mediaCorreta": 381
+    },
+    {
+      "nome": "transito",
+      "pvTotal": 5370,
+      "pvPublicadas": 1127,
+      "publicadas": 3,
+      "urlsAcessadas": 20,
+      "mediaCorreta": 376
+    },
+    {
+      "nome": "loterias",
+      "pvTotal": 4942,
+      "pvPublicadas": 1258,
+      "publicadas": 2,
+      "urlsAcessadas": 8,
+      "mediaCorreta": 629
     }
   ],
   "origens": [
     {
-      "canal": "Direto",
-      "pv": 75718,
-      "pct": 53
+      "canal": "Google Orgânico",
+      "pv": 80381,
+      "pct": 47
     },
     {
-      "canal": "Google Orgânico",
-      "pv": 57818,
-      "pct": 41
+      "canal": "Direto",
+      "pv": 78915,
+      "pct": 46
     },
     {
       "canal": "Social",
-      "pv": 5485,
+      "pv": 7081,
       "pct": 4
     },
     {
       "canal": "Links externos",
-      "pv": 2129,
+      "pv": 3169,
       "pct": 2
     },
     {
       "canal": "Não identificado",
-      "pv": 429,
-      "pct": 0
-    },
-    {
-      "canal": "E-mail",
-      "pv": 6,
+      "pv": 777,
       "pct": 0
     },
     {
       "canal": "YouTube",
-      "pv": 3,
+      "pv": 25,
+      "pct": 0
+    },
+    {
+      "canal": "E-mail",
+      "pv": 10,
+      "pct": 0
+    },
+    {
+      "canal": "Organic Shopping",
+      "pv": 2,
       "pct": 0
     },
     {
@@ -178,18 +183,18 @@
     }
   ],
   "historico": {
-    "mediaMesmoDia": 159917,
-    "varMesmoDia": -11,
-    "media30": 199934,
-    "media30a": 169229,
-    "var30": 18,
-    "pvMesAtualAcum": 6139608,
-    "pvMesAntMesmoPer": 5238536,
-    "varMesAnt": 17,
-    "diasRestantes": 0,
-    "pvFaltaMes": 0,
-    "mediaNecessaria": 200000,
-    "mediaMensal": 6856222,
+    "mediaMesmoDia": 214726,
+    "varMesmoDia": -21,
+    "media30": 199265,
+    "media30a": 170057,
+    "var30": 17,
+    "pvMesAtualAcum": 170361,
+    "pvMesAntMesmoPer": 161658,
+    "varMesAnt": 5,
+    "diasRestantes": 29,
+    "pvFaltaMes": 5829639,
+    "mediaNecessaria": 201023,
+    "mediaMensal": 6814068,
     "melhorMes": {
       "mes": "202507",
       "pv": 13625154,
@@ -301,73 +306,84 @@
         "mes": "202605",
         "pv": 6139608,
         "label": "Mai/26",
+        "atual": false
+      },
+      {
+        "mes": "202606",
+        "pv": 170361,
+        "label": "Jun/26",
         "atual": true
       }
     ]
   },
   "analises": {
-    "resumo": "O portal registrou 141.589 pageviews contra meta de apenas 1.981, superando em impressionantes 7.147% o objetivo diário. A performance foi impulsionada principalmente pelo período noturno (52.335 PVs) e tarde (46.449 PVs), enquanto a manhã apresentou o menor volume (30.175 PVs). Com este resultado, o portal não apenas cumpriu a meta mensal de 6 milhões, mas a superou, fechando maio com 6.139.608 pageviews acumulados. O tráfego foi dominado por acesso direto (53%) e busca orgânica (41%), demonstrando forte engajamento da audiência fiel.",
-    "horarios": ">>> Manhã (6h-11h): 30.175 PVs, checkpoint às 11h com 42.805 ficou abaixo da meta de 60.000\n>>> Tarde (12h-17h): 46.449 PVs, checkpoint às 17h com 89.254 muito abaixo da meta de 130.000  \n>>> Noite (18h-23h): 52.335 PVs, período de maior engajamento e consumo de conteúdo\n>>> Checkpoint das 21h: 129.184 PVs superou amplamente a meta diária de 1.981",
-    "padrao": ">>> Conteúdo de serviço público dominou o top com nova identidade (19.088 PVs) liderando\n>>> Previsão do tempo se destacou entre as matérias do dia com 17.048 PVs\n>>> Temas de impacto cotidiano como CNH e loterias performaram bem\n>>> Matérias antigas continuam gerando tráfego significativo (97.692 PVs do total)",
-    "editorias": ">>> Tempo teve performance excepcional: 1 matéria com média de 17.048 PVs\n>>> Trânsito mostrou boa eficiência: média de 2.672 PVs por matéria publicada\n>>> Loterias manteve engajamento sólido: média de 3.439 PVs por matéria\n>>> Economia produziu volume alto mas com média baixa: 852 PVs por matéria\n>>> Cultura teve baixa performance: apenas 202 PVs por matéria publicada",
-    "trafego": ">>> Tráfego direto (53%) indica forte fidelização e marca consolidada\n>>> Google orgânico (41%) demonstra boa otimização SEO e relevância do conteúdo\n>>> Redes sociais com apenas 4% sugerem potencial de crescimento neste canal\n>>> Links externos representam 2%, indicando oportunidade para parcerias",
-    "eficiencia": "Das 38 matérias publicadas, todas geraram tráfego com média real de 1.155 pageviews por matéria. Não houve conteúdo sem acesso, demonstrando boa curadoria editorial e relevância dos temas abordados.",
-    "erros": ">>> Meta diária subestimada em 7.047% indica falha no cálculo de projeção\n>>> Checkpoints matinais e vespertinos consistentemente abaixo das expectativas\n>>> Baixa performance da editoria de cultura com apenas 202 PVs por matéria\n>>> Tráfego social de apenas 4% mostra subaproveitamento das redes sociais",
-    "oportunidades": ">>> Replicar o sucesso da matéria de tempo em outras editorias com conteúdo de utilidade pública\n>>> Amplificar matérias de alto engajamento nas redes sociais para aumentar tráfego social\n>>> Investir em conteúdo de economia com abordagem mais atrativa para o público\n>>> Desenvolver série sobre nova identidade aproveitando o interesse demonstrado\n>>> Criar alertas automáticos de tempo para capitalizar sobre este interesse sazonal",
-    "acoes": ">>> Publicar matéria de previsão do tempo logo cedo para capturar audiência matinal\n>>> Programar pelo menos 2 conteúdos de serviço público com potencial viral\n>>> Intensificar divulgação nas redes sociais das 5 principais matérias do dia\n>>> Revisar estratégia de cultura com foco em eventos locais e agenda cultural\n>>> Monitorar tendências de busca para antecipar demandas por conteúdo de utilidade",
-    "metaacumulada": "A meta dinâmica de 1.981 foi calculada dividindo o que faltava para a meta mensal pelos dias restantes. Com a meta mensal de 6 milhões já superada (6.139.608 acumulados), a meta de amanhã sobe para 200.000, representando o objetivo de manter o momentum positivo e iniciar junho com força total.",
-    "historicodia": ">>> Performance 11% abaixo da média do mesmo dia da semana (159.917), sugerindo potencial ainda maior\n>>> Resultado 29% abaixo da média dos últimos 30 dias (199.934), indicando espaço para crescimento",
-    "historicomes": ">>> Acumulado mensal 17% superior ao mesmo período do ano anterior (5.238.536)\n>>> Projeção indica fechamento de maio como um dos melhores meses do ano",
-    "tendencia": "A tendência de 30 dias mostra crescimento de 18% comparado aos 30 dias anteriores. O melhor mês foi julho/25 (13.625.154) e o pior fevereiro/25 (4.527.477), demonstrando a sazonalidade típica do mercado digital capixaba.",
-    "alerta": "\"Meta de amanhã de 200.000 pageviews exigirá estratégia robusta desde as primeiras horas para sustentar o crescimento mensal conquistado.\"",
-    "licao": "O dia demonstrou que conteúdo de utilidade pública e previsão do tempo são pilares fundamentais da audiência do Folha Vitória. A liderança absoluta da matéria sobre nova identidade e o sucesso da previsão do tempo confirmam que o público capixaba busca informação prática e relevante para o cotidiano. \"Quando o conteúdo serve ao dia a dia do leitor, a audiência responde com engajamento genuíno.\"",
-    "tendencias": ">>> Feriados em junho 2026: veja onde viajar gastando pouco saindo do Espírito Santo\n--- Editoria: Turismo\n--- Ângulo ES: Roteiros de viagem baratos partindo de Vitória e principais cidades capixabas, incluindo destinos no próprio ES como Domingos Martins e Pedra Azul para mini refúgios em junho\n--- Por que performa: Alto volume de busca (500+) sobre feriados em junho, tema de planejamento que gera engajamento\n--- Tipo: Serviço\n\n>>> Mari Fernandez pode vir ao Espírito Santo: relembre shows da cantora no estado\n--- Editoria: Cultura\n--- Ângulo ES: Histórico de apresentações da cantora em Vitória, expectativas para próximos shows e como o forró tem crescido nas casas noturnas capixabas\n--- Por que performa: Interesse em Mari Fernandez (200+ buscas) e potencial conexão com público local que acompanha forró\n--- Tipo: Notícia\n\n>>> Euphoria chega ao fim: onde assistir a série completa no Brasil\n--- Editoria: Entretenimento\n--- Ângulo ES: Guia para maratonar a série, discussão sobre temas da juventude que ecoam com jovens capixabas e grupos de discussão em Vitória\n--- Por que performa: Fim da série gera nostalgia e busca por informações sobre como assistir (200+ buscas)\n--- Tipo: Serviço\n\n>>> Série C 2026: como ficam as chances dos times capixabas na divisão\n--- Editoria: Esportes\n--- Ângulo ES: Análise das possibilidades do Real Noroeste, Espírito Santo FC e outros clubes estaduais na terceira divisão nacional\n--- Por que performa: Alto interesse em Série C (500+ buscas) com conexão direta ao futebol local\n--- Tipo: Análise\n\n>>> Garrincha no Espírito Santo: relembre a passagem do craque pelo estado\n--- Editoria: Esportes\n--- Ângulo ES: História da visita de Garrincha ao ES, jogos memoráveis no antigo estádio e impacto no futebol capixaba\n--- Por que performa: Alto volume de busca sobre Garrincha (500+ buscas) permite explorar conexão histórica local\n--- Tipo: Notícia\n\n>>> Fim da escala 6x1: o que muda para trabalhadores do Espírito Santo\n--- Editoria: Economia\n--- Ângulo ES: Impacto da PEC nos principais setores empregadores do ES como portuário, siderúrgico e serviços, com opinião de sindicatos locais\n--- Por que performa: Tema de grande relevância trabalhista (200+ buscas) que afeta diretamente a vida do capixaba\n--- Tipo: Explicativo\n\n>>> Steven Spielberg aos 79: filmes do diretor que passaram em cinemas de Vitória\n--- Editoria: Entretenimento\n--- Ângulo ES: Retrospectiva dos lançamentos de Spielberg nos cinemas da Grande Vitória e como o cinema evoluiu na região\n--- Por que performa: Interesse no diretor (200+ buscas) combinado com nostalgia do cinema local\n--- Tipo: Lista\n\n>>> Fluminense x Cruzeiro: onde assistir ao jogo em Vitória\n--- Editoria: Esportes\n--- Ângulo ES: Bares e restaurantes de Vitória que transmitem jogos, torcidas organizadas dos times no ES e tradição futebolística local\n--- Por que performa: Altíssimo volume de busca (2000+) sobre a partida, oportunidade de capturar audiência local\n--- Tipo: Serviço\n\n>>> Igreja Mórmon no Espírito Santo: conheça a comunidade que cresce no estado\n--- Editoria: Geral\n--- Ângulo ES: Presença da Igreja SUD no ES, crescimento da comunidade, templos e centros de reunião na Grande Vitória\n--- Por que performa: Interesse em temas religiosos (100+ buscas) com potencial de engajar comunidade específica local\n--- Tipo: Explicativo\n\n>>> June blues: psicólogos do ES explicam tristeza em mês sem feriados\n--- Editoria: Bem-estar\n--- Ângulo ES: Especialistas capixabas falam sobre impacto psicológico de meses sem descanso, dicas de autocuidado e serviços de apoio em Vitória\n--- Por que performa: Conecta busca por feriados (500+) com bem-estar mental, tema sempre relevante\n--- Tipo: Serviço"
+    "resumo": "O Folha Vitória registrou 170.361 page views nesta sexta-feira, ficando 29.639 visualizações abaixo da meta diária de 200.000 (85% de atingimento). O tráfego foi bem distribuído ao longo do dia, com manhã registrando 56.061 PVs, tarde com 57.441 PVs e noite com 41.268 PVs. Apesar de ficar abaixo da meta, o resultado representa crescimento de 5% em relação ao mesmo período do mês anterior. Para amanhã, a meta ajustada é de 201.023 PVs para manter o ritmo necessário à meta mensal de 6 milhões.",
+    "horarios": ">>> Manhã (6h-11h) bateu a meta com 71.652 PVs contra 60.000 esperados, mostrando força no período matinal\n>>> Tarde (12h-17h) ficou próximo da meta com 129.093 PVs contra 130.000, demonstrando consistência\n>>> Noite (18h-23h) apresentou queda natural com 41.268 PVs, mas checkpoint das 21h mostrou 160.462 PVs, ainda distante dos 200.000 da meta diária\n>>> Performance matinal forte indica boa receptividade do conteúdo no início do dia",
+    "padrao": ">>> Matérias sobre nova identidade dominam o tráfego com as duas primeiras posições somando 29.721 PVs\n>>> Conteúdo de serviço público (documentos e prazos) mostra alta demanda dos leitores\n>>> Previsão do tempo mantém relevância constante entre os temas mais acessados\n>>> Loterias seguem como nicho fiel de audiência, especialmente com eventos especiais como Copa do Mundo",
+    "editorias": ">>> Tempo lidera em eficiência com 1.875 PVs por matéria publicada, confirmando alta demanda por informações meteorológicas\n>>> Polícia apresenta boa média de 790 PVs por matéria, mantendo interesse consistente do público\n>>> Loterias alcança 629 PVs por matéria, demonstrando nicho engajado\n>>> Cotidiano atinge 550 PVs por matéria com boa diversidade de conteúdo\n>>> Economia precisa melhorar com apenas 137 PVs por matéria apesar de 12 publicações",
+    "trafego": ">>> Google Orgânico e tráfego direto equilibrados (47% e 46%) mostram boa diversificação de fontes\n>>> Redes sociais com apenas 4% indicam oportunidade de crescimento em engajamento\n>>> Tráfego direto forte de 78.915 PVs demonstra fidelização da audiência\n>>> Links externos com 2% sugerem necessidade de parcerias para ampliar alcance",
+    "eficiencia": "A produção de 92 matérias gerou 28.421 PVs nas publicações do dia, resultando em média real de 309 PVs por matéria. Das 92 publicações, 8 não registraram acessos, representando 9% de conteúdo sem engajamento. O grosso do tráfego (141.940 PVs) veio de matérias antigas, mostrando a importância do acervo para sustentar a audiência diária.",
+    "erros": ">>> Economia publicou 12 matérias mas teve baixíssima média de 137 PVs por texto\n>>> 8 matérias sem nenhum acesso representam desperdício de produção\n>>> Redes sociais gerando apenas 4% do tráfego indica falha na estratégia de distribuição\n>>> Período noturno com queda acentuada sugere falta de conteúdo adequado para o horário",
+    "oportunidades": ">>> Investir em mais conteúdo de serviço público, seguindo sucesso das matérias sobre documentação\n>>> Ampliar cobertura meteorológica considerando a alta eficiência da editoria Tempo\n>>> Desenvolver estratégia específica para redes sociais visando aumentar os 4% atuais\n>>> Criar conteúdo noturno mais atrativo para reduzir a queda natural do período\n>>> Revisar linha editorial de Economia para melhorar a baixa média de engagement",
+    "acoes": ">>> Publicar pelo menos 2 matérias de serviço sobre documentação e prazos governamentais\n>>> Intensificar posts em redes sociais com conteúdo visual e chamadas mais atrativas\n>>> Concentrar 60% da produção entre 6h e 17h para aproveitar melhor performance desses períodos\n>>> Revisar matérias de Economia antes da publicação para garantir maior apelo ao leitor\n>>> Acompanhar métricas de hora em hora para ajustes durante o dia visando os 201.023 PVs",
+    "metaacumulada": "A meta dinâmica funciona dividindo o que falta para atingir os 6 milhões mensais pelos dias restantes. Como acumulamos 170.361 PVs no primeiro dia, ainda faltam 5.829.639 PVs para a meta mensal. Com 29 dias restantes, a meta de amanhã sobe para 201.023 PVs. Este sistema garante que mesmo com dias abaixo da meta, ainda seja possível recuperar o objetivo mensal ajustando as metas diárias.",
+    "historicodia": ">>> Resultado 21% inferior à média histórica do mesmo dia da semana (214.726 PVs), indicando performance abaixo do padrão semanal\n>>> Porém, 5% superior ao mesmo período do mês anterior (161.658 PVs), mostrando evolução mensal positiva\n>>> Média dos últimos 30 dias em 199.265 PVs sugere que o resultado de hoje ficou dentro da normalidade recente",
+    "historicomes": ">>> Primeiro dia do mês com 170.361 PVs estabelece base inicial para perseguir a meta de 6 milhões\n>>> Crescimento de 5% vs mês anterior no mesmo período é sinal positivo para início de mês\n>>> Projeção baseada no primeiro dia sugere necessidade de aceleração nos próximos dias para atingir meta mensal",
+    "tendencia": "A tendência dos últimos 30 dias mostra crescimento de 17% em relação ao período anterior, indicando trajetória positiva. O melhor mês da história foi julho de 2025 com 13.625.154 PVs, enquanto o pior foi fevereiro de 2025 com 4.527.477 PVs. A meta atual de 6 milhões está dentro do intervalo histórico, sendo desafiadora mas factível considerando a tendência ascendente.",
+    "alerta": "\"Meta de amanhã aumenta para 201.023 PVs - cada dia abaixo pressiona mais os próximos.\"",
+    "licao": "O primeiro dia de junho mostrou que matérias de serviço público geram alto engajamento, especialmente sobre documentação e prazos. A distribuição equilibrada entre Google e tráfego direto é positiva, mas as redes sociais precisam de atenção urgente. A eficiência de 309 PVs por matéria é razoável, porém 8 textos sem acesso indicam necessidade de maior curadoria na produção. \"Qualidade editorial e distribuição estratégica são as chaves para recuperar terreno na meta mensal.\"",
+    "tendencias": ">>> Incêndio atinge restaurante 'Ilha do Caranguejo' em Jardim Camburi: bombeiros controlam fogo\n--- Editoria: Cotidiano\n--- Ângulo ES: Matéria sobre o incêndio que atingiu o restaurante em Jardim Camburi, bairro nobre de Vitória, com impacto no trânsito e comércio local\n--- Por que performa: Trending topic \"incêndio\" com 200+ buscas relacionado diretamente ao ES\n--- Tipo: Notícia\n\n>>> Acidente em Congonhas: como evitar quedas no embarque e desembarque em voos\n--- Editoria: Serviços\n--- Ângulo ES: Dicas de segurança para capixabas que viajam pelo aeroporto de Vitória e conexões em Congonhas\n--- Por que performa: Trending topic \"congonhas\" com 200+ buscas após acidente fatal\n--- Tipo: Serviço\n\n>>> Anjo da Guarda de hoje: previsões para os 4 signos mais favorecidos neste domingo\n--- Editoria: Horóscopo\n--- Ângulo ES: Previsões astrológicas para o domingo dos leitores capixabas com foco nos signos em destaque\n--- Por que performa: Trending topic \"anjo da guarda\" com 200+ buscas sobre previsões astrológicas\n--- Tipo: Serviço\n\n>>> Silvia Abravanel cotada para vice de Caiado: filhas de Silvio Santos na política\n--- Editoria: Política\n--- Ângulo ES: Análise do movimento de celebridades na política nacional e reflexos nas eleições capixabas\n--- Por que performa: Trending topic \"silvia abravanel\" com 100+ buscas sobre entrada na política\n--- Tipo: Análise\n\n>>> Terremoto de 6,1 na Itália: capixabas que moram no país relatam susto\n--- Editoria: Internacional\n--- Ângulo ES: Depoimentos de imigrantes capixabas que vivem na Itália sobre o terremoto\n--- Por que performa: Trending topic \"itália\" com 200+ buscas após terremoto\n--- Tipo: Notícia\n\n>>> Coração Acelerado: novela das 7 movimenta redes sociais com noivado polêmico\n--- Editoria: Entretenimento\n--- Ângulo ES: Como a novela das 7 repercute entre telespectadores capixabas nas redes sociais\n--- Por que performa: Trending topic \"novela das sete\" com 200+ buscas sobre trama atual\n--- Tipo: Notícia\n\n>>> Williams Racing em Mônaco: como acompanhar a Fórmula 1 em Vitória\n--- Editoria: Esportes\n--- Ângulo ES: Guia dos melhores locais em Vitória e Vila Velha para assistir à Fórmula 1 com amigos\n--- Por que performa: Trending topic \"williams racing\" com 100+ buscas durante GP de Mônaco\n--- Tipo: Serviço\n\n>>> Carla Perez comemora vitória da nora no fisiculturismo: esporte cresce no ES\n--- Editoria: Esportes\n--- Ângulo ES: Crescimento do fisiculturismo feminino no Espírito Santo e principais competições locais\n--- Por que performa: Trending topic \"carla perez\" com 100+ buscas sobre fisiculturismo da nora\n--- Tipo: Explicativo\n\n>>> Erro com bandeira brasileira gera revolta: simbolos nacionais e protocolo\n--- Editoria: Brasil\n--- Ângulo ES: Como eventos oficiais no ES seguem protocolos com símbolos nacionais\n--- Por que performa: Trending topic \"bandeira\" com 100+ buscas após erro em campanha\n--- Tipo: Explicativo\n\n>>> Gastos públicos suspeitos: como capixabas podem fiscalizar verbas em municípios do ES\n--- Editoria: Política\n--- Ângulo ES: Ferramentas de transparência disponíveis para cidadãos capixabas acompanharem gastos municipais\n--- Por que performa: Trending topic \"política\" com 100+ buscas sobre investigações de gastos públicos\n--- Tipo: Serviço"
   },
   "tendencias": [
     {
-      "titulo": "feriado em junho",
-      "trafico": "500+",
-      "contexto": "Junho de 2026 não tem feriado nacional, mas possui &apos;mini refúgios&apos;: veja onde dá para folg"
+      "titulo": "novela das sete",
+      "trafico": "200+",
+      "contexto": "Coração Acelerado: Ana Castela tem a melhor reação ao saber do noivado de João Raul e Naiane"
     },
     {
-      "titulo": "mormon church",
+      "titulo": "bandeira",
       "trafico": "100+",
-      "contexto": "‘Everything is possible now because of the temple’: Philippine members prepare for dedication of cou"
+      "contexto": "Patrocinador erra feio em campanha com seleção: bandeira no Maracanã"
     },
     {
-      "titulo": "mari fernandez",
+      "titulo": "anjo da guarda",
       "trafico": "200+",
-      "contexto": "São João de Caruaru 2026: confira a programação dos Polos da Estação Ferroviária, Casa Rosa e Rildo "
+      "contexto": "Anjo da Guarda traz resposta esperada para 4 signos neste domingo (31 de maio): algo finalmente fica"
     },
     {
-      "titulo": "euphoria",
+      "titulo": "carla perez",
+      "trafico": "100+",
+      "contexto": "Noiva de filho de Carla Perez vence primeiro campeonato de fisiculturismo e ganha homenagem da sogra"
+    },
+    {
+      "titulo": "williams racing",
+      "trafico": "100+",
+      "contexto": "Monaco Grand Prix: Best images of F1&apos;s most famous race since 1950"
+    },
+    {
+      "titulo": "incêndio",
       "trafico": "200+",
-      "contexto": "‘Euphoria’ Officially Ending With Season 3, HBO Confirms"
+      "contexto": "Incêndio atinge prédio de restaurante &apos;Ilha do Caranguejo&apos; em Jardim Camburi"
     },
     {
-      "titulo": "garrincha",
-      "trafico": "500+",
-      "contexto": "Análise: Flamengo encontra solução para desfalques em posicionamento de Samuel Lino"
-    },
-    {
-      "titulo": "steven spielberg",
+      "titulo": "congonhas",
       "trafico": "200+",
-      "contexto": "Steven Spielberg, 79, said his wife gave him one rule before he started DreamWorks"
+      "contexto": "Mulher morre ao cair de escada de avião no desembarque em Congonhas, em SP"
     },
     {
-      "titulo": "serie c",
-      "trafico": "500+",
-      "contexto": "Camere triple, cellulari nei cassetti e chi sbaglia...: Italia, è il metodo Baldini"
+      "titulo": "silvia abravanel",
+      "trafico": "100+",
+      "contexto": "Daniela Lima: Filha de Silvio Santos, Silvia Abravanel é cotada para vice de Caiado"
     },
     {
-      "titulo": "pec 12/2026",
+      "titulo": "política",
+      "trafico": "100+",
+      "contexto": "Gabinete de Mario Frias pagou R$ 154 mil a empresa citada em investigação do contrato de wi-fi da Pr"
+    },
+    {
+      "titulo": "itália",
       "trafico": "200+",
-      "contexto": "Fim da escala 6x1: o acordo político e o futuro da proposta - O Assunto #1731"
-    },
-    {
-      "titulo": "fluminense x cruzeiro",
-      "trafico": "2000+",
-      "contexto": "Análise: Fluminense se mostra competitivo com nova estratégia e perde dois pontos por azar"
+      "contexto": "Terremoto de magnitude 6,1 atinge costa do sul da Itália"
     }
   ]
 }
