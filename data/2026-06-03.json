@@ -1,0 +1,481 @@
+{
+  "dataDisplay": "03/06/2026",
+  "geradoEm": "2026-06-04T09:19:08.224Z",
+  "pvTotal": 198409,
+  "pctMeta": 98,
+  "metaHoje": 202531,
+  "metaAmanha": 202683,
+  "saldoOntem": -4122,
+  "deficitOntem": 4122,
+  "metaDiaria": 200000,
+  "metaMensal": 6000000,
+  "usuarios": 121047,
+  "sessions": 152846,
+  "pgsPorSessao": "1.30",
+  "tempoMedio": "1min29s",
+  "pvManha": 62194,
+  "pvTarde": 62338,
+  "pvNoite": 50389,
+  "checkpoints": [
+    {
+      "label": "Até 11h",
+      "pv": 85682,
+      "meta": 60000,
+      "status": "META BATIDA"
+    },
+    {
+      "label": "Até 17h",
+      "pv": 148020,
+      "meta": 130000,
+      "status": "META BATIDA"
+    },
+    {
+      "label": "Até 21h",
+      "pv": 182961,
+      "meta": 202531,
+      "status": "PERTO DA META"
+    }
+  ],
+  "producao": {
+    "disponivel": true,
+    "totalPublicadas": 92,
+    "pvPublicadas": 26830,
+    "mediaRealPorMateria": 292,
+    "materiasComAcesso": 89,
+    "materiasSemAcesso": 3,
+    "materiasSemAcessoLista": [
+      "/beleza/receita-caseira-com-2-ingredientes-alisa-os-fios-e-reduz-o-frizz-sem-quimica-viral/",
+      "/tv-vitoria/jornal-da-tv-vitoria/mais-de-1-600-pacientes-aguardam-por-um-transplante-de-cornea/",
+      "/saude/hemoes-nao-vai-funcionar-neste-sabado-para-manutencao-em-predio/"
+    ],
+    "pvAntigos": 171579
+  },
+  "topMaterias": [
+    {
+      "pos": 1,
+      "titulo": "Anvisa suspende lotes de enalapril após erro na embalagem; veja",
+      "pv": 4463,
+      "publicadaHoje": false
+    },
+    {
+      "pos": 2,
+      "titulo": "100 mulheres em noite de alta confraternização e troca de experiências",
+      "pv": 3248,
+      "publicadaHoje": true
+    },
+    {
+      "pos": 3,
+      "titulo": "Chiques por todos os lados em tarde de aniversário, moda e estilo",
+      "pv": 2532,
+      "publicadaHoje": false
+    },
+    {
+      "pos": 4,
+      "titulo": "Biomédica diz ter sido humilhada por Natália Beauty em evento",
+      "pv": 2514,
+      "publicadaHoje": false
+    },
+    {
+      "pos": 5,
+      "titulo": "Prazo para emitir a nova identidade é ampliado; veja até quando",
+      "pv": 2471,
+      "publicadaHoje": false
+    }
+  ],
+  "piorDesempenho": [
+    {
+      "pos": 1,
+      "titulo": "TSE nega recursos e mantém Cláudio Castro inelegível",
+      "pv": 9,
+      "path": "/politica/tse-nega-recursos-e-mantem-claudio-castro-inelegivel/"
+    },
+    {
+      "pos": 2,
+      "titulo": "TSE nega recursos e mantém Cláudio Castro inelegível",
+      "pv": 11,
+      "path": "/politica/tse-nega-recursos-e-mantem-claudio-castro-inelegivel/"
+    },
+    {
+      "pos": 3,
+      "titulo": "Quase metade da água desperdiçada no Espírito Santo é desperdiçada",
+      "pv": 13,
+      "path": "/tv-vitoria/jornal-da-tv-vitoria/quase-metade-da-agua-desperdicada-no-espirito-santo-e-desperdicada/"
+    },
+    {
+      "pos": 4,
+      "titulo": "Como baixar vídeos do Instagram usando o Snapgram e outros métodos",
+      "pv": 14,
+      "path": "/cotidiano/como-baixar-videos-do-instagram-usando-o-snapgram-e-outros-metodos/"
+    },
+    {
+      "pos": 5,
+      "titulo": "Indústria cresce 0,7% em abril, quarto mês seguido de avanço",
+      "pv": 16,
+      "path": "/economia/industria-cresce-07-em-abril-quarto-mes-seguido-de-avanco/"
+    },
+    {
+      "pos": 6,
+      "titulo": "Dicas rápidas para remover cravos do nariz em casa",
+      "pv": 18,
+      "path": "/beleza/cravos-no-nariz-5-cuidados-simples-ajudam-a-prevenir-o-problema-em-casa-viral/"
+    },
+    {
+      "pos": 7,
+      "titulo": "Jornal da TV Vitória: assista ao telejornal ao vivo",
+      "pv": 19,
+      "path": "/tv-vitoria/jornal-da-tv-vitoria/jornal-da-tv-vitoria-assista-ao-telejornal-ao-vivo/"
+    },
+    {
+      "pos": 8,
+      "titulo": "Suspeito de estuprar menino de 10 anos é preso, na Serra",
+      "pv": 23,
+      "path": "/tv-vitoria/jornal-da-tv-vitoria/suspeito-de-estuprar-menino-de-10-anos-e-preso-na-serra/"
+    },
+    {
+      "pos": 9,
+      "titulo": "Desigualdade invisível: produtividade e renda entre países ricos e pobres",
+      "pv": 27,
+      "path": "/economia/ibef-desigualdade-invisivel-produtividade-e-renda-entre-paises-ricos-e-pobres/"
+    },
+    {
+      "pos": 10,
+      "titulo": "ONG ligada à Dark Horse enviou R$ 1,3 mi ao próprio dirigente",
+      "pv": 27,
+      "path": "/politica/ong-ligada-a-dark-horse-repassou-r-13-mi-da-prefeitura-de-sp-a-dirigente-da-propria-entidade/"
+    },
+    {
+      "pos": 11,
+      "titulo": "Como foi Audax São Mateus 0 x 4 Rio Branco pela Copa ES 2026",
+      "pv": 28,
+      "path": "/esportes/rio-branco-goleia-o-audax-sao-mateus-e-vai-buscar-a-vaga-na-ultima-rodada/"
+    },
+    {
+      "pos": 12,
+      "titulo": "Frio no feriado, água recolhida: veja os destaques do Folha Vitória",
+      "pv": 34,
+      "path": "/cotidiano/frio-no-feriado-e-agua-recolhida-veja-os-destaques-do-dia-no-folha-vitoria/"
+    },
+    {
+      "pos": 13,
+      "titulo": "Casal busca moto roubada em assalto violento no Costa Dourada",
+      "pv": 35,
+      "path": "/tv-vitoria/balanco-geral-es/casal-busca-moto-roubada-em-assalto-violento-no-costa-dourada/"
+    },
+    {
+      "pos": 14,
+      "titulo": "Veículos inteligentes já conseguem assumir a direção em casos de emergência. Entenda!",
+      "pv": 36,
+      "path": "/tecnologia/veiculos-inteligentes-ja-conseguem-assumir-a-direcao-em-casos-de-emergencia-entenda/"
+    },
+    {
+      "pos": 15,
+      "titulo": "Como fazer Brow Lamination em casa por menos de R$ 18",
+      "pv": 37,
+      "path": "/beleza/sobrancelhas-alinhadas-como-fazer-brow-lamination-em-casa-por-menos-de-r-18-viral/"
+    }
+  ],
+  "editorias": [
+    {
+      "nome": "cultura",
+      "pvTotal": 10482,
+      "pvPublicadas": 3081,
+      "publicadas": 9,
+      "urlsAcessadas": 55,
+      "mediaCorreta": 342
+    },
+    {
+      "nome": "social",
+      "pvTotal": 7762,
+      "pvPublicadas": 3452,
+      "publicadas": 2,
+      "urlsAcessadas": 13,
+      "mediaCorreta": 1726
+    },
+    {
+      "nome": "transito",
+      "pvTotal": 7341,
+      "pvPublicadas": 3608,
+      "publicadas": 6,
+      "urlsAcessadas": 23,
+      "mediaCorreta": 601
+    },
+    {
+      "nome": "economia",
+      "pvTotal": 7175,
+      "pvPublicadas": 1437,
+      "publicadas": 12,
+      "urlsAcessadas": 43,
+      "mediaCorreta": 120
+    },
+    {
+      "nome": "cotidiano",
+      "pvTotal": 7041,
+      "pvPublicadas": 3920,
+      "publicadas": 11,
+      "urlsAcessadas": 39,
+      "mediaCorreta": 356
+    },
+    {
+      "nome": "saude",
+      "pvTotal": 6651,
+      "pvPublicadas": 1661,
+      "publicadas": 9,
+      "urlsAcessadas": 25,
+      "mediaCorreta": 185
+    },
+    {
+      "nome": "policia",
+      "pvTotal": 5989,
+      "pvPublicadas": 1832,
+      "publicadas": 5,
+      "urlsAcessadas": 37,
+      "mediaCorreta": 366
+    }
+  ],
+  "origens": [
+    {
+      "canal": "Direto",
+      "pv": 109970,
+      "pct": 55
+    },
+    {
+      "canal": "Google Orgânico",
+      "pv": 77624,
+      "pct": 39
+    },
+    {
+      "canal": "Social",
+      "pv": 6847,
+      "pct": 3
+    },
+    {
+      "canal": "Links externos",
+      "pv": 3224,
+      "pct": 2
+    },
+    {
+      "canal": "Não identificado",
+      "pv": 673,
+      "pct": 0
+    },
+    {
+      "canal": "YouTube",
+      "pv": 46,
+      "pct": 0
+    },
+    {
+      "canal": "E-mail",
+      "pv": 22,
+      "pct": 0
+    },
+    {
+      "canal": "Mobile Push Notifications",
+      "pv": 3,
+      "pct": 0
+    }
+  ],
+  "historico": {
+    "mediaMesmoDia": 196851,
+    "varMesmoDia": 1,
+    "media30": 198030,
+    "media30a": 174221,
+    "var30": 14,
+    "pvMesAtualAcum": 527568,
+    "pvMesAntMesmoPer": 527877,
+    "varMesAnt": 0,
+    "diasRestantes": 27,
+    "pvFaltaMes": 5472432,
+    "mediaNecessaria": 202683,
+    "mediaMensal": 6814068,
+    "melhorMes": {
+      "mes": "202507",
+      "pv": 13625154,
+      "label": "Jul/25"
+    },
+    "piorMes": {
+      "mes": "202502",
+      "pv": 4527477,
+      "label": "Fev/25"
+    },
+    "mensal": [
+      {
+        "mes": "202501",
+        "pv": 7245874,
+        "label": "Jan/25",
+        "atual": false
+      },
+      {
+        "mes": "202502",
+        "pv": 4527477,
+        "label": "Fev/25",
+        "atual": false
+      },
+      {
+        "mes": "202503",
+        "pv": 5367201,
+        "label": "Mar/25",
+        "atual": false
+      },
+      {
+        "mes": "202504",
+        "pv": 6945113,
+        "label": "Abr/25",
+        "atual": false
+      },
+      {
+        "mes": "202505",
+        "pv": 6591733,
+        "label": "Mai/25",
+        "atual": false
+      },
+      {
+        "mes": "202506",
+        "pv": 11659575,
+        "label": "Jun/25",
+        "atual": false
+      },
+      {
+        "mes": "202507",
+        "pv": 13625154,
+        "label": "Jul/25",
+        "atual": false
+      },
+      {
+        "mes": "202508",
+        "pv": 10001619,
+        "label": "Ago/25",
+        "atual": false
+      },
+      {
+        "mes": "202509",
+        "pv": 6679985,
+        "label": "Set/25",
+        "atual": false
+      },
+      {
+        "mes": "202510",
+        "pv": 5336318,
+        "label": "Out/25",
+        "atual": false
+      },
+      {
+        "mes": "202511",
+        "pv": 4564202,
+        "label": "Nov/25",
+        "atual": false
+      },
+      {
+        "mes": "202512",
+        "pv": 5524739,
+        "label": "Dez/25",
+        "atual": false
+      },
+      {
+        "mes": "202601",
+        "pv": 4978658,
+        "label": "Jan/26",
+        "atual": false
+      },
+      {
+        "mes": "202602",
+        "pv": 6402972,
+        "label": "Fev/26",
+        "atual": false
+      },
+      {
+        "mes": "202603",
+        "pv": 5172054,
+        "label": "Mar/26",
+        "atual": false
+      },
+      {
+        "mes": "202604",
+        "pv": 5076878,
+        "label": "Abr/26",
+        "atual": false
+      },
+      {
+        "mes": "202605",
+        "pv": 6139608,
+        "label": "Mai/26",
+        "atual": false
+      },
+      {
+        "mes": "202606",
+        "pv": 527568,
+        "label": "Jun/26",
+        "atual": true
+      }
+    ]
+  },
+  "analises": {
+    "resumo": "O Folha Vitória registrou 198.409 page views no dia 03/06/2026, ficando 4.122 PVs abaixo da meta diária de 202.531, atingindo 98% do objetivo. A performance foi equilibrada entre manhã e tarde, com ambos os períodos superando 62 mil PVs cada. Apesar de não atingir a meta, o resultado superou em 1% a média histórica do mesmo dia da semana. Das 92 matérias publicadas no dia, 89 tiveram acesso, gerando 26.830 PVs com média real de 292 PVs por conteúdo.",
+    "horarios": ">>> Manhã (6h-11h): 62.194 PVs com checkpoint de 85.682 até 11h, superando amplamente a meta de 60.000\n>>> Tarde (12h-17h): 62.338 PVs com checkpoint de 148.020 até 17h, também batendo a meta de 130.000\n>>> Noite (18h-23h): 50.389 PVs com checkpoint de 182.961 até 21h, ficando próximo mas abaixo da meta final\n>>> Os dois primeiros checkpoints foram batidos com folga, mas a noite não sustentou o ritmo necessário",
+    "padrao": ">>> Matérias de saúde pública lideram com \"Anvisa suspende lotes de enalapril\" gerando 4.463 PVs\n>>> Conteúdo social e lifestyle teve destaque com duas matérias no top 5, somando 5.780 PVs\n>>> Matérias antigas dominam o ranking, representando 4 das 5 mais acessadas\n>>> Apenas uma matéria publicada ontem (\"100 mulheres em noite de alta confraternização\") entrou no top 5",
+    "editorias": ">>> Social lidera em eficiência com média real de 1.726 PVs por matéria (2 matérias publicadas)\n>>> Trânsito mantém boa performance com 601 PVs por matéria (6 matérias)\n>>> Cultura apresenta média sólida de 342 PVs por matéria (9 matérias)\n>>> Economia tem baixa eficiência com apenas 120 PVs por matéria (12 matérias)\n>>> Saúde precisa melhorar com 185 PVs por matéria apesar do destaque no top geral",
+    "trafego": ">>> Tráfego direto domina com 55% (109.970 PVs), indicando audiência fidelizada\n>>> Google Orgânico representa 39% (77.624 PVs), mostrando boa estratégia SEO\n>>> Redes sociais contribuem com apenas 3% (6.847 PVs), revelando oportunidade de crescimento\n>>> Links externos somam 2% (3.224 PVs), sinalizando baixa viralização\n>>> Canais como YouTube e push notifications são praticamente inexistentes",
+    "eficiencia": "A produção teve média real de 292 PVs por matéria, com 89 das 92 matérias publicadas gerando tráfego. Apenas 3 matérias ficaram sem acesso, representando taxa de sucesso de 97%. O conteúdo novo representou 13,5% do tráfego total do dia, enquanto matérias antigas contribuíram com 86,5% dos page views.",
+    "erros": ">>> Economia publicou 12 matérias mas teve média baixíssima de 120 PVs, indicando desalinhamento com interesse do público\n>>> Período noturno não sustentou o ritmo dos checkpoints anteriores, perdendo momentum\n>>> Baixo engajamento em redes sociais (apenas 3%) desperdiça potencial de amplificação\n>>> Saúde teve performance abaixo do esperado considerando que uma matéria antiga da área lidera o ranking",
+    "oportunidades": ">>> Explorar mais conteúdo de saúde pública, seguindo o sucesso da matéria sobre enalapril\n>>> Amplificar conteúdo social e lifestyle que mostrou forte engajamento\n>>> Intensificar estratégia de redes sociais para aumentar os atuais 3% de tráfego\n>>> Revisar linha editorial de economia para melhorar a eficiência por matéria\n>>> Criar estratégia específica para período noturno manter ritmo dos checkpoints",
+    "acoes": ">>> Produzir conteúdo de saúde pública com potencial viral para amanhã\n>>> Intensificar postagens em redes sociais com foco em conteúdo lifestyle\n>>> Revisar pauta de economia priorizando assuntos de maior interesse popular\n>>> Implementar estratégia de push notifications para engajar audiência noturna\n>>> Monitorar de perto os checkpoints para assegurar meta de 202.683 PVs",
+    "metaacumulada": "A meta de hoje (202.531) foi calculada dividindo-se o restante da meta mensal pelos dias disponíveis, incluindo ontem. Com o acumulado mensal de 527.568 de 6 milhões, ainda faltam 5.472.432 PVs para atingir o objetivo. A meta de amanhã sobe para 202.683 PVs, representando a necessidade de recuperar parte da diferença de hoje distribuída pelos 27 dias restantes do mês.",
+    "historicodia": ">>> Performance 1% superior à média histórica do mesmo dia da semana (196.851 PVs)\n>>> Resultado praticamente estável em relação à média dos últimos 30 dias (198.030 PVs)\n>>> Mantém consistência sem grandes oscilações no padrão semanal",
+    "historicomes": ">>> Acumulado mensal mostra estabilidade com variação de 0% vs mês anterior no mesmo período\n>>> Com 527.568 PVs em 3 dias, a projeção mensal atual indica cerca de 5,27 milhões\n>>> Ritmo atual está abaixo da meta de 6 milhões, exigindo aceleração na performance",
+    "tendencia": "A tendência dos últimos 30 dias mostra crescimento positivo de 14% comparado aos 30 dias anteriores, indicando momentum ascendente. O melhor mês histórico foi julho/25 com 13.625.154 PVs, enquanto o pior foi fevereiro/25 com 4.527.477 PVs, mostrando a sazonalidade típica do portal.",
+    "alerta": "\"A meta de amanhã aumentou para 202.683 PVs e cada dia que não batemos a meta torna o objetivo mensal mais desafiador.\"",
+    "licao": "O dia mostrou que checkpoints matinais e vespertinos fortes não garantem o sucesso final se o período noturno não acompanhar o ritmo. A diversificação de fontes de tráfego, especialmente redes sociais, é fundamental para sustentar crescimento. \"Consistência em todos os períodos é mais valiosa que picos isolados.\"",
+    "tendencias": ">>> Feriado de Corpus Christi no ES: veja o que abre e fecha em Vitória e Serra nesta quinta-feira\n--- Editoria: Geral\n--- Ângulo ES: Informar funcionamento de shoppings, bancos, repartições públicas e transporte coletivo na Grande Vitória durante o feriado\n--- Por que performa: Trending topic \"feriado\" com 2000+ buscas, demanda local por informações práticas\n--- Tipo: Serviço\n\n>>> Nubank libera nova função para capixabas: saiba como ativar o cashback no cartão\n--- Editoria: Economia\n--- Ângulo ES: Explicar novos benefícios do banco digital que já tem milhares de clientes no ES, com dicas práticas de uso\n--- Por que performa: \"Nubank\" está em alta com 500+ buscas, tema financeiro gera interesse\n--- Tipo: Explicativo\n\n>>> Tempo frio e chuva marcam feriado prolongado no Espírito Santo; veja previsão por região\n--- Editoria: Geral\n--- Ângulo ES: Previsão detalhada para litoral, região serrana e norte do ES durante o feriado de Corpus Christi\n--- Por que performa: Combina trending topics \"feriado de corpus christi\" e interesse em previsão do tempo\n--- Tipo: Serviço\n\n>>> Como a guerra na Ucrânia afeta o preço dos combustíveis no ES: entenda o impacto nos postos capixabas\n--- Editoria: Economia\n--- Ângulo ES: Análise do reflexo dos conflitos internacionais no preço da gasolina e diesel nos postos do Espírito Santo\n--- Por que performa: \"Guerra\" é trending topic, conecta tema global com impacto local no bolso\n--- Tipo: Análise\n\n>>> Repórter da TV Gazeta vira viral nas redes sociais após entrevista inusitada em Vila Velha\n--- Editoria: Cultura\n--- Ângulo ES: Explorar casos de jornalistas capixabas que ganharam destaque nacional ou situações engraçadas no jornalismo local\n--- Por que performa: \"Repórter\" tem 200+ buscas, público gosta de bastidores do jornalismo\n--- Tipo: Notícia\n\n>>> Nasceu o terceiro filho de Sthefany Brito: relembre a passagem da atriz pelas novelas da Record no ES\n--- Editoria: Cultura\n--- Ângulo ES: Resgatar participações da atriz em eventos no ES ou conexões com o estado, aproveitando o momento de interesse\n--- Por que performa: \"Sthefany Brito\" está em alta, celebridades sempre geram engajamento\n--- Tipo: Notícia\n\n>>> Operação contra facções no ES: como a Polícia Civil combate grupos criminosos no estado\n--- Editoria: Segurança\n--- Ângulo ES: Explicar ações da polícia capixaba contra organizações criminosas, citando operações recentes no ES\n--- Por que performa: \"Marcola\" e \"polícia\" são trending topics, segurança é tema sensível no ES\n--- Tipo: Explicativo\n\n>>> Caso Henry Borel completa 3 anos: relembre outros crimes que chocaram o ES\n--- Editoria: Segurança\n--- Ângulo ES: Retrospectiva de casos criminais que marcaram o Espírito Santo, aproveitando repercussão do caso nacional\n--- Por que performa: \"Monique Medeiros\" tem 2000+ buscas, crimes geram muito interesse público\n--- Tipo: Lista\n\n>>> Rodovia do Sol: como evitar congestionamentos no litoral capixaba durante o feriado\n--- Editoria: Trânsito\n--- Ângulo ES: Dicas para tráfego nas principais rodovias do ES, horários de pico e rotas alternativas para o litoral\n--- Por que performa: \"Rodovia anchieta\" em alta, motoristas capixabas enfrentam problemas similares\n--- Tipo: Serviço\n\n>>> Segurança nas estradas capixabas: PRF intensifica operação durante feriado prolongado de Corpus Christi\n--- Editoria: Trânsito\n--- Ângulo ES: Cobertura da Operação Corpus Christi da PRF no ES, com dados de acidentes e dicas de segurança\n--- Por que performa: Combina trending topics \"polícia\" e \"feriado\", tema de utilidade pública\n--- Tipo: Notícia"
+  },
+  "tendencias": [
+    {
+      "titulo": "feriado",
+      "trafico": "2000+",
+      "contexto": "Corpus Christi altera horário de serviços em São Paulo; saiba o que abre e o que fecha"
+    },
+    {
+      "titulo": "nubank",
+      "trafico": "500+",
+      "contexto": "Is It Too Soon to Call a Bottom on Nu Holdings Stock?"
+    },
+    {
+      "titulo": "guerra",
+      "trafico": "100+",
+      "contexto": "Câmara dos EUA aprova resolução que limita poderes de Trump e encerra guerra contra o Irã"
+    },
+    {
+      "titulo": "repórter",
+      "trafico": "200+",
+      "contexto": "Garoto surpreende repórter ao dar entrevista para o SBT: &apos;Não é a Globo, mas tá bom&apos;"
+    },
+    {
+      "titulo": "feriado de corpus christi",
+      "trafico": "100+",
+      "contexto": "Feriado prolongado terá frio e chuvas no país; veja a previsão"
+    },
+    {
+      "titulo": "sthefany brito",
+      "trafico": "100+",
+      "contexto": "Nasce Filippo, terceiro filho de Sthefany Brito e Igor Raschkovsky"
+    },
+    {
+      "titulo": "marcola",
+      "trafico": "100+",
+      "contexto": "&apos;Eles lavam para nós&apos;: cobrança de &apos;dinheiro do crime&apos; é usada como prova contra"
+    },
+    {
+      "titulo": "monique medeiros",
+      "trafico": "2000+",
+      "contexto": "&apos;Mataram o meu filho pela terceira vez&apos;, diz Leniel Borel - 04/06/2026 - Cotidiano"
+    },
+    {
+      "titulo": "polícia",
+      "trafico": "200+",
+      "contexto": "Cúpula da polícia sobe tom e expõe insatisfação com Nunes após operação"
+    },
+    {
+      "titulo": "rodovia anchieta",
+      "trafico": "200+",
+      "contexto": "Filas quilométricas e trânsito: motoristas encaram até 38 km de congestionamento nas rodovias do lit"
+    }
+  ]
+}
