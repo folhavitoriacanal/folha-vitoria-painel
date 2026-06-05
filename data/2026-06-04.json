@@ -1,0 +1,472 @@
+{
+  "dataDisplay": "04/06/2026",
+  "geradoEm": "2026-06-05T16:30:05.510Z",
+  "pvTotal": 202717,
+  "pctMeta": 100,
+  "metaHoje": 202683,
+  "metaAmanha": 202682,
+  "saldoOntem": 34,
+  "deficitOntem": 0,
+  "metaDiaria": 200000,
+  "metaMensal": 6000000,
+  "usuarios": 123822,
+  "sessions": 158624,
+  "pgsPorSessao": "1.28",
+  "tempoMedio": "1min21s",
+  "pvManha": 59912,
+  "pvTarde": 59909,
+  "pvNoite": 57980,
+  "checkpoints": [
+    {
+      "label": "Até 11h",
+      "pv": 84828,
+      "meta": 60000,
+      "status": "META BATIDA"
+    },
+    {
+      "label": "Até 17h",
+      "pv": 144737,
+      "meta": 130000,
+      "status": "META BATIDA"
+    },
+    {
+      "label": "Até 21h",
+      "pv": 188352,
+      "meta": 202683,
+      "status": "PERTO DA META"
+    }
+  ],
+  "producao": {
+    "disponivel": true,
+    "totalPublicadas": 51,
+    "pvPublicadas": 20324,
+    "mediaRealPorMateria": 399,
+    "materiasComAcesso": 51,
+    "materiasSemAcesso": 0,
+    "materiasSemAcessoLista": [],
+    "pvAntigos": 182393
+  },
+  "topMaterias": [
+    {
+      "pos": 1,
+      "titulo": "Porte de arma: saiba quem pode solicitar e quem não é autorizado",
+      "pv": 67756,
+      "publicadaHoje": false
+    },
+    {
+      "pos": 2,
+      "titulo": "RG antigo: quando pode ser recusado e quem deve trocar",
+      "pv": 9067,
+      "publicadaHoje": false
+    },
+    {
+      "pos": 3,
+      "titulo": "Cidade do ES prepara maior moqueca do mundo durante festival",
+      "pv": 5218,
+      "publicadaHoje": false
+    },
+    {
+      "pos": 4,
+      "titulo": "7 passeios gratuitos para curtir com a família na Grande Vitória",
+      "pv": 3941,
+      "publicadaHoje": false
+    },
+    {
+      "pos": 5,
+      "titulo": "Anvisa suspende lotes de enalapril após erro na embalagem; veja",
+      "pv": 1787,
+      "publicadaHoje": false
+    }
+  ],
+  "piorDesempenho": [
+    {
+      "pos": 1,
+      "titulo": "ES no Ar: assista ao jornal ao vivo",
+      "pv": 17,
+      "path": "/tv-vitoria/es-no-ar-assista-ao-jornal-ao-vivo/"
+    },
+    {
+      "pos": 2,
+      "titulo": "A nova obsessão pela longevidade: viver mais ou viver melhor?",
+      "pv": 20,
+      "path": "/saude/a-nova-obsessao-pela-longevidade-viver-mais-ou-viver-melhor/"
+    },
+    {
+      "pos": 3,
+      "titulo": "ES: Projeto de lei prevê atendimento para TEA e síndrome de Down",
+      "pv": 23,
+      "path": "/inclusao/projeto-propoe-atendimento-prioritario-em-emergencias/"
+    },
+    {
+      "pos": 4,
+      "titulo": "O ingrediente que você joga no lixo, mas que remove gordura incrustada do forno",
+      "pv": 33,
+      "path": "/cotidiano/o-ingrediente-que-voce-joga-no-lixo-mas-que-remove-gordura-incrustada-do-forno/"
+    },
+    {
+      "pos": 5,
+      "titulo": "R$ 2,5 bilhões em hortaliças: o setor que alimenta o Brasil e não é reconhecido",
+      "pv": 36,
+      "path": "/folha-business/r-25-bilhoes-em-hortalicas-o-setor-que-alimenta-o-brasil-e-nao-e-reconhecido/"
+    },
+    {
+      "pos": 6,
+      "titulo": "Projeto Viva Vida Esporte e Cidadania atende 1.200 alunos no ES",
+      "pv": 37,
+      "path": "/esportes/festival-celebra-esporte-e-inclusao-social-para-1-200-criancas-e-adolescentes-no-es/"
+    },
+    {
+      "pos": 7,
+      "titulo": "Balanço Geral: assista ao jornal ao vivo",
+      "pv": 48,
+      "path": "/tv-vitoria/balanco-geral-es/balanco-geral-assista-ao-jornal-ao-vivo/"
+    },
+    {
+      "pos": 8,
+      "titulo": "Joias, perfumes e experiências marcam o Dia dos Namorados",
+      "pv": 50,
+      "path": "/cotidiano/joias-perfumes-e-experiencias-marcam-o-dia-dos-namorados/"
+    },
+    {
+      "pos": 9,
+      "titulo": "Enem 2026: inscrições ficam abertas até sexta-feira na internet",
+      "pv": 58,
+      "path": "/educacao/enem-2026-inscricoes-ficam-abertas-ate-sexta-feira-na-internet/"
+    },
+    {
+      "pos": 10,
+      "titulo": "O que a morte silenciosa do \"nós\" diz sobre “a gente”",
+      "pv": 59,
+      "path": "/educacao/o-que-a-morte-silenciosa-do-nos-diz-sobre-a-gente/"
+    },
+    {
+      "pos": 11,
+      "titulo": "Novas tarifas de Trump: por que o ES é um dos estados mais vulneráveis",
+      "pv": 76,
+      "path": "/folha-business/novas-tarifas-de-trump-es-e-um-dos-estados-mais-vulneraveis/"
+    },
+    {
+      "pos": 12,
+      "titulo": "A febre de \"Succession\" e a fantasia de ser herdeiro",
+      "pv": 85,
+      "path": "/cotidiano/a-febre-de-succession-e-a-fantasia-de-ser-herdeiro/"
+    },
+    {
+      "pos": 13,
+      "titulo": "Inscrições quase esgotadas para a Maratona de Vitória",
+      "pv": 90,
+      "path": "/esportes/inscricoes-quase-esgotadas-para-a-maratona-de-vitoria-veja-como-garantir-a-sua-vaga/"
+    },
+    {
+      "pos": 14,
+      "titulo": "Pela Metade: crítica da série de Richard Gadd",
+      "pv": 95,
+      "path": "/cultura/series/pela-metade-e-uma-obra-fascinante-sobre-trauma-desejo-e-violencia/"
+    },
+    {
+      "pos": 15,
+      "titulo": "Instagram ganha versão premium no Brasil: vale a pena pagar pelos novos recursos?",
+      "pv": 108,
+      "path": "/tecnologia/instagram-ganha-versao-premium-no-brasil-vale-a-pena-pagar-pelos-novos-recursos/"
+    }
+  ],
+  "editorias": [
+    {
+      "nome": "politica",
+      "pvTotal": 70273,
+      "pvPublicadas": 946,
+      "publicadas": 2,
+      "urlsAcessadas": 19,
+      "mediaCorreta": 473
+    },
+    {
+      "nome": "cotidiano",
+      "pvTotal": 14953,
+      "pvPublicadas": 2622,
+      "publicadas": 8,
+      "urlsAcessadas": 43,
+      "mediaCorreta": 328
+    },
+    {
+      "nome": "cultura",
+      "pvTotal": 13057,
+      "pvPublicadas": 4875,
+      "publicadas": 6,
+      "urlsAcessadas": 68,
+      "mediaCorreta": 813
+    },
+    {
+      "nome": "gastronomia",
+      "pvTotal": 5579,
+      "pvPublicadas": 0,
+      "publicadas": null,
+      "urlsAcessadas": 10,
+      "mediaCorreta": null
+    },
+    {
+      "nome": "policia",
+      "pvTotal": 5525,
+      "pvPublicadas": 3486,
+      "publicadas": 8,
+      "urlsAcessadas": 35,
+      "mediaCorreta": 436
+    },
+    {
+      "nome": "transito",
+      "pvTotal": 4697,
+      "pvPublicadas": 1879,
+      "publicadas": 2,
+      "urlsAcessadas": 20,
+      "mediaCorreta": 940
+    },
+    {
+      "nome": "economia",
+      "pvTotal": 4067,
+      "pvPublicadas": 683,
+      "publicadas": 2,
+      "urlsAcessadas": 28,
+      "mediaCorreta": 342
+    }
+  ],
+  "origens": [
+    {
+      "canal": "Direto",
+      "pv": 111402,
+      "pct": 55
+    },
+    {
+      "canal": "Google Orgânico",
+      "pv": 81501,
+      "pct": 40
+    },
+    {
+      "canal": "Social",
+      "pv": 6357,
+      "pct": 3
+    },
+    {
+      "canal": "Links externos",
+      "pv": 2302,
+      "pct": 1
+    },
+    {
+      "canal": "Não identificado",
+      "pv": 1125,
+      "pct": 1
+    },
+    {
+      "canal": "YouTube",
+      "pv": 19,
+      "pct": 0
+    },
+    {
+      "canal": "E-mail",
+      "pv": 11,
+      "pct": 0
+    }
+  ],
+  "historico": {
+    "mediaMesmoDia": 187074,
+    "varMesmoDia": 8,
+    "media30": 190951,
+    "media30a": 188441,
+    "var30": 1,
+    "pvMesAtualAcum": 730287,
+    "pvMesAntMesmoPer": 825584,
+    "varMesAnt": -12,
+    "diasRestantes": 26,
+    "pvFaltaMes": 5269713,
+    "mediaNecessaria": 202682,
+    "mediaMensal": 6814068,
+    "melhorMes": {
+      "mes": "202507",
+      "pv": 13625154,
+      "label": "Jul/25"
+    },
+    "piorMes": {
+      "mes": "202502",
+      "pv": 4527477,
+      "label": "Fev/25"
+    },
+    "mensal": [
+      {
+        "mes": "202501",
+        "pv": 7245874,
+        "label": "Jan/25",
+        "atual": false
+      },
+      {
+        "mes": "202502",
+        "pv": 4527477,
+        "label": "Fev/25",
+        "atual": false
+      },
+      {
+        "mes": "202503",
+        "pv": 5367201,
+        "label": "Mar/25",
+        "atual": false
+      },
+      {
+        "mes": "202504",
+        "pv": 6945113,
+        "label": "Abr/25",
+        "atual": false
+      },
+      {
+        "mes": "202505",
+        "pv": 6591733,
+        "label": "Mai/25",
+        "atual": false
+      },
+      {
+        "mes": "202506",
+        "pv": 11659575,
+        "label": "Jun/25",
+        "atual": false
+      },
+      {
+        "mes": "202507",
+        "pv": 13625154,
+        "label": "Jul/25",
+        "atual": false
+      },
+      {
+        "mes": "202508",
+        "pv": 10001619,
+        "label": "Ago/25",
+        "atual": false
+      },
+      {
+        "mes": "202509",
+        "pv": 6679985,
+        "label": "Set/25",
+        "atual": false
+      },
+      {
+        "mes": "202510",
+        "pv": 5336318,
+        "label": "Out/25",
+        "atual": false
+      },
+      {
+        "mes": "202511",
+        "pv": 4564202,
+        "label": "Nov/25",
+        "atual": false
+      },
+      {
+        "mes": "202512",
+        "pv": 5524739,
+        "label": "Dez/25",
+        "atual": false
+      },
+      {
+        "mes": "202601",
+        "pv": 4978658,
+        "label": "Jan/26",
+        "atual": false
+      },
+      {
+        "mes": "202602",
+        "pv": 6402972,
+        "label": "Fev/26",
+        "atual": false
+      },
+      {
+        "mes": "202603",
+        "pv": 5172054,
+        "label": "Mar/26",
+        "atual": false
+      },
+      {
+        "mes": "202604",
+        "pv": 5076878,
+        "label": "Abr/26",
+        "atual": false
+      },
+      {
+        "mes": "202605",
+        "pv": 6139608,
+        "label": "Mai/26",
+        "atual": false
+      },
+      {
+        "mes": "202606",
+        "pv": 730287,
+        "label": "Jun/26",
+        "atual": true
+      }
+    ]
+  },
+  "analises": {
+    "resumo": "Meta do dia foi batida com folga: 202.717 page views contra meta de 202.683, superando em 34 visualizações e atingindo exatamente 100% do objetivo. O desempenho foi equilibrado entre os três períodos, com manhã e tarde registrando praticamente o mesmo volume (59.912 e 59.909 respectivamente). Batemos as metas de checkpoint das 11h e 17h, ficando próximos da meta final até às 21h. No acumulado mensal, estamos com 730.287 PVs, precisando de 5.269.713 para completar os 6 milhões da meta de junho.",
+    "horarios": ">>> Manhã (6h-11h): 59.912 PVs, período com maior equilíbrio e fluxo constante\n>>> Tarde (12h-17h): 59.909 PVs, mantendo o mesmo patamar da manhã com excelente consistência\n>>> Noite (18h-23h): 57.980 PVs, queda natural esperada mas dentro do padrão\n>>> Checkpoint 11h: 84.828 PVs superou meta de 60.000 com folga de 41%\n>>> Checkpoint 17h: 144.737 PVs bateu meta de 130.000 com margem confortável\n>>> Checkpoint 21h: 188.352 PVs ficou próximo da meta final de 202.683",
+    "padrao": ">>> Matéria de utilidade pública sobre porte de arma dominou com 67.756 PVs, representando 33% do total do dia\n>>> Conteúdos de serviço (RG antigo, documentos) continuam performando bem no evergreen\n>>> Matérias regionais como a moqueca capixaba mantêm engajamento local consistente\n>>> Passeios gratuitos na Grande Vitória atendem demanda por lazer acessível\n>>> Saúde pública (Anvisa/medicamentos) gera interesse imediato do público",
+    "editorias": ">>> Trânsito liderou eficiência com 940 PVs por matéria (2 publicações, 1.879 PVs)\n>>> Cultura em segundo com 813 PVs por matéria (6 publicações, 4.875 PVs)\n>>> Política registrou 473 PVs por matéria (2 publicações, 946 PVs)\n>>> Polícia alcançou 436 PVs por matéria (8 publicações, 3.486 PVs)\n>>> Economia ficou em 342 PVs por matéria (2 publicações, 683 PVs)\n>>> Cotidiano registrou 328 PVs por matéria (8 publicações, 2.622 PVs)",
+    "trafego": ">>> Tráfego direto dominante com 55% (111.402 PVs) indica fidelização forte da audiência\n>>> Google orgânico com 40% (81.501 PVs) mantém SEO saudável e descoberta de conteúdo\n>>> Redes sociais com apenas 3% (6.357 PVs) mostram oportunidade de crescimento\n>>> Links externos representam 1% (2.302 PVs), indicando potencial para parcerias\n>>> YouTube quase inexistente com 19 PVs aponta necessidade de integração multimídia",
+    "eficiencia": "A redação publicou 51 matérias ontem que geraram 20.324 PVs, resultando em média real de 399 page views por matéria. Todas as 51 publicações receberam pelo menos um acesso, mantendo aproveitamento de 100% do material produzido. O restante do tráfego (182.393 PVs) veio de matérias antigas, demonstrando força do acervo evergreen.",
+    "erros": ">>> Baixíssimo engajamento em redes sociais (apenas 3%) desperdiça potencial de viralização\n>>> YouTube praticamente inexistente com 19 PVs indica falha na estratégia multimídia\n>>> Cotidiano com 8 matérias mas média baixa de 328 PVs sugere problemas de angulação\n>>> Economia registrou apenas 342 PVs por matéria, abaixo do potencial da editoria",
+    "oportunidades": ">>> Expandir cobertura de utilidade pública seguindo sucesso da matéria sobre porte de armas\n>>> Intensificar produção em trânsito, que lidera eficiência com 940 PVs por matéria\n>>> Desenvolver mais conteúdo evergreen regional como passeios e gastronomia capixaba\n>>> Criar estratégia específica para redes sociais visando aumentar os atuais 3%\n>>> Produzir mais matérias de cultura, segunda editoria em eficiência",
+    "acoes": ">>> Publicar pelo menos 3 matérias de utilidade pública para aproveitar demanda comprovada\n>>> Focar em trânsito e cultura, editorias com melhor performance de PVs por matéria\n>>> Criar conteúdo específico para redes sociais visando aumentar tráfego social\n>>> Desenvolver matérias evergreen regionais que sustentam audiência a longo prazo\n>>> Monitorar checkpoint das 11h buscando repetir performance de 84.828 PVs",
+    "metaacumulada": "A meta diária é calculada dinamicamente: pegamos a meta mensal restante (5.269.713 PVs) e dividimos pelos 26 dias que ainda restam em junho, resultando em 202.682 para amanhã. Este sistema ajusta automaticamente a meta conforme o desempenho anterior, garantindo que ainda é possível atingir os 6 milhões mensais. Com 730.287 PVs acumulados, precisamos manter média de 202.681 PVs nos próximos dias para bater a meta mensal.",
+    "historicodia": ">>> Hoje superou a média de mesmo dia da semana em 8%: 202.717 contra 187.074\n>>> Performance 6% acima da média dos últimos 30 dias (190.951 PVs)\n>>> Resultado demonstra crescimento consistente comparado ao padrão histórico",
+    "historicomes": ">>> Acumulado de junho (730.287) está 12% abaixo do mesmo período de maio (825.584)\n>>> Projeção mensal atual indica necessidade de aceleração para atingir meta de 6 milhões\n>>> Média diária precisa se manter acima de 200 mil para recuperar déficit mensal",
+    "tendencia": "A tendência dos últimos 30 dias é levemente positiva (+1%), com média atual de 190.951 contra 188.441 do período anterior. O melhor mês da história foi julho/2025 com 13.625.154 PVs, enquanto o pior foi fevereiro/2025 com 4.527.477 PVs, mostrando grande amplitude de variação sazonal no portal.",
+    "alerta": "\"Tráfego de redes sociais em apenas 3% representa perda significativa de potencial de crescimento e engajamento.\"",
+    "licao": "O equilíbrio entre manhã e tarde (diferença de apenas 3 PVs) demonstra que a audiência do Folha Vitória se mantém engajada ao longo de todo o dia útil, não dependendo de picos isolados. A força das matérias evergreen, especialmente de utilidade pública, confirma que conteúdo de serviço é investimento de longo prazo. \"Audiência consistente constrói portal confiável.\"",
+    "tendencias": ">>> Portugal x Chile hoje: onde assistir ao vivo e horário do amistoso internacional\n--- Editoria: Esportes\n--- Ângulo ES: Destacar os bares e restaurantes de Vitória e Vila Velha que transmitem jogos internacionais, além de mencionar a torcida portuguesa na Grande Vitória\n--- Por que performa: Busca alta por informações sobre transmissão do jogo Portugal x Chile\n--- Tipo: Serviço\n\n>>> Estêvão do Palmeiras surpreende médicos com recuperação rápida de lesão na coxa\n--- Editoria: Esportes\n--- Ângulo ES: Comparar com cases de recuperação de atletas capixabas e citar clínicas esportivas do ES que usam tecnologias similares\n--- Por que performa: Alta busca pelo nome do jogador após notícia sobre sua recuperação\n--- Tipo: Notícia\n\n>>> Entenda a polêmica da morte de jovem algemado no Reino Unido que revolta o país\n--- Editoria: Internacional\n--- Ângulo ES: Contextualizar com debates sobre violência policial no Brasil e casos similares no Espírito Santo\n--- Por que performa: Trending topic sobre caso polêmico no Reino Unido gerando indignação\n--- Tipo: Explicativo\n\n>>> Filha de Leandro emociona fãs ao cantar sucesso do pai: veja o vídeo viral\n--- Editoria: Entretenimento\n--- Ângulo ES: Relembrar shows de Leandro no ES e mencionar fãs capixabas da dupla Leandro e Leonardo\n--- Por que performa: Vídeo emocionante da filha do cantor viralizou nas redes sociais\n--- Tipo: Notícia\n\n>>> CPFL paga segunda parcela de dividendos em 2024: quem tem direito e como receber\n--- Editoria: Economia\n--- Ângulo ES: Explicar impacto para investidores capixabas e comparar com outras empresas de energia que atuam no ES\n--- Por que performa: Interesse de investidores em informações sobre dividendos da CPFL\n--- Tipo: Serviço\n\n>>> Zelensky propõe cessar-fogo e encontro com Putin: \"Chega de guerra na Ucrânia\"\n--- Editoria: Internacional\n--- Ângulo ES: Abordar impacto da guerra nos preços dos combustíveis e alimentos no Espírito Santo\n--- Por que performa: Desenvolvimento importante no conflito Ucrânia-Rússia gera buscas sobre o tema\n--- Tipo: Notícia\n\n>>> Governo do RJ autoriza concurso do Inea: veja vagas e como se preparar\n--- Editoria: Concursos\n--- Ângulo ES: Comparar com concursos ambientais no ES e destacar oportunidades para capixabas se inscreverem\n--- Por que performa: Anúncio de novo concurso público gera interesse de candidatos\n--- Tipo: Serviço\n\n>>> Pesquisa mostra Lula com 47,8% e Flávio Dino com 41,3% em cenário de segundo turno\n--- Editoria: Política\n--- Ângulo ES: Analisar como cenário nacional pode impactar eleições municipais de 2024 no Espírito Santo\n--- Por que performa: Dados de nova pesquisa eleitoral geram interesse político\n--- Tipo: Análise\n\n>>> Tainá Militão promete levar filhos de Léo Pereira à Copa do Mundo: \"Tem que ser humana\"\n--- Editoria: Entretenimento\n--- Ângulo ES: Explorar o interesse dos capixabas por reality shows e relacionamentos de famosos\n--- Por que performa: Declaração da ex-BBB sobre jogador do Flamengo viraliza\n--- Tipo: Notícia\n\n>>> Flamengo critica convocação após lesão de Arrascaeta: \"Responsabilidade é das seleções\"\n--- Editoria: Esportes\n--- Ângulo ES: Mencionar a grande torcida do Flamengo no ES e repercussão entre rubro-negros capixabas\n--- Por que performa: Polêmica envolvendo lesão de jogador importante do Flamengo gera debates\n--- Tipo: Notícia"
+  },
+  "tendencias": [
+    {
+      "titulo": "onde assistir seleção portuguesa de futebol x seleção chilena de futebol",
+      "trafico": "500+",
+      "contexto": "Portugal x Chile: onde assistir ao vivo, horário, palpite e prováveis escalações do amistoso interna"
+    },
+    {
+      "titulo": "estêvão",
+      "trafico": "500+",
+      "contexto": "Estêvão revela surpresa de médico após novo exame na coxa: “Disse que não via mais lesão”"
+    },
+    {
+      "titulo": "reino unido",
+      "trafico": "1000+",
+      "contexto": "La indignación por el caso del joven que murió esposado por la policía mientras se desangraba tras s"
+    },
+    {
+      "titulo": "leandro",
+      "trafico": "500+",
+      "contexto": "Filha de Leandro emociona fãs ao cantar música do pai; vídeo"
+    },
+    {
+      "titulo": "cpfl",
+      "trafico": "1000+",
+      "contexto": "CPFL Energia (CPFE3) pagará segunda parcela de dividendos neste mês; veja quem tem direito"
+    },
+    {
+      "titulo": "rússia",
+      "trafico": "1000+",
+      "contexto": "Zelensky propõe encontro com Putin e cessar-fogo: &apos;Chega de guerra&apos;"
+    },
+    {
+      "titulo": "instituto estadual do ambiente",
+      "trafico": "1000+",
+      "contexto": "Governador autoriza concurso para o Inea: veja o total de vagas e cronograma"
+    },
+    {
+      "titulo": "poder360",
+      "trafico": "1000+",
+      "contexto": "Lula tem 47,8% e Flávio, 41,3%, no 2º turno, diz pesquisa"
+    },
+    {
+      "titulo": "léo pereira",
+      "trafico": "1000+",
+      "contexto": "Tainá Militão revela que ajudará Léo Pereira a levar os filhos à Copa do Mundo: &apos;Tem que ser hu"
+    },
+    {
+      "titulo": "giorgian de arrascaeta",
+      "trafico": "2000+",
+      "contexto": "Após lesão de Arrascaeta, Flamengo diz que responsabilidade por convocados é das seleções"
+    }
+  ]
+}
