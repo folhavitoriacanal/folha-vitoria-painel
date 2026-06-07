@@ -1,0 +1,471 @@
+{
+  "dataDisplay": "06/06/2026",
+  "geradoEm": "2026-06-07T09:19:02.042Z",
+  "pvTotal": 131939,
+  "pctMeta": 65,
+  "metaHoje": 203141,
+  "metaAmanha": 206107,
+  "saldoOntem": -71202,
+  "deficitOntem": 71202,
+  "metaDiaria": 200000,
+  "metaMensal": 6000000,
+  "usuarios": 74313,
+  "sessions": 99277,
+  "pgsPorSessao": "1.33",
+  "tempoMedio": "1min34s",
+  "pvManha": 36493,
+  "pvTarde": 37190,
+  "pvNoite": 39910,
+  "checkpoints": [
+    {
+      "label": "Até 11h",
+      "pv": 54839,
+      "meta": 60000,
+      "status": "PERTO DA META"
+    },
+    {
+      "label": "Até 17h",
+      "pv": 92029,
+      "meta": 130000,
+      "status": "ABAIXO"
+    },
+    {
+      "label": "Até 21h",
+      "pv": 120731,
+      "meta": 203141,
+      "status": "MUITO ABAIXO"
+    }
+  ],
+  "producao": {
+    "disponivel": true,
+    "totalPublicadas": 49,
+    "pvPublicadas": 25909,
+    "mediaRealPorMateria": 529,
+    "materiasComAcesso": 46,
+    "materiasSemAcesso": 3,
+    "materiasSemAcessoLista": [
+      "/tv-vitoria/jornal-da-tv-vitoria/deputados-aprovam-lei-para-carregadores-de-veiculos-eletricos-em-condominios/",
+      "/tv-vitoria/jornal-da-tv-vitoria/casos-de-obesidade-grave-em-criancas-aumentam-12-no-espirito-santo/",
+      "/tv-vitoria/jornal-da-tv-vitoria/casos-de-maus-tratos-a-animais-aumentam-no-estado/"
+    ],
+    "pvAntigos": 106030
+  },
+  "topMaterias": [
+    {
+      "pos": 1,
+      "titulo": "Porte de arma: saiba quem pode solicitar e quem não é autorizado",
+      "pv": 11037,
+      "publicadaHoje": false
+    },
+    {
+      "pos": 2,
+      "titulo": "Frio no ES: temperatura pode ficar abaixo de 10ºC",
+      "pv": 5403,
+      "publicadaHoje": false
+    },
+    {
+      "pos": 3,
+      "titulo": "Festa sob as tamareiras para celebrar mais de um bilhão em vendas",
+      "pv": 3266,
+      "publicadaHoje": true
+    },
+    {
+      "pos": 4,
+      "titulo": "O passeio gratuito em Domingos Martins que mistura flores, fotos e morangos",
+      "pv": 3087,
+      "publicadaHoje": true
+    },
+    {
+      "pos": 5,
+      "titulo": "Morador de Cariacica acerta a quina da Mega-Sena e leva mais de R$ 19 milhões",
+      "pv": 1988,
+      "publicadaHoje": true
+    }
+  ],
+  "piorDesempenho": [
+    {
+      "pos": 1,
+      "titulo": "Seja ES: varejo movimenta bilhões na economia e contribui para gerar empregos no ES",
+      "pv": 6,
+      "path": "/tv-vitoria/jornal-da-tv-vitoria/seja-es-varejo-movimenta-bilhoes-na-economia-e-contribui-para-gerar-empregos-no-es/"
+    },
+    {
+      "pos": 2,
+      "titulo": "Mais de 5 mil capixabas buscaram ajuda para abandonar o vício do cigarro em 2025",
+      "pv": 9,
+      "path": "/tv-vitoria/jornal-da-tv-vitoria/mais-de-5-mil-capixabas-buscaram-ajuda-para-abandonar-o-vicio-do-cigarro-em-2025/"
+    },
+    {
+      "pos": 3,
+      "titulo": "Artistas de Caratoíra homenageiam Michael Jackson no Rio",
+      "pv": 10,
+      "path": "/tv-vitoria/jornal-da-tv-vitoria/artistas-de-caratoira-homenageiam-michael-jackson-no-rio/"
+    },
+    {
+      "pos": 4,
+      "titulo": "Corrente do Bem: assista ao programa ao vivo",
+      "pv": 12,
+      "path": "/tv-vitoria/corrente-do-bem-ao-vivo/"
+    },
+    {
+      "pos": 5,
+      "titulo": "Sem carteira assinada, mas com CNPJ: por que milhares de jovens capixabas apostam no próprio negócio",
+      "pv": 12,
+      "path": "/tv-vitoria/jornal-da-tv-vitoria/sem-carteira-assinada-mas-com-cnpj-por-que-milhares-de-jovens-capixabas-apostam-no-proprio-negocio/"
+    },
+    {
+      "pos": 6,
+      "titulo": "Mais que tradição: arroz e feijão seguem como referência em alimentação equilibrada",
+      "pv": 32,
+      "path": "/saude/mais-que-tradicao-arroz-e-feijao-seguem-como-referencia-em-alimentacao-equilibrada/"
+    },
+    {
+      "pos": 7,
+      "titulo": "Jovem paraplégico recebe polilaminina e recupera alguns movimentos",
+      "pv": 40,
+      "path": "/tv-vitoria/jornal-da-tv-vitoria/jovem-paraplegico-recebe-polilaminina-e-recupera-alguns-movimentos/"
+    },
+    {
+      "pos": 8,
+      "titulo": "Balanço Geral: assista ao jornal ao vivo",
+      "pv": 45,
+      "path": "/tv-vitoria/balanco-geral-es/balanco-geral-assista-ao-jornal-ao-vivo/"
+    },
+    {
+      "pos": 9,
+      "titulo": "Bolsonaro tem aumento das crises de soluço",
+      "pv": 49,
+      "path": "/politica/solucos-de-bolsonaro-ficam-mais-frequentes-nos-ultimos-dias-aponta-boletim/"
+    },
+    {
+      "pos": 10,
+      "titulo": "Enem: prazo de inscrição é prorrogado até dia 12 de junho",
+      "pv": 50,
+      "path": "/educacao/enem-prazo-de-inscricao-e-prorrogado-ate-dia-12-de-junho/"
+    },
+    {
+      "pos": 11,
+      "titulo": "Desenhando com Rembrandt: uma visita à exposição no Palácio Anchieta",
+      "pv": 53,
+      "path": "/cotidiano/desenhando-com-rembrandt-uma-visita-a-exposicao-no-palacio-anchieta/"
+    },
+    {
+      "pos": 12,
+      "titulo": "Coroa-de-Cristo: 3 ajustes simples que fazem a floração voltar com força e por mais tempo",
+      "pv": 61,
+      "path": "/curiosidades/coroa-de-cristo-3-ajustes-simples-que-fazem-a-floracao-voltar-com-forca-e-por-mais-tempo/"
+    },
+    {
+      "pos": 13,
+      "titulo": "Capixabas vão disputar Mundial Universitário de Esportes de Combate",
+      "pv": 80,
+      "path": "/esportes/quatro-capixabas-vao-disputar-o-mundial-universitario-de-esportes-de-combate/"
+    },
+    {
+      "pos": 14,
+      "titulo": "Neymar mostra o que levou na mala para a Copa do Mundo",
+      "pv": 82,
+      "path": "/copa-do-mundo/neymar-mostra-mala-para-a-copa-e-brinca-sobre-folga-estou-focado/"
+    },
+    {
+      "pos": 15,
+      "titulo": "Eliminação na Copa ES aumenta a pressão no Rio Branco",
+      "pv": 91,
+      "path": "/esportes/eliminacao-na-copa-es-aumenta-a-pressao-em-cima-do-rio-branco-na-serie-d-entenda/"
+    }
+  ],
+  "editorias": [
+    {
+      "nome": "politica",
+      "pvTotal": 11647,
+      "pvPublicadas": 49,
+      "publicadas": 1,
+      "urlsAcessadas": 15,
+      "mediaCorreta": 49
+    },
+    {
+      "nome": "cultura",
+      "pvTotal": 8937,
+      "pvPublicadas": 3512,
+      "publicadas": 2,
+      "urlsAcessadas": 72,
+      "mediaCorreta": 1756
+    },
+    {
+      "nome": "tempo",
+      "pvTotal": 7785,
+      "pvPublicadas": 2297,
+      "publicadas": 2,
+      "urlsAcessadas": 8,
+      "mediaCorreta": 1149
+    },
+    {
+      "nome": "cotidiano",
+      "pvTotal": 6707,
+      "pvPublicadas": 1092,
+      "publicadas": 5,
+      "urlsAcessadas": 37,
+      "mediaCorreta": 218
+    },
+    {
+      "nome": "transito",
+      "pvTotal": 5535,
+      "pvPublicadas": 3159,
+      "publicadas": 5,
+      "urlsAcessadas": 31,
+      "mediaCorreta": 632
+    },
+    {
+      "nome": "social",
+      "pvTotal": 5485,
+      "pvPublicadas": 4676,
+      "publicadas": 2,
+      "urlsAcessadas": 18,
+      "mediaCorreta": 2338
+    },
+    {
+      "nome": "policia",
+      "pvTotal": 5430,
+      "pvPublicadas": 3333,
+      "publicadas": 5,
+      "urlsAcessadas": 34,
+      "mediaCorreta": 667
+    }
+  ],
+  "origens": [
+    {
+      "canal": "Direto",
+      "pv": 67455,
+      "pct": 51
+    },
+    {
+      "canal": "Google Orgânico",
+      "pv": 55869,
+      "pct": 42
+    },
+    {
+      "canal": "Social",
+      "pv": 5487,
+      "pct": 4
+    },
+    {
+      "canal": "Links externos",
+      "pv": 1926,
+      "pct": 1
+    },
+    {
+      "canal": "Não identificado",
+      "pv": 1176,
+      "pct": 1
+    },
+    {
+      "canal": "E-mail",
+      "pv": 14,
+      "pct": 0
+    },
+    {
+      "canal": "YouTube",
+      "pv": 12,
+      "pct": 0
+    }
+  ],
+  "historico": {
+    "mediaMesmoDia": 159605,
+    "varMesmoDia": -17,
+    "media30": 189314,
+    "media30a": 191915,
+    "var30": -1,
+    "pvMesAtualAcum": 1053436,
+    "pvMesAntMesmoPer": 1381677,
+    "varMesAnt": -24,
+    "diasRestantes": 24,
+    "pvFaltaMes": 4946564,
+    "mediaNecessaria": 206107,
+    "mediaMensal": 6814068,
+    "melhorMes": {
+      "mes": "202507",
+      "pv": 13625154,
+      "label": "Jul/25"
+    },
+    "piorMes": {
+      "mes": "202502",
+      "pv": 4527477,
+      "label": "Fev/25"
+    },
+    "mensal": [
+      {
+        "mes": "202501",
+        "pv": 7245874,
+        "label": "Jan/25",
+        "atual": false
+      },
+      {
+        "mes": "202502",
+        "pv": 4527477,
+        "label": "Fev/25",
+        "atual": false
+      },
+      {
+        "mes": "202503",
+        "pv": 5367201,
+        "label": "Mar/25",
+        "atual": false
+      },
+      {
+        "mes": "202504",
+        "pv": 6945113,
+        "label": "Abr/25",
+        "atual": false
+      },
+      {
+        "mes": "202505",
+        "pv": 6591733,
+        "label": "Mai/25",
+        "atual": false
+      },
+      {
+        "mes": "202506",
+        "pv": 11659575,
+        "label": "Jun/25",
+        "atual": false
+      },
+      {
+        "mes": "202507",
+        "pv": 13625154,
+        "label": "Jul/25",
+        "atual": false
+      },
+      {
+        "mes": "202508",
+        "pv": 10001619,
+        "label": "Ago/25",
+        "atual": false
+      },
+      {
+        "mes": "202509",
+        "pv": 6679985,
+        "label": "Set/25",
+        "atual": false
+      },
+      {
+        "mes": "202510",
+        "pv": 5336318,
+        "label": "Out/25",
+        "atual": false
+      },
+      {
+        "mes": "202511",
+        "pv": 4564202,
+        "label": "Nov/25",
+        "atual": false
+      },
+      {
+        "mes": "202512",
+        "pv": 5524739,
+        "label": "Dez/25",
+        "atual": false
+      },
+      {
+        "mes": "202601",
+        "pv": 4978658,
+        "label": "Jan/26",
+        "atual": false
+      },
+      {
+        "mes": "202602",
+        "pv": 6402972,
+        "label": "Fev/26",
+        "atual": false
+      },
+      {
+        "mes": "202603",
+        "pv": 5172054,
+        "label": "Mar/26",
+        "atual": false
+      },
+      {
+        "mes": "202604",
+        "pv": 5076878,
+        "label": "Abr/26",
+        "atual": false
+      },
+      {
+        "mes": "202605",
+        "pv": 6139608,
+        "label": "Mai/26",
+        "atual": false
+      },
+      {
+        "mes": "202606",
+        "pv": 1053436,
+        "label": "Jun/26",
+        "atual": true
+      }
+    ]
+  },
+  "analises": {
+    "resumo": "O dia 06/06/2026 registrou 131.939 page views contra meta de 203.141, representando 65% do objetivo e déficit de 71.202 visualizações. O tráfego foi relativamente equilibrado entre os períodos, com noite liderando (39.910), seguida por tarde (37.190) e manhã (36.493). Das 49 matérias publicadas, 46 geraram tráfego com média de 529 PVs por conteúdo. A performance ficou 17% abaixo da média do mesmo dia da semana e contribui para o déficit mensal de 24% em relação ao período anterior.",
+    "horarios": ">>> Manhã (6h-11h): 36.493 PVs, checkpoint 11h em 54.839 (meta 60.000) - perto da meta\n>>> Tarde (12h-17h): 37.190 PVs, checkpoint 17h em 92.029 (meta 130.000) - significativamente abaixo\n>>> Noite (18h-23h): 39.910 PVs, resultado final muito abaixo da meta de 203.141\n>>> Padrão consistente sem picos expressivos ao longo do dia",
+    "padrao": ">>> Matérias de serviço evergreen dominam: \"Porte de arma\" com 11.037 PVs lidera\n>>> Conteúdo sobre clima mantém relevância: \"Frio no ES\" com 5.403 PVs\n>>> Matérias do dia com melhor performance: eventos sociais e turismo local\n>>> Notícias locais de impacto: ganhador da Mega-Sena em Cariacica gera engajamento",
+    "editorias": ">>> Social lidera em eficiência com 2.338 PVs por matéria publicada\n>>> Cultura em segundo com 1.756 PVs de média real\n>>> Tempo mantém boa performance com 1.149 PVs por conteúdo\n>>> Política com baixíssima eficiência: apenas 49 PVs na única matéria",
+    "trafego": ">>> Tráfego direto domina com 51%, indicando audiência fidelizada\n>>> Google Orgânico representa 42%, mostrando boa otimização SEO\n>>> Redes sociais com apenas 4%, sinalizando baixo engajamento social\n>>> Fontes externas praticamente inexistentes (1%), limitando descoberta",
+    "eficiencia": "A produção de 49 matérias gerou média real de 529 page views por conteúdo, com 94% das publicações (46 de 49) recebendo pelo menos um acesso. Três matérias não registraram visualizações, representando 6% de conteúdo sem retorno.",
+    "erros": ">>> Baixa diversificação de tráfego social prejudica alcance orgânico\n>>> Checkpoints vespertinos consistentemente abaixo das metas estabelecidas\n>>> Produção política com eficiência extremamente baixa (49 PVs)\n>>> Ausência de estratégia para fontes externas de tráfego",
+    "oportunidades": ">>> Amplificar matérias de serviço que demonstram longevidade no tráfego\n>>> Investir em conteúdo sobre clima, que mantém audiência consistente\n>>> Desenvolver mais pautas sociais e de eventos locais\n>>> Criar estratégia específica para redes sociais aumentar os 4% atuais\n>>> Explorar parcerias externas para diversificar origens de tráfego",
+    "acoes": ">>> Priorizar matérias evergreen de serviço na programação matinal\n>>> Intensificar produção de conteúdo social e cultural com meta de 2.000 PVs cada\n>>> Implementar estratégia de redes sociais para aumentar tráfego social\n>>> Revisar abordagem política para melhorar engajamento da editoria\n>>> Monitorar checkpoints intermediários para ajustes em tempo real (meta: 206.107)",
+    "metaacumulada": "A meta dinâmica de 203.141 foi calculada dividindo o restante da meta mensal (4.946.564) pelos dias disponíveis incluindo ontem. Com o déficit do dia, a meta de amanhã sobe para 206.107, representando a necessidade de recuperação do acumulado. O mês registra 1.053.436 PVs de 6.000.000 da meta mensal, exigindo média diária crescente para recuperação.",
+    "historicodia": ">>> Performance 17% inferior ao mesmo dia da semana (159.605 média)\n>>> Resultado abaixo da média de 30 dias (189.314 PVs)\n>>> Tendência mensal negativa de 1% comparando últimos 30 dias\n>>> Padrão de quinta-feira não foi atendido adequadamente",
+    "historicomes": ">>> Acumulado mensal 24% inferior ao mesmo período do mês anterior\n>>> Déficit de 328.241 PVs comparado ao período equivalente anterior\n>>> Projeção atual indica necessidade de 206.107 PVs diários para meta mensal\n>>> Ritmo atual insuficiente para recuperar déficit acumulado",
+    "tendencia": "A tendência de 30 dias mostra estabilidade com queda de apenas 1%, mas o déficit mensal de 24% preocupa. O melhor mês foi julho/25 com 13.625.154 PVs, enquanto o pior foi fevereiro/25 com 4.527.477, mostrando capacidade de recuperação histórica.",
+    "alerta": "\"Meta de amanhã aumenta para 206.107 PVs exigindo estratégia urgente de recuperação\"",
+    "licao": "O dia evidencia a importância de matérias evergreen e conteúdo de serviço para sustentar o tráfego, enquanto a baixa performance em redes sociais limita o potencial de alcance. A dependência excessiva de tráfego direto, embora indique fidelização, reduz oportunidades de crescimento orgânico. \"Diversificar origens é essencial para crescimento sustentável da audiência.\"",
+    "tendencias": ">>> Frio intenso chega ao ES: temperatura pode descer até 8°C nos próximos dias\n--- Editoria: Clima e Tempo\n--- Ângulo ES: Previsão específica para as regiões capixabas, com destaque para as áreas serranas como Domingos Martins e Santa Teresa que podem ter temperaturas mais baixas\n--- Por que performa: Trending \"temperatura agora\" e \"inmet\" somam 2.200+ buscas diárias, pessoas buscam informações sobre o clima\n--- Tipo: Serviço\n\n>>> Maratona do Rio inspira corredores capixabas: eventos de corrida crescem no ES\n--- Editoria: Esportes\n--- Ângulo ES: Perfil de atletas capixabas que participam da Maratona do Rio, crescimento das corridas de rua em Vitória e Vila Velha\n--- Por que performa: \"Maratona do rio 2026\" tem 500+ buscas, interesse em corridas é alto\n--- Tipo: Notícia\n\n>>> Lua crescente de junho: melhor horário para observar o céu no ES hoje\n--- Editoria: Ciência e Tecnologia\n--- Ângulo ES: Melhores pontos para observação astronômica no ES, como praias de Guarapari e região serrana\n--- Por que performa: \"Lua hoje\" registra 500+ buscas, curiosidade sobre fases lunares é constante\n--- Tipo: Serviço\n\n>>> ONS ordena corte de energia: como isso afeta pequenas usinas no Espírito Santo\n--- Editoria: Economia\n--- Ângulo ES: Impacto nas pequenas centrais hidrelétricas capixabas e na geração de energia eólica no norte do estado\n--- Por que performa: \"Operador nacional do sistema elétrico\" gera 100+ buscas sobre tema técnico relevante\n--- Tipo: Explicativo\n\n>>> Racismo em lojas de luxo: relatos de consumidores capixabas sobre discriminação\n--- Editoria: Comportamento\n--- Ângulo ES: Casos similares relatados em shopping centers de Vitória e Vila Velha, legislação estadual contra discriminação\n--- Por que performa: Caso \"Cariúcha\" tem 100+ buscas e gera debate sobre racismo estrutural\n--- Tipo: Análise\n\n>>> Geada pode atingir região serrana do ES: agricultores se preparam para proteger plantações\n--- Editoria: Rural\n--- Ângulo ES: Alertas para produtores de café em áreas serranas, medidas de proteção para cultivos capixabas\n--- Por que performa: Alerta do \"INMET\" sobre geada desperta preocupação no agronegócio\n--- Tipo: Serviço\n\n>>> Fórmula 2: piloto brasileiro inspira jovens kartistas capixabas\n--- Editoria: Esportes\n--- Ângulo ES: Kartódromos no ES, talentos locais no automobilismo, escolas de pilotagem em Vitória\n--- Por que performa: \"Formula 2\" com Rafael Câmara gera interesse no esporte nacional\n--- Tipo: Notícia\n\n>>> 10 destinos no ES para viajar com crianças pequenas nestas férias\n--- Editoria: Turismo\n--- Ângulo ES: Roteiros family-friendly no estado, desde praias calmas até passeios na serra capixaba\n--- Por que performa: Carol Peixinho viajando com filho desperta interesse em turismo familiar\n--- Tipo: Lista\n\n>>> Novelas e realidade: como ficção influencia relacionamentos familiares capixabas\n--- Editoria: Comportamento\n--- Ângulo ES: Psicólogos locais analisam impacto das novelas nas famílias, pesquisa sobre hábitos de TV no ES\n--- Por que performa: Caso Isabela Garcia e filha com 1000+ buscas mostra interesse em dinâmicas familiares\n--- Tipo: Análise\n\n>>> Previsão do tempo ES: fim de semana gelado pede cuidados especiais com saúde\n--- Editoria: Saúde\n--- Ângulo ES: Recomendações de hospitais capixabas para o frio, aumento de casos respiratórios no inverno\n--- Por que performa: Busca por \"temperatura agora\" indica preocupação com mudanças climáticas bruscas\n--- Tipo: Serviço"
+  },
+  "tendencias": [
+    {
+      "titulo": "cariúcha",
+      "trafico": "100+",
+      "contexto": "Cariúcha diz ter sido vítima de racismo em loja de luxo em São Paulo: &apos;Pensei que era coisa da "
+    },
+    {
+      "titulo": "maratona do rio 2026",
+      "trafico": "500+",
+      "contexto": "João Traven, idealizador da Maratona do Rio, lembra início do evento, com devolução de chip, e proje"
+    },
+    {
+      "titulo": "temperatura agora",
+      "trafico": "2000+",
+      "contexto": "Rio tem madrugada mais fria do ano, com 12,5 graus"
+    },
+    {
+      "titulo": "formula 2",
+      "trafico": "100+",
+      "contexto": "Rafael Câmara é 8º na corrida sprint da F2 em Mônaco, com vitória de Leon"
+    },
+    {
+      "titulo": "operador nacional do sistema elétrico",
+      "trafico": "100+",
+      "contexto": "Excesso de energia leva ONS a exigir pela primeira vez corte de produção até de pequenas usinas"
+    },
+    {
+      "titulo": "inmet",
+      "trafico": "200+",
+      "contexto": "Alerta de geada prevê temperatura mínima de 4°C; veja regiões afetadas"
+    },
+    {
+      "titulo": "lua hoje",
+      "trafico": "500+",
+      "contexto": "Qual a fase da Lua neste sábado (6)? Veja o calendário lunar de junho"
+    },
+    {
+      "titulo": "carol peixinho",
+      "trafico": "500+",
+      "contexto": "Carol Peixinho encanta ao mostrar fotos do filho em viagem de jatinho"
+    },
+    {
+      "titulo": "isabela garcia",
+      "trafico": "1000+",
+      "contexto": "Filha de Isabela Garcia assume ciúmes de mãe com Leticia Colin em novela: &apos;Não gosto de ver&apo"
+    }
+  ]
+}
