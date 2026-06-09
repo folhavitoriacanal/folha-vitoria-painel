@@ -1,282 +1,296 @@
 {
-  "dataDisplay": "07/06/2026",
-  "geradoEm": "2026-06-08T09:19:17.105Z",
-  "pvTotal": 122602,
-  "pctMeta": 59,
-  "metaHoje": 206107,
-  "metaAmanha": 209738,
-  "saldoOntem": -83505,
-  "deficitOntem": 83505,
+  "dataDisplay": "08/06/2026",
+  "geradoEm": "2026-06-09T09:19:14.135Z",
+  "pvTotal": 157916,
+  "pctMeta": 75,
+  "metaHoje": 209738,
+  "metaAmanha": 212093,
+  "saldoOntem": -51822,
+  "deficitOntem": 51822,
   "metaDiaria": 200000,
   "metaMensal": 6000000,
-  "usuarios": 62492,
-  "sessions": 87399,
-  "pgsPorSessao": "1.40",
-  "tempoMedio": "1min45s",
-  "pvManha": 31965,
-  "pvTarde": 38878,
-  "pvNoite": 37686,
+  "usuarios": 66995,
+  "sessions": 98520,
+  "pgsPorSessao": "1.60",
+  "tempoMedio": "2min34s",
+  "pvManha": 50869,
+  "pvTarde": 55740,
+  "pvNoite": 37160,
   "checkpoints": [
     {
       "label": "Até 11h",
-      "pv": 46038,
+      "pv": 65016,
       "meta": 60000,
-      "status": "ABAIXO"
+      "status": "META BATIDA"
     },
     {
       "label": "Até 17h",
-      "pv": 84916,
+      "pv": 120756,
       "meta": 130000,
-      "status": "MUITO ABAIXO"
+      "status": "PERTO DA META"
     },
     {
       "label": "Até 21h",
-      "pv": 112266,
-      "meta": 206107,
-      "status": "MUITO ABAIXO"
+      "pv": 149006,
+      "meta": 209738,
+      "status": "ABAIXO"
     }
   ],
   "producao": {
     "disponivel": true,
-    "totalPublicadas": 31,
-    "pvPublicadas": 23078,
-    "mediaRealPorMateria": 744,
-    "materiasComAcesso": 31,
-    "materiasSemAcesso": 0,
-    "materiasSemAcessoLista": [],
-    "pvAntigos": 99524
+    "totalPublicadas": 99,
+    "pvPublicadas": 32128,
+    "mediaRealPorMateria": 325,
+    "materiasComAcesso": 96,
+    "materiasSemAcesso": 3,
+    "materiasSemAcessoLista": [
+      "/tv-vitoria/jornal-da-tv-vitoria/jornal-da-tv-vitoria-assista-ao-telejornal-ao-vivo/",
+      "/beleza/melhor-creme-hidratante-facial-para-idosos-no-brasil-em-2026-viral/",
+      "/beleza/dia-dos-namorados-o-boticario-aposta-em-descontos-de-ate-33-para-presentear-em-2026-viral/"
+    ],
+    "pvAntigos": 125788
   },
   "topMaterias": [
     {
       "pos": 1,
       "titulo": "Porte de arma: saiba quem pode solicitar e quem não é autorizado",
-      "pv": 6722,
+      "pv": 7868,
       "publicadaHoje": false
     },
     {
       "pos": 2,
-      "titulo": "O passeio gratuito em Domingos Martins que mistura flores, fotos e morangos",
-      "pv": 4314,
+      "titulo": "Faculdade Pio XII anuncia fim das atividades após 25 anos no ES",
+      "pv": 4237,
       "publicadaHoje": false
     },
     {
       "pos": 3,
-      "titulo": "Vitória bate recorde de frio do ano; veja temperaturas no ES",
-      "pv": 4060,
+      "titulo": "Richarlison responde fã por filho e expõe quanto ganha: \"Foi convocado\"",
+      "pv": 3161,
       "publicadaHoje": true
     },
     {
       "pos": 4,
-      "titulo": "Resultado da Mega 3015 hoje, 06/06: veja os números sorteados",
-      "pv": 3883,
+      "titulo": "Comerciante é morta a facadas dentro de bar em Vila Velha",
+      "pv": 2786,
       "publicadaHoje": true
     },
     {
       "pos": 5,
-      "titulo": "Atenção, motoristas: trânsito muda na Avenida Saturnino de Brito, em Vitória",
-      "pv": 3546,
+      "titulo": "O sofá chegou e a surpresa: criança de 2 anos faz compra de R$ 2 mil pelo celular no ES",
+      "pv": 2618,
       "publicadaHoje": false
     }
   ],
   "piorDesempenho": [
     {
       "pos": 1,
-      "titulo": "Regulação de inteligência artificial: burocratas entendem?",
-      "pv": 29,
-      "path": "/tecnologia/a-armadilha-da-regulacao-prematura-da-inteligencia-artificial/"
+      "titulo": "Como fazer o bolo tradicional de aipim \"da vovó\" Tudo Gostoso",
+      "pv": 9,
+      "path": "/gastronomia/receitas/bolo-de-aipim-com-coco-receita-caseira-une-cremosidade-e-sabor-em-cada-pedaco/"
     },
     {
       "pos": 2,
-      "titulo": "Gestão inteligente: o novo cenário do empreendedorismo esportivo",
-      "pv": 35,
-      "path": "/economia/ibef-gestao-inteligente-o-novo-cenario-do-empreendedorismo-esportivo/"
+      "titulo": "Treino de perna reduz risco de demência, diz médica",
+      "pv": 9,
+      "path": "/saude/treino-de-perna-pode-proteger-o-cerebro-e-reduzir-risco-de-demencia-diz-medica-viral/"
     },
     {
       "pos": 3,
-      "titulo": "Análise | Ancelotti tem dúvida entre Endrick e Igor Thiago no Brasil",
-      "pv": 65,
-      "path": "/esportes/opiniao-endrick-ou-igor-thiago-a-duvida-de-ancelotti-para-a-estreia-do-brasil-na-copa/"
+      "titulo": "Moraes pede que PGR se manifeste sobre pedido de Mauro Cid para reconhecer pena como cumprida",
+      "pv": 10,
+      "path": "/politica/moraes-pede-que-pgr-se-manifeste-sobre-pedido-de-mauro-cid-para-reconhecer-pena-como-cumprida/"
     },
     {
       "pos": 4,
-      "titulo": "O Espírito Santo precisa acelerar um processo de choque de competitividade",
-      "pv": 113,
-      "path": "/folha-business/o-espirito-santo-precisa-acelerar-um-processo-de-choque-de-competitividade/"
+      "titulo": "Bolo Matilda: Como fazer receita viral em casa até para vender",
+      "pv": 11,
+      "path": "/gastronomia/receitas/bolo-de-chocolate-da-matilda-aprenda-a-receita-do-bolo-chocolatudo-que-viralizou/"
     },
     {
       "pos": 5,
-      "titulo": "O que o coração tem a ver com a perda de memória? A ciência explica",
-      "pv": 116,
-      "path": "/saude/o-que-o-coracao-tem-a-ver-com-a-perda-de-memoria-a-ciencia-explica/"
+      "titulo": "Yoshi and the Mysterious Book: Análise e Review Completo",
+      "pv": 11,
+      "path": "/cotidiano/yoshi-and-the-mysterious-book-a-aventura-que-celebra-a-curiosidade/"
     },
     {
       "pos": 6,
-      "titulo": "Ybera passa o bastão no Brasil para crescer no mundo – e mira R$ 1 bilhão",
-      "pv": 118,
-      "path": "/folha-business/ybera-passa-o-bastao-no-brasil-para-crescer-no-mundo-e-mira-r-1-bilhao/"
+      "titulo": "A governança corporativa e o compliance em empresas familiares",
+      "pv": 12,
+      "path": "/economia/ibef-a-governanca-corporativa-e-o-compliance-em-empresas-familiares/"
     },
     {
       "pos": 7,
-      "titulo": "Lua de junho: o que você precisa saber para observar o céu no ES hoje",
-      "pv": 128,
-      "path": "/astronomia/lua-de-junho-o-que-voce-precisa-saber-para-observar-o-ceu-no-es-hoje/"
+      "titulo": "Fim do cabelo ressecado: Produto da Skala ressuscita o brilho",
+      "pv": 13,
+      "path": "/beleza/adeus-cabelo-ressecado-mascara-da-skala-devolve-o-brilho-por-menos-de-r-20-viral/"
     },
     {
       "pos": 8,
-      "titulo": "Lusofobia pseudointelectual absolve político de estimação",
-      "pv": 134,
-      "path": "/politica/lusofobia-pseudointelectual-absolve-politico-de-estimacao-07-06/"
+      "titulo": "Tinta de cabelo caseira: mistura com café escurece a cor dos fios",
+      "pv": 13,
+      "path": "/beleza/tinta-de-cabelo-caseira-mistura-com-cafe-ajuda-a-intensificar-a-cor-dos-fios-viral/"
     },
     {
       "pos": 9,
-      "titulo": "Uso indiscriminado de corticoides pode causar glaucoma e cegueira",
-      "pv": 146,
-      "path": "/saude/uso-indiscriminado-de-corticoides-pode-causar-glaucoma-e-cegueira/"
+      "titulo": "Escondidinho de abóbora: Como fazer versão fit com proteína magra para dieta",
+      "pv": 16,
+      "path": "/gastronomia/receitas/escondidinho-fit-de-abobora-com-carne-seca-como-fazer-a-receita-saudavel-com-proteina-magra-para-o-dia-a-dia/"
     },
     {
       "pos": 10,
-      "titulo": "Brasil 2 x 1 Egito: vitória brasileira antes da Copa do Mundo",
-      "pv": 175,
-      "path": "/esportes/endrick-da-vitoria-ao-brasil-no-ultimo-amistoso-antes-da-copa-do-mundo/"
+      "titulo": "STM marca julgamento de recurso de Bolsonaro sobre suspeição de ministro",
+      "pv": 16,
+      "path": "/politica/stm-marca-julgamento-de-recurso-de-bolsonaro-sobre-suspeicao-de-ministro/"
     },
     {
       "pos": 11,
-      "titulo": "Eriksen desmaia em campo de novo, e amistoso entre Dinamarca e Ucrânia é encerrado",
-      "pv": 179,
-      "path": "/esportes/eriksen-desmaia-em-campo-de-novo-e-amistoso-entre-dinamarca-e-ucrania-e-encerrado/"
+      "titulo": "Como fazer hambúrguer caseiro artesanal magro e suculento Tudo Gostoso",
+      "pv": 17,
+      "path": "/gastronomia/receitas/receita-de-hamburguer-artesanal-como-fazer-o-lanche-facil-em-casa/"
     },
     {
       "pos": 12,
-      "titulo": "PM, Marinha e prefeituras: mais de 2,8 mil vagas em concursos",
-      "pv": 189,
-      "path": "/trabalho/concursos/pm-marinha-e-prefeituras-mais-de-28-mil-vagas-em-concursos-no-es/"
+      "titulo": "Mercado financeiro eleva previsão da inflação para 5,11% este ano",
+      "pv": 18,
+      "path": "/economia/mercado-financeiro-eleva-previsao-da-inflacao-para-511-este-ano/"
     },
     {
       "pos": 13,
-      "titulo": "Por onde passa a internet que chega até você?",
-      "pv": 216,
-      "path": "/tecnologia/por-onde-passa-a-internet-que-chega-ate-voce/"
+      "titulo": "Onde está Eugênia? Cadela idosa desaparece em Vitória",
+      "pv": 19,
+      "path": "/pet/cade-meu-pet-eugenia-cadela-idosa-e-vista-perdida-por-vitoria/"
     },
     {
       "pos": 14,
-      "titulo": "Novo RG será aceito em viagens para oito países da América do Sul",
-      "pv": 217,
-      "path": "/cotidiano/novo-rg-podera-ser-usado-para-viagens-em-8-paises-da-america-do-sul/"
+      "titulo": "Empresários do ES veem desafios para adotar escala 5x2",
+      "pv": 20,
+      "path": "/economia/pesquisa-aponta-preocupacao-de-empresarios-do-litoral-sul-do-es-com-fim-da-escala-6x1/"
     },
     {
       "pos": 15,
-      "titulo": "Santa Teresa: 7 hospedagens diferentes para conhecer",
-      "pv": 254,
-      "path": "/cultura/turismo/santa-teresa-7-hospedagens-diferentes-para-conhecer-nas-montanhas-do-es/"
+      "titulo": "Vênus em Leão começa nesta semana; descubra os impactos",
+      "pv": 20,
+      "path": "/cultura/astrologia/venus-entra-em-leao-veja-como-o-transito-pode-mexer-com-amor-autoestima-e-relacionamentos-viral/"
     }
   ],
   "editorias": [
     {
       "nome": "cultura",
-      "pvTotal": 8173,
-      "pvPublicadas": 823,
-      "publicadas": 2,
-      "urlsAcessadas": 59,
-      "mediaCorreta": 412
+      "pvTotal": 15987,
+      "pvPublicadas": 9624,
+      "publicadas": 18,
+      "urlsAcessadas": 58,
+      "mediaCorreta": 535
+    },
+    {
+      "nome": "policia",
+      "pvTotal": 10993,
+      "pvPublicadas": 6917,
+      "publicadas": 7,
+      "urlsAcessadas": 36,
+      "mediaCorreta": 988
     },
     {
       "nome": "politica",
-      "pvTotal": 7183,
-      "pvPublicadas": 134,
-      "publicadas": 1,
-      "urlsAcessadas": 17,
-      "mediaCorreta": 134
-    },
-    {
-      "nome": "transito",
-      "pvTotal": 7085,
-      "pvPublicadas": 263,
-      "publicadas": 1,
-      "urlsAcessadas": 24,
-      "mediaCorreta": 263
-    },
-    {
-      "nome": "cotidiano",
-      "pvTotal": 6341,
-      "pvPublicadas": 3331,
-      "publicadas": 3,
-      "urlsAcessadas": 42,
-      "mediaCorreta": 1110
-    },
-    {
-      "nome": "tempo",
-      "pvTotal": 5822,
-      "pvPublicadas": 4550,
+      "pvTotal": 8636,
+      "pvPublicadas": 26,
       "publicadas": 2,
-      "urlsAcessadas": 11,
-      "mediaCorreta": 2275
-    },
-    {
-      "nome": "esportes",
-      "pvTotal": 5583,
-      "pvPublicadas": 1023,
-      "publicadas": 4,
-      "urlsAcessadas": 36,
-      "mediaCorreta": 256
+      "urlsAcessadas": 17,
+      "mediaCorreta": 13
     },
     {
       "nome": "social",
-      "pvTotal": 5565,
-      "pvPublicadas": 2821,
+      "pvTotal": 6740,
+      "pvPublicadas": 4405,
       "publicadas": 2,
-      "urlsAcessadas": 19,
-      "mediaCorreta": 1411
+      "urlsAcessadas": 18,
+      "mediaCorreta": 2203
+    },
+    {
+      "nome": "cotidiano",
+      "pvTotal": 6660,
+      "pvPublicadas": 1308,
+      "publicadas": 5,
+      "urlsAcessadas": 41,
+      "mediaCorreta": 262
+    },
+    {
+      "nome": "tempo",
+      "pvTotal": 5491,
+      "pvPublicadas": 2112,
+      "publicadas": 2,
+      "urlsAcessadas": 10,
+      "mediaCorreta": 1056
+    },
+    {
+      "nome": "educacao",
+      "pvTotal": 5026,
+      "pvPublicadas": 746,
+      "publicadas": 2,
+      "urlsAcessadas": 5,
+      "mediaCorreta": 373
     }
   ],
   "origens": [
     {
       "canal": "Google Orgânico",
-      "pv": 57372,
-      "pct": 47
+      "pv": 82413,
+      "pct": 52
     },
     {
       "canal": "Direto",
-      "pv": 56202,
-      "pct": 46
+      "pv": 63505,
+      "pct": 40
     },
     {
       "canal": "Social",
-      "pv": 5636,
-      "pct": 5
+      "pv": 6779,
+      "pct": 4
     },
     {
       "canal": "Links externos",
-      "pv": 2297,
+      "pv": 3379,
       "pct": 2
     },
     {
       "canal": "Não identificado",
-      "pv": 1079,
+      "pv": 1491,
       "pct": 1
     },
     {
+      "canal": "Paid Social",
+      "pv": 219,
+      "pct": 0
+    },
+    {
+      "canal": "Paid Other",
+      "pv": 68,
+      "pct": 0
+    },
+    {
       "canal": "YouTube",
-      "pv": 15,
+      "pv": 38,
       "pct": 0
     },
     {
       "canal": "E-mail",
-      "pv": 1,
+      "pv": 24,
       "pct": 0
     }
   ],
   "historico": {
-    "mediaMesmoDia": 166083,
-    "varMesmoDia": -26,
-    "media30": 187628,
-    "media30a": 191004,
-    "var30": -2,
-    "pvMesAtualAcum": 1176038,
-    "pvMesAntMesmoPer": 1564196,
+    "mediaMesmoDia": 219029,
+    "varMesmoDia": -28,
+    "media30": 184876,
+    "media30a": 191008,
+    "var30": -3,
+    "pvMesAtualAcum": 1333955,
+    "pvMesAntMesmoPer": 1769380,
     "varMesAnt": -25,
-    "diasRestantes": 23,
-    "pvFaltaMes": 4823962,
-    "mediaNecessaria": 209738,
+    "diasRestantes": 22,
+    "pvFaltaMes": 4666045,
+    "mediaNecessaria": 212093,
     "mediaMensal": 6814068,
     "melhorMes": {
       "mes": "202507",
@@ -393,80 +407,80 @@
       },
       {
         "mes": "202606",
-        "pv": 1176038,
+        "pv": 1333955,
         "label": "Jun/26",
         "atual": true
       }
     ]
   },
   "analises": {
-    "resumo": "O dia 07/06/2026 registrou 122.602 pageviews, ficando 83.505 abaixo da meta diária de 206.107, alcançando apenas 59% do objetivo. A distribuição de audiência manteve-se equilibrada entre os períodos, com a tarde liderando (38.878 PVs), seguida pela noite (37.686) e manhã (31.965). Todos os checkpoints ficaram muito abaixo das expectativas, sinalizando um dia crítico para o cumprimento da meta mensal. O desempenho representa queda de 26% comparado ao mesmo dia da semana em média histórica.",
-    "horarios": "A distribuição horária mostrou padrão típico, mas com volumes insuficientes em todos os períodos.\n>>> Manhã concentrou 26% da audiência (31.965 PVs), com checkpoint às 11h registrando 46.038 contra meta de 60.000\n>>> Tarde foi o período mais forte com 32% (38.878 PVs), mas checkpoint das 17h alcançou apenas 84.916 de 130.000 esperados\n>>> Noite manteve ritmo consistente com 31% (37.686 PVs), insuficiente para recuperar o déficit acumulado\n>>> Checkpoint final das 21h registrou 112.266 PVs, muito distante da meta diária de 206.107",
-    "padrao": "O ranking das top matérias revela dependência preocupante de conteúdos antigos para sustentar a audiência.\n>>> Matérias evergreen dominaram com 3 das 5 posições, lideradas por \"Porte de arma\" (6.722 PVs) e turismo rural (4.314 PVs)\n>>> Conteúdo noticioso do dia conseguiu apenas 2 posições no top 5, com temperatura (4.060 PVs) e loteria (3.883 PVs)\n>>> Assuntos de utilidade pública e serviços continuam performando bem, como trânsito e clima\n>>> Falta de matérias virais ou de grande repercussão entre as publicações do dia",
-    "editorias": "As médias por matéria revelam disparidades significativas entre as editorias na eficiência de audiência.\n>>> Tempo liderou com 2.275 PVs por matéria, aproveitando interesse sazonal no frio recorde\n>>> Social obteve 1.411 PVs por matéria, demonstrando boa aceitação do público\n>>> Cotidiano alcançou 1.110 PVs por matéria, mantendo relevância com pautas locais\n>>> Política registrou apenas 134 PVs por matéria, sinalizando baixo engajamento\n>>> Esportes ficou em 256 PVs por matéria, abaixo do potencial da editoria",
-    "trafego": "O tráfego orgânico manteve equilíbrio saudável entre Google e acesso direto, mas com volume total insuficiente.\n>>> Google Orgânico representou 47% (57.372 PVs), indicando boa otimização SEO das matérias antigas\n>>> Acesso Direto alcançou 46% (56.202 PVs), mostrando fidelização da audiência\n>>> Redes Sociais contribuíram com apenas 5% (5.636 PVs), sugerindo baixo engajamento nas plataformas\n>>> Links externos somaram 2% (2.297 PVs), indicando pouca repercussão externa\n>>> YouTube praticamente inexistente com 15 PVs, desperdiçando potencial de tráfego",
-    "eficiencia": "A produção registrou eficiência média de 744 PVs por matéria, com todas as 31 publicações gerando audiência. Não houve matérias sem acesso, demonstrando qualidade mínima na produção, mas o volume médio ficou aquém do necessário para atingir metas ambiciosas.",
-    "erros": ">>> Baixa produção de conteúdo viral ou de alto impacto entre as 31 matérias publicadas\n>>> Subutilização das redes sociais, que contribuíram com apenas 5% do tráfego total\n>>> Falta de estratégia para potencializar matérias de Política, que registrou apenas 134 PVs\n>>> Ausência de conteúdo que gerasse mais de 7.000 PVs entre as publicações do dia",
-    "oportunidades": ">>> Explorar melhor pautas de temperatura e clima, que mostraram alta performance (2.275 PVs/matéria)\n>>> Desenvolver mais conteúdos evergreen de utilidade pública, seguindo sucesso da matéria sobre porte de armas\n>>> Intensificar estratégia de redes sociais para amplificar alcance das matérias do dia\n>>> Criar série de matérias sobre turismo local, aproveitando performance do conteúdo de Domingos Martins\n>>> Investir em conteúdos de Cotidiano e Social, que demonstraram boa média de audiência",
-    "acoes": ">>> Publicar pelo menos 35 matérias com foco em pautas quentes e trending topics\n>>> Intensificar divulgação nas redes sociais com meta de alcançar 8% do tráfego total\n>>> Priorizar matérias de Tempo, Social e Cotidiano nas primeiras horas da manhã\n>>> Criar pelo menos 2 conteúdos evergreen de alta performance para sustentação futura\n>>> Monitorar checkpoints a cada 2 horas para ajustes de estratégia em tempo real",
-    "metaacumulada": "A meta dinâmica de 206.107 PVs foi calculada dividindo-se o restante da meta mensal pelos dias disponíveis, incluindo o próprio dia. Com 4.823.962 PVs ainda necessários para completar os 6 milhões mensais, a meta diária aumenta progressivamente. Para amanhã, a meta sobe para 209.738 PVs, representando a necessidade de acelerar o ritmo para compensar o déficit acumulado e manter viável o cumprimento da meta mensal.",
-    "historicodia": "O desempenho de hoje ficou significativamente abaixo dos padrões históricos de audiência.\n>>> Comparado à média de 8 semanas do mesmo dia da semana (166.083 PVs), houve queda de 26%\n>>> Frente à média dos últimos 30 dias (187.628 PVs), o déficit foi de 35%\n>>> O resultado representa um dos piores desempenhos para esta data específica no histórico recente",
-    "historicomes": "O acumulado mensal de 1.176.038 PVs mostra desempenho preocupante comparado ao histórico.\n>>> Versus mesmo período do mês anterior (1.564.196 PVs), a queda é de 25%\n>>> Mantido este ritmo, a projeção mensal ficará em 3.528.114 PVs, muito abaixo da meta de 6 milhões\n>>> É necessário acelerar drasticamente o desempenho para evitar um dos piores meses do ano",
-    "tendencia": "A tendência dos últimos 30 dias mostra declínio de 2% (187.628 vs 191.004 da média anterior). O melhor mês registrado foi julho/2025 com 13.625.154 PVs, enquanto o pior foi fevereiro/2025 com 4.527.477 PVs. A trajetória atual sugere risco de aproximação aos níveis do pior mês histórico.",
-    "alerta": "\"Com apenas 59% da meta diária cumprida e déficit de 83.505 PVs, o portal enfrenta risco crítico de não atingir a meta mensal, exigindo ação imediata para reverter a tendência negativa.\"",
-    "licao": "A lição do dia reforça que sustentar audiência apenas com matérias antigas é insuficiente para metas ambiciosas. Mesmo com 99.524 PVs vindos de conteúdos antigos, as 31 matérias novas geraram apenas 23.078 PVs, evidenciando necessidade de conteúdo mais impactante. A estratégia deve equilibrar produção evergreen de qualidade com pautas virais do momento. \"Audiência sustentável exige inovação constante, não apenas dependência do acervo.\"",
-    "tendencias": ">>> Frente fria chega ao Espírito Santo e pode derrubar temperaturas em até 10°C nesta semana\n--- Editoria: Tempo\n--- Ângulo ES: Previsão específica para as principais cidades capixabas, com alerta para pescadores e turistas no litoral\n--- Por que performa: \"Frente fria\" teve mais de 1000 buscas, e capixabas sempre procuram informações sobre mudanças climáticas\n--- Tipo: Serviço\n\n>>> El Niño pode afetar plantações de café no interior do Espírito Santo em 2024\n--- Editoria: Agronegócios\n--- Ângulo ES: Impacto do fenômeno climático nos cafezais das regiões montanhosas do ES, principal produto agrícola do estado\n--- Por que performa: \"El Niño\" registrou 500+ buscas e afeta diretamente a economia agrícola capixaba\n--- Tipo: Explicativo\n\n>>> Alexandre de Moraes: entenda a polêmica envolvendo Lula e o ministro do STF\n--- Editoria: Política\n--- Ângulo ES: Repercussão entre políticos capixabas e possíveis reflexos nas eleições municipais no ES\n--- Por que performa: \"Alexandre de Moraes\" teve 500+ buscas, tema de grande interesse nacional\n--- Tipo: Análise\n\n>>> Onde assistir os jogos de futebol de hoje na TV aberta e fechada no ES\n--- Editoria: Esportes\n--- Ângulo ES: Guia completo com horários dos jogos e onde assistir na programação local, incluindo jogos do Rio Branco-ES\n--- Por que performa: \"Futebol\" registrou 200+ buscas e capixabas buscam programação esportiva diariamente\n--- Tipo: Serviço\n\n>>> Previsão do tempo para Vitória: semana começa com chuva e temperaturas mais baixas\n--- Editoria: Tempo\n--- Ângulo ES: Previsão detalhada para Grande Vitória, interior e litoral do estado nos próximos 7 dias\n--- Por que performa: Buscas por previsão do tempo são constantes e \"previsão do tempo\" aparece nos trends\n--- Tipo: Serviço\n\n>>> MC Livinho apaga vídeo após polêmica: entenda o que aconteceu com Virginia\n--- Editoria: Famosos\n--- Ângulo ES: Repercussão nas redes sociais entre influenciadores capixabas e fãs do funkeiro no estado\n--- Por que performa: \"MC Livinho\" teve 100+ buscas e polêmicas de famosos geram muito engajamento\n--- Tipo: Notícia\n\n>>> Novas leis que entram em vigor podem afetar motoristas do Espírito Santo\n--- Editoria: Trânsito\n--- Ângulo ES: Mudanças na legislação de trânsito que impactam condutores capixabas, incluindo multas e pontuação\n--- Por que performa: \"Lei\" registrou 100+ buscas e mudanças legais interessam aos cidadãos\n--- Tipo: Explicativo\n\n>>> 5 filmes que chegaram ao streaming e você pode assistir no fim de semana\n--- Editoria: Entretenimento\n--- Ângulo ES: Opções de entretenimento para capixabas aproveitarem em casa, especialmente com o tempo mais frio\n--- Por que performa: \"Streaming\" teve 200+ buscas e listas de entretenimento performam bem no Discover\n--- Tipo: Lista\n\n>>> Chuva forte pode atingir o Espírito Santo ainda esta semana, alerta meteorologia\n--- Editoria: Tempo\n--- Ângulo ES: Alerta específico para defesa civil capixaba e orientações para população em áreas de risco\n--- Por que performa: Relacionado com \"tempestades\" que aparece nos trends, tema de segurança pública\n--- Tipo: Notícia\n\n>>> Como se proteger do frio que chega ao ES: dicas de saúde e vestuário\n--- Editoria: Saúde\n--- Ângulo ES: Orientações específicas para capixabas que não estão acostumados com temperaturas baixas, cuidados com crianças e idosos\n--- Por que performa: Mudanças bruscas de temperatura geram buscas por cuidados de saúde\n--- Tipo: Serviço"
+    "resumo": "O Folha Vitória registrou 157.916 page views em 08/06/2026, ficando 51.822 abaixo da meta diária de 209.738, alcançando 75% do objetivo. A audiência se distribuiu com maior concentração na tarde (55.740 PVs) seguida pela manhã (50.869 PVs) e noite (37.160 PVs). Das 99 matérias publicadas, 96 receberam acessos, gerando 32.128 PVs com média de 325 PVs por matéria. O desempenho ficou 28% abaixo da média histórica do mesmo dia da semana e mantém o mês 25% atrás do período anterior.",
+    "horarios": ">>> Manhã (6h-11h): 50.869 PVs - checkpoint de 11h superou meta (65.016 vs 60.000)\n>>> Tarde (12h-17h): 55.740 PVs - período de maior audiência, mas checkpoint de 17h ficou próximo da meta (120.756 vs 130.000)  \n>>> Noite (18h-23h): 37.160 PVs - menor audiência do dia, contribuindo para o checkpoint de 21h ficar muito abaixo (149.006 vs 209.738)\n>>> Padrão mostra forte queda na audiência noturna, comprometendo o resultado final",
+    "padrao": ">>> Matérias evergreen dominam: 3 das 5 top são antigas, incluindo a líder sobre porte de armas (7.868 PVs)\n>>> Conteúdo factual atual teve destaque com morte em Vila Velha (2.786 PVs) e caso Richarlison (3.161 PVs)\n>>> Educação gerou interesse com fechamento da Pio XII (4.237 PVs)\n>>> Curiosidades como compra infantil pelo celular mantêm audiência constante (2.618 PVs)",
+    "editorias": ">>> Polícia lidera eficiência: 988 PVs/matéria com apenas 7 publicações\n>>> Social apresenta alta performance: 2.203 PVs/matéria com 2 matérias\n>>> Tempo mantém boa média: 1.056 PVs/matéria \n>>> Cultura tem volume alto (18 matérias) mas média moderada: 535 PVs/matéria\n>>> Política preocupa: apenas 13 PVs/matéria com baixíssimo engajamento",
+    "trafego": ">>> Google Orgânico mantém dominância com 52% do tráfego (82.413 PVs)\n>>> Tráfego direto representa 40% (63.505 PVs), indicando audiência fiel\n>>> Redes sociais contribuem modestamente com 4% (6.779 PVs)\n>>> Diversificação limitada: 94% do tráfego vem de apenas duas fontes\n>>> Investimento em paid social e outras mídias pagas praticamente inexistente",
+    "eficiencia": "Produção de 99 matérias gerou média real de 325 PVs por conteúdo, com 96 matérias recebendo acessos e apenas 3 sem audiência. A taxa de aproveitamento de 97% demonstra boa curadoria editorial, mas a média por matéria sugere necessidade de otimização para conteúdos de maior impacto.",
+    "erros": ">>> Queda acentuada na audiência noturna comprometeu o resultado final\n>>> Política com desempenho crítico: apenas 13 PVs por matéria publicada\n>>> Dependência excessiva de matérias antigas para sustentar audiência\n>>> Subutilização das redes sociais como fonte de tráfego",
+    "oportunidades": ">>> Expandir cobertura policial que demonstra alta eficiência (988 PVs/matéria)\n>>> Investir em conteúdo social que mantém excelente performance\n>>> Desenvolver estratégia para audiência noturna com conteúdo adequado ao horário\n>>> Diversificar fontes de tráfego, especialmente redes sociais\n>>> Criar mais conteúdo evergreen de alta performance como o tema porte de armas",
+    "acoes": ">>> Produzir 3-4 matérias policiais de alta qualidade para alavancar audiência\n>>> Publicar conteúdo social/comportamental no período da tarde\n>>> Programar conteúdo evergreen para horário noturno\n>>> Otimizar títulos para SEO visando aumentar tráfego orgânico\n>>> Meta 212.093: focar em 65-70 matérias de maior potencial ao invés de volume",
+    "metaacumulada": "A meta dinâmica de 209.738 foi calculada dividindo-se o restante da meta mensal (4.666.045 + 157.916) pelos dias restantes incluindo hoje. Com o resultado de 157.916, sobram 4.666.045 PVs para alcançar os 6 milhões mensais. A meta de amanhã sobe para 212.093, representando a necessidade de distribuir o déficit acumulado pelos 22 dias restantes, exigindo performance 15% superior à média histórica diária.",
+    "historicodia": ">>> Desempenho 28% inferior à média do mesmo dia da semana (157.916 vs 219.029)\n>>> Resultado 15% abaixo da média dos últimos 30 dias (157.916 vs 184.876)\n>>> Queda consistente comparado aos padrões históricos de audiência",
+    "historicomes": ">>> Acumulado mensal 25% inferior ao mesmo período do mês anterior (1.333.955 vs 1.769.380)\n>>> Em ritmo atual, o mês fecharia com aproximadamente 4,5 milhões de PVs\n>>> Necessário aumento de 41% na audiência diária para atingir meta mensal",
+    "tendencia": "Tendência de queda de 3% comparando médias de 30 dias (184.876 vs 191.008). O melhor mês registrado foi julho/25 com 13.625.154 PVs, enquanto o pior foi fevereiro/25 com 4.527.477. O momento atual exige reversão urgente da tendência negativa para aproximar-se dos patamares históricos de sucesso.",
+    "alerta": "\"Meta de amanhã aumenta para 212.093 PVs - é necessário estratégia diferenciada para reverter o déficit acumulado de 51.822 PVs e manter viabilidade da meta mensal.\"",
+    "licao": "A lição do dia evidencia que volume de produção não garante audiência: 99 matérias geraram média de apenas 325 PVs cada. Matérias evergreen continuam sustentando grande parte da audiência, enquanto conteúdo político perde relevância drasticamente. A concentração de audiência em manhã e tarde, com queda noturna, sugere necessidade de adequar programação editorial aos hábitos do público. \"Qualidade editorial supera quantidade na conquista de audiência digital.\"",
+    "tendencias": ">>> Bolo envenenado mata e fere família: como identificar sinais de intoxicação alimentar\n--- Editoria: Saúde\n--- Ângulo ES: Entrevistar médicos de hospitais capixabas sobre os primeiros socorros em casos de envenenamento e orientações para as famílias do ES durante as festas de fim de ano\n--- Por que performa: Trending topic \"envenenamento\" com 200+ buscas, tema gera preocupação e busca por informações preventivas\n--- Tipo: Serviço\n\n>>> Previsão do tempo ES: frente fria pode trazer chuvas intensas para o estado nesta semana\n--- Editoria: Cotidiano\n--- Ângulo ES: Focar na previsão específica para Grande Vitória, interior e litoral do ES, com alertas para chuvas e possíveis alagamentos\n--- Por que performa: Trending topics \"alerta amarelo chuva intensa\" e \"alerta amarelo tempestade\" somam 400+ buscas\n--- Tipo: Serviço\n\n>>> Assaltos aumentam no fim de ano: delegacias do ES reforçam orientações de segurança\n--- Editoria: Segurança\n--- Ângulo ES: Dados de assaltos na Grande Vitória, dicas da Polícia Civil do ES e orientações para evitar crimes durante compras natalinas\n--- Por que performa: Trending topic \"assalto\" com 200+ buscas, tema sempre relevante para segurança pessoal\n--- Tipo: Serviço\n\n>>> Luís Roberto: relembre os jogos históricos do Vitória e Vila Nova narrados pelo locutor\n--- Editoria: Esportes\n--- Ângulo ES: Resgatar transmissões marcantes de jogos do Vitória, Vila Nova e seleção brasileira com a voz de Luís Roberto que capixabas acompanharam\n--- Por que performa: Trending topic \"luís roberto\" com 2000+ buscas, nostalgia esportiva gera engajamento\n--- Tipo: Lista\n\n>>> Crise política em Minas Gerais pode afetar projetos de infraestrutura na divisa com ES\n--- Editoria: Política\n--- Ângulo ES: Analisar como a indefinição política mineira pode impactar obras rodoviárias e projetos conjuntos na região metropolitana de BH que beneficiam o ES\n--- Por que performa: Trending topic \"cleitinho\" com 200+ buscas sobre crise política em MG\n--- Tipo: Análise\n\n>>> Eleições no Peru: como a instabilidade política afeta brasileiros que vivem no país\n--- Editoria: Internacional\n--- Ângulo ES: Buscar capixabas que moram no Peru ou têm negócios no país para falar sobre o impacto das eleições peruanas\n--- Por que performa: Trending topic \"keiko fujimori\" com 2000+ buscas sobre eleições peruanas\n--- Tipo: Notícia\n\n>>> Variação de temperatura: ES pode ter amplitude térmica de até 10°C nesta semana\n--- Editoria: Cotidiano\n--- Ângulo ES: Explicar como a mudança brusca de temperatura afeta a saúde dos capixabas e dar dicas de como se adaptar ao clima instável\n--- Por que performa: Trending topic \"clima em são paulo\" com 500+ buscas, interesse em previsão do tempo sempre alto\n--- Tipo: Explicativo\n\n>>> Papa Francisco lamenta morte de bispo: como a violência religiosa afeta missionários capixabas\n--- Editoria: Religião\n--- Ângulo ES: Entrevistar padres e missionários do ES que trabalham em países africanos sobre os riscos e desafios da evangelização\n--- Por que performa: Trending topic \"osório citora afonso\" com 100+ buscas sobre assassinato de bispo em Moçambique\n--- Tipo: Notícia\n\n>>> Situação dos direitos humanos no mundo: ONG do ES analisa cenário global para 2026\n--- Editoria: Cidadania\n--- Ângulo ES: Ouvir organizações de direitos humanos sediadas no ES sobre violações globais e como isso se reflete na realidade local\n--- Por que performa: Trending topic \"belarus\" com 200+ buscas sobre direitos humanos, tema ganha relevância internacional\n--- Tipo: Análise\n\n>>> Fim de ano: como proteger crianças de intoxicações durante festividades familiares\n--- Editoria: Família\n--- Ângulo ES: Dicas de pediatras capixabas para evitar intoxicações alimentares em crianças durante ceia de Natal e Réveillon\n--- Por que performa: Trending topic \"envenenamento\" reforça preocupação com segurança infantil, especialmente após caso do bolo\n--- Tipo: Serviço"
   },
   "tendencias": [
     {
-      "titulo": "alexandre de moraes",
+      "titulo": "cleitinho",
+      "trafico": "200+",
+      "contexto": "A trombada entre Cleitinho e presidente do Republicanos que alimenta a indefinição em Minas Gerais"
+    },
+    {
+      "titulo": "osório citora afonso",
+      "trafico": "100+",
+      "contexto": "A dor do Papa pelo assassinato do bispo de Quelimane, em Moçambique"
+    },
+    {
+      "titulo": "clima em são paulo",
       "trafico": "500+",
-      "contexto": "A crítica de Lula a Moraes em conversa com dois ministros do STF"
+      "contexto": "São Paulo deve ter variação de 16°C nesta terça (9) antes de virada do tempo"
     },
     {
-      "titulo": "lei",
-      "trafico": "100+",
-      "contexto": "Congresso da Bolívia autoriza presidente a usar militares para desbloquear vias"
-    },
-    {
-      "titulo": "mc livinho",
-      "trafico": "100+",
-      "contexto": "Unfollow, indireta e mais: entenda polêmica que fez MC Livinho apagar vídeo com Virginia"
-    },
-    {
-      "titulo": "temperatura belo horizonte",
-      "trafico": "100+",
-      "contexto": "Frio não dá trégua em Belo Horizonte"
-    },
-    {
-      "titulo": "futebol",
+      "titulo": "belarus",
       "trafico": "200+",
-      "contexto": "Jogos de hoje: quem joga no futebol e onde assistir ao vivo – quinta-feira (04/06/2026)"
+      "contexto": "Human rights situation in Belarus. May 2026"
     },
     {
-      "titulo": "el niño",
-      "trafico": "500+",
-      "contexto": "Guerra, margens fracas, e agora El Niño. O agro não tem um dia de paz"
-    },
-    {
-      "titulo": "杭州天气",
+      "titulo": "envenenamento",
       "trafico": "200+",
-      "contexto": "iPhone手机显示最高气温接近50度？官方通报"
+      "contexto": "Menino de 11 anos é internado com suspeita de ter comido bolo envenenado; polícia investiga"
     },
     {
-      "titulo": "previsão do tempo porto alegre",
+      "titulo": "assalto",
       "trafico": "200+",
-      "contexto": "Tempestades e granizo podem atingir o RS nesta semana, indica Inmet; veja previsão do tempo e regiõe"
+      "contexto": "PM faz operação em Paraisópolis após policial ser baleado por criminosos"
     },
     {
-      "titulo": "streaming",
+      "titulo": "keiko fujimori",
+      "trafico": "2000+",
+      "contexto": "Petro comemora vitória da esquerda nas eleições peruanas antes dos resultados oficiais"
+    },
+    {
+      "titulo": "alerta amarelo: chuva intensa",
       "trafico": "200+",
-      "contexto": "Um dos melhores filmes de 2026 estreia no streaming menos famoso da Amazon"
+      "contexto": "Chuvas deixam 9 dos 15 municípios de Roraima em situação de emergência"
     },
     {
-      "titulo": "frente fria",
-      "trafico": "1000+",
-      "contexto": "Semana começa com chegada de frente fria e chuva intensa pelo país; veja situação na sua região"
+      "titulo": "alerta amarelo: tempestade",
+      "trafico": "200+",
+      "contexto": "Frente fria: semana começa gelada e com chuva intensa pelo país; veja previsão"
+    },
+    {
+      "titulo": "luís roberto",
+      "trafico": "2000+",
+      "contexto": "O narrador Luís Roberto, famoso pelas transmissões na Globo - 08/06/2026 - Luis Roberto"
     }
   ]
 }
