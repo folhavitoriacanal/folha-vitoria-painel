@@ -1,38 +1,38 @@
 {
-  "dataDisplay": "10/06/2026",
-  "geradoEm": "2026-06-11T09:19:39.282Z",
-  "pvTotal": 121506,
-  "pctMeta": 56,
-  "metaHoje": 215996,
-  "metaAmanha": 220721,
-  "saldoOntem": -94490,
-  "deficitOntem": 94490,
+  "dataDisplay": "11/06/2026",
+  "geradoEm": "2026-06-12T09:19:08.863Z",
+  "pvTotal": 38304,
+  "pctMeta": 17,
+  "metaHoje": 220165,
+  "metaAmanha": 229737,
+  "saldoOntem": -181861,
+  "deficitOntem": 181861,
   "metaDiaria": 200000,
   "metaMensal": 6000000,
-  "usuarios": 51677,
-  "sessions": 79883,
-  "pgsPorSessao": "1.52",
-  "tempoMedio": "2min39s",
-  "pvManha": 40932,
-  "pvTarde": 46879,
-  "pvNoite": 24889,
+  "usuarios": 15279,
+  "sessions": 21511,
+  "pgsPorSessao": "1.78",
+  "tempoMedio": "3min44s",
+  "pvManha": 16788,
+  "pvTarde": 10123,
+  "pvNoite": 152,
   "checkpoints": [
     {
       "label": "Até 11h",
-      "pv": 49738,
+      "pv": 28029,
       "meta": 60000,
-      "status": "ABAIXO"
+      "status": "MUITO ABAIXO"
     },
     {
       "label": "Até 17h",
-      "pv": 96617,
+      "pv": 38152,
       "meta": 130000,
-      "status": "ABAIXO"
+      "status": "MUITO ABAIXO"
     },
     {
       "label": "Até 21h",
-      "pv": 121178,
-      "meta": 215996,
+      "pv": 38304,
+      "meta": 220165,
       "status": "MUITO ABAIXO"
     }
   ],
@@ -43,152 +43,147 @@
     {
       "pos": 1,
       "titulo": "Porte de arma: saiba quem pode solicitar e quem não é autorizado",
-      "pv": 11391,
+      "pv": 2477,
       "publicadaHoje": false
     },
     {
       "pos": 2,
-      "titulo": "Chuva fora de época deve atingir cidades do ES; veja a previsão",
-      "pv": 4786,
+      "titulo": "Qual é o caminho do Brasil até a final da Copa de 2026?",
+      "pv": 1110,
       "publicadaHoje": false
     },
     {
       "pos": 3,
-      "titulo": "Cinco lugares de tirar o fôlego no ES",
-      "pv": 3230,
+      "titulo": "Dia dos Namorados no ES terá chuva, granizo e ventos fortes em 58 cidades",
+      "pv": 965,
       "publicadaHoje": false
     },
     {
       "pos": 4,
-      "titulo": "Qual é o caminho do Brasil até a final da Copa de 2026?",
-      "pv": 2973,
+      "titulo": "Motorista é retirado de Porsche e sequestrado em Jardim Camburi; VÍDEO",
+      "pv": 775,
       "publicadaHoje": false
     },
     {
       "pos": 5,
-      "titulo": "Os caldos que fazem sucesso no frio: veja 3 receitas fáceis",
-      "pv": 2770,
+      "titulo": "Mulher de 37 que fingiu ter 12 diz ter sido torturada no ES",
+      "pv": 731,
       "publicadaHoje": false
     }
   ],
   "piorDesempenho": [],
   "editorias": [
     {
+      "nome": "policia",
+      "pvTotal": 3682,
+      "pvPublicadas": 0,
+      "publicadas": null,
+      "urlsAcessadas": 40,
+      "mediaCorreta": null
+    },
+    {
       "nome": "politica",
-      "pvTotal": 11827,
+      "pvTotal": 2723,
       "pvPublicadas": 0,
       "publicadas": null,
-      "urlsAcessadas": 13,
-      "mediaCorreta": null
-    },
-    {
-      "nome": "cultura",
-      "pvTotal": 10486,
-      "pvPublicadas": 0,
-      "publicadas": null,
-      "urlsAcessadas": 53,
-      "mediaCorreta": null
-    },
-    {
-      "nome": "tempo",
-      "pvTotal": 7705,
-      "pvPublicadas": 0,
-      "publicadas": null,
-      "urlsAcessadas": 11,
-      "mediaCorreta": null
-    },
-    {
-      "nome": "cotidiano",
-      "pvTotal": 5491,
-      "pvPublicadas": 0,
-      "publicadas": null,
-      "urlsAcessadas": 42,
-      "mediaCorreta": null
-    },
-    {
-      "nome": "social",
-      "pvTotal": 5294,
-      "pvPublicadas": 0,
-      "publicadas": null,
-      "urlsAcessadas": 18,
+      "urlsAcessadas": 14,
       "mediaCorreta": null
     },
     {
       "nome": "esportes",
-      "pvTotal": 4851,
+      "pvTotal": 2582,
       "pvPublicadas": 0,
       "publicadas": null,
-      "urlsAcessadas": 26,
+      "urlsAcessadas": 29,
       "mediaCorreta": null
     },
     {
-      "nome": "policia",
-      "pvTotal": 4630,
+      "nome": "cultura",
+      "pvTotal": 1849,
       "pvPublicadas": 0,
       "publicadas": null,
-      "urlsAcessadas": 42,
+      "urlsAcessadas": 49,
+      "mediaCorreta": null
+    },
+    {
+      "nome": "ultimas-noticias",
+      "pvTotal": 1367,
+      "pvPublicadas": 0,
+      "publicadas": null,
+      "urlsAcessadas": 4,
+      "mediaCorreta": null
+    },
+    {
+      "nome": "tempo",
+      "pvTotal": 1313,
+      "pvPublicadas": 0,
+      "publicadas": null,
+      "urlsAcessadas": 7,
+      "mediaCorreta": null
+    },
+    {
+      "nome": "economia",
+      "pvTotal": 1170,
+      "pvPublicadas": 0,
+      "publicadas": null,
+      "urlsAcessadas": 26,
       "mediaCorreta": null
     }
   ],
   "origens": [
     {
       "canal": "Google Orgânico",
-      "pv": 68453,
+      "pv": 21599,
       "pct": 56
     },
     {
       "canal": "Direto",
-      "pv": 44658,
+      "pv": 14192,
       "pct": 37
     },
     {
       "canal": "Social",
-      "pv": 4523,
-      "pct": 4
+      "pv": 1203,
+      "pct": 3
     },
     {
       "canal": "Links externos",
-      "pv": 2549,
+      "pv": 948,
       "pct": 2
     },
     {
       "canal": "Não identificado",
-      "pv": 1111,
+      "pv": 309,
       "pct": 1
     },
     {
       "canal": "AI Assistant",
-      "pv": 92,
+      "pv": 34,
       "pct": 0
     },
     {
       "canal": "E-mail",
-      "pv": 67,
+      "pv": 16,
       "pct": 0
     },
     {
       "canal": "YouTube",
-      "pv": 30,
-      "pct": 0
-    },
-    {
-      "canal": "Paid Social",
-      "pv": 23,
+      "pv": 3,
       "pct": 0
     }
   ],
   "historico": {
-    "mediaMesmoDia": 196018,
-    "varMesmoDia": -38,
-    "media30": 182970,
-    "media30a": 191231,
-    "var30": -4,
-    "pvMesAtualAcum": 1585595,
-    "pvMesAntMesmoPer": 2114601,
-    "varMesAnt": -25,
-    "diasRestantes": 20,
-    "pvFaltaMes": 4414405,
-    "mediaNecessaria": 220721,
+    "mediaMesmoDia": 191958,
+    "varMesmoDia": -80,
+    "media30": 180231,
+    "media30a": 193086,
+    "var30": -7,
+    "pvMesAtualAcum": 1635007,
+    "pvMesAntMesmoPer": 2329390,
+    "varMesAnt": -30,
+    "diasRestantes": 19,
+    "pvFaltaMes": 4364993,
+    "mediaNecessaria": 229737,
     "mediaMensal": 6814068,
     "melhorMes": {
       "mes": "202507",
@@ -305,80 +300,80 @@
       },
       {
         "mes": "202606",
-        "pv": 1585595,
+        "pv": 1635007,
         "label": "Jun/26",
         "atual": true
       }
     ]
   },
   "analises": {
-    "resumo": "O dia 10/06/2026 registrou 121.506 page views contra uma meta de 215.996, representando apenas 56% do objetivo e déficit de 94.490 PVs. A tarde apresentou o melhor desempenho com 46.879 PVs, seguida pela manhã com 40.932 e noite com 24.889. Os checkpoints ficaram sistematicamente abaixo das expectativas desde as 11h. Com o acumulado mensal em 1.585.595 de 6.000.000, ainda faltam 4.414.405 PVs para atingir a meta até o fim do mês.",
-    "horarios": ">>> Manhã (6h-11h): 40.932 PVs representaram 34% do total diário, período com performance estável\n>>> Tarde (12h-17h): 46.879 PVs foram o melhor período, concentrando 39% da audiência total\n>>> Noite (18h-23h): 24.889 PVs mostraram queda significativa, apenas 20% do total\n>>> Checkpoint 11h: 49.738/60.000 (-17% da meta) já sinalizava tendência de baixa performance\n>>> Checkpoint 17h: 96.617/130.000 (-26% da meta) confirmou dificuldades para recuperação\n>>> Checkpoint 21h: 121.178/215.996 (-44% da meta) evidenciou impossibilidade de atingir o objetivo",
-    "padrao": ">>> Conteúdo evergreen dominou completamente o ranking, com todas as top 5 sendo matérias antigas\n>>> Matérias de utilidade pública lideraram, especialmente sobre porte de armas (11.391 PVs)\n>>> Conteúdo sazonal sobre clima manteve relevância com 4.786 PVs na segunda posição\n>>> Turismo local e Copa do Mundo 2026 demonstraram potencial perene de audiência\n>>> Receitas e gastronomia aproveitaram o período de inverno para engajar público",
-    "editorias": ">>> Política liderou com 11.827 PVs em apenas 13 URLs, média impressionante de 909 PVs por matéria\n>>> Cultura ficou em segundo com 10.486 PVs distribuídos em 53 URLs, média de 198 PVs por matéria\n>>> Tempo registrou 7.705 PVs em 11 URLs, excelente média de 700 PVs por matéria\n>>> Cotidiano obteve 5.491 PVs em 42 URLs, média modesta de 131 PVs por matéria\n>>> Editorias de Polícia e Esportes apresentaram médias baixas, indicando necessidade de otimização",
-    "trafego": ">>> Google Orgânico mantém supremacia com 56% do tráfego, demonstrando boa otimização SEO\n>>> Tráfego direto representa 37%, indicando fidelização sólida da audiência capixaba\n>>> Redes sociais contribuem com apenas 4%, sinalizando oportunidade de crescimento\n>>> Fontes alternativas como AI Assistant (92 PVs) e YouTube (30 PVs) ainda são incipientes\n>>> Diversificação de fontes de tráfego permanece como desafio estratégico",
-    "eficiencia": "Média real de eficiência por matéria: 0 PVs/matéria. Sitemap indisponível impossibilita cálculo preciso da performance editorial. Análise de eficiência fica prejudicada sem acesso aos dados de publicação.",
-    "erros": ">>> Dependência excessiva de conteúdo antigo, com ausência total de matérias novas no top 5\n>>> Queda acentuada no período noturno indica falha na estratégia de publicação vespertina\n>>> Performance 38% abaixo da média do mesmo dia da semana revela problemas estruturais\n>>> Meta mensal comprometida com apenas 26% de cumprimento no acumulado",
-    "oportunidades": ">>> Política e Tempo mostram alta eficiência por URL, merecem mais investimento editorial\n>>> Conteúdo evergreen sobre legislação e direitos tem potencial inexplorado\n>>> Receitas e gastronomia regional podem ser expandidas aproveitando o inverno\n>>> Tráfego de redes sociais tem margem para crescimento de pelo menos 100%\n>>> Copa do Mundo 2026 oferece oportunidades de conteúdo com apelo duradouro",
-    "acoes": ">>> Intensificar produção nas editorias Política e Tempo, que demonstram melhor performance por URL\n>>> Programar publicações estratégicas no período noturno para reverter queda histórica\n>>> Desenvolver conteúdo evergreen sobre legislação capixaba e direitos do consumidor\n>>> Amplificar distribuição nas redes sociais, priorizando Facebook e Instagram\n>>> Estabelecer meta intermediária de 180.000 PVs como passo inicial rumo aos 220.721 necessários",
-    "metaacumulada": "A meta dinâmica de 215.996 foi calculada dividindo-se o valor restante da meta mensal (4.509.895) pelos 21 dias restantes do mês, incluindo ontem. Com o déficit acumulado, a meta de amanhã sobe para 220.721 PVs, representando o que falta (4.414.405) dividido pelos 20 dias restantes. Este sistema dinâmico intensifica a pressão diária conforme os déficits se acumulam, exigindo performance 81% superior à média histórica para recuperação.",
-    "historicodia": ">>> Performance 38% inferior à média do mesmo dia da semana (196.018), evidenciando anomalia significativa\n>>> Resultado 34% abaixo da média dos últimos 30 dias (182.970), confirmando tendência de queda\n>>> Variação negativa indica problemas que transcendem sazonalidade normal",
-    "historicomes": ">>> Acumulado mensal 25% inferior ao mesmo período do mês anterior (2.114.601 vs 1.585.595)\n>>> Ritmo atual projeta fechamento em aproximadamente 2.4 milhões, muito aquém da meta de 6 milhões\n>>> Necessária reversão imediata para evitar pior resultado dos últimos 12 meses",
-    "tendencia": "A tendência de 30 dias mostra declínio de 4% (média atual 182.970 vs anterior 191.231). O melhor mês foi julho/2025 com 13.625.154 PVs, enquanto o pior foi fevereiro/2025 com 4.527.477. O ritmo atual sugere risco de aproximação do pior desempenho histórico.",
-    "alerta": "\"Situação crítica: performance 44% abaixo da meta mensal exige intervenção imediata na estratégia editorial e distribuição de conteúdo.\"",
-    "licao": "O dia demonstrou que a dependência de conteúdo evergreen, embora gere estabilidade, não compensa a falta de matérias novas e relevantes. A ausência de hard news no top 5 e o declínio noturno revelam lacunas na cobertura em tempo real. É fundamental equilibrar a produção entre conteúdo perene de qualidade e breaking news que mantenham a audiência engajada ao longo do dia. \"Evergreen sustenta, mas breaking news acelera.\"",
-    "tendencias": ">>> Justiça revoga prisão domiciliar de Sandro Becker por dívida milionária de pensão alimentícia\n--- Editoria: Famosos\n--- Ângulo ES: Abordar casos similares no ES e orientar sobre direitos em pensão alimentícia, com advogados especialistas capixabas\n--- Por que performa: Sandro Becker está em alta com 100+ buscas sobre decisão judicial envolvendo pensão alimentícia\n--- Tipo: Notícia\n\n>>> Concurso da Câmara de Joinville oferece salários de até R$ 9 mil; confira outros editais abertos no ES\n--- Editoria: Concursos\n--- Ângulo ES: Listar concursos abertos no Espírito Santo com salários similares e orientações para capixabas interessados\n--- Por que performa: \"Edital\" tem 200+ buscas com interesse em concursos públicos bem remunerados\n--- Tipo: Serviço\n\n>>> Crise entre Rafa Kalimann e Nattan: cantor quebra silêncio sobre polêmica na gravidez\n--- Editoria: Famosos\n--- Ângulo ES: Relembrar outras polêmicas de casais famosos e repercussão entre fãs capixabas nas redes sociais\n--- Por que performa: Rafa Kalimann e Nattan estão bombando com 2000+ buscas sobre a crise do casal\n--- Tipo: Notícia\n\n>>> Chuva atípica deve atingir o ES nesta quinta; meteorologistas explicam o fenômeno\n--- Editoria: Clima\n--- Ângulo ES: Focar na previsão específica para cidades capixabas e orientações de Defesa Civil do ES\n--- Por que performa: \"Chuva\" tem 1000+ buscas com preocupação sobre chuvas atípicas no Sudeste\n--- Tipo: Serviço\n\n>>> Abono salarial 2024: prazo para empregadores do ES enviarem dados ao eSocial termina em junho\n--- Editoria: Economia\n--- Ângulo ES: Orientar empresários capixabas sobre o prazo e trabalhadores do ES sobre como consultar direito ao abono\n--- Por que performa: \"Abono salarial\" tem 1000+ buscas sobre prazos e direitos trabalhistas\n--- Tipo: Serviço\n\n>>> Entenda o jogo viral \"38 a 0\" da Premier League que está conquistando brasileiros\n--- Editoria: Esportes\n--- Ângulo ES: Mostrar como torcedores capixabas estão participando da brincadeira e criar versão com times locais\n--- Por que performa: \"38 a 0\" tem 200+ buscas sobre jogo viral da Premier League\n--- Tipo: Explicativo\n\n>>> LeBron James elogia Josh Hart como \"carta curinga\"; relembre outros apelidos marcantes do basquete\n--- Editoria: Esportes\n--- Ângulo ES: Conectar com a crescente popularidade do basquete no ES e times locais da modalidade\n--- Por que performa: \"Josh Hart\" tem 200+ buscas sobre declaração de LeBron James\n--- Tipo: Lista\n\n>>> Victor Wembanyama é hostilizado por torcedores em Nova York; entenda a rivalidade na NBA\n--- Editoria: Esportes\n--- Ângulo ES: Abordar o fenômeno das torcidas organizadas e rivalidades no esporte capixaba\n--- Por que performa: \"Victor Wembanyama\" está em alta com 2000+ buscas sobre hostilização em Nova York\n--- Tipo: Análise\n\n>>> Falha de De'Aaron Fox facilita virada histórica dos Knicks; veja os erros mais caros da NBA\n--- Editoria: Esportes\n--- Ângulo ES: Relembrar falhas decisivas no esporte capixaba e como atletas locais lidam com a pressão\n--- Por que performa: \"De'Aaron Fox\" tem 500+ buscas sobre erro que custou vitória histórica\n--- Tipo: Lista\n\n>>> Conheça Dylan Harper, nova estrela do Spurs, e seu irmão que joga no Celtics\n--- Editoria: Esportes\n--- Ângulo ES: Destacar irmãos atletas do Espírito Santo que seguiram carreiras similares no esporte\n--- Por que performa: \"Dylan Harper\" tem 1000+ buscas sobre o jogador e sua família no basquete\n--- Tipo: Explicativo"
+    "resumo": "O dia 11 de junho de 2026 registrou desempenho extremamente crítico com apenas 38.304 page views contra meta diária de 220.165, representando déficit de 181.861 PVs (17% da meta). A distribuição horária mostrou concentração excessiva no período matinal (16.788 PVs) com queda abrupta à tarde (10.123 PVs) e colapso noturno (152 PVs). Todos os checkpoints ficaram muito abaixo das expectativas, sinalizando falha sistêmica na estratégia de conteúdo. O resultado compromete severamente o cumprimento da meta mensal de 6 milhões, exigindo recuperação imediata.",
+    "horarios": ">>> Manhã concentrou 44% do tráfego total com 16.788 PVs, indicando dependência excessiva do período inicial\n>>> Tarde registrou queda de 40% em relação à manhã com apenas 10.123 PVs\n>>> Noite apresentou colapso total com míseros 152 PVs, evidenciando ausência de conteúdo noturno\n>>> Checkpoint 11h atingiu 47% da meta (28.029 de 60.000)\n>>> Checkpoint 17h alcançou 29% da meta (38.152 de 130.000)\n>>> Checkpoint final registrou apenas 17% da meta diária (38.304 de 220.165)",
+    "padrao": ">>> Matérias de polícia dominaram o engajamento com destaque para porte de armas (2.477 PVs)\n>>> Conteúdo esportivo sobre Copa 2026 manteve relevância com 1.110 PVs\n>>> Previsão do tempo para Dia dos Namorados gerou interesse sazonal com 965 PVs\n>>> Casos policiais locais como sequestro em Jardim Camburi atraíram 775 PVs\n>>> Todas as top 5 matérias são conteúdos antigos, evidenciando falta de produção atual",
+    "editorias": ">>> Polícia liderou com 92 PVs por matéria (3.682 PVs em 40 URLs)\n>>> Política registrou 195 PVs por matéria (2.723 PVs em 14 URLs)\n>>> Últimas notícias obteve 342 PVs por matéria (1.367 PVs em 4 URLs)\n>>> Tempo alcançou 188 PVs por matéria (1.313 PVs em 7 URLs)\n>>> Esportes teve 89 PVs por matéria (2.582 PVs em 29 URLs)\n>>> Economia registrou 45 PVs por matéria (1.170 PVs em 26 URLs)\n>>> Cultura obteve apenas 38 PVs por matéria (1.849 PVs em 49 URLs)",
+    "trafego": ">>> Google Orgânico mantém posição dominante com 56% do tráfego (21.599 PVs)\n>>> Tráfego direto representa 37% da audiência (14.192 PVs), indicando fidelização\n>>> Redes sociais contribuem com apenas 3% (1.203 PVs), sinalizando baixo engajamento\n>>> Links externos respondem por 2% (948 PVs), mostrando pouca viralização\n>>> AI Assistant ainda representa participação mínima com 34 PVs",
+    "eficiencia": "Média real de eficiência não pôde ser calculada devido à indisponibilidade do sitemap. Sem acesso aos dados de produção total, não é possível determinar quantas matérias foram publicadas no dia nem calcular a média de PVs por conteúdo produzido.",
+    "erros": ">>> Colapso total do tráfego noturno com apenas 152 PVs indica ausência de estratégia para o período\n>>> Dependência excessiva de conteúdos antigos evidencia falta de produção editorial atual\n>>> Baixo desempenho em redes sociais (3%) mostra falha na distribuição de conteúdo\n>>> Meta diária 6 vezes maior que o resultado alcançado revela desalinhamento entre planejamento e execução",
+    "oportunidades": ">>> Fortalecer cobertura policial local que demonstra alto engajamento (2.477 PVs na matéria líder)\n>>> Explorar conteúdo sobre Copa 2026 que mantém interesse constante\n>>> Desenvolver estratégia específica para Dia dos Namorados aproveitando interesse sazonal\n>>> Ampliar presença em redes sociais para reduzir dependência do Google Orgânico\n>>> Criar conteúdo noturno para equilibrar distribuição horária do tráfego",
+    "acoes": ">>> Publicar 15 matérias de alta relevância até 11h para atingir 80.000 PVs no primeiro checkpoint\n>>> Intensificar distribuição em redes sociais com meta de 5% do tráfego total\n>>> Produzir conteúdo específico para período noturno visando 15% do tráfego diário\n>>> Focar em notícias locais de polícia e política que demonstram maior engajamento\n>>> Implementar estratégia de tempo real para eventos do Dia dos Namorados com meta final de 229.737 PVs",
+    "metaacumulada": "A meta diária de 220.165 foi calculada dividindo-se o valor restante para atingir os 6 milhões mensais pelos dias restantes incluindo ontem. Com acumulado de 1.635.007 PVs, ainda faltam 4.364.993 para completar a meta mensal. A meta de amanhã aumenta para 229.737 PVs, representando a divisão do valor restante por 19 dias. Este sistema dinâmico significa que cada dia perdido eleva a pressão sobre os dias seguintes, tornando a recuperação progressivamente mais desafiadora.",
+    "historicodia": ">>> Desempenho 80% inferior à média histórica do mesmo dia da semana (38.304 vs 191.958)\n>>> Resultado 79% abaixo da média dos últimos 30 dias (38.304 vs 180.231)\n>>> Queda representa o pior desempenho registrado para uma terça-feira no período analisado",
+    "historicomes": ">>> Acumulado mensal 30% inferior ao mesmo período do mês anterior (1.635.007 vs 2.329.390)\n>>> Projeção atual indica fechamento em 2.573.638 PVs, muito abaixo da meta de 6 milhões\n>>> Necessidade de incremento diário de 430% sobre a performance atual para atingir objetivo mensal",
+    "tendencia": "A tendência dos últimos 30 dias mostra declínio de 7% em relação ao período anterior, confirmando movimento de queda na audiência. O melhor mês histórico foi julho de 2025 com 13.625.154 PVs, enquanto o pior foi fevereiro de 2025 com 4.527.477 PVs. A performance atual projeta resultado próximo ao pior mês histórico.",
+    "alerta": "\"A diferença de 181.861 PVs para a meta diária representa uma crise operacional que compromete gravemente o cumprimento dos objetivos mensais, exigindo intervenção imediata e mudança radical na estratégia editorial.\"",
+    "licao": "O dia evidenciou os riscos de uma estratégia editorial dependente de conteúdo antigo e concentrada no período matinal. A ausência de produção atual e a falta de distribuição equilibrada ao longo do dia criaram um cenário de vulnerabilidade extrema. A recuperação exige não apenas aumento de volume, mas reformulação completa da abordagem editorial. \"Audiência não se constrói com conteúdo do passado, mas com relevância do presente.\"",
+    "tendencias": ">>> Lula anuncia R$ 4 bilhões para entregadores: veja como capixabas podem acessar o benefício\n--- Editoria: Economia\n--- Ângulo ES: Foco nos entregadores de app da Grande Vitória, dados locais sobre delivery no ES, impacto na economia capixaba\n--- Por que performa: 200+ buscas sobre Lula e anúncio de crédito que afeta diretamente trabalhadores de delivery\n--- Tipo: Serviço\n\n>>> Tempestade no ES: Defesa Civil emite alerta amarelo para 12 municípios capixabas nesta terça\n--- Editoria: Cotidiano\n--- Ângulo ES: Lista dos municípios em alerta no ES, orientações específicas da Defesa Civil capixaba, histórico de chuvas no estado\n--- Por que performa: 500+ buscas sobre alerta amarelo para tempestades, tema de interesse imediato para segurança\n--- Tipo: Serviço\n\n>>> STF define prazo para big techs: como mudança afeta usuários de WhatsApp e Instagram no ES\n--- Editoria: Tecnologia\n--- Ângulo ES: Impacto na vida digital dos capixabas, dados de uso de redes sociais no ES, opinião de especialistas locais\n--- Por que performa: 5000+ buscas sobre ministros do STF e decisão que afeta milhões de brasileiros\n--- Tipo: Explicativo\n\n>>> Minha Casa Minha Vida Rural: ES tem 847 vagas abertas para famílias do interior\n--- Editoria: Economia\n--- Ângulo ES: Detalhamento das vagas por região do ES, perfil das famílias beneficiadas, como se inscrever no estado\n--- Por que performa: 200+ buscas sobre Ministério das Cidades e programa habitacional de grande interesse social\n--- Tipo: Serviço\n\n>>> Copa do Mundo 2022: bares de Vitória se preparam para transmissões sem Galvão Bueno\n--- Editoria: Esportes\n--- Ângulo ES: Reação de donos de bares capixabas, expectativa dos torcedores no ES, mudanças na transmissão\n--- Por que performa: 100+ buscas sobre Galvão Bueno e mudanças na cobertura da Copa que geram curiosidade\n--- Tipo: Notícia\n\n>>> Ciclone atinge o Brasil: meteorologista explica se fenômeno pode chegar ao ES\n--- Editoria: Cotidiano\n--- Ângulo ES: Análise específica para o litoral capixaba, histórico de fenômenos similares no ES, previsão do tempo local\n--- Por que performa: 200+ buscas sobre ciclone, tema que gera preocupação e curiosidade sobre impactos regionais\n--- Tipo: Explicativo\n\n>>> Defesa Civil cancela festas juninas: veja eventos mantidos e cancelados no ES\n--- Editoria: Cultura\n--- Ângulo ES: Lista completa de festas juninas no ES, critérios da Defesa Civil capixaba, alternativas de celebração\n--- Por que performa: 200+ buscas sobre Defesa Civil e cancelamentos que afetam tradições populares\n--- Tipo: Lista\n\n>>> Acidente em rodovia de Minas: capixabas que viajam para MG devem evitar MG-447\n--- Editoria: Cotidiano\n--- Ângulo ES: Orientações para motoristas do ES que transitam pela região, rotas alternativas, cuidados na estrada\n--- Por que performa: 200+ buscas sobre Ubá e acidente grave que interessa a quem viaja pela região\n--- Tipo: Serviço\n\n>>> Copa 2022: inteligência artificial prevê campeão e capixabas apostam nos resultados\n--- Editoria: Esportes\n--- Ângulo ES: Casas de apostas em Vitória, palpites de torcedores capixabas, como funcionam as previsões por IA\n--- Por que performa: 100+ buscas sobre resultados da Copa e previsões que despertam curiosidade dos apostadores\n--- Tipo: Explicativo\n\n>>> 12 de junho marca início da Copa mais cara da história: quanto custa viajar do ES para o Catar\n--- Editoria: Turismo\n--- Ângulo ES: Preços de passagens saindo de Vitória, agências de turismo capixabas, capixabas que viajaram para a Copa\n--- Por que performa: 200+ buscas sobre 12 de junho e Copa do Catar, tema que desperta curiosidade sobre custos\n--- Tipo: Análise"
   },
   "tendencias": [
     {
-      "titulo": "sandro becker",
+      "titulo": "luiz inácio lula da silva",
+      "trafico": "200+",
+      "contexto": "Lula anuncia hoje cerca de R$ 4 bilhões em linha de crédito para entregadores"
+    },
+    {
+      "titulo": "ubá",
+      "trafico": "200+",
+      "contexto": "Morre motociclista atingida por caminhão que invadiu a contramão na MG-447"
+    },
+    {
+      "titulo": "galvão bueno",
       "trafico": "100+",
-      "contexto": "Justiça revoga prisão domiciliar do cantor Sandro Becker por dívida de R$ 200 mil em pensão alimentí"
+      "contexto": "Sem Galvão Bueno e com Tiago Leifert, SBT tropeça na abertura da Copa"
     },
     {
-      "titulo": "edital",
-      "trafico": "200+",
-      "contexto": "Concurso Câmara de Joinville: saiu edital; iniciais até R$ 9 mil!"
+      "titulo": "ministro do supremo tribunal federal do brasil",
+      "trafico": "5000+",
+      "contexto": "STF tem maioria para fixar prazo de 60 dias para big techs adotarem medidas que ampliam responsabili"
     },
     {
-      "titulo": "rafa kalimann e nattan",
-      "trafico": "2000+",
-      "contexto": "Nattan quebra o silêncio sobre crise com Rafa Kalimann após polêmica na gravidez: &apos;Não é o prim"
+      "titulo": "resultado dos jogos da copa",
+      "trafico": "100+",
+      "contexto": "Diogo Cortiz: Máquina que acertou 4 vezes já sabe quem vai ganhar a Copa; dá pra confiar?"
     },
     {
-      "titulo": "chuva",
-      "trafico": "1000+",
-      "contexto": "Chuva atípica deve atingir Sudeste e Centro-Oeste a partir desta quinta; veja previsão"
-    },
-    {
-      "titulo": "38 a 0",
-      "trafico": "200+",
-      "contexto": "How to play the viral 38-0 Premier League game"
-    },
-    {
-      "titulo": "josh hart",
-      "trafico": "200+",
-      "contexto": "LeBron James says Josh Hart is like a wild card:"
-    },
-    {
-      "titulo": "victor wembanyama",
-      "trafico": "2000+",
-      "contexto": "New Yorkers Are Back Heckling Wemby Outside His Hotel And I Am Officially Worried Wemby Is Taking Na"
-    },
-    {
-      "titulo": "de&apos;aaron fox",
+      "titulo": "alerta amarelo: tempestade",
       "trafico": "500+",
-      "contexto": "‘That was a dumbass play’: De’Aaron Fox’s gaffe leaves door open for historic Knicks comeback"
+      "contexto": "Cuiabá e outros 63 municípios entram em alerta para chuvas intensas, ventos fortes e granizo; veja o"
     },
     {
-      "titulo": "abono salarial",
-      "trafico": "1000+",
-      "contexto": "Empregadores têm até 20 de junho para enviar dados ao eSocial para o Abono Salarial"
+      "titulo": "ministério das cidades",
+      "trafico": "200+",
+      "contexto": "Anúncio de seleção do Minha Casa Minha Vida Rural e Entidades — Ministério das Cidades"
     },
     {
-      "titulo": "dylan harper",
-      "trafico": "1000+",
-      "contexto": "Meet Spurs Star Dylan Harper&apos;s Brother, Celtics Player Ron Harper Jr."
+      "titulo": "12 de junho",
+      "trafico": "200+",
+      "contexto": "O Mundial &apos;mais caro e mais politizado&apos;: 4 pontos importantes sobre a Copa do Mundo de 202"
+    },
+    {
+      "titulo": "defesa civil",
+      "trafico": "200+",
+      "contexto": "Defesa Civil não autoriza festa junina no Caio Martins"
+    },
+    {
+      "titulo": "ciclone",
+      "trafico": "200+",
+      "contexto": "Chuva incomum e ciclone atingem o Brasil: veja estados mais afetados"
     }
   ]
 }
