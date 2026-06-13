@@ -1,38 +1,38 @@
 {
-  "dataDisplay": "11/06/2026",
-  "geradoEm": "2026-06-12T16:38:45.729Z",
-  "pvTotal": 148343,
-  "pctMeta": 67,
-  "metaHoje": 220165,
-  "metaAmanha": 223945,
-  "saldoOntem": -71822,
-  "deficitOntem": 71822,
+  "dataDisplay": "12/06/2026",
+  "geradoEm": "2026-06-13T09:19:04.086Z",
+  "pvTotal": 76348,
+  "pctMeta": 34,
+  "metaHoje": 223945,
+  "metaAmanha": 232145,
+  "saldoOntem": -147597,
+  "deficitOntem": 147597,
   "metaDiaria": 200000,
   "metaMensal": 6000000,
-  "usuarios": 64801,
-  "sessions": 92578,
+  "usuarios": 33075,
+  "sessions": 47586,
   "pgsPorSessao": "1.60",
-  "tempoMedio": "2min37s",
-  "pvManha": 46285,
-  "pvTarde": 57591,
-  "pvNoite": 32998,
+  "tempoMedio": "2min47s",
+  "pvManha": 38368,
+  "pvTarde": 19945,
+  "pvNoite": 8679,
   "checkpoints": [
     {
       "label": "Até 11h",
-      "pv": 57754,
+      "pv": 47724,
       "meta": 60000,
-      "status": "PERTO DA META"
+      "status": "ABAIXO"
     },
     {
       "label": "Até 17h",
-      "pv": 115345,
+      "pv": 67669,
       "meta": 130000,
-      "status": "PERTO DA META"
+      "status": "MUITO ABAIXO"
     },
     {
       "label": "Até 21h",
-      "pv": 139987,
-      "meta": 220165,
+      "pv": 74487,
+      "meta": 223945,
       "status": "MUITO ABAIXO"
     }
   ],
@@ -42,32 +42,32 @@
   "topMaterias": [
     {
       "pos": 1,
-      "titulo": "Ex-zagueiro da Seleção é preso antes de viagem para Copa",
-      "pv": 8909,
+      "titulo": "Qual é o caminho do Brasil até a final da Copa de 2026?",
+      "pv": 2981,
       "publicadaHoje": false
     },
     {
       "pos": 2,
-      "titulo": "Qual é o caminho do Brasil até a final da Copa de 2026?",
-      "pv": 8722,
+      "titulo": "Testemunha revela novidades sobre influenciador rendido em Jardim Camburi",
+      "pv": 1566,
       "publicadaHoje": false
     },
     {
       "pos": 3,
-      "titulo": "Porte de arma: saiba quem pode solicitar e quem não é autorizado",
-      "pv": 8658,
+      "titulo": "Feliz Dia dos Namorados: 50 mensagens românticas para inspirar",
+      "pv": 1509,
       "publicadaHoje": false
     },
     {
       "pos": 4,
-      "titulo": "Dono de Porsche rendido em Vitória é encontrado na Serra",
-      "pv": 2821,
+      "titulo": "Chiques e bonitas em tarde de moda inspirada no verão europeu",
+      "pv": 1504,
       "publicadaHoje": false
     },
     {
       "pos": 5,
-      "titulo": "Motorista é retirado de Porsche e sequestrado em Jardim Camburi; VÍDEO",
-      "pv": 2423,
+      "titulo": "Verão europeu inspira looks que vão da areia da praia ao restaurante",
+      "pv": 1327,
       "publicadaHoje": false
     }
   ],
@@ -75,130 +75,125 @@
   "editorias": [
     {
       "nome": "esportes",
-      "pvTotal": 21843,
+      "pvTotal": 7287,
       "pvPublicadas": 0,
       "publicadas": null,
-      "urlsAcessadas": 30,
-      "mediaCorreta": null
-    },
-    {
-      "nome": "policia",
-      "pvTotal": 17991,
-      "pvPublicadas": 0,
-      "publicadas": null,
-      "urlsAcessadas": 44,
-      "mediaCorreta": null
-    },
-    {
-      "nome": "politica",
-      "pvTotal": 9612,
-      "pvPublicadas": 0,
-      "publicadas": null,
-      "urlsAcessadas": 14,
-      "mediaCorreta": null
-    },
-    {
-      "nome": "cultura",
-      "pvTotal": 8410,
-      "pvPublicadas": 0,
-      "publicadas": null,
-      "urlsAcessadas": 47,
-      "mediaCorreta": null
-    },
-    {
-      "nome": "economia",
-      "pvTotal": 3754,
-      "pvPublicadas": 0,
-      "publicadas": null,
-      "urlsAcessadas": 27,
+      "urlsAcessadas": 35,
       "mediaCorreta": null
     },
     {
       "nome": "cotidiano",
-      "pvTotal": 3710,
+      "pvTotal": 4709,
       "pvPublicadas": 0,
       "publicadas": null,
-      "urlsAcessadas": 31,
+      "urlsAcessadas": 38,
       "mediaCorreta": null
     },
     {
-      "nome": "tempo",
-      "pvTotal": 3260,
+      "nome": "policia",
+      "pvTotal": 4658,
       "pvPublicadas": 0,
       "publicadas": null,
-      "urlsAcessadas": 6,
+      "urlsAcessadas": 33,
+      "mediaCorreta": null
+    },
+    {
+      "nome": "cultura",
+      "pvTotal": 4046,
+      "pvPublicadas": 0,
+      "publicadas": null,
+      "urlsAcessadas": 56,
+      "mediaCorreta": null
+    },
+    {
+      "nome": "transito",
+      "pvTotal": 3215,
+      "pvPublicadas": 0,
+      "publicadas": null,
+      "urlsAcessadas": 16,
+      "mediaCorreta": null
+    },
+    {
+      "nome": "social",
+      "pvTotal": 3141,
+      "pvPublicadas": 0,
+      "publicadas": null,
+      "urlsAcessadas": 11,
+      "mediaCorreta": null
+    },
+    {
+      "nome": "economia",
+      "pvTotal": 2486,
+      "pvPublicadas": 0,
+      "publicadas": null,
+      "urlsAcessadas": 27,
       "mediaCorreta": null
     }
   ],
   "origens": [
     {
       "canal": "Google Orgânico",
-      "pv": 87852,
-      "pct": 59
+      "pv": 46264,
+      "pct": 61
     },
     {
       "canal": "Direto",
-      "pv": 49947,
-      "pct": 34
+      "pv": 24989,
+      "pct": 33
     },
     {
       "canal": "Social",
-      "pv": 6529,
+      "pv": 2750,
       "pct": 4
     },
     {
       "canal": "Links externos",
-      "pv": 3216,
+      "pv": 1795,
       "pct": 2
     },
     {
       "canal": "Não identificado",
-      "pv": 578,
-      "pct": 0
+      "pv": 424,
+      "pct": 1
     },
     {
       "canal": "AI Assistant",
-      "pv": 120,
-      "pct": 0
-    },
-    {
-      "canal": "E-mail",
-      "pv": 49,
+      "pv": 73,
       "pct": 0
     },
     {
       "canal": "YouTube",
-      "pv": 33,
+      "pv": 28,
       "pct": 0
     },
     {
       "canal": "Paid Social",
-      "pv": 14,
+      "pv": 15,
+      "pct": 0
+    },
+    {
+      "canal": "E-mail",
+      "pv": 9,
       "pct": 0
     },
     {
       "canal": "Paid Other",
-      "pv": 3,
-      "pct": 0
-    },
-    {
-      "canal": "Mobile Push Notifications",
-      "pv": 2,
+      "pv": 1,
       "pct": 0
     }
   ],
   "historico": {
-    "mediaMesmoDia": 191958,
-    "varMesmoDia": -23,
+    "mediaMesmoDia": 192367,
+    "varMesmoDia": -60,
     "media30": 177266,
     "media30a": 195393,
     "var30": -9,
-    "pvMesAtualAcum": 1745046,
-    "pvMesAntMesmoPer": 2329390,
-    "varMesAnt": -25,
-    "diasRestantes": 19,
-    "pvFaltaMes": 4254954,
-    "mediaNecessaria": 223945,
+    "pvMesAtualAcum": 1821394,
+    "pvMesAntMesmoPer": 2566663,
+    "varMesAnt": -29,
+    "diasRestantes": 18,
+    "pvFaltaMes": 4178606,
+    "mediaNecessaria": 232145,
     "mediaMensal": 6814068,
     "melhorMes": {
       "mes": "202507",
@@ -315,80 +310,80 @@
       },
       {
         "mes": "202606",
-        "pv": 1745046,
+        "pv": 1821394,
         "label": "Jun/26",
         "atual": true
       }
     ]
   },
   "analises": {
-    "resumo": "O dia 11 de junho de 2026 registrou 148.343 páginas vistas, ficando 71.822 abaixo da meta diária de 220.165, representando apenas 67% do objetivo. O período da tarde foi o mais produtivo com 57.591 PVs, seguido pela manhã com 46.285 PVs e noite com 32.998 PVs. Com 64.801 usuários únicos e 92.578 sessões, o engajamento médio ficou em 1,60 páginas por sessão com tempo de permanência de 2min37s. O resultado compromete significativamente o cumprimento da meta mensal de 6 milhões de PVs.",
-    "horarios": ">>> Manhã (6h-11h): 46.285 PVs representaram o segundo melhor período, com checkpoint das 11h atingindo 57.754 PVs contra meta de 60.000 (96% da meta)\n>>> Tarde (12h-17h): Melhor desempenho com 57.591 PVs, levando o acumulado das 17h para 115.345 PVs contra meta de 130.000 (89% da meta)\n>>> Noite (18h-23h): Período mais fraco com apenas 32.998 PVs, resultando em acumulado final de 139.987 PVs contra meta de 220.165 (64% da meta)\n>>> Checkpoint crítico: A partir das 17h, o portal não conseguiu acelerar o ritmo necessário para aproximar-se da meta diária",
-    "padrao": ">>> Matérias esportivas dominaram: Copa de 2026 e prisão de ex-jogador da Seleção concentraram 17.631 PVs (59% do top 5)\n>>> Segurança pública local teve destaque: Caso do Porsche em Vitória/Serra gerou 5.244 PVs entre duas matérias relacionadas\n>>> Conteúdo de utilidade pública: Matéria sobre porte de armas manteve relevância com 8.658 PVs\n>>> Todas as top 5 são matérias antigas, indicando dependência excessiva de conteúdo de arquivo sem renovação editorial",
-    "editorias": ">>> Esportes liderou com 21.843 PVs em 30 URLs (média de 728 PVs por matéria), impulsionada por conteúdo da Copa\n>>> Polícia ficou em segundo com 17.991 PVs em 44 URLs (média de 409 PVs por matéria), beneficiada pelos casos locais\n>>> Política registrou 9.612 PVs em apenas 14 URLs (média de 687 PVs por matéria), mostrando alta eficiência por conteúdo\n>>> Cultura surpreendeu com 8.410 PVs distribuídos em 47 URLs (média de 179 PVs por matéria), indicando pulverização excessiva\n>>> Economia, cotidiano e tempo tiveram desempenhos abaixo do esperado, com médias entre 108 a 543 PVs por matéria",
-    "trafego": ">>> Google Orgânico mantém posição dominante com 59% do tráfego (87.852 PVs), demonstrando boa otimização SEO das matérias\n>>> Tráfego direto representa 34% (49.947 PVs), indicando fidelização da audiência e força da marca no Espírito Santo\n>>> Redes sociais contribuíram com apenas 4% (6.529 PVs), evidenciando oportunidade perdida de amplificação de conteúdo\n>>> Tráfego de links externos representa 2% (3.216 PVs), sugerindo baixo compartilhamento e parcerias limitadas\n>>> Novos canais como AI Assistant (120 PVs) e push notifications (2 PVs) ainda são subutilizados",
-    "eficiencia": "Média real de eficiência por matéria não pôde ser calculada devido à indisponibilidade do sitemap. Análise de produtividade editorial comprometida. Necessário resolver questão técnica urgentemente para acompanhamento adequado do desempenho editorial.",
-    "erros": ">>> Dependência excessiva de matérias antigas: Top 5 composto inteiralmente por conteúdo de arquivo sem renovação\n>>> Queda acentuada no período noturno: Apenas 32.998 PVs quando deveria acelerar para compensar déficit diário\n>>> Subutilização das redes sociais: Apenas 4% do tráfego quando deveria ser canal de amplificação principal\n>>> Produção pulverizada em cultura: 47 URLs geraram média baixíssima de 179 PVs por matéria",
-    "oportunidades": ">>> Potencializar cobertura da Copa de 2026: Esportes já lidera audiência, ampliar angulações locais e nacionais\n>>> Desenvolver série sobre segurança em Vitória: Casos do Porsche mostram interesse por segurança pública local\n>>> Criar conteúdo de utilidade pública: Matéria sobre porte de armas demonstra demanda por informações práticas\n>>> Implementar estratégia de redes sociais: 95% do tráfego vem de Google e direto, expandir presença digital\n>>> Otimizar período noturno: Desenvolver conteúdo específico para horário de maior conectividade mobile",
-    "acoes": ">>> Publicar pelo menos 3 matérias sobre Copa de 2026 focando ângulos capixabas para atingir meta de 223.945 PVs\n>>> Intensificar cobertura policial local nas primeiras horas da manhã para capturar tráfego orgânico inicial\n>>> Implementar cronograma de postagens nas redes sociais a cada 2 horas para amplificar conteúdo principal\n>>> Concentrar recursos editoriais em política e esportes que apresentam melhor média de PVs por matéria\n>>> Estabelecer checkpoint intermediário às 15h para monitoramento e correção de rota em tempo real",
-    "metaacumulada": "A meta diária dinâmica de 220.165 PVs foi calculada dividindo-se o restante da meta mensal pelos dias restantes, incluindo o dia atual. Com acumulado de 1.745.046 PVs em junho, ainda faltam 4.254.954 PVs para atingir a meta de 6 milhões. A meta de amanhã sobe para 223.945 PVs, representando um aumento de 1,7%, pois o déficit de hoje se distribui pelos 19 dias restantes do mês. Cada dia sem atingir a meta aumenta proporcionalmente a pressão sobre os dias seguintes.",
-    "historicodia": ">>> Desempenho 23% inferior à média das últimas 8 semanas no mesmo dia (191.958 PVs), indicando queda consistente\n>>> Resultado 16% abaixo da média dos últimos 30 dias (177.266 PVs), confirmando tendência de baixa performance\n>>> Padrão de audiência mantém-se abaixo das expectativas históricas, exigindo intervenção editorial urgente",
-    "historicomes": ">>> Acumulado mensal 25% inferior ao mesmo período do mês anterior (2.329.390 PVs), representando perda significativa\n>>> Tendência de 30 dias aponta queda de 9% comparando médias atuais (177.266) com anteriores (195.393)\n>>> Projeção atual indica fechamento mensal em torno de 3,3 milhões de PVs, muito aquém da meta de 6 milhões",
-    "tendencia": "A tendência dos últimos 30 dias mostra declínio de 9% na performance média diária, sinalizando necessidade de revisão estratégica. O melhor mês histórico foi julho de 2025 com 13.625.154 PVs, enquanto o pior foi fevereiro de 2025 com 4.527.477 PVs. O patamar atual projeta desempenho próximo ao pior mês histórico.",
-    "alerta": "\"Meta mensal de junho em risco crítico: necessário média de 223.945 PVs/dia pelos próximos 19 dias para evitar o segundo pior mês da história do portal.\"",
-    "licao": "O dia evidenciou a armadilha da dependência de conteúdo antigo sem estratégia de renovação editorial. Embora matérias de arquivo gerem audiência consistente, a falta de conteúdo novo compromete o crescimento e a relevância do portal. A queda de 25% comparada ao mês anterior não é apenas numérica, mas reflexo de uma abordagem editorial que privilegia a zona de conforto. \"Audiência sustentável exige renovação constante, não apenas reciclagem de sucessos passados.\"",
-    "tendencias": ">>> Nubank por pouco: banco envia email sobre liquidação por engano e assusta clientes no ES\n--- Editoria: Economia\n--- Ângulo ES: Destacar reação de clientes capixabas nas redes sociais e impacto do Nubank na vida financeira dos espírito-santenses\n--- Por que performa: Trend com 10.000+ buscas sobre erro do Nubank gera interesse em esclarecimentos\n--- Tipo: Notícia\n\n>>> Instagram e Facebook caem novamente: veja o que fazer quando as redes sociais saem do ar\n--- Editoria: Tecnologia\n--- Ângulo ES: Como empresários e influencers capixabas lidam com instabilidade das plataformas e alternativas locais\n--- Por que performa: Trend com 150.000+ buscas sobre instabilidade das redes sociais\n--- Tipo: Serviço\n\n>>> SpaceX vale US$ 1,8 trilhão: como empresa de Elon Musk chegou ao top 10 mundial\n--- Editoria: Economia\n--- Ângulo ES: Comparar valor da SpaceX com PIB do Espírito Santo e empresas locais para dimensionar grandeza\n--- Por que performa: Trend com 5.000+ buscas sobre valorização recorde da SpaceX\n--- Tipo: Explicativo\n\n>>> Hyundai i20 chega por R$ 99.990: novo hatch pode conquistar capixabas em 2025?\n--- Editoria: Automóveis\n--- Ângulo ES: Expectativa de chegada às concessionárias do ES e comparação com outros hatches vendidos no estado\n--- Por que performa: Trend com 2.000+ buscas sobre lançamento do modelo no Brasil\n--- Tipo: Análise\n\n>>> Teste do pezinho detecta doenças raras: onde fazer no ES e por que é essencial\n--- Editoria: Saúde\n--- Ângulo ES: Hospitais e maternidades do ES que oferecem o exame e casos de sucesso no diagnóstico precoce\n--- Por que performa: Trend com 2.000+ buscas sobre importância do teste para bebês\n--- Tipo: Serviço\n\n>>> Tubarão-branco gigante é fisgado nos EUA: espécie já foi vista no litoral do ES?\n--- Editoria: Meio Ambiente\n--- Ângulo ES: Histórico de avistamentos de tubarões no litoral capixaba e orientações para banhistas\n--- Por que performa: Trend com 500+ buscas sobre vídeo viral de tubarão-branco\n--- Tipo: Explicativo\n\n>>> Ronaldo Caiado perde força para 2026: como cenário nacional afeta políticos do ES\n--- Editoria: Política\n--- Ângulo ES: Reflexos da pesquisa nacional nas articulações políticas para governador do ES em 2026\n--- Por que performa: Trend com 2.000+ buscas sobre pesquisas eleitorais para 2026\n--- Tipo: Análise\n\n>>> 7 sinais de que suas redes sociais podem sair do ar a qualquer momento\n--- Editoria: Tecnologia\n--- Ângulo ES: Dicas para influencers e empresários capixabas se protegerem de instabilidades\n--- Por que performa: Aproveitamento dos trends sobre Instagram e Facebook fora do ar\n--- Tipo: Lista\n\n>>> Empresas mais valiosas do mundo: nenhuma brasileira no top 10, mas ES tem potencial?\n--- Editoria: Economia\n--- Ângulo ES: Maiores empresas do ES no ranking nacional e potencial de crescimento no cenário global\n--- Por que performa: Trend sobre SpaceX no top 10 gera curiosidade sobre rankings empresariais\n--- Tipo: Explicativo\n\n>>> Pescadores do ES já enfrentaram 'monstros do mar': relembre casos marcantes\n--- Editoria: Curiosidades\n--- Ângulo ES: Histórias de pescadores capixabas com grandes capturas e encontros inusitados no mar\n--- Por que performa: Trend do tubarão-branco desperta interesse em histórias similares regionais\n--- Tipo: Lista"
+    "resumo": "Dia extremamente desafiador com 76.348 page views contra meta de 223.945, atingindo apenas 34% do objetivo. A manhã foi o período mais forte com 38.368 PVs, seguida por uma tarde decepcionante com 19.945 PVs e uma noite muito fraca com apenas 8.679 PVs. Todos os checkpoints ficaram muito abaixo das expectativas, especialmente o da noite que deveria ter atingido 223.945 mas parou em 74.487. Com esse resultado, a meta de amanhã salta para 232.145 PVs para compensar o déficit acumulado.",
+    "horarios": ">>> Manhã (6h-11h): 38.368 PVs representaram exatamente 50% do total diário, mostrando concentração excessiva no período matutino\n>>> Checkpoint 11h: 47.724 contra meta de 60.000, ficando 20% abaixo do esperado para o horário\n>>> Tarde (12h-17h): 19.945 PVs evidenciaram queda acentuada de engajamento no período vespertino\n>>> Checkpoint 17h: 67.669 contra meta de 130.000, demonstrando déficit crítico de 48% até o final da tarde\n>>> Noite (18h-23h): 8.679 PVs revelaram colapso total da audiência noturna, representando apenas 11% do total",
+    "padrao": ">>> Top 5 dominado integralmente por matérias antigas, com destaque para conteúdo esportivo sobre Copa de 2026\n>>> Matérias de ocasião como Dia dos Namorados mantiveram relevância com 1.509 PVs\n>>> Conteúdo de moda e lifestyle apareceu em duplicata no top 5, indicando apelo do público para esse tema\n>>> Matéria policial sobre influenciador em Jardim Camburi sustentou interesse local com 1.566 PVs\n>>> Ausência total de matérias novas no ranking sugere produção insuficiente ou baixa qualidade do conteúdo atual",
+    "editorias": ">>> Esportes liderou com 7.287 PVs em 35 URLs, média de 208 PVs por matéria\n>>> Cotidiano registrou 4.709 PVs em 38 URLs, média de 124 PVs por matéria\n>>> Polícia alcançou 4.658 PVs em 33 URLs, média de 141 PVs por matéria\n>>> Cultura obteve 4.046 PVs em 56 URLs, média baixa de 72 PVs por matéria\n>>> Social teve eficiência destacada com 3.141 PVs em apenas 11 URLs, média de 286 PVs por matéria\n>>> Trânsito mostrou boa performance com 3.215 PVs em 16 URLs, média de 201 PVs por matéria",
+    "trafego": ">>> Google Orgânico dominou com 61% do tráfego, sinalizando boa saúde de SEO mas dependência excessiva\n>>> Tráfego direto de 33% indica fidelização razoável da audiência\n>>> Redes sociais contribuíram com apenas 4%, revelando oportunidade perdida de amplificação\n>>> AI Assistant trouxe 73 PVs, mostrando presença inicial em ferramentas de inteligência artificial\n>>> Tráfego pago praticamente inexistente com apenas 16 PVs combinados, indicando ausência de investimento",
+    "eficiencia": "Média real por matéria indisponível devido ao sitemap fora do ar. Não foi possível calcular quantas matérias foram publicadas no dia nem a eficiência individual de cada conteúdo. Sistema de monitoramento comprometido impede análise detalhada de performance editorial.",
+    "erros": ">>> Sitemap indisponível impedindo análise de eficiência e monitoramento adequado da produção\n>>> Colapso da audiência noturna com apenas 8.679 PVs, muito abaixo do padrão histórico\n>>> Nenhuma matéria nova conseguiu entrar no top 5, indicando falha na produção de conteúdo relevante\n>>> Meta diária perdida por 147.597 PVs, o maior déficit registrado recentemente",
+    "oportunidades": ">>> Amplificar conteúdo esportivo que já demonstra alta performance com 208 PVs de média por matéria\n>>> Investir em redes sociais que representam apenas 4% do tráfego, muito abaixo do potencial\n>>> Explorar horário vespertino que registrou queda significativa comparado à manhã\n>>> Desenvolver estratégia de tráfego pago que está praticamente zerada\n>>> Criar conteúdo local similar à matéria do influenciador que mantém interesse sustentado",
+    "acoes": ">>> Publicar 15 matérias até 11h focando em trending topics e assuntos locais para capturar audiência matinal\n>>> Programar 8 posts nas redes sociais com chamadas atrativas para aumentar tráfego social\n>>> Implementar plantão noturno com 5 matérias entre 18h-22h para reverter colapso do período\n>>> Ativar campanha de tráfego pago com orçamento mínimo de R$ 200 focando em conteúdo esportivo\n>>> Corrigir sitemap até 8h para retomar monitoramento de eficiência editorial",
+    "metaacumulada": "A meta dinâmica funciona dividindo o que falta para atingir os 6 milhões mensais pelos dias restantes. Com 1.821.394 PVs acumulados, faltam 4.178.606 PVs para a meta mensal. Dividindo pelos 18 dias restantes, a meta de amanhã sobe para 232.145 PVs. Cada dia perdido aumenta a pressão dos dias seguintes, criando um efeito cascata que torna a recuperação progressivamente mais difícil.",
+    "historicodia": ">>> Performance 60% inferior ao mesmo dia da semana nas últimas 8 semanas (192.367 PVs de média)\n>>> Resultado 57% abaixo da média dos últimos 30 dias (177.266 PVs)\n>>> Queda representa o pior desempenho registrado para uma quinta-feira no período analisado",
+    "historicomes": ">>> Acumulado mensal 29% inferior ao mesmo período do mês anterior (2.566.663 PVs)\n>>> Projeção atual indica fechamento do mês com aproximadamente 3,6 milhões de PVs\n>>> Déficit acumulado compromete seriamente as chances de recuperação mensal",
+    "tendencia": "Tendência de 30 dias mostra queda de 9% comparando com os 30 dias anteriores, evidenciando deterioração consistente da audiência. O melhor mês foi julho de 2025 com 13.625.154 PVs, enquanto o pior foi fevereiro de 2025 com 4.527.477 PVs. A performance atual aponta para um resultado próximo ao pior mês histórico caso não haja reversão imediata.",
+    "alerta": "\"Meta de amanhã de 232.145 PVs representa um desafio 204% maior que a performance de hoje, exigindo mobilização total da redação\"",
+    "licao": "A concentração excessiva da audiência no período matinal revelou a necessidade urgente de distribuir melhor o conteúdo ao longo do dia. O colapso noturno e a ausência de matérias novas no top 5 demonstram que não basta produzir, é preciso produzir com timing e relevância adequados. \"Audiência não espera, ela migra para quem entrega conteúdo no momento certo.\"",
+    "tendencias": ">>> Caso Eloá: como identificar sinais de relacionamento abusivo e onde buscar ajuda no ES\n--- Editoria: Segurança\n--- Ângulo ES: Listar canais de denúncia e apoio em Vitória e região metropolitana, como Delegacia da Mulher e Centro de Referência da Mulher\n--- Por que performa: Trending topic \"crime\" com 100+ buscas relacionado ao caso que marcou o país\n--- Tipo: Serviço\n\n>>> Concurso da Polícia Penal do RS: oportunidade para capixabas que querem trabalhar no sistema prisional\n--- Editoria: Concursos\n--- Ângulo ES: Orientar capixabas interessados em participar, comparar com concursos similares no ES e mostrar como se preparar\n--- Por que performa: 200+ buscas para \"concurso polícia penal rs\" indicam interesse em oportunidades na área\n--- Tipo: Explicativo\n\n>>> Inteligência artificial pode revolucionar empresas capixabas: veja como usar a tecnologia\n--- Editoria: Tecnologia\n--- Ângulo ES: Mostrar cases de empresas do ES que já usam IA, desde o agronegócio até startups locais\n--- Por que performa: \"Artificial intelligence news\" tem 1000+ buscas e é tema em ascensão\n--- Tipo: Análise\n\n>>> Eliminatórias da Copa do Mundo 2026: onde assistir os jogos do Brasil em Vitória\n--- Editoria: Esportes\n--- Ângulo ES: Listar bares, restaurantes e espaços em Vitória e região metropolitana para acompanhar os jogos\n--- Por que performa: \"World cup qualifiers schedule\" com 100+ buscas mostra interesse nos jogos da seleção\n--- Tipo: Lista\n\n>>> Aposentadoria no litoral: por que o Espírito Santo atrai brasileiros para viver a terceira idade\n--- Editoria: Economia\n--- Ângulo ES: Destacar cidades como Guarapari, Vila Velha e Domingos Martins como destinos para aposentados\n--- Por que performa: \"Best places to retire\" tem 200+ buscas de pessoas planejando aposentadoria\n--- Tipo: Notícia\n\n>>> Criptomoedas em alta: como capixabas podem investir com segurança em 2025\n--- Editoria: Economia\n--- Ângulo ES: Orientar leitores locais sobre regulamentação, riscos e como começar a investir com responsabilidade\n--- Por que performa: \"Cryptocurrency trading\" com 100+ buscas indica interesse em investimentos digitais\n--- Por que performa: Tema em alta mostra busca por oportunidades de investimento\n--- Tipo: Explicativo\n\n>>> iPhone dobrável da Apple: quando chega ao Brasil e quanto deve custar no ES\n--- Editoria: Tecnologia\n--- Ângulo ES: Calcular preço estimado com impostos locais e onde será possível comprar em Vitória\n--- Por que performa: \"Latest iphone rumors\" com 100+ buscas mostra curiosidade sobre novos produtos Apple\n--- Tipo: Serviço\n\n>>> IPO na Bolsa: empresas capixabas que podem abrir capital e como investir\n--- Editoria: Economia\n--- Ângulo ES: Analisar potencial de empresas locais para abertura de capital e explicar como capixabas podem investir\n--- Por que performa: \"What is an ipo\" com 100+ buscas indica interesse em entender mercado de ações\n--- Tipo: Explicativo\n\n>>> Marketing de influenciadores movimenta R$ milhões no ES: conheça os digitais capixabas de sucesso\n--- Editoria: Economia\n--- Ângulo ES: Perfil de influenciadores locais que faturam alto e impacto econômico do setor no estado\n--- Por que performa: \"Influencer marketing\" com 200+ buscas mostra interesse no mercado digital\n--- Tipo: Análise\n\n>>> NBA 2025: onde assistir aos jogos em Vitória e como acompanhar a temporada\n--- Editoria: Esportes\n--- Ângulo ES: Listar bares e espaços que transmitem NBA na Grande Vitória e horários dos principais jogos\n--- Por que performa: \"NBA standings\" com 100+ buscas indica interesse na liga americana de basquete\n--- Tipo: Serviço"
   },
   "tendencias": [
     {
-      "titulo": "tubarão-branco",
-      "trafico": "500+",
-      "contexto": "Vídeo mostra pescador fisgando tubarão-branco gigante em praia nos EUA; animal foi devolvido ao mar"
+      "titulo": "crime",
+      "trafico": "100+",
+      "contexto": "História do Crime Caso Eloá: a adolescente que foi morta pelo ex após ser mantida em cativeiro por q"
     },
     {
-      "titulo": "nubank",
-      "trafico": "10000+",
-      "contexto": "Nubank envia e-mail por engano sobre suposta liquidação do banco; instituição segue operando"
+      "titulo": "nba standings",
+      "trafico": "100+",
+      "contexto": "San Antonio Spurs vs New York Knicks Jun 10, 2026 Box Scores"
     },
     {
-      "titulo": "ronaldo caiado",
-      "trafico": "2000+",
-      "contexto": "Pesquisa: Renan Santos ganha terreno em termômetro da eleição de 2026"
+      "titulo": "concurso polícia penal rs",
+      "trafico": "200+",
+      "contexto": ""
     },
     {
-      "titulo": "ins",
-      "trafico": "500+",
-      "contexto": "Tommy Fury vs Eddie Hall: Heavyweight bout to be an exhibition contest"
+      "titulo": "artificial intelligence news",
+      "trafico": "1000+",
+      "contexto": "Anthropic Halts Access to Top AI Models After U.S. Ban on Foreign Use"
     },
     {
-      "titulo": "what",
-      "trafico": "500+",
-      "contexto": "2026 NBA Finals: Knicks-Spurs Game 5 preview, X factors, MVP pick"
+      "titulo": "world cup qualifiers schedule",
+      "trafico": "100+",
+      "contexto": "World Cup beginner’s guide: What you need to know for the biggest sporting event in the world"
     },
     {
-      "titulo": "teste",
-      "trafico": "2000+",
-      "contexto": "Teste do pezinho permite diagnóstico precoce de doenças raras e pode evitar sequelas irreversíveis"
+      "titulo": "best places to retire",
+      "trafico": "200+",
+      "contexto": "8 Best Places To Retire on the Pacific Coast"
     },
     {
-      "titulo": "hyundai i20",
-      "trafico": "2000+",
-      "contexto": "Hyundai lança i20 no Brasil por R$ 99.990, desafia onda dos SUVs com novo hatch; veja o teste"
+      "titulo": "cryptocurrency trading",
+      "trafico": "100+",
+      "contexto": "Earning Money With AI in 2026: 7 AI Crypto Trading Tools Traders Are Watching"
     },
     {
-      "titulo": "instagram",
-      "trafico": "100000+",
-      "contexto": "Is Facebook down? Users reporting outage"
+      "titulo": "latest iphone rumors",
+      "trafico": "100+",
+      "contexto": "Apple’s iOS 27 Is Filled With Hints About Its Upcoming Foldable iPhone"
     },
     {
-      "titulo": "instagram caiu",
-      "trafico": "50000+",
-      "contexto": "Instagram e Facebook apresentam instabilidade nesta sexta"
+      "titulo": "what is an ipo",
+      "trafico": "100+",
+      "contexto": "IPO investing: What are IPO stocks and the best brokers for IPO access?"
     },
     {
-      "titulo": "spcx",
-      "trafico": "5000+",
-      "contexto": "Com US$ 1,8 trilhão, SpaceX é 8ª empresa mais valiosa do mundo; veja top 10"
+      "titulo": "influencer marketing",
+      "trafico": "200+",
+      "contexto": "Creator Marketing Earned the Budget, Now It Has to Justify It at Scale"
     }
   ]
 }
