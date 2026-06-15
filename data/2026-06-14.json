@@ -1,0 +1,389 @@
+{
+  "dataDisplay": "14/06/2026",
+  "geradoEm": "2026-06-15T09:19:15.972Z",
+  "pvTotal": 90521,
+  "pctMeta": 38,
+  "metaHoje": 237256,
+  "metaAmanha": 246427,
+  "saldoOntem": -146735,
+  "deficitOntem": 146735,
+  "metaDiaria": 200000,
+  "metaMensal": 6000000,
+  "usuarios": 40344,
+  "sessions": 57639,
+  "pgsPorSessao": "1.57",
+  "tempoMedio": "2min07s",
+  "pvManha": 23508,
+  "pvTarde": 30300,
+  "pvNoite": 28578,
+  "checkpoints": [
+    {
+      "label": "Até 11h",
+      "pv": 31643,
+      "meta": 60000,
+      "status": "MUITO ABAIXO"
+    },
+    {
+      "label": "Até 17h",
+      "pv": 61943,
+      "meta": 130000,
+      "status": "MUITO ABAIXO"
+    },
+    {
+      "label": "Até 21h",
+      "pv": 83047,
+      "meta": 237256,
+      "status": "MUITO ABAIXO"
+    }
+  ],
+  "producao": {
+    "disponivel": false
+  },
+  "topMaterias": [
+    {
+      "pos": 1,
+      "titulo": "Qual é o caminho do Brasil até a final da Copa de 2026?",
+      "pv": 4668,
+      "publicadaHoje": false
+    },
+    {
+      "pos": 2,
+      "titulo": "Semana começa com chuva no Espírito Santo; veja a previsão",
+      "pv": 3536,
+      "publicadaHoje": false
+    },
+    {
+      "pos": 3,
+      "titulo": "Um inglês radicado no Centro se inspira na Vila Rubim para criar obras de arte",
+      "pv": 1740,
+      "publicadaHoje": false
+    },
+    {
+      "pos": 4,
+      "titulo": "Acidente entre motos deixa dois mortos e um ferido na Serra",
+      "pv": 1565,
+      "publicadaHoje": false
+    },
+    {
+      "pos": 5,
+      "titulo": "Verdadeiro luxo: Dorion Soares, o joalheiro que transforma gemas em arte de milhões",
+      "pv": 1534,
+      "publicadaHoje": false
+    }
+  ],
+  "piorDesempenho": [],
+  "editorias": [
+    {
+      "nome": "esportes",
+      "pvTotal": 9310,
+      "pvPublicadas": 0,
+      "publicadas": null,
+      "urlsAcessadas": 44,
+      "mediaCorreta": null
+    },
+    {
+      "nome": "policia",
+      "pvTotal": 7961,
+      "pvPublicadas": 0,
+      "publicadas": null,
+      "urlsAcessadas": 39,
+      "mediaCorreta": null
+    },
+    {
+      "nome": "cotidiano",
+      "pvTotal": 5807,
+      "pvPublicadas": 0,
+      "publicadas": null,
+      "urlsAcessadas": 37,
+      "mediaCorreta": null
+    },
+    {
+      "nome": "copa-do-mundo",
+      "pvTotal": 5189,
+      "pvPublicadas": 0,
+      "publicadas": null,
+      "urlsAcessadas": 35,
+      "mediaCorreta": null
+    },
+    {
+      "nome": "tempo",
+      "pvTotal": 3960,
+      "pvPublicadas": 0,
+      "publicadas": null,
+      "urlsAcessadas": 8,
+      "mediaCorreta": null
+    },
+    {
+      "nome": "social",
+      "pvTotal": 3786,
+      "pvPublicadas": 0,
+      "publicadas": null,
+      "urlsAcessadas": 17,
+      "mediaCorreta": null
+    },
+    {
+      "nome": "cultura",
+      "pvTotal": 3526,
+      "pvPublicadas": 0,
+      "publicadas": null,
+      "urlsAcessadas": 51,
+      "mediaCorreta": null
+    }
+  ],
+  "origens": [
+    {
+      "canal": "Google Orgânico",
+      "pv": 53188,
+      "pct": 59
+    },
+    {
+      "canal": "Direto",
+      "pv": 29844,
+      "pct": 33
+    },
+    {
+      "canal": "Social",
+      "pv": 4677,
+      "pct": 5
+    },
+    {
+      "canal": "Links externos",
+      "pv": 2170,
+      "pct": 2
+    },
+    {
+      "canal": "Não identificado",
+      "pv": 483,
+      "pct": 1
+    },
+    {
+      "canal": "AI Assistant",
+      "pv": 94,
+      "pct": 0
+    },
+    {
+      "canal": "Paid Social",
+      "pv": 49,
+      "pct": 0
+    },
+    {
+      "canal": "Paid Other",
+      "pv": 10,
+      "pct": 0
+    },
+    {
+      "canal": "E-mail",
+      "pv": 3,
+      "pct": 0
+    },
+    {
+      "canal": "YouTube",
+      "pv": 3,
+      "pct": 0
+    }
+  ],
+  "historico": {
+    "mediaMesmoDia": 160403,
+    "varMesmoDia": -44,
+    "media30": 168645,
+    "media30a": 200393,
+    "var30": -16,
+    "pvMesAtualAcum": 2057179,
+    "pvMesAntMesmoPer": 3046914,
+    "varMesAnt": -32,
+    "diasRestantes": 16,
+    "pvFaltaMes": 3942821,
+    "mediaNecessaria": 246427,
+    "mediaMensal": 6814068,
+    "melhorMes": {
+      "mes": "202507",
+      "pv": 13625154,
+      "label": "Jul/25"
+    },
+    "piorMes": {
+      "mes": "202502",
+      "pv": 4527477,
+      "label": "Fev/25"
+    },
+    "mensal": [
+      {
+        "mes": "202501",
+        "pv": 7245874,
+        "label": "Jan/25",
+        "atual": false
+      },
+      {
+        "mes": "202502",
+        "pv": 4527477,
+        "label": "Fev/25",
+        "atual": false
+      },
+      {
+        "mes": "202503",
+        "pv": 5367201,
+        "label": "Mar/25",
+        "atual": false
+      },
+      {
+        "mes": "202504",
+        "pv": 6945113,
+        "label": "Abr/25",
+        "atual": false
+      },
+      {
+        "mes": "202505",
+        "pv": 6591733,
+        "label": "Mai/25",
+        "atual": false
+      },
+      {
+        "mes": "202506",
+        "pv": 11659575,
+        "label": "Jun/25",
+        "atual": false
+      },
+      {
+        "mes": "202507",
+        "pv": 13625154,
+        "label": "Jul/25",
+        "atual": false
+      },
+      {
+        "mes": "202508",
+        "pv": 10001619,
+        "label": "Ago/25",
+        "atual": false
+      },
+      {
+        "mes": "202509",
+        "pv": 6679985,
+        "label": "Set/25",
+        "atual": false
+      },
+      {
+        "mes": "202510",
+        "pv": 5336318,
+        "label": "Out/25",
+        "atual": false
+      },
+      {
+        "mes": "202511",
+        "pv": 4564202,
+        "label": "Nov/25",
+        "atual": false
+      },
+      {
+        "mes": "202512",
+        "pv": 5524739,
+        "label": "Dez/25",
+        "atual": false
+      },
+      {
+        "mes": "202601",
+        "pv": 4978658,
+        "label": "Jan/26",
+        "atual": false
+      },
+      {
+        "mes": "202602",
+        "pv": 6402972,
+        "label": "Fev/26",
+        "atual": false
+      },
+      {
+        "mes": "202603",
+        "pv": 5172054,
+        "label": "Mar/26",
+        "atual": false
+      },
+      {
+        "mes": "202604",
+        "pv": 5076878,
+        "label": "Abr/26",
+        "atual": false
+      },
+      {
+        "mes": "202605",
+        "pv": 6139608,
+        "label": "Mai/26",
+        "atual": false
+      },
+      {
+        "mes": "202606",
+        "pv": 2057179,
+        "label": "Jun/26",
+        "atual": true
+      }
+    ]
+  },
+  "analises": {
+    "resumo": "O dia 14/06/2026 registrou 90.521 pageviews contra meta de 237.256, representando apenas 38% do objetivo e déficit de 146.735 PVs. A distribuição temporal mostrou tarde como melhor período (30.300 PVs), seguida da noite (28.578) e manhã (23.508). Todos os checkpoints ficaram muito abaixo das expectativas, sinalizando dia extremamente fraco. Com 40.344 usuários únicos e 57.639 sessões, o engajamento médio foi baixo (1,57 páginas por sessão).",
+    "horarios": ">>> Manhã (6h-11h): 23.508 PVs, período mais fraco do dia, representando 26% da audiência total\n>>> Tarde (12h-17h): 30.300 PVs, melhor desempenho relativo, mas ainda insuficiente para recuperar o dia\n>>> Noite (18h-23h): 28.578 PVs, queda em relação à tarde quando deveria ser o pico de audiência\n>>> Checkpoint 11h: 31.643 de 60.000 (53% da meta), início já comprometido\n>>> Checkpoint 17h: 61.943 de 130.000 (48% da meta), recuperação insuficiente no período vespertino\n>>> Checkpoint 21h: 83.047 de 237.256 (35% da meta), noite não conseguiu reverter o cenário",
+    "padrao": ">>> Copa do Mundo 2026 lidera com 4.668 PVs, demonstrando interesse do público por conteúdo esportivo internacional\n>>> Previsão do tempo mantém relevância com 3.536 PVs, confirmando demanda por informação de utilidade pública\n>>> Cultura local ganha destaque com perfis (artista inglês e joalheiro), somando 3.274 PVs\n>>> Notícias policiais regionais (Serra) geram 1.565 PVs, mostrando interesse por acontecimentos locais\n>>> Todas as top 5 são matérias antigas, indicando ausência de conteúdo novo relevante no dia",
+    "editorias": ">>> Esportes lidera com 211 PVs por URL (9.310 ÷ 44), beneficiada pelo interesse na Copa do Mundo\n>>> Policia registra 204 PVs por URL (7.961 ÷ 39), mantendo consistência em hard news\n>>> Tempo atinge 495 PVs por URL (3.960 ÷ 8), maior eficiência por concentração de conteúdo\n>>> Social alcança 223 PVs por URL (3.786 ÷ 17), boa performance em lifestyle\n>>> Copa-do-mundo específica marca 148 PVs por URL (5.189 ÷ 35), complementando esportes gerais\n>>> Cotidiano e cultura apresentam baixa eficiência com 157 e 69 PVs por URL respectivamente",
+    "trafego": ">>> Google Orgânico domina com 59% (53.188 PVs), indicando boa indexação mas volume insuficiente\n>>> Tráfego direto representa 33% (29.844 PVs), demonstrando fidelidade da audiência apesar do baixo volume\n>>> Redes sociais contribuem apenas 5% (4.677 PVs), sinalizando baixo engajamento ou alcance limitado\n>>> Links externos somam 2% (2.170 PVs), mostrando pouca repercussão externa do conteúdo\n>>> Canais pagos praticamente inexistentes (59 PVs total), ausência de investimento em mídia paga",
+    "eficiencia": "Média real por matéria indisponível devido ao sitemap fora do ar. Sem acesso aos dados de produção editorial, não é possível calcular eficiência individual das matérias ou produtividade da redação. Sistema técnico precisa ser restabelecido para análise completa.",
+    "erros": ">>> Ausência de conteúdo novo relevante, com top 5 composto exclusivamente por matérias antigas\n>>> Meta de 237.256 PVs muito distante da realidade, indicando possível problema de planejamento ou execução\n>>> Baixíssimo engajamento social (5%), mostrando estratégia de redes ineficiente\n>>> Queda noturna quando deveria haver pico de audiência, perdendo horário nobre",
+    "oportunidades": ">>> Explorar mais conteúdo sobre Copa do Mundo 2026, único tema novo com alta performance\n>>> Intensificar cobertura policial regional, editoria com boa eficiência por URL\n>>> Ampliar estratégia em redes sociais para aumentar os 5% atuais de participação no tráfego\n>>> Criar mais conteúdo de utilidade pública como previsão do tempo, que mantém audiência cativa\n>>> Desenvolver séries culturais sobre personalidades locais, padrão que se repete no top 5",
+    "acoes": ">>> Produzir ao menos 3 matérias sobre Copa do Mundo 2026 para capitalizar o interesse demonstrado\n>>> Intensificar cobertura policial e de trânsito da Grande Vitória no período matutino\n>>> Implementar estratégia de redes sociais com meta de dobrar participação de 5% para 10%\n>>> Agendar publicações estratégicas entre 18h-21h para capturar audiência noturna\n>>> Restabelecer sitemap para monitoramento de eficiência e ajustar meta diária para 246.427 PVs",
+    "metaacumulada": "A meta dinâmica de 237.256 PVs foi calculada dividindo o restante necessário para atingir 6 milhões mensais pelos dias restantes incluindo ontem. Com acumulado de 2.057.179 PVs, faltam 3.942.821 para completar a meta mensal. A meta de amanhã sobe para 246.427 PVs, resultado da divisão dos 3.942.821 restantes pelos 16 dias que sobram no mês. Cada dia perdido aumenta exponencialmente a pressão sobre os dias seguintes.",
+    "historicodia": ">>> Performance 44% abaixo da média do mesmo dia da semana (160.403), indicando queda significativa no padrão\n>>> Resultado 46% inferior à média dos últimos 30 dias (168.645), confirmando tendência negativa\n>>> Distância grande entre expectativa histórica e realidade atual, sugerindo mudança no comportamento da audiência",
+    "historicomes": ">>> Acumulado mensal 32% abaixo do mesmo período do mês anterior (3.046.914), queda preocupante\n>>> No ritmo atual, mês fechará com aproximadamente 2.743.572 PVs, muito distante da meta de 6 milhões\n>>> Necessário crescimento de 246% na média diária para atingir objetivo mensal",
+    "tendencia": "A tendência dos últimos 30 dias mostra queda de 16% em relação ao período anterior, confirmando movimento descendente. O melhor mês foi julho/2025 com 13.625.154 PVs, mais que o dobro da meta atual, enquanto o pior foi fevereiro/2025 com 4.527.477 PVs. A performance atual se aproxima perigosamente do pior histórico registrado.",
+    "alerta": "\"Com apenas 38% da meta diária alcançada e tendência negativa consolidada, o portal corre risco real de registrar o pior mês da história, exigindo intervenção urgente na estratégia editorial e de distribuição.\"",
+    "licao": "O dia demonstrou que audiência cativa existe mas não é suficiente, com 33% de tráfego direto em volume baixo. A dependência excessiva de matérias antigas no top 5 revela falta de produção de conteúdo relevante atual. Copa do Mundo se confirma como assunto de interesse, mas precisa de exploração mais intensa. \"Audiência fiel sem conteúdo novo relevante é receita para irrelevância crescente.\"",
+    "tendencias": ">>> Corinthians aceita 20 milhões de euros por Yuri Alberto: como a venda impacta o futebol brasileiro\n--- Editoria: Esporte\n--- Ângulo ES: Comparar com vendas históricas de jogadores capixabas para o exterior e como isso afeta as oportunidades para atletas do estado\n--- Por que performa: Busca alta por \"yuri alberto\" devido à negociação milionária do Corinthians\n--- Tipo: Notícia\n\n>>> Nubank explica falha que assustou clientes com mensagem misteriosa sobre \"liquid\"\n--- Editoria: Economia\n--- Ângulo ES: Pesquisar quantos capixabas usam o Nubank e como falhas bancárias afetam a confiança dos consumidores locais\n--- Por que performa: Tendência \"banco\" em alta após erro do Nubank gerar confusão entre usuários\n--- Tipo: Notícia\n\n>>> Filha de Sheila Mello rebate críticas: \"Ninguém te conhece\" - entenda a polêmica\n--- Editoria: Celebridades\n--- Ângulo ES: Como famosos lidam com filhos adolescentes e redes sociais no ES - casos locais\n--- Por que performa: \"Sheila Mello\" está em alta após declaração polêmica da filha da ex-dançarina\n--- Tipo: Notícia\n\n>>> 10 melhores pizzarias de Vitória e Vila Velha segundo avaliações do Google\n--- Editoria: Gastronomia\n--- Ângulo ES: Ranking completo das pizzarias mais bem avaliadas na Grande Vitória com preços e especialidades\n--- Por que performa: \"Pizza\" é tendência de busca, aproveitando para conteúdo local gastronômico\n--- Tipo: Lista\n\n>>> Por que o Espírito Santo pode ser o melhor lugar para se aposentar no Brasil\n--- Editoria: Bem-estar\n--- Ângulo ES: Analisar custo de vida, qualidade de vida e infraestrutura para aposentados no ES comparado a outros estados\n--- Por que performa: \"Best places to retire\" está em alta, adaptando para realidade brasileira focada no ES\n--- Tipo: Análise\n\n>>> Como a inteligência artificial está mudando o mercado de trabalho no Espírito Santo\n--- Editoria: Tecnologia\n--- Ângulo ES: Empresas capixabas que já usam IA, impacto no Porto de Vitória e oportunidades de capacitação no estado\n--- Por que performa: \"Artificial intelligence news\" é tendência após movimentações no setor tech\n--- Tipo: Explicativo\n\n>>> Copa do Mundo 2026: calendário completo e onde assistir todos os jogos no Brasil\n--- Editoria: Esporte\n--- Ângulo ES: Locais em Vitória para assistir aos jogos, bares e casas de shows que transmitirão as partidas\n--- Por que performa: \"World cup qualifiers schedule\" em alta devido às eliminatórias em andamento\n--- Tipo: Serviço\n\n>>> Brasil sobe no ranking mundial da FIFA: veja a nova posição da Seleção\n--- Editoria: Esporte\n--- Ângulo ES: Como capixabas na seleção base e profissional contribuem para o ranking brasileiro\n--- Por que performa: \"Soccer world rankings\" é o trending topic com maior volume de buscas hoje\n--- Tipo: Notícia\n\n>>> Raducanu perde final em Queen's: resumo dos principais torneios de tênis hoje\n--- Editoria: Esporte\n--- Ângulo ES: Torneios de tênis no ES e onde praticar o esporte na Grande Vitória\n--- Por que performa: \"Tennis scores today\" está em tendência após final disputada\n--- Tipo: Notícia\n\n>>> Petróleo despenca após Trump anunciar acordo com Irã: impacto no Porto de Vitória\n--- Editoria: Economia\n--- Ângulo ES: Como oscilações do petróleo afetam a economia capixaba e as operações portuárias do estado\n--- Por que performa: \"Stock market news today\" em alta devido à volatilidade causada por questões geopolíticas\n--- Tipo: Análise"
+  },
+  "tendencias": [
+    {
+      "titulo": "yuri alberto",
+      "trafico": "200+",
+      "contexto": "Corinthians aceita proposta de 20 milhões de euros para vender Yuri Alberto, revela presidente"
+    },
+    {
+      "titulo": "banco",
+      "trafico": "2000+",
+      "contexto": "Nubank diz que &apos;desenvolvedor acionou por engano&apos; comando que enviou mensagem sobre liquid"
+    },
+    {
+      "titulo": "sheila mello",
+      "trafico": "200+",
+      "contexto": "Filha rebate fama de Sheila Mello: &apos;Ninguém te conhece&apos;"
+    },
+    {
+      "titulo": "pizza",
+      "trafico": "500+",
+      "contexto": "Former NFL defensive lineman Aldon Smith dies at age 36"
+    },
+    {
+      "titulo": "best places to retire",
+      "trafico": "500+",
+      "contexto": "7 Best Cities To Retire In Scotland"
+    },
+    {
+      "titulo": "artificial intelligence news",
+      "trafico": "500+",
+      "contexto": "A year after Meta tapped Alexandr Wang to build a new AI model, Zuckerberg has to sell it"
+    },
+    {
+      "titulo": "world cup qualifiers schedule",
+      "trafico": "500+",
+      "contexto": "World Cup 2026 schedule: How to watch every match for free"
+    },
+    {
+      "titulo": "soccer world rankings",
+      "trafico": "50000+",
+      "contexto": "Germany vs Curacao LIVE: FIFA World Cup 2026 Group E score, commentary, updates &amp; stats"
+    },
+    {
+      "titulo": "tennis scores today",
+      "trafico": "500+",
+      "contexto": "Emma Raducanu fights back from shocking start but loses Queen’s final to Donna Vekic"
+    },
+    {
+      "titulo": "stock market news today",
+      "trafico": "500+",
+      "contexto": "Oil Prices Tumble After Trump Announces Deal With Iran"
+    }
+  ]
+}
