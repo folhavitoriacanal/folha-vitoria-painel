@@ -1,6 +1,6 @@
 {
   "dataDisplay": "14/06/2026",
-  "geradoEm": "2026-06-15T15:30:15.533Z",
+  "geradoEm": "2026-06-15T16:19:27.878Z",
   "pvTotal": 90521,
   "pctMeta": 38,
   "metaHoje": 237256,
@@ -317,73 +317,73 @@
     ]
   },
   "analises": {
-    "resumo": "O dia 14/06/2026 foi extremamente fraco para o Folha Vitória, com apenas 90.521 PVs contra uma meta de 237.256, representando um déficit de 146.735 pageviews (38% da meta). A distribuição por períodos mostrou tarde liderando com 30.300 PVs, seguida da noite com 28.578 e manhã com 23.508. Todos os checkpoints ficaram muito abaixo das expectativas, com desempenho consistentemente baixo ao longo do dia. Com 40.272 usuários únicos e 60.082 sessões, o engajamento médio foi de 1,51 páginas por sessão.",
-    "horarios": ">>> Manhã (6h-11h): 23.508 PVs, período mais fraco do dia, representando 26% do total\n>>> Tarde (12h-17h): 30.300 PVs, melhor desempenho relativo, mas ainda insuficiente\n>>> Noite (18h-23h): 28.578 PVs, queda em relação à tarde quando deveria acelerar\n>>> Checkpoint 11h: 31.643 de 60.000 (53% da meta parcial) - MUITO ABAIXO\n>>> Checkpoint 17h: 61.943 de 130.000 (48% da meta parcial) - MUITO ABAIXO\n>>> Checkpoint 21h: 83.047 de 237.256 (35% da meta final) - MUITO ABAIXO",
-    "padrao": ">>> Esportes dominou com matéria sobre Copa de 2026 (4.668 PVs), mostrando força do tema futebol\n>>> Tempo/clima em segundo lugar com previsão do ES (3.536 PVs), conteúdo de utilidade pública\n>>> Cultura local performou bem com matéria sobre artista inglês na Vila Rubim (1.740 PVs)\n>>> Polícia presente no top com acidente na Serra (1.565 PVs), tema sempre relevante\n>>> Social/lifestyle fechou o top 5 com matéria sobre joalheiro (1.534 PVs)",
-    "editorias": ">>> Esportes: 9.310 PVs em 44 URLs = média de 211 PVs por matéria\n>>> Polícia: 7.961 PVs em 39 URLs = média de 204 PVs por matéria  \n>>> Cotidiano: 5.807 PVs em 37 URLs = média de 157 PVs por matéria\n>>> Copa do Mundo: 5.189 PVs em 35 URLs = média de 148 PVs por matéria\n>>> Tempo: 3.960 PVs em 8 URLs = média de 495 PVs por matéria (melhor eficiência)\n>>> Social: 3.786 PVs em 17 URLs = média de 223 PVs por matéria\n>>> Cultura: 3.526 PVs em 51 URLs = média de 69 PVs por matéria (pior eficiência)",
-    "trafego": ">>> Google Orgânico mantém dominância com 59% (53.192 PVs), mas volume insuficiente\n>>> Tráfego direto forte com 33% (29.841 PVs), demonstra fidelidade da audiência\n>>> Redes sociais com apenas 5% (4.677 PVs), indicando baixo engajamento social\n>>> Links externos praticamente irrelevantes com 2% (2.170 PVs)\n>>> AI Assistant ainda marginal com 94 PVs, mas presente no mix de tráfego",
-    "eficiencia": "API REST indisponível impossibilitou o cálculo preciso da eficiência por matéria. Com base nos dados disponíveis, estimativa de 0 PVs por matéria para análise automatizada. Dependência total de cálculos manuais por editoria. Sistema de monitoramento comprometido para otimização em tempo real.",
-    "erros": ">>> Falta de conteúdo novo relevante - todas as top matérias são antigas\n>>> Produção editorial insuficiente para sustentar meta ambiciosa de 237K PVs\n>>> Baixo aproveitamento do potencial das redes sociais (apenas 5% do tráfego)\n>>> Distribuição temporal inadequada - noite deveria superar tarde significativamente",
-    "oportunidades": ">>> Explorar mais conteúdo sobre Copa de 2026, que lidera audiência\n>>> Intensificar cobertura policial e de cotidiano, editorias com boa média\n>>> Aproveitar eficiência da editoria Tempo para mais conteúdo meteorológico\n>>> Desenvolver estratégia para redes sociais e aumentar engajamento\n>>> Criar conteúdo evergreen que mantenha performance ao longo do tempo",
-    "acoes": ">>> Produzir ao menos 8-10 matérias quentes até 9h para capturar tráfego matinal\n>>> Focar em hard news e tempo real para aumentar busca orgânica\n>>> Implementar push notifications para conteúdo relevante nos horários de pico\n>>> Intensificar posts em redes sociais com call-to-action direto para o site  \n>>> Preparar conteúdo sobre Copa 2026 e clima ES para sustentar audiência base",
-    "metaacumulada": "A meta dinâmica de 237.256 PVs foi calculada dividindo o restante para atingir os 6 milhões mensais pelos dias disponíveis. Com acumulado de 2.057.179 PVs, faltam 3.942.821 PVs em 16 dias. O fracasso de hoje eleva a meta de amanhã para 246.427 PVs, um aumento de 9.171 PVs que pressiona ainda mais a operação. Cada dia perdido aumenta exponencialmente a pressão sobre os dias restantes.",
-    "historicodia": ">>> Performance 44% abaixo da média do mesmo dia da semana nas últimas 8 semanas (160.403 PVs)\n>>> Resultado 45% inferior à média dos últimos 30 dias (163.337 PVs)  \n>>> Confirma tendência de queda já observada no comparativo mensal",
-    "historicomes": ">>> Acumulado mensal 32% abaixo do mesmo período do mês anterior (3.046.914 PVs)\n>>> Ritmo atual projeta fechamento em torno de 3,4 milhões de PVs (muito abaixo da meta de 6 milhões)\n>>> Necessário acelerar drasticamente para recuperar terreno perdido",
-    "tendencia": "A média dos últimos 30 dias (163.337) está 20% abaixo dos 30 dias anteriores (203.476), confirmando tendência consistente de queda. O melhor mês da história foi julho/2025 com 13.625.154 PVs, enquanto o pior foi fevereiro/2025 com 4.527.477 PVs. O momento atual caminha perigosamente para território próximo ao pior desempenho histórico.",
-    "alerta": "\"Meta de amanhã sobe para 246.427 PVs - cada dia perdido torna a recuperação mais impossível\"",
-    "licao": "O dia evidenciou a fragilidade de depender exclusivamente de conteúdo antigo para sustentar audiência em cenário de alta competitividade digital. A ausência de produção editorial consistente e estratégia de distribuição adequada resulta em ciclo vicioso de metas crescentes e capacidade decrescente de entrega. No jornalismo digital, \"conteúdo é rei, mas distribuição é reino\".",
-    "tendencias": ">>> IBGE abre concurso com 1,4 mil vagas: veja salários e como se inscrever no ES\n--- Editoria: Concursos\n--- Ângulo ES: Destacar as vagas específicas para o Espírito Santo, postos de trabalho em Vitória e interior, impacto para economia local\n--- Por que performa: Concursos públicos geram alto engajamento, especialmente IBGE com mil+ buscas diárias\n--- Tipo: Serviço\n\n>>> Tiquinho Soares pode deixar Mirassol: relembre passagem do atacante pelo Vitória\n--- Editoria: Esportes\n--- Ângulo ES: Explorar a história do jogador no futebol capixaba, comparar com outros atacantes que saíram do ES para grandes clubes\n--- Por que performa: Movimentações no futebol brasileiro sempre geram interesse, jogador tem ligação local\n--- Tipo: Notícia\n\n>>> Beatriz Haddad Maia cai no ranking: como tenista inspira jovens capixabas no tênis\n--- Editoria: Esportes\n--- Ângulo ES: Mostrar crescimento do tênis no ES, academias e projetos sociais inspirados pela tenista, jovens talentos locais\n--- Por que performa: Bia é referência nacional com 2000+ buscas, público torce por brasileiros no exterior\n--- Tipo: Análise\n\n>>> Lamine Yamal escolhe Espanha: entenda as regras de nacionalidade no futebol\n--- Editoria: Esportes\n--- Ângulo ES: Explicar casos de jogadores capixabas ou que passaram pelo ES com dupla nacionalidade, regras da FIFA\n--- Por que performa: Curiosidade sobre regras do futebol internacional, jovem promessa com 2000+ buscas\n--- Tipo: Explicativo\n\n>>> Mudanças no aeroporto de Congonhas afetam voos para Vitória: o que muda\n--- Editoria: Cotidiano\n--- Ângulo ES: Impacto direto nos capixabas que viajam para São Paulo, orientações para passageiros, alternativas de transporte\n--- Por que performa: Informação prática para viajantes capixabas, mudanças em aeroportos sempre geram dúvidas\n--- Tipo: Serviço\n\n>>> Eduardo Moscovis será bígamo em nova novela: ator já gravou cenas no ES\n--- Editoria: Entretenimento\n--- Ângulo ES: Relembrar gravações de novelas e filmes no Espírito Santo, locações capixabas que viraram cenário nacional\n--- Por que performa: Novelas da Globo interessam público capixaba, ator conhecido nacionalmente\n--- Tipo: Notícia\n\n>>> Crise no showbusiness brasileiro: como produtores culturais do ES enfrentam momento\n--- Editoria: Cultura\n--- Ângulo ES: Ouvir produtores locais, impacto nos eventos capixabas, Festival de Inverno de Bonito e outros eventos regionais\n--- Por que performa: Assunto em alta sobre entretenimento, conexão com realidade cultural local\n--- Tipo: Análise\n\n>>> Luiza Brunet relembra Ayrton Senna: piloto tinha forte ligação com o Espírito Santo\n--- Editoria: Geral\n--- Ângulo ES: Explorar visitas de Senna ao ES, corridas em Vitória, fãs capixabas e memórias locais do piloto\n--- Por que performa: Nostalgia sobre Senna sempre engaja, conexão emocional forte com brasileiros\n--- Tipo: Notícia\n\n>>> Barcelona pode repatriar Ansu Fati: jovens talentos do ES sonham com futebol europeu\n--- Editoria: Esportes\n--- Ângulo ES: Mostrar jovens capixabas em clubes europeus ou em processo de seleção, academias locais que preparam talentos\n--- Por que performa: Mercado europeu atrai interesse, histórias de superação conectam com público local\n--- Tipo: Explicativo\n\n>>> Como acompanhar os jogos das Eliminatórias pela internet no ES: guia completo\n--- Editoria: Esportes\n--- Ângulo ES: Onde assistir na TV capixaba, bares e locais em Vitória para ver jogos, horários e programação local\n--- Por que performa: Eliminatórias sempre geram interesse massivo, informação prática para torcedores capixabas\n--- Tipo: Serviço"
+    "resumo": "O dia 14 de junho registrou 90.521 page views contra meta de 237.256, resultando em deficit de 146.735 (-62%). A distribuição horária mostrou equilíbrio entre tarde (30.300), noite (28.578) e manhã (23.508). Todos os checkpoints ficaram muito abaixo das expectativas, com o pior desempenho até 11h (31.643 vs 60.000). O resultado compromete gravemente o cumprimento da meta mensal de 6 milhões.",
+    "horarios": ">>> Manhã (6h-11h): 23.508 PVs, representando 26% do total diário\n>>> Tarde (12h-17h): 30.300 PVs, melhor período com 33% da audiência\n>>> Noite (18h-23h): 28.578 PVs, mantendo engajamento com 32% do total\n>>> Checkpoint 11h: 31.643 vs meta 60.000 (47% de deficit)\n>>> Checkpoint 17h: 61.943 vs meta 130.000 (52% de deficit)\n>>> Checkpoint 21h: 83.047 vs meta 237.256 (65% de deficit)",
+    "padrao": ">>> Copa do Mundo dominou com matéria sobre caminho do Brasil (4.668 PVs)\n>>> Tempo/clima manteve relevância com previsão semanal (3.536 PVs)\n>>> Cultura local gerou interesse com perfil de inglês na Vila Rubim (1.740 PVs)\n>>> Polícia teve destaque com acidente fatal na Serra (1.565 PVs)\n>>> Social/luxo atraiu audiência com perfil de joalheiro (1.534 PVs)",
+    "editorias": ">>> Esportes: 212 PVs por URL (9.310 total / 44 URLs)\n>>> Polícia: 204 PVs por URL (7.961 total / 39 URLs)  \n>>> Cotidiano: 157 PVs por URL (5.807 total / 37 URLs)\n>>> Copa do Mundo: 148 PVs por URL (5.189 total / 35 URLs)\n>>> Tempo: 495 PVs por URL (3.960 total / 8 URLs) - maior eficiência\n>>> Social: 223 PVs por URL (3.786 total / 17 URLs)\n>>> Cultura: 69 PVs por URL (3.526 total / 51 URLs) - menor eficiência",
+    "trafego": ">>> Google Orgânico mantém dominância com 59% (53.192 PVs), indicando boa otimização SEO\n>>> Tráfego direto forte com 33% (29.841 PVs), demonstrando fidelidade da audiência\n>>> Redes sociais com apenas 5% (4.677 PVs), sugerindo baixo engajamento social\n>>> Links externos limitados a 2% (2.170 PVs), indicando pouca viralização\n>>> Tráfego pago praticamente inexistente (0,02%), mostrando dependência orgânica total",
+    "eficiencia": "Média real por matéria: Dados indisponíveis devido a problemas no sitemap. Análise de eficiência editorial comprometida. Necessário resolver questões técnicas para monitoramento adequado da produção.",
+    "erros": ">>> Sitemap indisponível impedindo análise de eficiência editorial\n>>> Meta diária não alcançada em nenhum checkpoint do dia\n>>> Dependência excessiva de matérias antigas no ranking\n>>> Baixíssimo investimento em tráfego pago limitando crescimento",
+    "oportunidades": ">>> Copa do Mundo gera alto interesse - explorar mais conteúdos relacionados\n>>> Perfis locais (Vila Rubim, joalheiro) têm potencial - criar série\n>>> Tempo/clima sempre relevante - automatizar atualizações\n>>> Tráfego direto alto indica marca forte - investir em newsletter\n>>> Google Orgânico performando bem - intensificar SEO em tempo real",
+    "acoes": ">>> Resolver problema do sitemap com TI antes das 8h\n>>> Produzir 3 matérias sobre Copa focando seleção brasileira\n>>> Criar alerta meteorológico para próxima semana\n>>> Reforçar plantão policial para cobrir ocorrências em tempo real\n>>> Programar push notifications nos horários de pico (12h, 18h, 20h)",
+    "metaacumulada": "A meta diária de 237.256 foi calculada dividindo o restante necessário para atingir 6 milhões mensais pelos dias restantes. Com acumulado de 2.057.179, faltam 3.942.821 para a meta mensal. A meta de amanhã sobe para 246.427, refletindo a necessidade de compensar o deficit de hoje. Cada dia sem atingir a meta aumenta a pressão sobre os dias seguintes.",
+    "historicodia": ">>> Hoje: 90.521 vs média mesmo dia semana: 160.403 (-44%)\n>>> Variação negativa de 69.882 PVs comparado ao padrão semanal\n>>> Média 30 dias: 163.337 vs hoje: 90.521 (-45%)",
+    "historicomes": ">>> Acumulado junho: 2.057.179 vs maio mesmo período: 3.046.914 (-32%)\n>>> Projeção mensal atual: 4.115.358 (68% da meta de 6 milhões)\n>>> Necessário média de 246.426 nos próximos 16 dias",
+    "tendencia": "Tendência de 30 dias mostra queda de 20% comparado aos 30 dias anteriores. Melhor mês foi julho/2025 com 13.625.154 PVs. Pior mês foi fevereiro/2025 com 4.527.477 PVs, indicando que junho pode se aproximar do pior desempenho histórico se não houver reversão imediata.",
+    "alerta": "\"Meta mensal de 6 milhões em risco crítico - necessário atingir 246.427 PVs diários nos próximos 16 dias consecutivos\"",
+    "licao": "A audiência hoje demonstrou que conteúdo sobre Copa do Mundo e perfis locais únicos geram engajamento superior. A dependência do tráfego orgânico, embora demonstre qualidade SEO, limita o potencial de crescimento acelerado necessário para recuperar a meta mensal. É fundamental diversificar fontes de tráfego e acelerar a produção de conteúdo em tempo real. \"Recuperação de meta exige execução perfeita nos próximos 16 dias.\"",
+    "tendencias": ">>> Sabesp é vendida em meio a polêmica: entenda o que isso significa para o saneamento no ES\n--- Editoria: Economia\n--- Ângulo ES: Comparar com a situação do saneamento no Espírito Santo, explicar se o modelo de privatização poderia chegar ao estado e como isso afetaria as tarifas dos capixabas\n--- Por que performa: Trending topic com 1000+ buscas sobre a venda da Sabesp gerando debate nacional\n--- Tipo: Explicativo\n\n>>> Josimar Dias: ex-jogador do Botafogo que virou nome de goleiro de Cabo Verde tem passagem pelo ES\n--- Editoria: Esportes\n--- Ângulo ES: Relembrar a passagem de Josimar Dias por times capixabas ou conexões do futebol do ES com jogadores que viraram homenagem\n--- Por que performa: Trending topic com 500+ buscas sobre o goleiro com nome de ex-jogador do Botafogo\n--- Tipo: Notícia\n\n>>> Real Madrid contrata Cucurella: relembre outros espanhóis que já jogaram no futebol capixaba\n--- Editoria: Esportes\n--- Ângulo ES: Fazer retrospectiva de jogadores espanhóis que passaram por times do ES ou comparar com contratações internacionais dos clubes locais\n--- Por que performa: Trending topic com 500+ buscas sobre a contratação pelo Real Madrid\n--- Tipo: Lista\n\n>>> Apostas esportivas crescem no ES: saiba como funcionam plataformas como a Betfair\n--- Editoria: Esportes\n--- Ângulo ES: Mostrar dados sobre o crescimento das apostas esportivas no ES, regulamentação local e impactos na economia capixaba\n--- Por que performa: Trending topic com 1000+ buscas sobre a plataforma de apostas\n--- Tipo: Explicativo\n\n>>> Pedri e a nova geração do Barcelona: como o futebol de base do ES pode se espelhar no modelo catalão\n--- Editoria: Esportes\n--- Ângulo ES: Comparar as categorias de base do ES com o modelo Barcelona, usando Pedri como exemplo de formação bem-sucedida\n--- Por que performa: Trending topic com 500+ buscas sobre o jovem meio-campista espanhol\n--- Tipo: Análise\n\n>>> Copa do Mundo 2026: brasileiros naturalizados por outros países e a conexão com atletas do ES\n--- Editoria: Esportes\n--- Ângulo ES: Abordar casos de atletas nascidos no ES que representaram outros estados ou países, usando Laporte como gancho\n--- Por que performa: Trending topic sobre jogadores naturalizados na Copa de 2026\n--- Tipo: Explicativo\n\n>>> Vitória e outros times do ES: como se preparar para a temporada seguindo exemplo de grandes clubes\n--- Editoria: Esportes\n--- Ângulo ES: Usar as movimentações de times como Atlético de Madrid (Llorente) para analisar o planejamento dos clubes capixabas para 2025\n--- Por que performa: Trending topic sobre Marcos Llorente e movimentações do futebol espanhol\n--- Tipo: Análise\n\n>>> Jovens talentos do futebol: como Pau Cubarsí inspira a base do ES a sonhar com grandes clubes\n--- Editoria: Esportes\n--- Ângulo ES: Entrevistar jovens talentos das escolinhas e categorias de base do ES, usando Cubarsí como inspiração\n--- Por que performa: Trending topic sobre o jovem defensor do Barcelona\n--- Tipo: Serviço\n\n>>> Rodri, Bola de Ouro 2024: a vida simples do melhor jogador do mundo que inspira atletas capixabas\n--- Editoria: Esportes\n--- Ângulo ES: Mostrar como a simplicidade de Rodri pode inspirar jovens atletas do ES, com depoimentos de jogadores locais\n--- Por que performa: Trending topic sobre a vida pessoal do vencedor da Bola de Ouro\n--- Tipo: Notícia\n\n>>> Atlanta cresce como destino turístico: capixabas descobrem alternativa aos roteiros tradicionais nos EUA\n--- Editoria: Turismo\n--- Ângulo ES: Entrevistar agências de turismo do ES sobre o crescimento da procura por Atlanta, comparar preços com outros destinos americanos\n--- Por que performa: Trending topic sobre eventos e atrações em Atlanta\n--- Tipo: Serviço"
   },
   "tendencias": [
     {
-      "titulo": "gavi",
+      "titulo": "aymeric laporte",
+      "trafico": "200+",
+      "contexto": "How many Spain-born players are at the 2026 World Cup with other nations?"
+    },
+    {
+      "titulo": "pau cubarsí",
+      "trafico": "200+",
+      "contexto": "Pau Cubarsi talks facing Lionel Messi at World Cup 2026, new signing Anthony Gordon and Barcelona ta"
+    },
+    {
+      "titulo": "marcos llorente",
+      "trafico": "200+",
+      "contexto": "¿Cómo le afectará a Julián su protagonismo en el mercado durante el Mundial?"
+    },
+    {
+      "titulo": "atlanta",
+      "trafico": "200+",
+      "contexto": "Danie B&apos;s What&apos;s Happening In The ATL This Weekend"
+    },
+    {
+      "titulo": "sabesp",
       "trafico": "1000+",
-      "contexto": "Mundial 2026: ¿qué partidos se juegan hoy, 15 de junio? Horarios y enfrentamientos"
+      "contexto": "Em evento com Tarcísio, Haddad afirma que Sabesp foi vendida ‘em mesa de amigos’; já governador apoi"
     },
     {
-      "titulo": "ansu fati",
-      "trafico": "2000+",
-      "contexto": "How much is Barcelona’s buyback clause for Ansu Fati?"
+      "titulo": "rodri",
+      "trafico": "200+",
+      "contexto": "La vida personal de Rodri Hernández: su novia Laura, qué estudió y por qué no le gusta la fama"
     },
     {
-      "titulo": "ibge concurso",
+      "titulo": "josimar dias",
+      "trafico": "500+",
+      "contexto": "Goleiro de Cabo Verde tem nome em homenagem a ex-jogador do Botafogo; conheça"
+    },
+    {
+      "titulo": "marc cucurella",
+      "trafico": "500+",
+      "contexto": "Real Madrid anuncia a contratação de Cucurella"
+    },
+    {
+      "titulo": "pedri",
+      "trafico": "500+",
+      "contexto": "Tegueste, el pueblo que ya ha forjado a cuatro futbolistas profesionales: &quot;Pedri nos ha puesto "
+    },
+    {
+      "titulo": "betfair",
       "trafico": "1000+",
-      "contexto": "Concurso IBGE: edital de processo seletivo oferta 1,4 mil vagas"
-    },
-    {
-      "titulo": "tiquinho soares",
-      "trafico": "200+",
-      "contexto": "Fortaleza negocia contratação de atacante Tiquinho Soares, do Mirassol"
-    },
-    {
-      "titulo": "beatriz haddad maia",
-      "trafico": "2000+",
-      "contexto": "Bia volta a sofrer queda na WTA e tenta recuperação em Portugal"
-    },
-    {
-      "titulo": "yamal",
-      "trafico": "2000+",
-      "contexto": "Lamine Yamal disse não a Marrocos para jogar pela Espanha; entenda"
-    },
-    {
-      "titulo": "luiza brunet",
-      "trafico": "500+",
-      "contexto": "Brunet recupera foto com Ayrton Senna e Xuxa reage: &apos;Tudo e mais um pouco&apos;"
-    },
-    {
-      "titulo": "latam pass",
-      "trafico": "500+",
-      "contexto": "LATAM orienta passageiros sobre novo acesso viário ao Aeroporto de Congonhas"
-    },
-    {
-      "titulo": "eduardo moscovis",
-      "trafico": "200+",
-      "contexto": "Após morto-vivo, Eduardo Moscovis fará bígamo em nova novela da Globo"
-    },
-    {
-      "titulo": "leo dias",
-      "trafico": "200+",
-      "contexto": "O showbusiness no Brasil vive a sua maior crise pós-pandemia"
+      "contexto": "Betfair World Cup Offer: Get £50 in Free Bets When You Bet £10"
     }
   ]
 }
