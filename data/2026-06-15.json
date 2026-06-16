@@ -1,0 +1,399 @@
+{
+  "dataDisplay": "15/06/2026",
+  "geradoEm": "2026-06-16T09:18:17.501Z",
+  "pvTotal": 144744,
+  "pctMeta": 59,
+  "metaHoje": 246427,
+  "metaAmanha": 253206,
+  "saldoOntem": -101683,
+  "deficitOntem": 101683,
+  "metaDiaria": 200000,
+  "metaMensal": 6000000,
+  "usuarios": 57601,
+  "sessions": 90173,
+  "pgsPorSessao": "1.61",
+  "tempoMedio": "2min50s",
+  "pvManha": 42249,
+  "pvTarde": 51914,
+  "pvNoite": 42254,
+  "checkpoints": [
+    {
+      "label": "Até 11h",
+      "pv": 50576,
+      "meta": 60000,
+      "status": "ABAIXO"
+    },
+    {
+      "label": "Até 17h",
+      "pv": 102490,
+      "meta": 130000,
+      "status": "ABAIXO"
+    },
+    {
+      "label": "Até 21h",
+      "pv": 134927,
+      "meta": 246427,
+      "status": "MUITO ABAIXO"
+    }
+  ],
+  "producao": {
+    "disponivel": false
+  },
+  "topMaterias": [
+    {
+      "pos": 1,
+      "titulo": "Tempo vira no ES: alerta aponta risco de tempestade, ventania e até granizo",
+      "pv": 9198,
+      "publicadaHoje": false
+    },
+    {
+      "pos": 2,
+      "titulo": "Novo marco do transporte público muda gratuidade de tarifas",
+      "pv": 6436,
+      "publicadaHoje": false
+    },
+    {
+      "pos": 3,
+      "titulo": "Neymar: Bomba de Leo Dias agora sobre a Seleção Brasileira",
+      "pv": 5251,
+      "publicadaHoje": false
+    },
+    {
+      "pos": 4,
+      "titulo": "Sucesso: intérprete de Michael Jackson com 3 integrantes da banda do original",
+      "pv": 4059,
+      "publicadaHoje": false
+    },
+    {
+      "pos": 5,
+      "titulo": "Carlo Ancelotti manda recado à torcida após estreia",
+      "pv": 3050,
+      "publicadaHoje": false
+    }
+  ],
+  "piorDesempenho": [],
+  "editorias": [
+    {
+      "nome": "cultura",
+      "pvTotal": 16230,
+      "pvPublicadas": 0,
+      "publicadas": null,
+      "urlsAcessadas": 52,
+      "mediaCorreta": null
+    },
+    {
+      "nome": "transito",
+      "pvTotal": 13298,
+      "pvPublicadas": 0,
+      "publicadas": null,
+      "urlsAcessadas": 22,
+      "mediaCorreta": null
+    },
+    {
+      "nome": "tempo",
+      "pvTotal": 10988,
+      "pvPublicadas": 0,
+      "publicadas": null,
+      "urlsAcessadas": 7,
+      "mediaCorreta": null
+    },
+    {
+      "nome": "esportes",
+      "pvTotal": 10392,
+      "pvPublicadas": 0,
+      "publicadas": null,
+      "urlsAcessadas": 35,
+      "mediaCorreta": null
+    },
+    {
+      "nome": "social",
+      "pvTotal": 7384,
+      "pvPublicadas": 0,
+      "publicadas": null,
+      "urlsAcessadas": 15,
+      "mediaCorreta": null
+    },
+    {
+      "nome": "policia",
+      "pvTotal": 7097,
+      "pvPublicadas": 0,
+      "publicadas": null,
+      "urlsAcessadas": 35,
+      "mediaCorreta": null
+    },
+    {
+      "nome": "cotidiano",
+      "pvTotal": 2821,
+      "pvPublicadas": 0,
+      "publicadas": null,
+      "urlsAcessadas": 38,
+      "mediaCorreta": null
+    }
+  ],
+  "origens": [
+    {
+      "canal": "Google Orgânico",
+      "pv": 84000,
+      "pct": 58
+    },
+    {
+      "canal": "Direto",
+      "pv": 48571,
+      "pct": 34
+    },
+    {
+      "canal": "Social",
+      "pv": 7411,
+      "pct": 5
+    },
+    {
+      "canal": "Links externos",
+      "pv": 3155,
+      "pct": 2
+    },
+    {
+      "canal": "Não identificado",
+      "pv": 1331,
+      "pct": 1
+    },
+    {
+      "canal": "AI Assistant",
+      "pv": 149,
+      "pct": 0
+    },
+    {
+      "canal": "Paid Social",
+      "pv": 103,
+      "pct": 0
+    },
+    {
+      "canal": "YouTube",
+      "pv": 11,
+      "pct": 0
+    },
+    {
+      "canal": "E-mail",
+      "pv": 7,
+      "pct": 0
+    },
+    {
+      "canal": "Paid Other",
+      "pv": 4,
+      "pct": 0
+    },
+    {
+      "canal": "Cross-network",
+      "pv": 1,
+      "pct": 0
+    },
+    {
+      "canal": "Mobile Push Notifications",
+      "pv": 1,
+      "pct": 0
+    }
+  ],
+  "historico": {
+    "mediaMesmoDia": 217684,
+    "varMesmoDia": -34,
+    "media30": 163337,
+    "media30a": 203476,
+    "var30": -20,
+    "pvMesAtualAcum": 2201923,
+    "pvMesAntMesmoPer": 3296692,
+    "varMesAnt": -33,
+    "diasRestantes": 15,
+    "pvFaltaMes": 3798077,
+    "mediaNecessaria": 253206,
+    "mediaMensal": 6814068,
+    "melhorMes": {
+      "mes": "202507",
+      "pv": 13625154,
+      "label": "Jul/25"
+    },
+    "piorMes": {
+      "mes": "202502",
+      "pv": 4527477,
+      "label": "Fev/25"
+    },
+    "mensal": [
+      {
+        "mes": "202501",
+        "pv": 7245874,
+        "label": "Jan/25",
+        "atual": false
+      },
+      {
+        "mes": "202502",
+        "pv": 4527477,
+        "label": "Fev/25",
+        "atual": false
+      },
+      {
+        "mes": "202503",
+        "pv": 5367201,
+        "label": "Mar/25",
+        "atual": false
+      },
+      {
+        "mes": "202504",
+        "pv": 6945113,
+        "label": "Abr/25",
+        "atual": false
+      },
+      {
+        "mes": "202505",
+        "pv": 6591733,
+        "label": "Mai/25",
+        "atual": false
+      },
+      {
+        "mes": "202506",
+        "pv": 11659575,
+        "label": "Jun/25",
+        "atual": false
+      },
+      {
+        "mes": "202507",
+        "pv": 13625154,
+        "label": "Jul/25",
+        "atual": false
+      },
+      {
+        "mes": "202508",
+        "pv": 10001619,
+        "label": "Ago/25",
+        "atual": false
+      },
+      {
+        "mes": "202509",
+        "pv": 6679985,
+        "label": "Set/25",
+        "atual": false
+      },
+      {
+        "mes": "202510",
+        "pv": 5336318,
+        "label": "Out/25",
+        "atual": false
+      },
+      {
+        "mes": "202511",
+        "pv": 4564202,
+        "label": "Nov/25",
+        "atual": false
+      },
+      {
+        "mes": "202512",
+        "pv": 5524739,
+        "label": "Dez/25",
+        "atual": false
+      },
+      {
+        "mes": "202601",
+        "pv": 4978658,
+        "label": "Jan/26",
+        "atual": false
+      },
+      {
+        "mes": "202602",
+        "pv": 6402972,
+        "label": "Fev/26",
+        "atual": false
+      },
+      {
+        "mes": "202603",
+        "pv": 5172054,
+        "label": "Mar/26",
+        "atual": false
+      },
+      {
+        "mes": "202604",
+        "pv": 5076878,
+        "label": "Abr/26",
+        "atual": false
+      },
+      {
+        "mes": "202605",
+        "pv": 6139608,
+        "label": "Mai/26",
+        "atual": false
+      },
+      {
+        "mes": "202606",
+        "pv": 2201923,
+        "label": "Jun/26",
+        "atual": true
+      }
+    ]
+  },
+  "analises": {
+    "resumo": "",
+    "horarios": "",
+    "padrao": "",
+    "editorias": "",
+    "trafego": "",
+    "eficiencia": "",
+    "erros": "",
+    "oportunidades": "",
+    "acoes": "",
+    "metaacumulada": "",
+    "historicodia": "",
+    "historicomes": "",
+    "tendencia": "",
+    "alerta": "",
+    "licao": "",
+    "tendencias": ""
+  },
+  "tendencias": [
+    {
+      "titulo": "polícia rodoviária",
+      "trafico": "100+",
+      "contexto": "Polícia Rodoviária apreende quase 160 quilos de drogas em duas ocorrências no interior de SP"
+    },
+    {
+      "titulo": "jogos de ontem da copa do mundo",
+      "trafico": "10000+",
+      "contexto": "Jogos da Copa hoje, 16/06: França e Argentina estreiam em rodada bilionária; veja quanto cada seleçã"
+    },
+    {
+      "titulo": "defesa civil do estado de santa catarina",
+      "trafico": "200+",
+      "contexto": "Previsão para os próximos 5 dias (14/06)"
+    },
+    {
+      "titulo": "donald trump",
+      "trafico": "200+",
+      "contexto": "Quais os pontos ainda a esclarecer do acordo entre EUA e Irã"
+    },
+    {
+      "titulo": "lottery results today",
+      "trafico": "500+",
+      "contexto": "Powerball jackpot hits $269M. Monday&apos;s winning numbers"
+    },
+    {
+      "titulo": "stock market news today",
+      "trafico": "500+",
+      "contexto": "Oil prices hit three-month low — but tanker bosses remain cautious on Hormuz transit"
+    },
+    {
+      "titulo": "decentralized finance",
+      "trafico": "500+",
+      "contexto": "Standard Chartered says Uniswap&apos;s UNI token could surge 40x to $100 by 2030"
+    },
+    {
+      "titulo": "what is phishing",
+      "trafico": "500+",
+      "contexto": "What Is Phishing and How Do You Spot a Phishing Email Before You Click?"
+    },
+    {
+      "titulo": "latest earthquake near me",
+      "trafico": "500+",
+      "contexto": "2.4 magnitude earthquake recorded in Bel Air"
+    },
+    {
+      "titulo": "influencer marketing",
+      "trafico": "500+",
+      "contexto": "Residence Adds 360° Influencer Marketing Agency, GateMaker"
+    }
+  ]
+}
