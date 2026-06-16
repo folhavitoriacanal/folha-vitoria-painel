@@ -1,38 +1,38 @@
 {
-  "dataDisplay": "14/06/2026",
-  "geradoEm": "2026-06-15T16:19:27.878Z",
-  "pvTotal": 90521,
-  "pctMeta": 38,
-  "metaHoje": 237256,
-  "metaAmanha": 246427,
-  "saldoOntem": -146735,
-  "deficitOntem": 146735,
+  "dataDisplay": "15/06/2026",
+  "geradoEm": "2026-06-16T09:18:17.501Z",
+  "pvTotal": 144744,
+  "pctMeta": 59,
+  "metaHoje": 246427,
+  "metaAmanha": 253206,
+  "saldoOntem": -101683,
+  "deficitOntem": 101683,
   "metaDiaria": 200000,
   "metaMensal": 6000000,
-  "usuarios": 40272,
-  "sessions": 60082,
-  "pgsPorSessao": "1.51",
-  "tempoMedio": "2min01s",
-  "pvManha": 23508,
-  "pvTarde": 30300,
-  "pvNoite": 28578,
+  "usuarios": 57601,
+  "sessions": 90173,
+  "pgsPorSessao": "1.61",
+  "tempoMedio": "2min50s",
+  "pvManha": 42249,
+  "pvTarde": 51914,
+  "pvNoite": 42254,
   "checkpoints": [
     {
       "label": "Até 11h",
-      "pv": 31643,
+      "pv": 50576,
       "meta": 60000,
-      "status": "MUITO ABAIXO"
+      "status": "ABAIXO"
     },
     {
       "label": "Até 17h",
-      "pv": 61943,
+      "pv": 102490,
       "meta": 130000,
-      "status": "MUITO ABAIXO"
+      "status": "ABAIXO"
     },
     {
       "label": "Até 21h",
-      "pv": 83047,
-      "meta": 237256,
+      "pv": 134927,
+      "meta": 246427,
       "status": "MUITO ABAIXO"
     }
   ],
@@ -42,158 +42,168 @@
   "topMaterias": [
     {
       "pos": 1,
-      "titulo": "Qual é o caminho do Brasil até a final da Copa de 2026?",
-      "pv": 4668,
+      "titulo": "Tempo vira no ES: alerta aponta risco de tempestade, ventania e até granizo",
+      "pv": 9198,
       "publicadaHoje": false
     },
     {
       "pos": 2,
-      "titulo": "Semana começa com chuva no Espírito Santo; veja a previsão",
-      "pv": 3536,
+      "titulo": "Novo marco do transporte público muda gratuidade de tarifas",
+      "pv": 6436,
       "publicadaHoje": false
     },
     {
       "pos": 3,
-      "titulo": "Um inglês radicado no Centro se inspira na Vila Rubim para criar obras de arte",
-      "pv": 1740,
+      "titulo": "Neymar: Bomba de Leo Dias agora sobre a Seleção Brasileira",
+      "pv": 5251,
       "publicadaHoje": false
     },
     {
       "pos": 4,
-      "titulo": "Acidente entre motos deixa dois mortos e um ferido na Serra",
-      "pv": 1565,
+      "titulo": "Sucesso: intérprete de Michael Jackson com 3 integrantes da banda do original",
+      "pv": 4059,
       "publicadaHoje": false
     },
     {
       "pos": 5,
-      "titulo": "Verdadeiro luxo: Dorion Soares, o joalheiro que transforma gemas em arte de milhões",
-      "pv": 1534,
+      "titulo": "Carlo Ancelotti manda recado à torcida após estreia",
+      "pv": 3050,
       "publicadaHoje": false
     }
   ],
   "piorDesempenho": [],
   "editorias": [
     {
+      "nome": "cultura",
+      "pvTotal": 16230,
+      "pvPublicadas": 0,
+      "publicadas": null,
+      "urlsAcessadas": 52,
+      "mediaCorreta": null
+    },
+    {
+      "nome": "transito",
+      "pvTotal": 13298,
+      "pvPublicadas": 0,
+      "publicadas": null,
+      "urlsAcessadas": 22,
+      "mediaCorreta": null
+    },
+    {
+      "nome": "tempo",
+      "pvTotal": 10988,
+      "pvPublicadas": 0,
+      "publicadas": null,
+      "urlsAcessadas": 7,
+      "mediaCorreta": null
+    },
+    {
       "nome": "esportes",
-      "pvTotal": 9310,
-      "pvPublicadas": 0,
-      "publicadas": null,
-      "urlsAcessadas": 44,
-      "mediaCorreta": null
-    },
-    {
-      "nome": "policia",
-      "pvTotal": 7961,
-      "pvPublicadas": 0,
-      "publicadas": null,
-      "urlsAcessadas": 39,
-      "mediaCorreta": null
-    },
-    {
-      "nome": "cotidiano",
-      "pvTotal": 5807,
-      "pvPublicadas": 0,
-      "publicadas": null,
-      "urlsAcessadas": 37,
-      "mediaCorreta": null
-    },
-    {
-      "nome": "copa-do-mundo",
-      "pvTotal": 5189,
+      "pvTotal": 10392,
       "pvPublicadas": 0,
       "publicadas": null,
       "urlsAcessadas": 35,
       "mediaCorreta": null
     },
     {
-      "nome": "tempo",
-      "pvTotal": 3960,
-      "pvPublicadas": 0,
-      "publicadas": null,
-      "urlsAcessadas": 8,
-      "mediaCorreta": null
-    },
-    {
       "nome": "social",
-      "pvTotal": 3786,
+      "pvTotal": 7384,
       "pvPublicadas": 0,
       "publicadas": null,
-      "urlsAcessadas": 17,
+      "urlsAcessadas": 15,
       "mediaCorreta": null
     },
     {
-      "nome": "cultura",
-      "pvTotal": 3526,
+      "nome": "policia",
+      "pvTotal": 7097,
       "pvPublicadas": 0,
       "publicadas": null,
-      "urlsAcessadas": 51,
+      "urlsAcessadas": 35,
+      "mediaCorreta": null
+    },
+    {
+      "nome": "cotidiano",
+      "pvTotal": 2821,
+      "pvPublicadas": 0,
+      "publicadas": null,
+      "urlsAcessadas": 38,
       "mediaCorreta": null
     }
   ],
   "origens": [
     {
       "canal": "Google Orgânico",
-      "pv": 53192,
-      "pct": 59
+      "pv": 84000,
+      "pct": 58
     },
     {
       "canal": "Direto",
-      "pv": 29841,
-      "pct": 33
+      "pv": 48571,
+      "pct": 34
     },
     {
       "canal": "Social",
-      "pv": 4677,
+      "pv": 7411,
       "pct": 5
     },
     {
       "canal": "Links externos",
-      "pv": 2170,
+      "pv": 3155,
       "pct": 2
     },
     {
       "canal": "Não identificado",
-      "pv": 482,
+      "pv": 1331,
       "pct": 1
     },
     {
       "canal": "AI Assistant",
-      "pv": 94,
+      "pv": 149,
       "pct": 0
     },
     {
       "canal": "Paid Social",
-      "pv": 49,
-      "pct": 0
-    },
-    {
-      "canal": "Paid Other",
-      "pv": 10,
-      "pct": 0
-    },
-    {
-      "canal": "E-mail",
-      "pv": 3,
+      "pv": 103,
       "pct": 0
     },
     {
       "canal": "YouTube",
-      "pv": 3,
+      "pv": 11,
+      "pct": 0
+    },
+    {
+      "canal": "E-mail",
+      "pv": 7,
+      "pct": 0
+    },
+    {
+      "canal": "Paid Other",
+      "pv": 4,
+      "pct": 0
+    },
+    {
+      "canal": "Cross-network",
+      "pv": 1,
+      "pct": 0
+    },
+    {
+      "canal": "Mobile Push Notifications",
+      "pv": 1,
       "pct": 0
     }
   ],
   "historico": {
-    "mediaMesmoDia": 160403,
-    "varMesmoDia": -44,
+    "mediaMesmoDia": 217684,
+    "varMesmoDia": -34,
     "media30": 163337,
     "media30a": 203476,
     "var30": -20,
-    "pvMesAtualAcum": 2057179,
-    "pvMesAntMesmoPer": 3046914,
-    "varMesAnt": -32,
-    "diasRestantes": 16,
-    "pvFaltaMes": 3942821,
-    "mediaNecessaria": 246427,
+    "pvMesAtualAcum": 2201923,
+    "pvMesAntMesmoPer": 3296692,
+    "varMesAnt": -33,
+    "diasRestantes": 15,
+    "pvFaltaMes": 3798077,
+    "mediaNecessaria": 253206,
     "mediaMensal": 6814068,
     "melhorMes": {
       "mes": "202507",
@@ -310,80 +320,80 @@
       },
       {
         "mes": "202606",
-        "pv": 2057179,
+        "pv": 2201923,
         "label": "Jun/26",
         "atual": true
       }
     ]
   },
   "analises": {
-    "resumo": "O dia 14 de junho registrou 90.521 page views contra meta de 237.256, resultando em deficit de 146.735 (-62%). A distribuição horária mostrou equilíbrio entre tarde (30.300), noite (28.578) e manhã (23.508). Todos os checkpoints ficaram muito abaixo das expectativas, com o pior desempenho até 11h (31.643 vs 60.000). O resultado compromete gravemente o cumprimento da meta mensal de 6 milhões.",
-    "horarios": ">>> Manhã (6h-11h): 23.508 PVs, representando 26% do total diário\n>>> Tarde (12h-17h): 30.300 PVs, melhor período com 33% da audiência\n>>> Noite (18h-23h): 28.578 PVs, mantendo engajamento com 32% do total\n>>> Checkpoint 11h: 31.643 vs meta 60.000 (47% de deficit)\n>>> Checkpoint 17h: 61.943 vs meta 130.000 (52% de deficit)\n>>> Checkpoint 21h: 83.047 vs meta 237.256 (65% de deficit)",
-    "padrao": ">>> Copa do Mundo dominou com matéria sobre caminho do Brasil (4.668 PVs)\n>>> Tempo/clima manteve relevância com previsão semanal (3.536 PVs)\n>>> Cultura local gerou interesse com perfil de inglês na Vila Rubim (1.740 PVs)\n>>> Polícia teve destaque com acidente fatal na Serra (1.565 PVs)\n>>> Social/luxo atraiu audiência com perfil de joalheiro (1.534 PVs)",
-    "editorias": ">>> Esportes: 212 PVs por URL (9.310 total / 44 URLs)\n>>> Polícia: 204 PVs por URL (7.961 total / 39 URLs)  \n>>> Cotidiano: 157 PVs por URL (5.807 total / 37 URLs)\n>>> Copa do Mundo: 148 PVs por URL (5.189 total / 35 URLs)\n>>> Tempo: 495 PVs por URL (3.960 total / 8 URLs) - maior eficiência\n>>> Social: 223 PVs por URL (3.786 total / 17 URLs)\n>>> Cultura: 69 PVs por URL (3.526 total / 51 URLs) - menor eficiência",
-    "trafego": ">>> Google Orgânico mantém dominância com 59% (53.192 PVs), indicando boa otimização SEO\n>>> Tráfego direto forte com 33% (29.841 PVs), demonstrando fidelidade da audiência\n>>> Redes sociais com apenas 5% (4.677 PVs), sugerindo baixo engajamento social\n>>> Links externos limitados a 2% (2.170 PVs), indicando pouca viralização\n>>> Tráfego pago praticamente inexistente (0,02%), mostrando dependência orgânica total",
-    "eficiencia": "Média real por matéria: Dados indisponíveis devido a problemas no sitemap. Análise de eficiência editorial comprometida. Necessário resolver questões técnicas para monitoramento adequado da produção.",
-    "erros": ">>> Sitemap indisponível impedindo análise de eficiência editorial\n>>> Meta diária não alcançada em nenhum checkpoint do dia\n>>> Dependência excessiva de matérias antigas no ranking\n>>> Baixíssimo investimento em tráfego pago limitando crescimento",
-    "oportunidades": ">>> Copa do Mundo gera alto interesse - explorar mais conteúdos relacionados\n>>> Perfis locais (Vila Rubim, joalheiro) têm potencial - criar série\n>>> Tempo/clima sempre relevante - automatizar atualizações\n>>> Tráfego direto alto indica marca forte - investir em newsletter\n>>> Google Orgânico performando bem - intensificar SEO em tempo real",
-    "acoes": ">>> Resolver problema do sitemap com TI antes das 8h\n>>> Produzir 3 matérias sobre Copa focando seleção brasileira\n>>> Criar alerta meteorológico para próxima semana\n>>> Reforçar plantão policial para cobrir ocorrências em tempo real\n>>> Programar push notifications nos horários de pico (12h, 18h, 20h)",
-    "metaacumulada": "A meta diária de 237.256 foi calculada dividindo o restante necessário para atingir 6 milhões mensais pelos dias restantes. Com acumulado de 2.057.179, faltam 3.942.821 para a meta mensal. A meta de amanhã sobe para 246.427, refletindo a necessidade de compensar o deficit de hoje. Cada dia sem atingir a meta aumenta a pressão sobre os dias seguintes.",
-    "historicodia": ">>> Hoje: 90.521 vs média mesmo dia semana: 160.403 (-44%)\n>>> Variação negativa de 69.882 PVs comparado ao padrão semanal\n>>> Média 30 dias: 163.337 vs hoje: 90.521 (-45%)",
-    "historicomes": ">>> Acumulado junho: 2.057.179 vs maio mesmo período: 3.046.914 (-32%)\n>>> Projeção mensal atual: 4.115.358 (68% da meta de 6 milhões)\n>>> Necessário média de 246.426 nos próximos 16 dias",
-    "tendencia": "Tendência de 30 dias mostra queda de 20% comparado aos 30 dias anteriores. Melhor mês foi julho/2025 com 13.625.154 PVs. Pior mês foi fevereiro/2025 com 4.527.477 PVs, indicando que junho pode se aproximar do pior desempenho histórico se não houver reversão imediata.",
-    "alerta": "\"Meta mensal de 6 milhões em risco crítico - necessário atingir 246.427 PVs diários nos próximos 16 dias consecutivos\"",
-    "licao": "A audiência hoje demonstrou que conteúdo sobre Copa do Mundo e perfis locais únicos geram engajamento superior. A dependência do tráfego orgânico, embora demonstre qualidade SEO, limita o potencial de crescimento acelerado necessário para recuperar a meta mensal. É fundamental diversificar fontes de tráfego e acelerar a produção de conteúdo em tempo real. \"Recuperação de meta exige execução perfeita nos próximos 16 dias.\"",
-    "tendencias": ">>> Sabesp é vendida em meio a polêmica: entenda o que isso significa para o saneamento no ES\n--- Editoria: Economia\n--- Ângulo ES: Comparar com a situação do saneamento no Espírito Santo, explicar se o modelo de privatização poderia chegar ao estado e como isso afetaria as tarifas dos capixabas\n--- Por que performa: Trending topic com 1000+ buscas sobre a venda da Sabesp gerando debate nacional\n--- Tipo: Explicativo\n\n>>> Josimar Dias: ex-jogador do Botafogo que virou nome de goleiro de Cabo Verde tem passagem pelo ES\n--- Editoria: Esportes\n--- Ângulo ES: Relembrar a passagem de Josimar Dias por times capixabas ou conexões do futebol do ES com jogadores que viraram homenagem\n--- Por que performa: Trending topic com 500+ buscas sobre o goleiro com nome de ex-jogador do Botafogo\n--- Tipo: Notícia\n\n>>> Real Madrid contrata Cucurella: relembre outros espanhóis que já jogaram no futebol capixaba\n--- Editoria: Esportes\n--- Ângulo ES: Fazer retrospectiva de jogadores espanhóis que passaram por times do ES ou comparar com contratações internacionais dos clubes locais\n--- Por que performa: Trending topic com 500+ buscas sobre a contratação pelo Real Madrid\n--- Tipo: Lista\n\n>>> Apostas esportivas crescem no ES: saiba como funcionam plataformas como a Betfair\n--- Editoria: Esportes\n--- Ângulo ES: Mostrar dados sobre o crescimento das apostas esportivas no ES, regulamentação local e impactos na economia capixaba\n--- Por que performa: Trending topic com 1000+ buscas sobre a plataforma de apostas\n--- Tipo: Explicativo\n\n>>> Pedri e a nova geração do Barcelona: como o futebol de base do ES pode se espelhar no modelo catalão\n--- Editoria: Esportes\n--- Ângulo ES: Comparar as categorias de base do ES com o modelo Barcelona, usando Pedri como exemplo de formação bem-sucedida\n--- Por que performa: Trending topic com 500+ buscas sobre o jovem meio-campista espanhol\n--- Tipo: Análise\n\n>>> Copa do Mundo 2026: brasileiros naturalizados por outros países e a conexão com atletas do ES\n--- Editoria: Esportes\n--- Ângulo ES: Abordar casos de atletas nascidos no ES que representaram outros estados ou países, usando Laporte como gancho\n--- Por que performa: Trending topic sobre jogadores naturalizados na Copa de 2026\n--- Tipo: Explicativo\n\n>>> Vitória e outros times do ES: como se preparar para a temporada seguindo exemplo de grandes clubes\n--- Editoria: Esportes\n--- Ângulo ES: Usar as movimentações de times como Atlético de Madrid (Llorente) para analisar o planejamento dos clubes capixabas para 2025\n--- Por que performa: Trending topic sobre Marcos Llorente e movimentações do futebol espanhol\n--- Tipo: Análise\n\n>>> Jovens talentos do futebol: como Pau Cubarsí inspira a base do ES a sonhar com grandes clubes\n--- Editoria: Esportes\n--- Ângulo ES: Entrevistar jovens talentos das escolinhas e categorias de base do ES, usando Cubarsí como inspiração\n--- Por que performa: Trending topic sobre o jovem defensor do Barcelona\n--- Tipo: Serviço\n\n>>> Rodri, Bola de Ouro 2024: a vida simples do melhor jogador do mundo que inspira atletas capixabas\n--- Editoria: Esportes\n--- Ângulo ES: Mostrar como a simplicidade de Rodri pode inspirar jovens atletas do ES, com depoimentos de jogadores locais\n--- Por que performa: Trending topic sobre a vida pessoal do vencedor da Bola de Ouro\n--- Tipo: Notícia\n\n>>> Atlanta cresce como destino turístico: capixabas descobrem alternativa aos roteiros tradicionais nos EUA\n--- Editoria: Turismo\n--- Ângulo ES: Entrevistar agências de turismo do ES sobre o crescimento da procura por Atlanta, comparar preços com outros destinos americanos\n--- Por que performa: Trending topic sobre eventos e atrações em Atlanta\n--- Tipo: Serviço"
+    "resumo": "",
+    "horarios": "",
+    "padrao": "",
+    "editorias": "",
+    "trafego": "",
+    "eficiencia": "",
+    "erros": "",
+    "oportunidades": "",
+    "acoes": "",
+    "metaacumulada": "",
+    "historicodia": "",
+    "historicomes": "",
+    "tendencia": "",
+    "alerta": "",
+    "licao": "",
+    "tendencias": ""
   },
   "tendencias": [
     {
-      "titulo": "aymeric laporte",
+      "titulo": "polícia rodoviária",
+      "trafico": "100+",
+      "contexto": "Polícia Rodoviária apreende quase 160 quilos de drogas em duas ocorrências no interior de SP"
+    },
+    {
+      "titulo": "jogos de ontem da copa do mundo",
+      "trafico": "10000+",
+      "contexto": "Jogos da Copa hoje, 16/06: França e Argentina estreiam em rodada bilionária; veja quanto cada seleçã"
+    },
+    {
+      "titulo": "defesa civil do estado de santa catarina",
       "trafico": "200+",
-      "contexto": "How many Spain-born players are at the 2026 World Cup with other nations?"
+      "contexto": "Previsão para os próximos 5 dias (14/06)"
     },
     {
-      "titulo": "pau cubarsí",
+      "titulo": "donald trump",
       "trafico": "200+",
-      "contexto": "Pau Cubarsi talks facing Lionel Messi at World Cup 2026, new signing Anthony Gordon and Barcelona ta"
+      "contexto": "Quais os pontos ainda a esclarecer do acordo entre EUA e Irã"
     },
     {
-      "titulo": "marcos llorente",
-      "trafico": "200+",
-      "contexto": "¿Cómo le afectará a Julián su protagonismo en el mercado durante el Mundial?"
-    },
-    {
-      "titulo": "atlanta",
-      "trafico": "200+",
-      "contexto": "Danie B&apos;s What&apos;s Happening In The ATL This Weekend"
-    },
-    {
-      "titulo": "sabesp",
-      "trafico": "1000+",
-      "contexto": "Em evento com Tarcísio, Haddad afirma que Sabesp foi vendida ‘em mesa de amigos’; já governador apoi"
-    },
-    {
-      "titulo": "rodri",
-      "trafico": "200+",
-      "contexto": "La vida personal de Rodri Hernández: su novia Laura, qué estudió y por qué no le gusta la fama"
-    },
-    {
-      "titulo": "josimar dias",
+      "titulo": "lottery results today",
       "trafico": "500+",
-      "contexto": "Goleiro de Cabo Verde tem nome em homenagem a ex-jogador do Botafogo; conheça"
+      "contexto": "Powerball jackpot hits $269M. Monday&apos;s winning numbers"
     },
     {
-      "titulo": "marc cucurella",
+      "titulo": "stock market news today",
       "trafico": "500+",
-      "contexto": "Real Madrid anuncia a contratação de Cucurella"
+      "contexto": "Oil prices hit three-month low — but tanker bosses remain cautious on Hormuz transit"
     },
     {
-      "titulo": "pedri",
+      "titulo": "decentralized finance",
       "trafico": "500+",
-      "contexto": "Tegueste, el pueblo que ya ha forjado a cuatro futbolistas profesionales: &quot;Pedri nos ha puesto "
+      "contexto": "Standard Chartered says Uniswap&apos;s UNI token could surge 40x to $100 by 2030"
     },
     {
-      "titulo": "betfair",
-      "trafico": "1000+",
-      "contexto": "Betfair World Cup Offer: Get £50 in Free Bets When You Bet £10"
+      "titulo": "what is phishing",
+      "trafico": "500+",
+      "contexto": "What Is Phishing and How Do You Spot a Phishing Email Before You Click?"
+    },
+    {
+      "titulo": "latest earthquake near me",
+      "trafico": "500+",
+      "contexto": "2.4 magnitude earthquake recorded in Bel Air"
+    },
+    {
+      "titulo": "influencer marketing",
+      "trafico": "500+",
+      "contexto": "Residence Adds 360° Influencer Marketing Agency, GateMaker"
     }
   ]
 }
